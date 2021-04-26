@@ -1,0 +1,16 @@
+[
+  {
+    "UserName": "Apple Inc. MacBookAir8,1",
+    "Level": 18,
+    "Coins": 3330,
+    "Region": "PH",
+    "Notes": ""
+  },
+  {
+    "UserName": "Apple Inc. MacBookAir8,1",
+    "Level": 18,
+    "Coins": 3330,
+    "Region": "PH",
+    "Notes": ""
+  }
+]
