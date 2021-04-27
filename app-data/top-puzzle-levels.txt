@@ -4,6 +4,7 @@
     "Id": "ggyuy65708709559597595",
     "Level": 1453,
     "Coins": 68600,
+    "TotalAttempts": 68600,
     "Region": "Unknown",
     "Join":false,
     "Notes": ""
@@ -13,6 +14,7 @@
     "Id": "d9dc4002-4111-4123-a2b8-53ea2b8f8b88",
     "Level": 18,
     "Coins": 3330,
+    "TotalAttempts": 18,
     "Region": "FR",
     "Join":false,
     "Notes": ""
@@ -22,6 +24,7 @@
     "Id": "ggyuy65708709559597595jjjj",
     "Level": 105,
     "Coins": 3830,
+    "TotalAttempts": 105,
     "Region": "UK",
     "Join":false,
     "Notes": ""
