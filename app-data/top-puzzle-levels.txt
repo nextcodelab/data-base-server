@@ -2,7 +2,7 @@
   {
     "UserName": "Dell Inc. XPS 8910",
     "Id": "ggyuy65708709559597595",
-    "Level": 1453,
+    "Level": 1467,
     "Coins": 68600,
     "TotalAttempts": 68600,
     "Region": "Unknown",
