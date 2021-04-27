@@ -1,23 +1,29 @@
 [
   {
     "UserName": "Dell Inc. XPS 8910",
+    "Id": "ggyuy65708709559597595",
     "Level": 1453,
     "Coins": 68600,
     "Region": "Unknown",
+    "Join":false,
     "Notes": ""
   },
   {
     "UserName": "Apple Inc. MacBookAir8,1",
+    "Id": "d9dc4002-4111-4123-a2b8-53ea2b8f8b88",
     "Level": 18,
     "Coins": 3330,
     "Region": "FR",
+    "Join":false,
     "Notes": ""
   },
   {
     "UserName": "Apple Inc. MacBookAir8,1",
+    "Id": "ggyuy65708709559597595jjjj",
     "Level": 105,
     "Coins": 3830,
     "Region": "UK",
+    "Join":false,
     "Notes": ""
   }
 ]
