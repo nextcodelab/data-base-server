@@ -20,12 +20,12 @@
     "Notes": ""
   },
   {
-    "UserName": "Apple Inc. MacBookAir8,1",
+    "UserName": "LENOVO 81H5",
     "Id": "ggyuy65708709559597595jjjj",
-    "Level": 105,
-    "Coins": 3830,
-    "TotalAttempts": 105,
-    "Region": "UK",
+    "Level": 27,
+    "Coins": 1690,
+    "TotalAttempts": 30,
+    "Region": "FR",
     "Join":false,
     "Notes": ""
   }
