@@ -1,1 +1,32 @@
-
+[
+    {
+        "Id": 0,
+        "UniqueId": "a3fad456-f44c-41c1-909c-21ac4b8c2662",
+        "Title": "Main Dish"
+    },
+    {
+        "Id": 1,
+        "UniqueId": "52f82c82-97e6-4c9d-a3da-5c6a0fe3564b",
+        "Title": "Breakfast"
+    },
+    {
+        "Id": 2,
+        "UniqueId": "0c21bcd3-3323-4bf8-9482-b609e4cd51d6",
+        "Title": "Lunch"
+    },
+    {
+        "Id": 3,
+        "UniqueId": "c850326c-8230-49bc-8593-382944614526",
+        "Title": "Beverages"
+    },
+    {
+        "Id": 4,
+        "UniqueId": "db569164-3897-40e7-8602-fa0ceb43fb86",
+        "Title": "Appetizers"
+    },
+    {
+        "Id": 5,
+        "UniqueId": "151b4448-7423-4c7a-879f-844259dda373",
+        "Title": "Soups"
+    }
+]
