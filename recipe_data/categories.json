@@ -1,32 +1,67 @@
 [
-    {
-        "Id": 0,
-        "UniqueId": "a3fad456-f44c-41c1-909c-21ac4b8c2662",
-        "Title": "Main Dish"
-    },
-    {
-        "Id": 1,
-        "UniqueId": "52f82c82-97e6-4c9d-a3da-5c6a0fe3564b",
-        "Title": "Breakfast"
-    },
-    {
-        "Id": 2,
-        "UniqueId": "0c21bcd3-3323-4bf8-9482-b609e4cd51d6",
-        "Title": "Lunch"
-    },
-    {
-        "Id": 3,
-        "UniqueId": "c850326c-8230-49bc-8593-382944614526",
-        "Title": "Beverages"
-    },
-    {
-        "Id": 4,
-        "UniqueId": "db569164-3897-40e7-8602-fa0ceb43fb86",
-        "Title": "Appetizers"
-    },
-    {
-        "Id": 5,
-        "UniqueId": "151b4448-7423-4c7a-879f-844259dda373",
-        "Title": "Soups"
-    }
+  {
+    "Id": 0,
+    "UniqueId": "7f95fb58-8ff5-4117-948e-b8de3021d26d",
+    "Title": "Main Dish"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "939e2159-49f6-4fd5-8603-7642d22395b4",
+    "Title": "Breakfast"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "08ec0a0e-d641-4193-91dc-a93cc88a475e",
+    "Title": "Lunch"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "bf604c4a-4126-484d-b78a-0d3b51427a0d",
+    "Title": "Beverages"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "ff018d08-72f7-449b-b52e-54920f5ab0b4",
+    "Title": "Appetizers"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "c76bdd51-7029-4df1-917e-f7cd069fbbbe",
+    "Title": "Soups"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "6c2646d7-c913-4bad-af7a-d10965d3114c",
+    "Title": "Mains"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "27593eda-b0bc-4cd8-a74c-bc7b87d8eb6f",
+    "Title": "Desserts"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "dcaeec8c-7e39-4e98-bed2-02a4dad7cffb",
+    "Title": "Salads"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "2021b1ec-facb-4845-a6fb-80f30360fbb0",
+    "Title": "Breads"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "d6e48840-9496-4088-bf05-8dd1c338bda7",
+    "Title": "Breakfasts"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "103f2467-adf1-4a7d-a261-a37aae398845",
+    "Title": "Drinks"
+  },
+  {
+    "Id": 0,
+    "UniqueId": "9184a4eb-399e-4756-8794-288bd234ec56",
+    "Title": "Sides"
+  }
 ]
