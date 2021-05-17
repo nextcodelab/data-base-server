@@ -1,8 +1,14 @@
-
-[
-    {
-        "Email": "sample_email@gmail.com",
-        "Id": "hshhdfjkgjjkfhjjfhlhlj",
-        "Notes": null
-    }   
-]
+{
+    "Name": "kk",
+    "AndroidLink": "jj",
+    "iOSLink": "j",
+    "Notes": "kk",
+    "Instructions": "kk",
+    "UserInfos": [
+        {
+            "Email": "ajko",
+            "Id": "ojpkpl",
+            "Notes": "kk"
+        }
+    ]
+}
