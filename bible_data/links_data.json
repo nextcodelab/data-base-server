@@ -331,5 +331,14 @@
     "FileName": "RNKSV, Revised New Korean Standard Version (Korean).sqlite3",
     "FileSize": 0.0,
     "Path": "https://www.multcloud.com/action/share!downloadShare?drives.cloudType=cWcD2fKmG9srnChl%2FPrMVg%3D%3D&drives.tokenId=5ead50fa78694e81aafe22288c0d9801&drives.fileId=nkIY5bS8HCcKWt1AiBSFIw%3D%3D&drives.fileName=RNKSV%2C%20Revised%20New%20Korean%20Standard%20Version%20(Korean).sqlite3&drives.fileSize=18886656&shareId=c796d4f7-5df4-4299-8350-479f1a494f54"
+  },
+  {
+    "Id": 38,
+    "Language": "English",
+    "LanguageCode": "en",
+    "Title": "ISV,International Standard Version (English)",
+    "FileName": "ISV,International Standard Version (English).sqlite3",
+    "FileSize": 23.8,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ISV%2CInternational%20Standard%20Version%20(English).sqlite3"
   }
 ]
