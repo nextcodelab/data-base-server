@@ -32,7 +32,7 @@
     "LanguageCode": "ar",
     "Title": "ALAB, Arabic Life Application Bible(Arabic)",
     "FileName": "ALAB, Arabic Life Application Bible(Arabic).sqlite3",
-    "FileSize": 0.0,
+    "FileSize": 21.7,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ALAB%2C%20Arabic%20Life%20Application%20Bible%20(Arabic).sqlite3"
   },
   {
@@ -41,7 +41,7 @@
     "LanguageCode": "ar",
     "Title": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic)",
     "FileName": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic).sqlite3",
-    "FileSize": 0.0,
+    "FileSize": 16.6,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AVDDV%2C%20New%20Van%20Dyck%20Bible%20Reduced%20Vocalization%20with%20Helps%20(Arabic).sqlite3"
   },
   {
@@ -50,7 +50,7 @@
     "LanguageCode": "ar",
     "Title": "ERVAR, Easy-to-Read Version (Arabic)",
     "FileName": "ERVAR, Easy-to-Read Version (Arabic).sqlite3",
-    "FileSize": 0.0,
+    "FileSize": 23.7,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ERVAR%2C%20Easy-to-Read%20Version%20(Arabic).sqlite3"
   },
   {
@@ -77,8 +77,8 @@
     "LanguageCode": "ceb",
     "Title": "APSD, Ang Pulong Sa Dios (Cebuano)",
     "FileName": "APSD, Ang Pulong Sa Dios (Cebuano).sqlite3",
-    "FileSize": 0.0,
-    "Path": "https://www.multcloud.com/action/share!downloadShare?drives.cloudType=ZHoFoxZkJQYQvis3bOgSGw%3D%3D&drives.tokenId=5ead50fa78694e81aafe22288c0d9801&drives.fileId=GkMqC08%2FodnP%2BFbb0Pe0XA%3D%3D&drives.fileName=APSD%2C%20Ang%20Pulong%20Sa%20Dios%20(Cebuano).sqlite3&drives.fileSize=4489216&shareId=715674e6-153b-4122-af1b-b3d29251fa54"
+    "FileSize": 4.28,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/APSD%2C%20Ang%20Pulong%20Sa%20Dios%20(Cebuano).sqlite3"
   },
   {
     "Id": 9,
