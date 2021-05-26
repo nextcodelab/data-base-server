@@ -6,7 +6,7 @@
     "Title": "SND,Ang Salita ng Diyos (Tagalog)",
     "FileName": "SND,Ang Salita ng Diyos (Tagalog).sqlite3",
     "FileSize": 13.4,
-    "Path": "https://www.multcloud.com/action/share!downloadShare?drives.cloudType=J4vbLM29Ec7AUcnd7fr18Q%3D%3D&drives.tokenId=5ead50fa78694e81aafe22288c0d9801&drives.fileId=ykKaNfwhJDC0Ysy3fiKJIw%3D%3D&drives.fileName=SND%2CAng%20Salita%20ng%20Diyos%20(Tagalog).sqlite3&drives.fileSize=4033536&shareId=0ece9988-c780-4e4e-9165-59884aec5834"
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/SND%2CAng%20Salita%20ng%20Diyos%20(Tagalog).sqlite3"
   },
   {
     "Id": 2,
@@ -42,7 +42,7 @@
     "Title": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic)",
     "FileName": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic).sqlite3",
     "FileSize": 0.0,
-    "Path": "https://www.multcloud.com/action/share!downloadShare?drives.cloudType=GoXj7Itj9sgWQXdS%2FggNlQ%3D%3D&drives.tokenId=5ead50fa78694e81aafe22288c0d9801&drives.fileId=nPUfj8ghZRIURB6Wz7JG1Q%3D%3D&drives.fileName=AVDDV%2C%20New%20Van%20Dyck%20Bible%20Reduced%20Vocalization%20with%20Helps%20(Arabic).sqlite3&drives.fileSize=17455104&shareId=10c4dabb-ad36-4763-ac2a-5515192d3e09"
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AVDDV%2C%20New%20Van%20Dyck%20Bible%20Reduced%20Vocalization%20with%20Helps%20(Arabic).sqlite3"
   },
   {
     "Id": 6,
@@ -51,7 +51,7 @@
     "Title": "ERVAR, Easy-to-Read Version (Arabic)",
     "FileName": "ERVAR, Easy-to-Read Version (Arabic).sqlite3",
     "FileSize": 0.0,
-    "Path": "https://www.multcloud.com/action/share!downloadShare?drives.cloudType=6dPqyZKW167JClr31MtBHQ%3D%3D&drives.tokenId=5ead50fa78694e81aafe22288c0d9801&drives.fileId=43SVWDnnDxdfDLIJDmZUbg%3D%3D&drives.fileName=ERVAR%2C%20Easy-to-Read%20Version%20(Arabic).sqlite3&drives.fileSize=24879104&shareId=301dd448-3720-4055-8793-5884b65f4ff6"
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ERVAR%2C%20Easy-to-Read%20Version%20(Arabic).sqlite3"
   },
   {
     "Id": 7,
@@ -59,8 +59,8 @@
     "LanguageCode": "ar",
     "Title": "NAV, Ketab El Hayat (Arabic)",
     "FileName": "NAV, Ketab El Hayat (Arabic).sqlite3",
-    "FileSize": 0.0,
-    "Path": "https://www.multcloud.com/action/share!downloadShare?drives.cloudType=8pVWx7FCr482ame37VR5SQ%3D%3D&drives.tokenId=5ead50fa78694e81aafe22288c0d9801&drives.fileId=wUSQB0DW9g5bP1iqlYUG8A%3D%3D&drives.fileName=NAV%2C%20Ketab%20El%20Hayat%20(Arabic).sqlite3&drives.fileSize=23001088&shareId=ace83db8-a480-4336-9d3c-a6bf037c0dea"
+    "FileSize": 21.9,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NAV%2C%20Ketab%20El%20Hayat%20(Arabic).sqlite3"
   },
   {
     "Id": 9,
