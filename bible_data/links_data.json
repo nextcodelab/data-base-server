@@ -340,5 +340,14 @@
     "FileName": "ISV,International Standard Version (English).sqlite3",
     "FileSize": 23.8,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ISV%2CInternational%20Standard%20Version%20(English).sqlite3"
+  },
+   {
+    "Id": 39,
+    "Language": "English",
+    "LanguageCode": "en",
+    "Title": "KJV, King James Version (English)",
+    "FileName": "KJV, King James Version (English).sqlite3",
+    "FileSize": 13.6,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/KJV%2C%20King%20James%20Version%20(English).sqlite3"
   }
 ]
