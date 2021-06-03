@@ -430,5 +430,14 @@
     "FileName": "ERVOR, Oriya Bible Easy-to-Read Version.sqlite3",
     "FileSize": 34.67,
     "Path": "https://onedrive.live.com/embed?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100821&authkey=AF5nmC42-0MyHGs"
+  },
+  {
+    "Id": 49,
+    "Language": "Portuguese",
+    "LanguageCode": "pt",
+    "Title": "ARC09, Edição Revista e Corrigida de João Ferreira de Almeida",
+    "FileName": "ARC09, Edição Revista e Corrigida de João Ferreira de Almeida.sqlite3",
+    "FileSize": 12.8,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ARC09%2C%20Edi%C3%A7%C3%A3o%20Revista%20e%20Corrigida%20de%20Jo%C3%A3o%20Ferreira%20de%20Almeida.sqlite3"
   }
 ]
