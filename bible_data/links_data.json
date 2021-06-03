@@ -367,5 +367,14 @@
     "FileName": "SND12, IsiNdebele 2012 Translation.sqlite3",
     "FileSize": 14.6,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/SND12%2C%20IsiNdebele%202012%20Translation.sqlite3"
+  },
+  {
+    "Id": 42,
+    "Language": "Burmese",
+    "LanguageCode": "my",
+    "Title": "BJB, Judson Bible",
+    "FileName": "BJB, Judson Bible.sqlite3",
+    "FileSize": 30.8,
+    "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100819&authkey=AP6An_QSDj9-RrA"
   }
 ]
