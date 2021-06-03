@@ -439,5 +439,14 @@
     "FileName": "ARC09, Edição Revista e Corrigida de João Ferreira de Almeida.sqlite3",
     "FileSize": 12.8,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ARC09%2C%20Edi%C3%A7%C3%A3o%20Revista%20e%20Corrigida%20de%20Jo%C3%A3o%20Ferreira%20de%20Almeida.sqlite3"
+  },
+  {
+    "Id": 50,
+    "Language": "Chinese (PRC)",
+    "LanguageCode": "zh-cn",
+    "Title": "CCB, Chinese Contemporary Bible",
+    "FileName": "CCB, Chinese Contemporary Bible.sqlite3",
+    "FileSize": 11.3,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CCB%2C%20Chinese%20Contemporary%20Bible.sqlite3"
   }
 ]
