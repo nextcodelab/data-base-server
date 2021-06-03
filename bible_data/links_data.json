@@ -412,5 +412,14 @@
     "FileName": "DNB1930, Det Norsk Bibelselskap 1930.sqlite3",
     "FileSize": 13.3,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/DNB1930%2C%20Det%20Norsk%20Bibelselskap%201930.sqlite3"
+  },
+  {
+    "Id": 47,
+    "Language": "Northern Sotho",
+    "LanguageCode": "ns",
+    "Title": "NSO00, BIBELE Taba yea Botse",
+    "FileName": "NSO00, BIBELE Taba yea Botse.sqlite3",
+    "FileSize": 14.5,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NSO00%2C%20BIBELE%20Taba%20yea%20Botse.sqlite3"
   }
 ]
