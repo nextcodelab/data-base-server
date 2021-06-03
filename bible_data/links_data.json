@@ -403,5 +403,14 @@
     "FileName": "HTB, Het Boek.sqlite3",
     "FileSize": 13,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/HTB%2C%20Het%20Boek.sqlite3"
+  },
+   {
+    "Id": 46,
+    "Language": "Norwegian",
+    "LanguageCode": "no",
+    "Title": "DNB1930, Det Norsk Bibelselskap 1930",
+    "FileName": "DNB1930, Det Norsk Bibelselskap 1930.sqlite3",
+    "FileSize": 13.3,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/DNB1930%2C%20Det%20Norsk%20Bibelselskap%201930.sqlite3"
   }
 ]
