@@ -448,5 +448,14 @@
     "FileName": "CCB, Chinese Contemporary Bible.sqlite3",
     "FileSize": 11.3,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CCB%2C%20Chinese%20Contemporary%20Bible.sqlite3"
+  },
+  {
+    "Id": 51,
+    "Language": "Russian",
+    "LanguageCode": "ru",
+    "Title": "NRT, New Russian Translation",
+    "FileName": "NRT, New Russian Translation.sqlite3",
+    "FileSize": 22.6,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NRT%2C%20New%20Russian%20Translation.sqlite3"
   }
 ]
