@@ -349,5 +349,14 @@
     "FileName": "KJV, King James Version (English).sqlite3",
     "FileSize": 13.6,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/KJV%2C%20King%20James%20Version%20(English).sqlite3"
+  },
+  {
+    "Id": 40,
+    "Language": "Nepali",
+    "LanguageCode": "ne",
+    "Title": "ERVNE, Nepali Bible Easy to Read Version",
+    "FileName": "ERVNE, Nepali Bible Easy to Read Version.sqlite3",
+    "FileSize": 34.7,
+    "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100818&authkey=ALCDSnzfcfws8n0"
   }
 ]
