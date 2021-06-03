@@ -385,5 +385,14 @@
     "FileName": "ERVMR, Marathi Bible Easy to Read Version.sqlite3",
     "FileSize": 32.99,
     "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100820&authkey=AOmJSiLD7EFcGLg"
+  },
+  {
+    "Id": 44,
+    "Language": "Ndonga",
+    "LanguageCode": "ng",
+    "Title": "ONDB, Ombiimbeli Ondjapuki",
+    "FileName": "ONDB, Ombiimbeli Ondjapuki.sqlite3",
+    "FileSize": 12.7,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ONDB%2C%20Ombiimbeli%20Ondjapuki.sqlite3"
   }
 ]
