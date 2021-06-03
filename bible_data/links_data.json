@@ -421,5 +421,14 @@
     "FileName": "NSO00, BIBELE Taba yea Botse.sqlite3",
     "FileSize": 14.5,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NSO00%2C%20BIBELE%20Taba%20yea%20Botse.sqlite3"
+  },
+  {
+    "Id": 48,
+    "Language": "Oriya",
+    "LanguageCode": "or",
+    "Title": "ERVOR, Oriya Bible Easy-to-Read Version",
+    "FileName": "ERVOR, Oriya Bible Easy-to-Read Version.sqlite3",
+    "FileSize": 34.67,
+    "Path": "https://onedrive.live.com/embed?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100821&authkey=AF5nmC42-0MyHGs"
   }
 ]
