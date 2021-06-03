@@ -358,5 +358,14 @@
     "FileName": "ERVNE, Nepali Bible Easy to Read Version.sqlite3",
     "FileSize": 34.7,
     "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100818&authkey=ALCDSnzfcfws8n0"
+  },
+  {
+    "Id": 41,
+    "Language": "Norwegian Bokmål",
+    "LanguageCode": "nb",
+    "Title": "SND12, IsiNdebele 2012 Translation",
+    "FileName": "SND12, IsiNdebele 2012 Translation.sqlite3",
+    "FileSize": 34.7,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/SND12%2C%20IsiNdebele%202012%20Translation.sqlite3"
   }
 ]
