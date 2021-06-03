@@ -394,5 +394,14 @@
     "FileName": "ONDB, Ombiimbeli Ondjapuki.sqlite3",
     "FileSize": 12.7,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ONDB%2C%20Ombiimbeli%20Ondjapuki.sqlite3"
+  },
+  {
+    "Id": 45,
+    "Language": "Dutch",
+    "LanguageCode": "nl",
+    "Title": "HTB, Het Boek",
+    "FileName": "HTB, Het Boek.sqlite3",
+    "FileSize": 13,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/HTB%2C%20Het%20Boek.sqlite3"
   }
 ]
