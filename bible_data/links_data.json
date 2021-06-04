@@ -1,7 +1,7 @@
 [
   {
     "Id": 1,
-    "IsActive": true,
+    "IsActive": false,
     "Language": "Tagalog",
     "LanguageCode": "tl",
     "Title": "SND,Ang Salita ng Diyos (Tagalog)",
