@@ -466,5 +466,14 @@
     "FileName": "BYSB, Bibiliya Yera (Kinyarwanda).sqlite3",
     "FileSize": 12.2,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BYSB%2C%20Bibiliya%20Yera%20(Kinyarwanda).sqlite3"
+  },
+  {
+    "Id": 53,
+    "Language": "Vietnamese",
+    "LanguageCode": "vi",
+    "Title": "BPT, Vietnamese Bible Easy-to-Read Version",
+    "FileName": "BPT, Vietnamese Bible Easy-to-Read Version.sqlite3",
+    "FileSize": 18.7,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BPT%2C%20Vietnamese%20Bible%20Easy-to-Read%20Version.sqlite3"
   }
 ]
