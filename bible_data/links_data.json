@@ -4,19 +4,25 @@
     "IsActive": true,
     "Language": "Tagalog",
     "LanguageCode": "tl",
-    "Title": "SND,Ang Salita ng Diyos (Tagalog)",
-    "FileName": "SND,Ang Salita ng Diyos (Tagalog).sqlite3",
+    "Title": "SND, Ang Salita ng Diyos (Tagalog)",
+    "FileName": "SND, Ang Salita ng Diyos (Tagalog).sqlite3",
     "FileSize": 13.4,
+    "LicenseType": "Copyright Available",
+    "Name": "SND",
+    "FullName": "Ang Salita ng Diyos",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/SND%2CAng%20Salita%20ng%20Diyos%20(Tagalog).sqlite3"
   },
   {
     "Id": 2,
-     "IsActive": true,
+    "IsActive": true,
     "Language": "Afrikaans",
     "LanguageCode": "af",
-    "Title": "AFR53,Afrikaans 1933,1953(Afrikaans)",
-    "FileName": "AFR53,Afrikaans 1933,1953(Afrikaans).sqlite3",
+    "Title": "AFR53, Afrikaans 1933,1953(Afrikaans)",
+    "FileName": "AFR53, Afrikaans 1933,1953(Afrikaans).sqlite3",
     "FileSize": 13.5,
+    "LicenseType": "Copyright",
+    "Name": "AFR53",
+    "FullName": "Afrikaans 1933,1953",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AFR53%2CAfrikaans%201933%2C1953(Afrikaans).sqlite3"
   },
   {
@@ -24,9 +30,12 @@
      "IsActive": true,
     "Language": "Afrikaans",
     "LanguageCode": "af",
-    "Title": "AFR83,Afrikaans 1983 (Afrikaans)",
-    "FileName": "AFR83,Afrikaans 1983 (Afrikaans).sqlite3",
+    "Title": "AFR83, Afrikaans 1983 (Afrikaans)",
+    "FileName": "AFR83, Afrikaans 1983 (Afrikaans).sqlite3",
     "FileSize": 13.5,
+    "LicenseType": "Copyright",
+    "Name": "AFR83",
+    "FullName": "Afrikaans 1983",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AFR83%2CAfrikaans%201983%20(Afrikaans).sqlite3"
   },
   {
@@ -37,6 +46,9 @@
     "Title": "ALAB, Arabic Life Application Bible(Arabic)",
     "FileName": "ALAB, Arabic Life Application Bible(Arabic).sqlite3",
     "FileSize": 21.7,
+    "LicenseType": "Copyright",
+    "Name": "ALAB",
+    "FullName": "Arabic Life Application Bible",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ALAB%2C%20Arabic%20Life%20Application%20Bible%20(Arabic).sqlite3"
   },
   {
@@ -47,16 +59,22 @@
     "Title": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic)",
     "FileName": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic).sqlite3",
     "FileSize": 16.6,
+    "LicenseType": "Copyright",
+    "Name": "AVDDV",
+    "FullName": "New Van Dyck Bible Reduced Vocalization with Helps",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AVDDV%2C%20New%20Van%20Dyck%20Bible%20Reduced%20Vocalization%20with%20Helps%20(Arabic).sqlite3"
   },
   {
     "Id": 6,
-     "IsActive": true,
+    "IsActive": true,
     "Language": "Arabic",
     "LanguageCode": "ar",
     "Title": "ERVAR, Easy-to-Read Version (Arabic)",
     "FileName": "ERVAR, Easy-to-Read Version (Arabic).sqlite3",
     "FileSize": 23.7,
+    "LicenseType": "Copyright",
+    "Name": "ERVAR",
+    "FullName": "Easy-to-Read Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ERVAR%2C%20Easy-to-Read%20Version%20(Arabic).sqlite3"
   },
   {
@@ -67,6 +85,9 @@
     "Title": "NAV, Ketab El Hayat (Arabic)",
     "FileName": "NAV, Ketab El Hayat (Arabic).sqlite3",
     "FileSize": 21.9,
+    "LicenseType": "Copyright",
+    "Name": "NAV",
+    "FullName": "Ketab El Hayat",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NAV%2C%20Ketab%20El%20Hayat%20(Arabic).sqlite3"
   },
   {
@@ -74,9 +95,12 @@
      "IsActive": true,
     "Language": "Cebuano",
     "LanguageCode": "ceb",
-    "Title": "RCPV,Ang Bag-ong Maayong Balita Biblia (Cebuano)",
-    "FileName": "RCPV,Ang Bag-ong Maayong Balita Biblia (Cebuano).sqlite3",
+    "Title": "RCPV, Ang Bag-ong Maayong Balita Biblia (Cebuano)",
+    "FileName": "RCPV, Ang Bag-ong Maayong Balita Biblia (Cebuano).sqlite3",
     "FileSize": 15.7,
+    "LicenseType": "Copyright",
+    "Name": "RCPV",
+    "FullName": "Ang Bag-ong Maayong Balita Biblia",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/RCPV%2CAng%20Bag-ong%20Maayong%20Balita%20Biblia%20(Cebuano).sqlite3"
   },
   {
@@ -87,6 +111,9 @@
     "Title": "APSD, Ang Pulong Sa Dios (Cebuano)",
     "FileName": "APSD, Ang Pulong Sa Dios (Cebuano).sqlite3",
     "FileSize": 4.28,
+     "LicenseType": "Copyright",
+    "Name": "APSD",
+    "FullName": "Ang Pulong Sa Dios",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/APSD%2C%20Ang%20Pulong%20Sa%20Dios%20(Cebuano).sqlite3"
   },
   {
@@ -97,6 +124,9 @@
     "Title": "SCH2000, Schlachter 2000 (German)",
     "FileName": "SCH2000, Schlachter 2000 (German).sqlite3",
     "FileSize": 17,
+    "LicenseType": "Copyright",
+    "Name": "SCH2000",
+    "FullName": "Schlachter 2000",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/SCH2000%2C%20Schlachter%202000%20(German).sqlite3"
   },
   {
@@ -107,6 +137,9 @@
     "Title": "BDK, Buuk Do Kinorohingan (Boros Dusun)",
     "FileName": "BDK, Buuk Do Kinorohingan (Boros Dusun).sqlite3",
     "FileSize": 16.8,
+    "LicenseType": "Copyright",
+    "Name": "BDK",
+    "FullName": "Buuk Do Kinorohingan",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BDK%2C%20Buuk%20Do%20Kinorohingan%20(Boros%20Dusun).sqlite3"
   },
   {
@@ -117,6 +150,9 @@
     "Title": "TR1550, 1550 Stephanus New Testament (Greek)",
     "FileName": "TR1550, 1550 Stephanus New Testament (Greek).sqlite3",
     "FileSize": 4.37,
+     "LicenseType": "Public Domain",
+    "Name": "TR1550",
+    "FullName": "1550 Stephanus New Testament",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/TR1550%2C%201550%20Stephanus%20New%20Testament%20(Greek).sqlite3"
   },
   {
@@ -127,6 +163,9 @@
     "Title": "TR1894, 1894 Scrivener New Testament (Greek)",
     "FileName": "TR1894, 1894 Scrivener New Testament (Greek).sqlite3",
     "FileSize": 4.37,
+     "LicenseType": "Public Domain",
+    "Name": "TR1894",
+    "FullName": "1894 Scrivener New Testament",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/TR1894%2C%201894%20Scrivener%20New%20Testament%20(Greek)%20.sqlite3"
   },
   {
@@ -137,6 +176,9 @@
     "Title": "AKJV, Authorized King James Version",
     "FileName": "AKJV, Authorized King James Version.sqlite3",
     "FileSize": 14.1,
+     "LicenseType": "Copyright",
+    "Name": "AKJV",
+    "FullName": "Authorized King James Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AKJV%2C%20Authorized%20King%20James%20Version.sqlite3"
   },
   {
@@ -147,6 +189,9 @@
     "Title": "AMP, Amplified Bible (English)",
     "FileName": "AMP, Amplified Bible (English).sqlite3",
     "FileSize": 18.4,
+     "LicenseType": "Copyright",
+    "Name": "AMP",
+    "FullName": "Amplified Bible",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AMP%2C%20Amplified%20Bible%20(English).sqlite3"
   },
   {
@@ -157,6 +202,9 @@
     "Title": "AMPC, Amplified Bible Classic Edition",
     "FileName": "AMPC, Amplified Bible Classic Edition.sqlite3",
     "FileSize": 17.3,
+     "LicenseType": "Copyright",
+    "Name": "AMPC",
+    "FullName": "Amplified Bible Classic Edition",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/AMPC%2C%20Amplified%20Bible%20Classic%20Edition.sqlite3"
   },
   {
@@ -167,6 +215,9 @@
     "Title": "ASV, American Standard Version",
     "FileName": "ASV, American Standard Version.sqlite3",
     "FileSize": 13,
+    "LicenseType": "Public Domain",
+    "Name": "ASV",
+    "FullName": "American Standard Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ASV%2C%20American%20Standard%20Version.sqlite3"
   },
   {
@@ -177,6 +228,9 @@
     "Title": "CEB, Common English Bible (English)",
     "FileName": "CEB, Common English Bible (English).sqlite3",
     "FileSize": 20.4,
+     "LicenseType": "Copyright",
+    "Name": "CEB",
+    "FullName": "Common English Bible",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CEB%2C%20Common%20English%20Bible%20(English).sqlite3"
   },
   {
@@ -187,16 +241,22 @@
     "Title": "CEV, Contemporary English Version (English)",
     "FileName": "CEV, Contemporary English Version (English).sqlite3",
     "FileSize": 15.8,
+    "LicenseType": "Copyright",
+    "Name": "CEV",
+    "FullName": "Contemporary English Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CEV%2C%20Contemporary%20English%20Version%20(English).sqlite3"
   },
   {
     "Id": 20,
-     "IsActive": true,
+    "IsActive": true,
     "Language": "English",
      "LanguageCode": "en",
     "Title": "DARBY, Darby Translation (English)",
     "FileName": "DARBY, Darby Translation (English).sqlite3",
     "FileSize": 13.4,
+     "LicenseType": "Public Domain",
+    "Name": "DARBY",
+    "FullName": "Darby Translation",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/DARBY%2C%20Darby%20Translation%20(English).sqlite3"
   },
   {
@@ -207,6 +267,9 @@
     "Title": "BL92, Buku Lopatulika 1992 (Spanish)",
     "FileName": "BL92, Buku Lopatulika 1992 (Spanish).sqlite3",
     "FileSize": 12.3,
+     "LicenseType": "Copyright",
+    "Name": "BL92",
+    "FullName": "Buku Lopatulika 1992",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BL92%2C%20Buku%20Lopatulika%201992%20(Spanish).sqlite3"
   },
   {
@@ -217,6 +280,9 @@
     "Title": "BDS, La Bible du Semeur (French)",
     "FileName": "BDS, La Bible du Semeur (French).sqlite3",
     "FileSize": 18.8,
+     "LicenseType": "Copyright",
+    "Name": "BDS",
+    "FullName": "La Bible du Semeur",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BDS%2C%20La%20Bible%20du%20Semeur%20(French).sqlite3"
   },
   {
@@ -227,6 +293,9 @@
     "Title": "HAU, Littafi Mai Tsarki (Hausa)",
     "FileName": "HAU, Littafi Mai Tsarki (Hausa).sqlite3",
     "FileSize": 12.7,
+     "LicenseType": "Copyright",
+    "Name": "HAU",
+    "FullName": "Littafi Mai Tsarki",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/HAU%2C%20Littafi%20Mai%20Tsarki%20(Hausa).sqlite3"
   },
   {
@@ -237,6 +306,9 @@
     "Title": "HHH, Habrit HakhadashaHaderekh (Hebrew)",
     "FileName": "HHH, Habrit HakhadashaHaderekh (Hebrew).sqlite3",
     "FileSize": 3.85,
+     "LicenseType": "Copyright",
+    "Name": "HHH",
+    "FullName": "Habrit HakhadashaHaderekh",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/HHH%2C%20Habrit%20HakhadashaHaderekh%20(Hebrew).sqlite3"
   },
   {
@@ -247,6 +319,9 @@
     "Title": "WLC, The Westminster Leningrad Codex (Hebrew)",
     "FileName": "WLC, The Westminster Leningrad Codex (Hebrew).sqlite3",
     "FileSize": 12.2,
+     "LicenseType": "Public Domain",
+    "Name": "WLC",
+    "FullName": "The Westminster Leningrad Codex",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/WLC%2C%20The%20Westminster%20Leningrad%20Codex%20(Hebrew).sqlite3"
   },
   {
@@ -257,6 +332,9 @@
     "Title": "ERVHI, Hindi Bible Easy-to-Read Version (Hindi)",
     "FileName": "ERVHI, Hindi Bible Easy-to-Read Version (Hindi).sqlite3",
     "FileSize": 33.55,
+    "LicenseType": "Copyright",
+    "Name": "ERVHI",
+    "FullName": "Hindi Bible Easy-to-Read Version",
     "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100816&authkey=AFFnuNGY4r9snFE"
   },
   {
@@ -267,6 +345,9 @@
     "Title": "HLGN, Ang Pulong Sang Dios (Hiligaynon)",
     "FileName": "HLGN, Ang Pulong Sang Dios (Hiligaynon).sqlite3",
     "FileSize": 16.6,
+    "LicenseType": "Copyright",
+    "Name": "HLGN",
+    "FullName": "Ang Pulong Sang Dios",
     "Path": "https://www.multcloud.com/action/share!downloadShare?drives.cloudType=woWpz6FpoIJgdVMG2J3LHA%3D%3D&drives.tokenId=5ead50fa78694e81aafe22288c0d9801&drives.fileId=yAmvZs6gxo43YrCpX7BtDA%3D%3D&drives.fileName=HLGN%2C%20Ang%20Pulong%20Sang%20Dios%20(Hiligaynon).sqlite3&drives.fileSize=17392640&shareId=2efbce2d-f252-4071-b5d8-0a632a52eaa9"
   },
   {
@@ -277,6 +358,9 @@
     "Title": "HNZ-RI, Hrvatski Novi Zavjet – Rijeka 2001 (Croatian)",
     "FileName": "HNZ-RI, Hrvatski Novi Zavjet – Rijeka 2001 (Croatian).sqlite3",
     "FileSize": 16.6,
+    "LicenseType": "Copyright",
+    "Name": "HNZ-RI",
+    "FullName": "Hrvatski Novi Zavjet – Rijeka 2001",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/HLGN%2C%20Ang%20Pulong%20Sang%20Dios%20(Hiligaynon).sqlite3"
   },
   {
@@ -287,6 +371,9 @@
     "Title": "HCV, Haitian Creole Version (Haitian Creole)",
     "FileName": "HCV, Haitian Creole Version (Haitian Creole).sqlite3",
     "FileSize": 13.5,
+    "LicenseType": "Copyright",
+    "Name": "HCV",
+    "FullName": "Haitian Creole Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/HCV%2C%20Haitian%20Creole%20Version%20(Haitian%20Creole).sqlite3"
   },
   {
@@ -297,6 +384,9 @@
     "Title": "BIMK, Alkitab dalam Bahasa Indonesia Masa Kini (Indonesian)",
     "FileName": "BIMK, Alkitab dalam Bahasa Indonesia Masa Kini (Indonesian).sqlite3",
     "FileSize": 14.2,
+     "LicenseType": "Copyright",
+    "Name": "BIMK",
+    "FullName": "Alkitab dalam Bahasa Indonesia Masa Kini",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BIMK%2C%20Alkitab%20dalam%20Bahasa%20Indonesia%20Masa%20Kini%20(Indonesian).sqlite3"
   },
   {
@@ -307,6 +397,9 @@
     "Title": "IGBOB, Bible Nso (Igbo)",
     "FileName": "IGBOB, Bible Nso (Igbo).sqlite3",
     "FileSize": 12.9,
+     "LicenseType": "Copyright",
+    "Name": "IGBOB",
+    "FullName": "Bible Nso",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/IGBOB%2C%20Bible%20Nso%20(Igbo).sqlite3"
   },
   {
@@ -317,6 +410,9 @@
     "Title": "RIPV, Ti Baro a Naimbag a Damag Biblia (Iloko)",
     "FileName": "RIPV, Ti Baro a Naimbag a Damag Biblia (Iloko).sqlite3",
     "FileSize": 15.3,
+     "LicenseType": "Copyright",
+    "Name": "RIPV",
+    "FullName": "Ti Baro a Naimbag a Damag Biblia",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/RIPV%2C%20Ti%20Baro%20a%20Naimbag%20a%20Damag%20Biblia%20(Iloko).sqlite3"
   },
   {
@@ -327,6 +423,9 @@
     "Title": "NR2006, Nuova Riveduta 2006 (Italian)",
     "FileName": "NR2006, Nuova Riveduta 2006 (Italian).sqlite3",
     "FileSize": 16.8,
+     "LicenseType": "Copyright",
+    "Name": "NR2006",
+    "FullName": "NR2006, Nuova Riveduta 2006",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NR2006%2C%20Nuova%20Riveduta%202006%20(Italian).sqlite3"
   },
   {
@@ -337,6 +436,9 @@
     "Title": "JNT, Jarai NT (Jarai)",
     "FileName": "JNT, Jarai NT (Jarai).sqlite3",
     "FileSize": 3.94,
+     "LicenseType": "Copyright",
+    "Name": "JNT",
+    "FullName": "Jarai NT",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/JNT%2C%20Jarai%20NT%20(Jarai).sqlite3"
   },
   {
@@ -347,6 +449,9 @@
     "Title": "OKYB, Ombibeli Iyapuki (Kwanyama).sqlite3",
     "FileName": "OKYB, Ombibeli Iyapuki (Kwanyama).sqlite3",
     "FileSize": 12.8,
+    "LicenseType": "Copyright",
+    "Name": "OKYB",
+    "FullName": "Ombibeli Iyapuki",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/OKYB%2C%20Ombibeli%20Iyapuki%20(Kwanyama).sqlite3"
   },
   {
@@ -357,6 +462,9 @@
     "Title": "KPXNT, Iesu Keliso Hotoe Tumu (Mountain Koiali)",
     "FileName": "KPXNT, Iesu Keliso Hotoe Tumu (Mountain Koiali).sqlite3",
     "FileSize": 3.56,
+    "LicenseType": "Copyright",
+    "Name": "KPXNT",
+    "FullName": "Iesu Keliso Hotoe Tumu",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/KPXNT%2C%20Iesu%20Keliso%20Hotoe%20Tumu%20(Mountain%20Koiali).sqlite3"
   },
   {
@@ -367,6 +475,9 @@
     "Title": "RNKSV, Revised New Korean Standard Version (Korean)",
     "FileName": "RNKSV, Revised New Korean Standard Version (Korean).sqlite3",
     "FileSize": 18,
+    "LicenseType": "Copyright",
+    "Name": "RNKSV",
+    "FullName": "Revised New Korean Standard Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/RNKSV%2C%20Revised%20New%20Korean%20Standard%20Version%20(Korean).sqlite3"
   },
   {
@@ -374,9 +485,12 @@
      "IsActive": true,
     "Language": "English",
     "LanguageCode": "en",
-    "Title": "ISV,International Standard Version (English)",
-    "FileName": "ISV,International Standard Version (English).sqlite3",
+    "Title": "ISV, International Standard Version (English)",
+    "FileName": "ISV, International Standard Version (English).sqlite3",
     "FileSize": 23.8,
+     "LicenseType": "Copyright",
+    "Name": "ISV",
+    "FullName": "International Standard Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ISV%2CInternational%20Standard%20Version%20(English).sqlite3"
   },
    {
@@ -387,6 +501,9 @@
     "Title": "KJV, King James Version (English)",
     "FileName": "KJV, King James Version (English).sqlite3",
     "FileSize": 13.6,
+      "LicenseType": "Copyright",
+    "Name": "KJV",
+    "FullName": "King James Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/KJV%2C%20King%20James%20Version%20(English).sqlite3"
   },
   {
@@ -397,6 +514,9 @@
     "Title": "ERVNE, Nepali Bible Easy to Read Version",
     "FileName": "ERVNE, Nepali Bible Easy to Read Version.sqlite3",
     "FileSize": 34.7,
+    "LicenseType": "Copyright",
+    "Name": "ERVNE",
+    "FullName": "Nepali Bible Easy to Read Version",
     "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100818&authkey=ALCDSnzfcfws8n0"
   },
   {
@@ -407,6 +527,9 @@
     "Title": "SND12, IsiNdebele 2012 Translation",
     "FileName": "SND12, IsiNdebele 2012 Translation.sqlite3",
     "FileSize": 14.6,
+     "LicenseType": "Copyright",
+    "Name": "SND12",
+    "FullName": "IsiNdebele 2012 Translation",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/SND12%2C%20IsiNdebele%202012%20Translation.sqlite3"
   },
   {
@@ -417,6 +540,9 @@
     "Title": "BJB, Judson Bible",
     "FileName": "BJB, Judson Bible.sqlite3",
     "FileSize": 30.8,
+     "LicenseType": "Public Domain",
+    "Name": "BJB",
+    "FullName": "Judson Bible",
     "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100819&authkey=AP6An_QSDj9-RrA"
   },
   {
@@ -427,6 +553,9 @@
     "Title": "ERVMR, Marathi Bible Easy to Read Version",
     "FileName": "ERVMR, Marathi Bible Easy to Read Version.sqlite3",
     "FileSize": 32.99,
+     "LicenseType": "Copyright",
+    "Name": "ERVMR",
+    "FullName": "Marathi Bible Easy to Read Version",
     "Path": "https://onedrive.live.com/download?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100820&authkey=AOmJSiLD7EFcGLg"
   },
   {
@@ -437,6 +566,9 @@
     "Title": "ONDB, Ombiimbeli Ondjapuki",
     "FileName": "ONDB, Ombiimbeli Ondjapuki.sqlite3",
     "FileSize": 12.7,
+     "LicenseType": "Copyright",
+    "Name": "ONDB",
+    "FullName": "Ombiimbeli Ondjapuki",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ONDB%2C%20Ombiimbeli%20Ondjapuki.sqlite3"
   },
   {
@@ -447,6 +579,9 @@
     "Title": "HTB, Het Boek",
     "FileName": "HTB, Het Boek.sqlite3",
     "FileSize": 13,
+     "LicenseType": "Copyright",
+    "Name": "HTB",
+    "FullName": "Het Boek",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/HTB%2C%20Het%20Boek.sqlite3"
   },
    {
@@ -457,6 +592,9 @@
     "Title": "DNB1930, Det Norsk Bibelselskap 1930",
     "FileName": "DNB1930, Det Norsk Bibelselskap 1930.sqlite3",
     "FileSize": 13.3,
+      "LicenseType": "Public Domain",
+    "Name": "DNB1930",
+    "FullName": "Det Norsk Bibelselskap 1930",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/DNB1930%2C%20Det%20Norsk%20Bibelselskap%201930.sqlite3"
   },
   {
@@ -467,6 +605,9 @@
     "Title": "NSO00, BIBELE Taba yea Botse",
     "FileName": "NSO00, BIBELE Taba yea Botse.sqlite3",
     "FileSize": 14.5,
+     "LicenseType": "Copyright",
+    "Name": "NSO00",
+    "FullName": "BIBELE Taba yea Botse",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NSO00%2C%20BIBELE%20Taba%20yea%20Botse.sqlite3"
   },
   {
@@ -477,6 +618,9 @@
     "Title": "ERVOR, Oriya Bible Easy-to-Read Version",
     "FileName": "ERVOR, Oriya Bible Easy-to-Read Version.sqlite3",
     "FileSize": 34.67,
+     "LicenseType": "Copyright",
+    "Name": "ERVOR",
+    "FullName": "Oriya Bible Easy-to-Read Version",
     "Path": "https://onedrive.live.com/embed?cid=27AA3488FD31EE95&resid=27AA3488FD31EE95%21100821&authkey=AF5nmC42-0MyHGs"
   },
   {
@@ -487,6 +631,9 @@
     "Title": "ARC09, Edição Revista e Corrigida de João Ferreira de Almeida",
     "FileName": "ARC09, Edição Revista e Corrigida de João Ferreira de Almeida.sqlite3",
     "FileSize": 12.8,
+    "LicenseType": "Copyright",
+    "Name": "ARC09",
+    "FullName": "Edição Revista e Corrigida de João Ferreira de Almeida",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ARC09%2C%20Edi%C3%A7%C3%A3o%20Revista%20e%20Corrigida%20de%20Jo%C3%A3o%20Ferreira%20de%20Almeida.sqlite3"
   },
   {
@@ -497,6 +644,9 @@
     "Title": "CCB, Chinese Contemporary Bible",
     "FileName": "CCB, Chinese Contemporary Bible.sqlite3",
     "FileSize": 11.3,
+     "LicenseType": "Copyright",
+    "Name": "CCB",
+    "FullName": "Chinese Contemporary Bible",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CCB%2C%20Chinese%20Contemporary%20Bible.sqlite3"
   },
   {
@@ -507,6 +657,9 @@
     "Title": "NRT, New Russian Translation",
     "FileName": "NRT, New Russian Translation.sqlite3",
     "FileSize": 22.6,
+    "LicenseType": "Copyright",
+    "Name": "NRT",
+    "FullName": "New Russian Translation",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/NRT%2C%20New%20Russian%20Translation.sqlite3"
   },
   {
@@ -517,6 +670,9 @@
     "Title": "BYSB, Bibiliya Yera (Kinyarwanda)",
     "FileName": "BYSB, Bibiliya Yera (Kinyarwanda).sqlite3",
     "FileSize": 12.2,
+    "LicenseType": "Copyright",
+    "Name": "BYSB",
+    "FullName": "Bibiliya Yera",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BYSB%2C%20Bibiliya%20Yera%20(Kinyarwanda).sqlite3"
   },
   {
@@ -527,6 +683,9 @@
     "Title": "BPT, Vietnamese Bible Easy-to-Read Version",
     "FileName": "BPT, Vietnamese Bible Easy-to-Read Version.sqlite3",
     "FileSize": 18.7,
+    "LicenseType": "Copyright",
+    "Name": "BPT",
+    "FullName": "Vietnamese Bible Easy-to-Read Version",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BPT%2C%20Vietnamese%20Bible%20Easy-to-Read%20Version.sqlite3"
   },
    {
@@ -537,6 +696,9 @@
     "Title": "CNVT, 新譯本 (Chinese (Taiwan))",
     "FileName": "CNVT, 新譯本 (Chinese (Taiwan)).sqlite3",
     "FileSize": 13,
+     "LicenseType": "Copyright",
+    "Name": "CNVT",
+    "FullName": "新譯本",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CNVT%2C%20%E6%96%B0%E8%AD%AF%E6%9C%AC%20(Chinese%20(Taiwan)).sqlite3"
   }
 ]
