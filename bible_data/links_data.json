@@ -475,5 +475,14 @@
     "FileName": "BPT, Vietnamese Bible Easy-to-Read Version.sqlite3",
     "FileSize": 18.7,
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/BPT%2C%20Vietnamese%20Bible%20Easy-to-Read%20Version.sqlite3"
+  },
+   {
+    "Id": 54,
+    "Language": "Chinese (Taiwan)",
+    "LanguageCode": "zh-tw",
+    "Title": "CNVT, 新譯本 (Chinese (Taiwan))",
+    "FileName": "CNVT, 新譯本 (Chinese (Taiwan)).sqlite3",
+    "FileSize": 13,
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CNVT%2C%20%E6%96%B0%E8%AD%AF%E6%9C%AC%20(Chinese%20(Taiwan)).sqlite3"
   }
 ]
