@@ -700,5 +700,18 @@
     "Name": "CNVT",
     "FullName": "新譯本",
     "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/CNVT%2C%20%E6%96%B0%E8%AD%AF%E6%9C%AC%20(Chinese%20(Taiwan)).sqlite3"
-  }
+  },
+  {
+    "Id": 54,
+    "IsActive": true,
+    "Language": "Tagalog",
+    "LanguageCode": "tl",
+    "Title": "ADB1905, Ang Dating Biblia (1905) (Tagalog)",
+    "FileName": "ADB1905, Ang Dating Biblia (1905) (Tagalog).sqlite3",
+    "FileSize": 15.6,
+    "LicenseType": "Public Domain",
+    "Name": "ADB1905",
+    "FullName": "Ang Dating Biblia (1905)",
+    "Path": "https://github.com/nextcodelab/data-base-server/raw/main/bible_data/data/ADB1905%2C%20Ang%20Dating%20Biblia%20(1905)%20(Tagalog).sqlite3"
+  },
 ]
