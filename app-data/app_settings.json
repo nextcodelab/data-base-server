@@ -13,5 +13,6 @@
   "AppStoreLink": null,
   "MicrosoftStoreLink": "https://www.microsoft.com/store/productId/9NSMLKMC3WB6",
   "PlaystoreMessage": "",
-  "AppStoreMessage": ""
+  "AppStoreMessage": "",
+  "RevealLetter": 200
 }
