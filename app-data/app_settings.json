@@ -7,7 +7,7 @@
   "Title": "PRIZES THIS MONTH",
   "Notes": "Join as active players and have a chance to win a monthly ruffle!",
   "MaxPlayerList": 250,
-  "MaxWinCoin": 10,
+  "MaxWinCoin": 5,
   "Mode": "Hard",
   "PlaystoreLink": "https://play.google.com/store/apps/details?id=com.cloudlabstudio.englishdictionary",
   "AppStoreLink": null,
