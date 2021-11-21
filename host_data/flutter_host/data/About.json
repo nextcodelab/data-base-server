@@ -67,11 +67,11 @@
     "Categories": [ 1, 16, 1 ]
   },
   {
-    "Slug": "payment-card-validation113",
-    "Title": "Payment-Card-Validation113",
-    "Description": "A new Flutter application demonstrating how to validate payment card number, cvv and date.",
+    "Slug": "flutter-samples",
+    "Title": "Flutter Samples",
+    "Description": "FLUTTER SAMPLES",
     "GitHubRepoInfo": {
-      "GitHubRepoName": "wilburt/Payment-Card-Validation",
+      "GitHubRepoName": "diegoveloper/flutter-samples",
       "full_name": null,
       "description": null,
       "stargazers_count": 0,
@@ -83,14 +83,19 @@
     "ContainsiOSSample": true,
     "ContainsUWPSample": false,
     "AuthorInfo": {
-      "FirstName": "wilburt",
+      "FirstName": "diegoveloper",
       "LastName": "",
-      "Website": "http://wilburx9.dev/",
-      "TwitterHandle": "wilburt",
-      "GitHubHandle": "wilburt",
+      "Website": "https://www.diegoveloper.com",
+      "TwitterHandle": "diegoveloper",
+      "GitHubHandle": "diegoveloper",
       "GravatarHash": ""
     },
-    "ImageUris": [ "https://raw.githubusercontent.com/wilburt/Payment-Card-Validation/master/screenshots/screenshot1.png" ],
+    "ImageUris": [ 
+      "https://camo.githubusercontent.com/764ff4239784cc9c8881e0c61b09c6bc32e100b6b180759129367e57efe49947/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524a6e38424d6d4f7a6661573130316953322f67697068792e676966",
+      "https://camo.githubusercontent.com/b0d33c59e60bf96cff11e03de180b2153ca481412abc9a7e4c8ab21c7aad834d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d65503439676a764662554453686b7a4a4d2f67697068792e676966",
+      "https://camo.githubusercontent.com/2510ade945dfc996e16593d06d2e339b1412f9e1912a8289a38b1a3e568edbff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f55754e69456b3230544b6a6e3446344837612f67697068792e676966",
+      "https://camo.githubusercontent.com/32f1879b15207bade4fb0ed1d54fae58181af71b50f382cd8d28b27899ebca74/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a5078306b5461466a39666e5932564a647257474a67412e676966"
+    ],
     "Categories": [ 1, 35, 6 ]
   },
   {
