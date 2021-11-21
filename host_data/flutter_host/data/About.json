@@ -33,11 +33,11 @@
     "Categories": [ 1, 8, 29 ]
   },
   {
-    "Slug": "payment-card-validation20",
-    "Title": "Payment-Card-Validation20",
-    "Description": "A new Flutter application demonstrating how to validate payment card number, cvv and date.",
+    "Slug": "flutter-examples",
+    "Title": "Flutter Examples",
+    "Description": "Main repository containing all the example apps demonstrating features/functionality/integrations in Flutter application development",
     "GitHubRepoInfo": {
-      "GitHubRepoName": "wilburt/Payment-Card-Validation",
+      "GitHubRepoName": "nisrulz/flutter-examples",
       "full_name": null,
       "description": null,
       "stargazers_count": 0,
@@ -49,14 +49,21 @@
     "ContainsiOSSample": true,
     "ContainsUWPSample": false,
     "AuthorInfo": {
-      "FirstName": "wilburt",
+      "FirstName": "nisrulz",
       "LastName": "",
-      "Website": "http://wilburx9.dev/",
-      "TwitterHandle": "wilburt",
-      "GitHubHandle": "wilburt",
+      "Website": "https://www.nisrulz.com/",
+      "TwitterHandle": "",
+      "GitHubHandle": "nisrulz",
       "GravatarHash": ""
     },
-    "ImageUris": [ "https://raw.githubusercontent.com/wilburt/Payment-Card-Validation/master/screenshots/screenshot1.png" ],
+    "ImageUris": [ 
+      "https://raw.githubusercontent.com/nisrulz/flutter-examples/develop/stateful_widget/demo_img.gif",
+      "https://raw.githubusercontent.com/nisrulz/flutter-examples/develop/using_bottom_nav_bar/demo_img.gif",
+      "https://raw.githubusercontent.com/nisrulz/flutter-examples/develop/dropdown_button/demo_img.gif",
+      "https://raw.githubusercontent.com/nisrulz/flutter-examples/develop/using_stepper/demo_img.gif",
+      "https://raw.githubusercontent.com/nisrulz/flutter-examples/develop/using_tabs/demo_img.gif",
+      "https://raw.githubusercontent.com/nisrulz/flutter-examples/develop/bottom_sheet/demo.gif"
+    ],
     "Categories": [ 1, 16, 1 ]
   },
   {
