@@ -1,5 +1,6 @@
 {
   "PrizeEnabled": false,
-  "GithubUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/flutter_host/about/about.json",
+  "GithubUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/flutter_host/data/",
+  "Categories": "About, AcitivityFeeds, AppClone, Articles, Calculators, Calendars_time, Cards, Carousel, Charts, Comments, Dashboard, DataGrid, Errors, Filter, Friends, LaunchScreen, Lists, Login, Maps, Messaging, Navigations, Neomorphism, Notifications, Photos, Playback, PopOvers, Products, Profiles, Search, Settings, Share, ShoppingCart, SideBars, SignUps, SocialNetwork, Store, TabBars, TimeLine, WalkThroughs, Widgets",
   "RevealLetterDeduction": 200
 }
