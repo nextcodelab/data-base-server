@@ -24,12 +24,11 @@
       "GravatarHash": ""
     },
     "ImageUris": [
-      "https://github.com/lohanidamodar/flutter_ui_challenges/blob/master/screenshots/anim5.gif",
-      "https://github.com/lohanidamodar/flutter_ui_challenges/blob/master/screenshots/animated_bottom_nav.gif",
-      "https://github.com/lohanidamodar/flutter_ui_challenges/blob/master/screenshots/anim3.gif",
-      "https://github.com/lohanidamodar/flutter_ui_challenges/blob/master/screenshots/animation2.gif",
-      "https://github.com/lohanidamodar/flutter_ui_challenges/blob/master/screenshots/animation1.gif",
-      ""
+      "https://raw.githubusercontent.com/lohanidamodar/flutter_ui_challenges/master/screenshots/anim5.gif",
+      "https://raw.githubusercontent.com/lohanidamodar/flutter_ui_challenges/master/screenshots/animated_bottom_nav.gif",
+      "https://raw.githubusercontent.com/lohanidamodar/flutter_ui_challenges/master/screenshots/anim3.gif",
+      "https://raw.githubusercontent.com/lohanidamodar/flutter_ui_challenges/master/screenshots/animation2.gif",
+      "https://raw.githubusercontent.com/lohanidamodar/flutter_ui_challenges/master/screenshots/animation1.gif"
     ],
     "Categories": [ 1, 8, 29 ]
   },
