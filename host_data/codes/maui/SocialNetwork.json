@@ -55,5 +55,35 @@
       "https://github.com/DevExpress-Examples/maui-editors-get-started/blob/22.1.1%2B/Images/editors-pixel3a.png"
     ],
     "Categories": [ 13, 28 ]
+  },
+  {
+    "Slug": "microsoft.maui.graphics.controls",
+    "Title": "Microsoft.Maui.Graphics.Controls: Pixel-Perfect Drawn Controls for .NET MAUI",
+    "Description": "Microsoft.Maui.Graphics.Controls is a .NET MAUI experiment that offers cross-platform, pixel-perfect, drawn controls, with three built-in themes: Cupertino, Fluent and Material.",
+    "GitHubRepoInfo": {
+      "GitHubRepoName": "dotnet/Microsoft.Maui.Graphics.Controls",
+      "full_name": null,
+      "description": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "0001-01-01T00:00:00"
+    },
+    "ExternalUri": null,
+    "ContainsAndroidSample": true,
+    "ContainsiOSSample": true,
+    "ContainsUWPSample": false,
+    "AuthorInfo": {
+      "FirstName": "dot.net",
+      "LastName": "",
+      "Website": "https://dot.net",
+      "TwitterHandle": "",
+      "GitHubHandle": "dotnet",
+      "GravatarHash": ""
+    },
+    "ImageUris": [
+      "https://raw.githubusercontent.com/DevExpress-Examples/maui-editors-get-started/22.1.1%2B/Images/editors-iphone12.png",
+      "https://github.com/DevExpress-Examples/maui-editors-get-started/blob/22.1.1%2B/Images/editors-pixel3a.png"
+    ],
+    "Categories": [ 32 ]
   }
 ]
