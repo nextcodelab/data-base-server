@@ -16,22 +16,22 @@
     "ContainsiOSSample": true,
     "ContainsUWPSample": true,
     "AuthorInfo": {
-      "FirstName": "davidortinau",
+      "FirstName": "DevExpress-Examples",
       "LastName": "",
       "Website": "http://davidortinau.com",
       "TwitterHandle": "",
-      "GitHubHandle": "davidortinau",
+      "GitHubHandle": "DevExpress-Examples",
       "GravatarHash": ""
     },
     "ImageUris": [ "https://raw.githubusercontent.com/davidortinau/WeatherTwentyOne/main/images/maui-weather-hero-sm.png"],
     "Categories": [ 39, 32 ]
   },
   {
-    "Slug": "discover-gists",
-    "Title": "Discover Gists",
-    "Description": "It\u0027s a simple discover gists from GitHub app",
+    "Slug": "devExpress-editors-for-.net-maui",
+    "Title": "DevExpress Editors for .NET MAUI",
+    "Description": "This repository contains a demo application that allows you to get started with DevExpress Editors for .NET MAUI.",
     "GitHubRepoInfo": {
-      "GitHubRepoName": "alexandresanlim/DiscoverGists",
+      "GitHubRepoName": "DevExpress-Examples/maui-editors-get-started",
       "full_name": null,
       "description": null,
       "stargazers_count": 0,
@@ -44,13 +44,16 @@
     "ContainsUWPSample": false,
     "AuthorInfo": {
       "FirstName": "Alexandre",
-      "LastName": "Sanlim",
-      "Website": "https://alexandresanlim.github.io/",
-      "TwitterHandle": "alexandresanlim",
-      "GitHubHandle": "alexandresanlim",
-      "GravatarHash": "201e2428b23bfe48fbb3e02e54f6652d"
+      "LastName": "",
+      "Website": "https://codecentral.devexpress.com",
+      "TwitterHandle": "",
+      "GitHubHandle": "DevExpress-Examples",
+      "GravatarHash": ""
     },
-    "ImageUris": [ "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/animation.gif?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/0.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/1.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/2.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/3.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/4.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/5.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/6.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/raw/master/DiscoverGists/DiscoverGists/Src/Screenshots/Android/7.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/blob/master/DiscoverGists/DiscoverGists/Src/Screenshots/iOS/0.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/blob/master/DiscoverGists/DiscoverGists/Src/Screenshots/iOS/1.png?raw=true", "https://github.com/alexandresanlim/DiscoverGists/blob/master/DiscoverGists/DiscoverGists/Src/Screenshots/iOS/2.png?raw=true" ],
-    "Categories": [ 5, 39, 12 ]
+    "ImageUris": [ 
+                 "https://raw.githubusercontent.com/DevExpress-Examples/maui-editors-get-started/22.1.1%2B/Images/editors-iphone12.png", 
+                 "https://github.com/DevExpress-Examples/maui-editors-get-started/blob/22.1.1%2B/Images/editors-pixel3a.png"
+    ],
+    "Categories": [ 13, 28]
   }
 ]
