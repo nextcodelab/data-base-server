@@ -81,8 +81,9 @@
       "GravatarHash": ""
     },
     "ImageUris": [
-      "https://raw.githubusercontent.com/DevExpress-Examples/maui-editors-get-started/22.1.1%2B/Images/editors-iphone12.png",
-      "https://github.com/DevExpress-Examples/maui-editors-get-started/blob/22.1.1%2B/Images/editors-pixel3a.png"
+      "https://raw.githubusercontent.com/dotnet/Microsoft.Maui.Graphics.Controls/main/images/graphicscontrols-darktheme.gif",
+      "https://raw.githubusercontent.com/dotnet/Microsoft.Maui.Graphics.Controls/main/images/graphicscontrols-rtl.png",
+      "https://github.com/dotnet/Microsoft.Maui.Graphics.Controls/raw/main/images/graphicscontrols-mac.gif"
     ],
     "Categories": [ 32 ]
   }
