@@ -2,6 +2,7 @@
   "PrizeEnabled": false,
   "Xamarin": "https://github.com/nextcodelab/data-base-server/tree/main/host_data/codes/xamarin/",
   "Maui": "https://github.com/nextcodelab/data-base-server/tree/main/host_data/codes/maui/",
+  "Blazor": "https://github.com/nextcodelab/data-base-server/tree/main/host_data/codes/blazor/",
   "Flutter": "https://github.com/nextcodelab/data-base-server/tree/main/host_data/codes/flutter/",
   "Categories": "About, AcitivityFeeds, AppClone, Articles, Calculators, CalendarsTime, Cards, Carousel, Charts, Comments, Dashboard, DataGrid, Errors, Filter, Friends, LaunchScreen, Lists, Login, Maps, Messaging, Navigations, Neomorphism, Notifications, Photos, Playback, PopOvers, Products, Profiles, Search, Settings, Share, ShoppingCart, SideBars, SignUps, SocialNetwork, Store, TabBars, TimeLine, WalkThroughs, Widgets",
   "RevealLetterDeduction": 200
