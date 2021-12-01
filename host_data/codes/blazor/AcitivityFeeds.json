@@ -1,1 +1,35 @@
 
+[
+  {
+    "Id": 0,
+    "UserId": null,
+    "Slug": "shahedc/FormsAndBindings",
+    "Title": "FormsAndBindings",
+    "Description": "ASP .NET Core HTML Forms and Bindings",
+    "GitHubRepoInfo": {
+      "GitHubRepoName": "shahedc/FormsAndBindings",
+      "full_name": null,
+      "description": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "pushed_at": "0001-01-01T00:00:00"
+    },
+    "ExternalUri": null,
+    "ContainsAndroidSample": false,
+    "ContainsiOSSample": false,
+    "ContainsUWPSample": false,
+    "MainCategory": "ActivityFeeds",
+    "AuthorInfo": {
+      "Id": 0,
+      "UserId": null,
+      "FirstName": "shahedc",
+      "LastName": "",
+      "Website": "",
+      "TwitterHandle": "",
+      "GitHubHandle": "shahedc",
+      "GravatarHash": null
+    },
+    "ImageUris": [ "https://wakeupandcode.com/wp-content/uploads/2019/02/Forms-Bindings.png" ],
+    "Categories": [ 1, 11, 13, 15, 16, 21, 28, 31, 35, 36, 22 ]
+  }
+]
