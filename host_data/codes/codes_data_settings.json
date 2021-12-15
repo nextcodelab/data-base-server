@@ -1,6 +1,6 @@
 {
   "AlwaysUpdate": false,
   "MainUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/codes/",
-  "Categories": "About, ActivityFeeds, AppClone, Articles, Calculators, CalendarsTime, Cards, Carousel, Charts, Comments, Dashboard, DataGrid, Errors, Filter, Friends, LaunchScreen, Lists, Login, Maps, Messaging, Navigations, Neomorphism, Notifications, Photos, Playback, PopOvers, Products, Profiles, Search, Settings, Share, ShoppingCart, SideBars, SignUps, SocialNetwork, Store, TabBars, TimeLine, WalkThroughs, Widgets", "Others"
+  "Categories": "About, ActivityFeeds, AppClone, Articles, Calculators, CalendarsTime, Cards, Carousel, Charts, Comments, Dashboard, DataGrid, Errors, Filter, Friends, LaunchScreen, Lists, Login, Maps, Messaging, Navigations, Neomorphism, Notifications, Photos, Playback, PopOvers, Products, Profiles, Search, Settings, Share, ShoppingCart, SideBars, SignUps, SocialNetwork, Store, TabBars, TimeLine, WalkThroughs, Widgets", "Others",
   "RevealLetterDeduction": 200
 }
