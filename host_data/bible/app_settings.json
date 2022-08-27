@@ -1,3 +1,4 @@
 {
-  "EnableStories": false  
+  "EnableStories": false,
+  "IsDirectPurchase": false
 }
