@@ -1,4 +1,5 @@
 {
   "EnableStories": true,
-  "IsDirectPurchase": true
+  "IsDirectPurchase": true,
+  "IsSupportYearly": true
 }
