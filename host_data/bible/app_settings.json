@@ -1,6 +1,6 @@
 {
   "EnableStories": true,
-  "IsSubcription": true,
+  "IsSubcription": false,
   "IsDirectPurchase": true, 
   "ProductDurable": "Translations",
   "SubcriptionStoreId": "9PCFXB93DZNK"
