@@ -1,7 +1,7 @@
 {
   "EnableStories": true,
-  "IsDirectPurchase": true,
-  "IsSupportYearly": false,
   "IsSubcription": true,
+  "IsSupportYearly": false,
+  "IsDirectPurchase": true, 
   "SubcriptionStoreId": "9PCFXB93DZNK"
 }
