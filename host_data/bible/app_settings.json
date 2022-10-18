@@ -1,6 +1,6 @@
 {
   "EnableStories": true,
   "IsDirectPurchase": true,
-  "IsSupportYearly": true,
+  "IsSupportYearly": false,
   "IsSubcription": true
 }
