@@ -3,7 +3,7 @@
   "IsSubcription": true,
   "IsSupportYearly": false,
   "IsDirectPurchase": true, 
-  "ProductKey": "Translations",
+  "ProductDurable": "Translations",
   "SubcriptionStoreId": "9PCFXB93DZNK"
   
 }
