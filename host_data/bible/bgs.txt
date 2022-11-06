@@ -63,6 +63,13 @@
       "Small": null,
       "Source": "https://www.wallpaperflare.com/search?wallpaper=Bible+Book",
       "Group": "Classic"
+    },
+    {
+      "Name": null,
+      "Big": "https://live.staticflickr.com/65535/52478771595_4dccc2e93e_o_d.jpg",
+      "Small": null,
+      "Source": "https://www.flickr.com/",
+      "Group": "Natures"
     }
   ]
 }
