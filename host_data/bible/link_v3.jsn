@@ -1,5 +1,5 @@
 {
-  "CopyRightedIsVisible": true,
+  "CopyRightedIsVisible": false,
   "GithubServerUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/link_v3.jsn",
   "GithubEbookUrl": null,
   "GithubStoriesUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/stories.json",
