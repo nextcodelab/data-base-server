@@ -1,1 +1,3006 @@
-
+{
+  "CopyRightedIsVisible": false,
+  "GithubServerUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/link_v3.jsn",
+  "GithubEbookUrl": null,
+  "GithubStoriesUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/stories.json",
+  "GithubToken": "0tLZS+i2eOQrHHdtyPJrw/j2ISHPCG4Odj6edqoLtRczv5lgnRq38TawArYC1fSI",
+  "Title": "BibleApp",
+  "WorshipsToken": "Elbe4ARf1aj8RTBaPYM3v1NEakrOwRuc+H8XzOQ3KPu45OBp1SMaUnVfmWOE6nyP",
+  "CopyRightChecker": true,
+  "DownloadLinks": [
+    {
+      "Id": 2,
+      "IsVisible": true,
+      "Language": "Afrikaans",
+      "LanguageCode": "af",
+      "Title": "AFR53, Afrikaans 1933,1953(Afrikaans)",
+      "FileName": "AFR53, Afrikaans 1933,1953(Afrikaans).sqlite3",
+      "FileSize": 13.5,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTq/H/fXWtR6fE3I72WVd+bSoi9EKpkG4HjFB2RvMFp9dUo1jIbu8ykq0VzwAsu9okJaGcg7n/OsyCekUAs+usgU=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "AFR53",
+      "FullName": "Afrikaans 1933,1953",
+      "HTMLMetadata": "",
+      "WebName": "www.biblesociety.co.za",
+      "WebUrl": "http://www.biblesociety.co.za/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 3,
+      "IsVisible": true,
+      "Language": "Afrikaans",
+      "LanguageCode": "af",
+      "Title": "AFR83, Afrikaans 1983 (Afrikaans)",
+      "FileName": "AFR83, Afrikaans 1983 (Afrikaans).sqlite3",
+      "FileSize": 13.5,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZWElPY1eqY/TDyhZpKEyBCUjX8ZEvvUcLFJQOB+y3Ih9w==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "AFR83",
+      "FullName": "Afrikaans 1983",
+      "HTMLMetadata": "",
+      "WebName": "www.biblesociety.co.za",
+      "WebUrl": "http://www.biblesociety.co.za/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 4,
+      "IsVisible": true,
+      "Language": "Arabic",
+      "LanguageCode": "ar",
+      "Title": "ALAB, Arabic Life Application Bible(Arabic)",
+      "FileName": "ALAB, Arabic Life Application Bible(Arabic).sqlite3",
+      "FileSize": 21.7,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZXUdIuu+wPRwgCKtYfXIGzLi7/eO47p1PKAQbEmfnw1iA==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ALAB",
+      "FullName": "Arabic Life Application Bible",
+      "HTMLMetadata": "",
+      "WebName": null,
+      "WebUrl": null,
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 5,
+      "IsVisible": true,
+      "Language": "Arabic",
+      "LanguageCode": "ar",
+      "Title": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic)",
+      "FileName": "AVDDV, New Van Dyck Bible Reduced Vocalization with Helps (Arabic).sqlite3",
+      "FileSize": 16.6,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTgHgkdBy7YwYTBm9rLHjs/89VEnjXCk8uLI3BraTkU+C6QC9w3iwsq3U3eQXVKtNypUgxIs88ifEakSppKURnhDt9386cNiV0FJDsREbTtUr79BH9DuXYzk3ILRACCY1SIPuMX1DUtVEOeHGEBS3uo8=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "AVDDV",
+      "FullName": "New Van Dyck Bible Reduced Vocalization with Helps",
+      "HTMLMetadata": "",
+      "WebName": "biblesocietyegypt.com",
+      "WebUrl": "https://biblesocietyegypt.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 6,
+      "IsVisible": true,
+      "Language": "Arabic",
+      "LanguageCode": "ar",
+      "Title": "ERVAR, Easy-to-Read Version (Arabic)",
+      "FileName": "ERVAR, Easy-to-Read Version (Arabic).sqlite3",
+      "FileSize": 23.7,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTpq7GiArcakY1rki5A5Q0t/7c43ABFIcFG16Wp/pXLybMHZBzM1qZvQX0KSZDgenyvEPB86EwtBkR/Hamuc4UTk=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ERVAR",
+      "FullName": "Easy-to-Read Version",
+      "HTMLMetadata": "",
+      "WebName": "www.bibleleague.org",
+      "WebUrl": "https://www.bibleleague.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 7,
+      "IsVisible": true,
+      "Language": "Arabic",
+      "LanguageCode": "ar",
+      "Title": "NAV, Ketab El Hayat (Arabic)",
+      "FileName": "NAV, Ketab El Hayat (Arabic).sqlite3",
+      "FileSize": 21.9,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTgH+AwB+mvrIxSFNicy1861tQghsxpv6BudoNBMpFYwL+wQ5Me+rVqpur9kyvjWjo2xpq3XOJc4l74RWlxqagmE=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "NAV",
+      "FullName": "Ketab El Hayat",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 10,
+      "IsVisible": true,
+      "Language": "Boros Dusun",
+      "LanguageCode": "dtp",
+      "Title": "BDK, Buuk Do Kinorohingan (Boros Dusun)",
+      "FileName": "BDK, Buuk Do Kinorohingan (Boros Dusun).sqlite3",
+      "FileSize": 16.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8dyO/LnzXJ4T6iC9QHU8/Y+MpM49LOBaFNvD5XDhfP5HE0TYGgmslBJ0/7UQG/Lcsm4ngX+njYDEq2xH9WquFfqlVh27b8ymyUiMihWdelBC",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "BDK",
+      "FullName": "Buuk Do Kinorohingan",
+      "HTMLMetadata": "",
+      "WebName": "biblemalaysia.org",
+      "WebUrl": "https://biblemalaysia.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 42,
+      "IsVisible": true,
+      "Language": "Burmese",
+      "LanguageCode": "my",
+      "Title": "BJB, Judson Bible",
+      "FileName": "BJB, Judson Bible.sqlite3",
+      "FileSize": 30.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8TsxQpxMlDpHj/jhIa5OoybWObvPvGviBsKB14/RQZQDKV7ldoG56F9vUrKGwXvlWw==",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "BJB",
+      "FullName": "Judson Bible",
+      "HTMLMetadata": "",
+      "WebName": "www.myanmarbs.org",
+      "WebUrl": "http://www.myanmarbs.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 55,
+      "IsVisible": true,
+      "Language": "Cebuano",
+      "LanguageCode": "ce",
+      "Title": "CKJV, Cebuano King James Version (Bugna Version)",
+      "FileName": "CKJV, Cebuano King James Version.sqlite3",
+      "FileSize": 14.3,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8TsxQpxMlDpHj/jhIa5OoyYlP0fAKPSpGpp8Vd0Se2AWVJQyr0tEe/WwLuDNldWD+dah+55uxgu8cB3+OpRV8D8BDHpI7GaYMCnZghiHLfDG",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "CKJV",
+      "FullName": "Cebuano King James Version",
+      "HTMLMetadata": "<div class=\"long-heading\">            <span class=\"bread-crumb\"><span class=\"left-arrow\">◀</span><a href=\"/versions\">Versions </a> /           Ang Dating Biblia (1905)           (ADB1905)            </span>    </div>    <div class=\"publisher-link\">        <span class=\"publisher\">      Publisher: <a href=\"https://support.biblegateway.com/entries/32920140-How-do-I-get-permission-to-use-content-on-your-website-\">Public Domain</a>      </span>    </div>    <div class=\"version-info-main\">        <div class=\"version-info-content\">            <div class=\"vinfo-content\" style=\"visibility: visible; opacity: 1;\">                <h2>Version Information</h2>                <p>                  No version information available.                </p>            </div>",
+      "WebName": "www.ccel.org/ccel",
+      "WebUrl": "https://www.ccel.org/ccel/bible/ceb_b.html",
+      "WebUrlTip": null,
+      "BibleVersion": "CKJV, Cebuano King James Version (Bugna)",
+      "Json": null,
+      "BibleAudios": [
+        {
+          "Osis": "Gen",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Exod",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Lev",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Num",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Deut",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Josh",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Judg",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ruth",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Sam",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Sam",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Kgs",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Kgs",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Chr",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Chr",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezra",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Neh",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Esth",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Job",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ps",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Prov",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eccl",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Song",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Isa",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Isa",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jer",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Lam",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezek",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Dan",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hos",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Joel",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Amos",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Obad",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jonah",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jonah",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mic",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Nah",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hab",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zeph",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hag",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zech",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mal",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Matt",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mark",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Luke",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "John",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Acts",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rom",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Cor",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Cor",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Gal",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eph",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phil",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Col",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Thess",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Thess",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Tim",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Tim",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Titus",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phlm",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Heb",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jas",
+          "Url": "https://youtu.be/GxnPxx0kTDE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Pet",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Pet",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1John",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2John",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "3John",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jude",
+          "Url": "",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rev",
+          "Url": "",
+          "EmbeddedUrl": null
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "IsVisible": true,
+      "Language": "Cebuano",
+      "LanguageCode": "ceb",
+      "Title": "RCPV, Ang Bag-ong Maayong Balita Biblia (Cebuano)",
+      "FileName": "RCPV, Ang Bag-ong Maayong Balita Biblia (Cebuano).sqlite3",
+      "FileSize": 15.7,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZWzaUW5yoREGDIrtgJUv/5zNr7GF7CahWIh6NW3eJUV9Q==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "RCPV",
+      "FullName": "Ang Bag-ong Maayong Balita Biblia",
+      "HTMLMetadata": "",
+      "WebName": "bible.org.ph",
+      "WebUrl": "https://bible.org.ph/",
+      "WebUrlTip": null,
+      "BibleVersion": "RCPV, Ang Bag-ong Maayong Balita Biblia",
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 50,
+      "IsVisible": true,
+      "Language": "Chinese (PRC)",
+      "LanguageCode": "zh-cn",
+      "Title": "CCB, Chinese Contemporary Bible",
+      "FileName": "CCB, Chinese Contemporary Bible.sqlite3",
+      "FileSize": 11.3,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTko4OAvSndJyQ92rxAsvtvJkitdG63rZ/vc61Kqbjv9UYH0t+Iw+Oi/VKqvW9Bd+8tP/D1NbK7t1hCmrLh1yimA=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "CCB",
+      "FullName": "Chinese Contemporary Bible",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/bible/ccb/%E5%88%9B%E4%B8%96%E8%AE%B0/1/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 54,
+      "IsVisible": true,
+      "Language": "Chinese (Taiwan)",
+      "LanguageCode": "zh-tw",
+      "Title": "CNVT, 新譯本 (Chinese (Taiwan))",
+      "FileName": "CNVT, 新譯本 (Chinese (Taiwan)).sqlite3",
+      "FileSize": 13.0,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKThxhp9WvdQ8LyMr+DKzeMyEGqMp+P+7/CIVGpK9Ntjone3DSey6z+ymS7vsZMuJ0kWHXo3leUgE/JTiqBaLb/7X2mfI/yzz7T/pKwk88I06V",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "CNVT",
+      "FullName": "新譯本",
+      "HTMLMetadata": "",
+      "WebName": "www.wwbible.org",
+      "WebUrl": "https://www.wwbible.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 28,
+      "IsVisible": true,
+      "Language": "Croatian",
+      "LanguageCode": "hr",
+      "Title": "HNZ-RI, Hrvatski Novi Zavjet – Rijeka 2001 (Croatian)",
+      "FileName": "HNZ-RI, Hrvatski Novi Zavjet – Rijeka 2001 (Croatian).sqlite3",
+      "FileSize": 16.6,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTnPSKkPf43Tj7c/c/Y7OKPLGBYaQ7Msl4glFA4aY1H9QG09U+YoyA0jd0+Ik4RrNwT1zEs0W+mcdI5DYft595CLoleT1iBweJdTQ5SKg43Gv",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "HNZ-RI",
+      "FullName": "Hrvatski Novi Zavjet – Rijeka 2001",
+      "HTMLMetadata": "",
+      "WebName": "www.lifecenterinternational.org",
+      "WebUrl": "https://www.lifecenterinternational.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 45,
+      "IsVisible": true,
+      "Language": "Dutch",
+      "LanguageCode": "nl",
+      "Title": "HTB, Het Boek",
+      "FileName": "HTB, Het Boek.sqlite3",
+      "FileSize": 13.0,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTrv5+9kYNnGbb1OtiykXgDpUxfPnM9Dvk3mT4aZEHdCI7g5q90U6CD+hWuLFW8VJZQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "HTB",
+      "FullName": "Het Boek",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 14,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "AKJV, Authorized King James Version",
+      "FileName": "AKJV, Authorized King James Version.sqlite3",
+      "FileSize": 14.1,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8eoH4ozDsMQIJhzxblKrpZ+ts5pHlZp6NAHpm+yIFnVE3ZoPkLWn/bwSDGQURPlX9ffy8kHEl0R2jBV9mugGCZtzsDsR4hAE0fOlVREt0WE+",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "AKJV",
+      "FullName": "Authorized King James Version",
+      "HTMLMetadata": "",
+      "WebName": "www.kingjamesbibleonline.org",
+      "WebUrl": "https://www.kingjamesbibleonline.org/",
+      "WebUrlTip": "https://www.cambridge.org/",
+      "BibleVersion": "AKJV, Authorized King James",
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 14,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "BBE, Bible in Basic English",
+      "FileName": "BBE, Bible in Basic English.sqlite3",
+      "FileSize": 12.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8aPswFTn+tv+4xUCIdAmFB9leNpM2fUDBgl2FVWm/RuQmHd58UppxPeALc9ZnpPqpP6Ojaefrdv3n7H8gB8Eg6U=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "BBE",
+      "FullName": "BBE, Bible in Basic English",
+      "HTMLMetadata": "",
+      "WebName": "ebible.org",
+      "WebUrl": "https://ebible.org/Scriptures/details.php?id=engBBE",
+      "WebUrlTip": "ebible.org",
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 14,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "WEB, World English Bible",
+      "FileName": "WEB, World English Bible.sqlite3",
+      "FileSize": 17.2,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8ZNaAPXG9GWIIGnUDux6HtaD07h2MNwd6NiN1996ySO5xbDDpVaZc8QBwiQRPgMzrxsi2YZsdQdIuajS6lfJL+w=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "WEB",
+      "FullName": "WEB, World English Bible",
+      "HTMLMetadata": "",
+      "WebName": "bibles.org",
+      "WebUrl": "https://bibles.org/versions/eng-WEB",
+      "WebUrlTip": "bibles.org",
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 14,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "WEBBE, World English Bible British Edition",
+      "FileName": "WEBBE, World English Bible British Edition.sqlite3",
+      "FileSize": 17.4,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8fq6yHaYCX9tou3FeDUtvD0uuVr3CugNh+ufd45eMn8DTc1vOUdipfoxBqAS/dIriOidaAZSiBCtabpMjKCiE04glRVvLpbSQWYq3JtZlYrl",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "WEBBE",
+      "FullName": "WEBBE, World English Bible British Edition",
+      "HTMLMetadata": "",
+      "WebName": "bibles.org",
+      "WebUrl": "https://bibles.org/versions/eng-WEB",
+      "WebUrlTip": "bibles.org",
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 14,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "YLT, Young's Literal Translation",
+      "FileName": "YLT, Young's Literal Translation.sqlite3",
+      "FileSize": 13.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8bI1CxGO5ywQ2ets9LDfCmRo3xxiRF55trKno7HPBlJiY/9xr0tPMGZo3Rgaz5g7/T6P4DBIGega6U+mf/B1O/A=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "YLT",
+      "FullName": "YLT, Young's Literal Translation",
+      "HTMLMetadata": "",
+      "WebName": "www.biblegateway.com",
+      "WebUrl": "https://www.biblegateway.com/",
+      "WebUrlTip": "www.biblegateway.com",
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 17,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "ASV, American Standard Version",
+      "FileName": "ASV, American Standard Version.sqlite3",
+      "FileSize": 13.0,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8fBJuKuaT6RFFLPoBKAJeZ1x1ZIIXTJwAzOdY3KVr5jUrFPGgP0lhswQAdqJbwCKmJydUuQidlFjXVyRprqwcjc=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "ASV",
+      "FullName": "American Standard Version",
+      "HTMLMetadata": "www.britannica.com",
+      "WebName": "britannica.com",
+      "WebUrl": "https://www.britannica.com/topic/American-Standard-Version",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 20,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "DARBY, Darby Translation (English)",
+      "FileName": "DARBY, Darby Translation (English).sqlite3",
+      "FileSize": 13.4,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8XMVHAMcMXpJElN5CZDKMyV04LVmR8j1pH7j8HeKtw1i/aklzbAPuerXChdcow+8iGEVRvrl7CW43nmcmtL2A+M=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "DARBY",
+      "FullName": "Darby Translation",
+      "HTMLMetadata": "",
+      "WebName": "www.goodreads.com",
+      "WebUrl": "https://www.goodreads.com/book/show/19227892-darby-translation-of-the-bible",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 39,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "KJV, King James Version (English)",
+      "FileName": "KJV, King James Version (English).sqlite3",
+      "FileSize": 13.6,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8QCAw9ZMZu5gCHncMS1MyvhhRdyDbAv1KnDYGDtHtHIFYTRsJtXcqqBBffp5ji6CTxPgWa43AWyJsg/t8iXkbBE=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "KJV",
+      "FullName": "King James Version",
+      "HTMLMetadata": "",
+      "WebName": "www.kingjamesbibleonline.org",
+      "WebUrl": "https://www.kingjamesbibleonline.org/",
+      "WebUrlTip": "https://www.cambridge.org/",
+      "BibleVersion": "KJV, King James Version",
+      "Json": null,
+      "BibleAudios": [
+        {
+          "Osis": "Gen",
+          "Url": "https://youtu.be/EiXQmeuHTOY",
+          "EmbeddedUrl": "https://www.youtube.com/embed/EiXQmeuHTOY"
+        },
+        {
+          "Osis": "Exod",
+          "Url": "https://youtu.be/rUWeZGSerC4",
+          "EmbeddedUrl": "https://youtu.be/rUWeZGSerC4"
+        },
+        {
+          "Osis": "Lev",
+          "Url": "https://youtu.be/sryNbaDJRlI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Num",
+          "Url": "https://youtu.be/sws2Yx423fM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Deut",
+          "Url": "https://youtu.be/VzuYt-C5y2g",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Josh",
+          "Url": "https://youtu.be/YEAcAk375JQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Judg",
+          "Url": "https://youtu.be/EX_GurpX4mE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ruth",
+          "Url": "https://youtu.be/MLt_kg9BUsU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Sam",
+          "Url": "https://youtu.be/q5gozWT1IMI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Sam",
+          "Url": "https://youtu.be/ofpT77YMF7g",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Kgs",
+          "Url": "https://youtu.be/qSDMeBRSOZQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Kgs",
+          "Url": "https://youtu.be/jGwG8zQhBMg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Chr",
+          "Url": "https://youtu.be/DU07ML7G2_0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Chr",
+          "Url": "https://youtu.be/cU9Q5CusYXk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezra",
+          "Url": "https://youtu.be/WO2Dfwbhk6U",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Neh",
+          "Url": "https://youtu.be/peTrO8Rrs-s",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Esth",
+          "Url": "https://youtu.be/i7rHVtQknXo",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Job",
+          "Url": "https://youtu.be/W9TqvqMjMoA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ps",
+          "Url": "https://youtu.be/7zEHZOx66j4",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Prov",
+          "Url": "https://youtu.be/liPJFT-5Bug",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eccl",
+          "Url": "https://youtu.be/KKDZSZTWPzk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Song",
+          "Url": "https://youtu.be/EeMsMc4XqCA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Isa",
+          "Url": "https://youtu.be/i4aDwZRovoI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Isa",
+          "Url": "https://youtu.be/i4aDwZRovoI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jer",
+          "Url": "https://youtu.be/7SS4o6zLh-I",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Lam",
+          "Url": "https://youtu.be/RmBsoqKlSxE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezek",
+          "Url": "https://youtu.be/nAr9jjhLO5k",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Dan",
+          "Url": "https://youtu.be/hVcy2fpQkX8",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hos",
+          "Url": "https://youtu.be/fQREnyOJm-0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Joel",
+          "Url": "https://youtu.be/wew6Sm8c6Co",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Amos",
+          "Url": "https://youtu.be/0cYWZHZthmM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Obad",
+          "Url": "https://youtu.be/rWWJmmSIh8I",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jonah",
+          "Url": "https://youtu.be/DQ1Fk-I8LFA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jonah",
+          "Url": "https://youtu.be/DQ1Fk-I8LFA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mic",
+          "Url": "https://youtu.be/Bh5G016Jci8",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Nah",
+          "Url": "https://youtu.be/RM87xhgqMZY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hab",
+          "Url": "https://youtu.be/fy6vPtug_tU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zeph",
+          "Url": "https://youtu.be/DC0sVZ-tU-k",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hag",
+          "Url": "https://youtu.be/1ZSmJhY6sC0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zech",
+          "Url": "https://youtu.be/fIfGIzEgHXU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mal",
+          "Url": "https://youtu.be/iG37sHaDdek",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Matt",
+          "Url": "https://youtu.be/j6ENtjQqgoA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mark",
+          "Url": "https://youtu.be/xcNj9f4oykU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Luke",
+          "Url": "https://youtu.be/k84RZNrRmHE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "John",
+          "Url": "https://youtu.be/SDqQY2qMMxw",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Acts",
+          "Url": "https://youtu.be/UL9dFDpMyio",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rom",
+          "Url": "https://youtu.be/tZ4ekulrEPk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Cor",
+          "Url": "https://youtu.be/Wfd0H87lU7k",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Cor",
+          "Url": "https://youtu.be/jeJMMVfSHFY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Gal",
+          "Url": "https://youtu.be/eUSTZJKH4II",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eph",
+          "Url": "https://youtu.be/eUSTZJKH4II",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phil",
+          "Url": "https://youtu.be/hXiRaCqjKQ0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Col",
+          "Url": "https://youtu.be/SDbEGdVma4I",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Thess",
+          "Url": "https://youtu.be/-lPTc6YCqiw",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Thess",
+          "Url": "https://youtu.be/Q6i8USBglgY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Tim",
+          "Url": "https://youtu.be/9cWN9LTthgo",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Tim",
+          "Url": "https://youtu.be/qZG_VCFVahQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Titus",
+          "Url": "https://youtu.be/v7zGj-cNa2Q",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phlm",
+          "Url": "https://youtu.be/Rd57ITYtML8",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Heb",
+          "Url": "https://youtu.be/8zpME3ES0-8",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jas",
+          "Url": "https://youtu.be/KDaTEunPrSw",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Pet",
+          "Url": "https://youtu.be/VW6P6ObOhtU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Pet",
+          "Url": "https://youtu.be/_3NVmin9KGU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1John",
+          "Url": "https://youtu.be/5omWZi83Cd8",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2John",
+          "Url": "https://youtu.be/10uixBD1fHQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "3John",
+          "Url": "https://youtu.be/lbP6wsFl9iM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jude",
+          "Url": "https://youtu.be/KR3y8Z5NSdA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rev",
+          "Url": "https://youtu.be/yHaPKGTu2hw",
+          "EmbeddedUrl": null
+        }
+      ]
+    },
+    {
+      "Id": 15,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "AMP, Amplified Bible (English)",
+      "FileName": "AMP, Amplified Bible (English).sqlite3",
+      "FileSize": 18.4,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZVW8t8ADoF69weu+U15Yc/EqiZyC6I5DupBPVh3svRabg==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "AMP",
+      "FullName": "Amplified Bible",
+      "HTMLMetadata": "",
+      "WebName": "www.lockman.org",
+      "WebUrl": "https://www.lockman.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 15,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "NIV, New International Version 2011",
+      "FileName": "NIV, New International Version 2011.sqlite3",
+      "FileSize": 18.4,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZXhbnjYonvnxKJEk/Okeq627LinZqXHTDT16jTvN5nAiQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "NIV",
+      "FullName": "New International Version 2011",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 16,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "AMPC, Amplified Bible Classic Edition",
+      "FileName": "AMPC, Amplified Bible Classic Edition.sqlite3",
+      "FileSize": 17.3,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZUGw+axPu34SPs1j4blU+k7BVj1Iki/VWkCX3HZRKGHjQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "AMPC",
+      "FullName": "Amplified Bible Classic Edition",
+      "HTMLMetadata": "",
+      "WebName": "www.lockman.org",
+      "WebUrl": "https://www.lockman.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 18,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "CEB, Common English Bible (English)",
+      "FileName": "CEB, Common English Bible (English).sqlite3",
+      "FileSize": 20.4,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZWUFnYG60ZFaQ7sgVs7ZiZlT7lfYpzSSpVNw/lFFMgAkg==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "CEB",
+      "FullName": "Common English Bible",
+      "HTMLMetadata": "",
+      "WebName": "www.commonenglishbible.com",
+      "WebUrl": "https://www.commonenglishbible.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 19,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "CEV, Contemporary English Version (English)",
+      "FileName": "CEV, Contemporary English Version (English).sqlite3",
+      "FileSize": 15.8,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZWOZflbmHlpMkPS3fx9lYn3WS/ezbksfOD5/xza//otpw==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "CEV",
+      "FullName": "Contemporary English Version",
+      "HTMLMetadata": "",
+      "WebName": "www.americanbible.org",
+      "WebUrl": "http://www.americanbible.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 38,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "ISV, International Standard Version (English)",
+      "FileName": "ISV, International Standard Version (English).sqlite3",
+      "FileSize": 23.8,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZU3Kdxk8W0ViMUZGSLb3WzDyBFG0HukHfpVHykqBPCXow==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ISV",
+      "FullName": "International Standard Version",
+      "HTMLMetadata": "",
+      "WebName": "www.davidsonpublishing.org",
+      "WebUrl": "https://www.davidsonpublishing.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 39,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "NKJV, New King James Version (English)",
+      "FileName": "NKJV, New King James Version (English)",
+      "FileSize": 16.8,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZVARy58wq+YE5PuemMnhCuXd/4aic6tSiaXfT36SUIdsA==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "NKJV",
+      "FullName": "New King James Version",
+      "HTMLMetadata": "",
+      "WebName": "www.kingjamesbibleonline.org",
+      "WebUrl": "https://www.kingjamesbibleonline.org/",
+      "WebUrlTip": "https://www.cambridge.org/",
+      "BibleVersion": "NKJV, New King James Version",
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 53,
+      "IsVisible": true,
+      "Language": "English",
+      "LanguageCode": "en",
+      "Title": "NASB, New American Standard Bible",
+      "FileName": "NASB, New American Standard Bible.sqlite3",
+      "FileSize": 39.4,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZWhVMuaoaEwvGejUNWQ/ZfMWu7BomVHJdQkQsRsly4yJQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "NASB",
+      "FullName": "New American Standard Bible",
+      "HTMLMetadata": "",
+      "WebName": "www.lockman.org",
+      "WebUrl": "https://www.lockman.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 22,
+      "IsVisible": true,
+      "Language": "French",
+      "LanguageCode": "fr",
+      "Title": "Bible Segond 1910 (French)",
+      "FileName": "Bible Segond 1910 (French).sqlite3",
+      "FileSize": 18.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8RBuD6Qpk0Dmu4s9NH/D4yLngielW864nxvD11RlvbFP6ITSqir+xpr3LbrHNnhSaw==",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "LSG",
+      "FullName": "Bible Segond 1910",
+      "HTMLMetadata": "",
+      "WebName": "www.la-bible.net/",
+      "WebUrl": "http://www.la-bible.net/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": [
+        {
+          "Osis": "Gen",
+          "Url": "https://youtu.be/t6XbZudHST0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Exod",
+          "Url": "https://youtu.be/nS8EEnZu2zk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Lev",
+          "Url": "https://youtu.be/QilMAVDbCkQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Num",
+          "Url": "https://youtu.be/2dwdcoy8n6s",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Deut",
+          "Url": "https://youtu.be/uOR9FEj43-I",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Josh",
+          "Url": "https://youtu.be/qG242STaRgM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Judg",
+          "Url": "https://youtu.be/2lUjleqcdGs",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ruth",
+          "Url": "https://youtu.be/dt22CdKrHjk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Sam",
+          "Url": "https://youtu.be/bKaWMgyMRS0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Sam",
+          "Url": "https://youtu.be/-B0I5y_5Axk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Kgs",
+          "Url": "https://youtu.be/5rrKX2_K0Zg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Kgs",
+          "Url": "https://youtu.be/rIJUwOtn8Mo",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Chr",
+          "Url": "https://youtu.be/glRSgSFzeyI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Chr",
+          "Url": "https://youtu.be/08mT5EP0YN4",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezra",
+          "Url": "https://youtu.be/pEhOKzM5XTY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Neh",
+          "Url": "https://youtu.be/K2dwQTU2rp0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Esth",
+          "Url": "https://youtu.be/rwxE5AlzB68",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Job",
+          "Url": "https://youtu.be/sw2EVhYIM88",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ps",
+          "Url": "https://youtu.be/B4zpsNKrTPM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Prov",
+          "Url": "https://youtu.be/HCBDVC83qtM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eccl",
+          "Url": "https://youtu.be/9noBuUs0G_c",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Song",
+          "Url": "https://youtu.be/zWhY-ynlUUM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Isa",
+          "Url": "https://youtu.be/mUTs8DOfuSw",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jer",
+          "Url": "https://youtu.be/IxEyKxy5Lps",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Lam",
+          "Url": "https://youtu.be/PhCk5QynlDQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezek",
+          "Url": "https://youtu.be/c7hp5tR5FRM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Dan",
+          "Url": "https://youtu.be/jv5SkIWxMvg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hos",
+          "Url": "https://youtu.be/cntN2CNFhds",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Joel",
+          "Url": "https://youtu.be/qSI7NENbJPM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Amos",
+          "Url": "https://youtu.be/jIeIeCCbxsA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Obad",
+          "Url": "https://youtu.be/DjvqfL4_7iM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jonah",
+          "Url": "https://youtu.be/vLhWGeektAg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mic",
+          "Url": "https://youtu.be/gDatI6QIdss",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Nah",
+          "Url": "https://youtu.be/0NEJRPG-8CI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hab",
+          "Url": "https://youtu.be/SWz-yVJ7Szw",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zeph",
+          "Url": "https://youtu.be/VlSQKt25FkY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hag",
+          "Url": "https://youtu.be/zD-HSc4KkRg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zech",
+          "Url": "https://youtu.be/hTlpHz4OX9Y",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mal",
+          "Url": "https://youtu.be/vCFePiCWsAY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Matt",
+          "Url": "https://youtu.be/JXu3HDmbBYU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mark",
+          "Url": "https://youtu.be/UqoYvQBj1hk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Luke",
+          "Url": "https://youtu.be/hs3JpuH1R1I",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "John",
+          "Url": "https://youtu.be/oDuvMthkmIE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Acts",
+          "Url": "https://youtu.be/DvzXL2DfgHs",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rom",
+          "Url": "https://youtu.be/xl1nwUr52Y4",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Cor",
+          "Url": "https://youtu.be/Cj3Eb9kErzs",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Cor",
+          "Url": "https://youtu.be/xDLO6Ksbv1k",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Gal",
+          "Url": "https://youtu.be/Qdii5fgpqxc",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eph",
+          "Url": "https://youtu.be/jkz-yyKCuMQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phil",
+          "Url": "https://youtu.be/rRdqsMQZ9SY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Col",
+          "Url": "https://youtu.be/Iwl9kz2xDWk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Thess",
+          "Url": "https://youtu.be/Ji7TDPQENEo",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Thess",
+          "Url": "https://youtu.be/ZFMG16yZFGU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Tim",
+          "Url": "https://youtu.be/2_t9u5OiXbI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Tim",
+          "Url": "https://youtu.be/MkjzuHH3ER4",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Titus",
+          "Url": "https://youtu.be/FP9W43PCb-g",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phlm",
+          "Url": "https://youtu.be/Jhru9xe-Q8U",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Heb",
+          "Url": "https://youtu.be/wX_h6BdTOLc",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jas",
+          "Url": "https://youtu.be/ewwbA47-W8o",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Pet",
+          "Url": "https://youtu.be/76m4unwNDEI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Pet",
+          "Url": "https://youtu.be/76m4unwNDEI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1John",
+          "Url": "https://youtu.be/OmCIymPjN0s",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2John",
+          "Url": "https://youtu.be/UkUjulXmbWI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "3John",
+          "Url": "https://youtu.be/0QtQtPoIf3E",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jude",
+          "Url": "https://youtu.be/2eBOG_o6WC4",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rev",
+          "Url": "https://youtu.be/p14g_2RUicM",
+          "EmbeddedUrl": null
+        }
+      ]
+    },
+    {
+      "Id": 22,
+      "IsVisible": true,
+      "Language": "French",
+      "LanguageCode": "fr",
+      "Title": "BDS, La Bible du Semeur (French)",
+      "FileName": "BDS, La Bible du Semeur (French).sqlite3",
+      "FileSize": 18.8,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZVzYZOS3UMQOijzwXbj2TlbQQnKIX906WjioK7IIyCXrw==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "BDS",
+      "FullName": "La Bible du Semeur",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 9,
+      "IsVisible": true,
+      "Language": "German",
+      "LanguageCode": "de",
+      "Title": "LB, Luther-1545",
+      "FileName": "LB, Luther-1545.sqlite3",
+      "FileSize": 17.0,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8TsxQpxMlDpHj/jhIa5OoybaZWXIhzn84kd531Sjf9jDwuDedKtspubgrXtr3d1MRg==",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "LB",
+      "FullName": "Luther-1545",
+      "HTMLMetadata": "",
+      "WebName": "newchristianbiblestudy.org",
+      "WebUrl": "https://newchristianbiblestudy.org/bible/german-luther-1545/info",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 9,
+      "IsVisible": true,
+      "Language": "German",
+      "LanguageCode": "de",
+      "Title": "SCH2000, Schlachter 2000 (German)",
+      "FileName": "SCH2000, Schlachter 2000 (German).sqlite3",
+      "FileSize": 17.0,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZVkbFUqALGCfREwGGqkJX/PUO27NLfp2EwVWTF6+iyi5w==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "SCH2000",
+      "FullName": "Schlachter 2000",
+      "HTMLMetadata": "",
+      "WebName": "www.bibelgesellschaft.com",
+      "WebUrl": "https://www.bibelgesellschaft.com/neu/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 11,
+      "IsVisible": true,
+      "Language": "Greek",
+      "LanguageCode": "el",
+      "Title": "TR1550, 1550 Stephanus New Testament (Greek)",
+      "FileName": "TR1550, 1550 Stephanus New Testament (Greek).sqlite3",
+      "FileSize": 4.37,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8bhORww755yCmaQilFDV9+z402IzXFs8XEuwFZdpjhEjhbMfCUV7rr9DJc4rzb5iHMu8TgQvQSzdITYG8745G+IaAUi8heKcRzAsPnRBCimS",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "TR1550",
+      "FullName": "1550 Stephanus New Testament",
+      "HTMLMetadata": "",
+      "WebName": "www.lueur.org",
+      "WebUrl": "https://www.lueur.org/bible/versions/stephanus-tr1550.html",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 12,
+      "IsVisible": true,
+      "Language": "Greek",
+      "LanguageCode": "el",
+      "Title": "TR1894, 1894 Scrivener New Testament (Greek)",
+      "FileName": "TR1894, 1894 Scrivener New Testament (Greek).sqlite3",
+      "FileSize": 4.37,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8YtoQ55WXqDHWaMlFX/DvQHkWdDr/MWV5FFYF7cdahyFTK9JySnUpYHXCubgx5RYWPmCN+VrS7chvzHR+uaKMkKcj4jfw2WTlc3RdhrDLFuc",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "TR1894",
+      "FullName": "1894 Scrivener New Testament",
+      "HTMLMetadata": "",
+      "WebName": "https://www.ccel.org/",
+      "WebUrl": "https://www.ccel.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 29,
+      "IsVisible": true,
+      "Language": "Haitian Creole",
+      "LanguageCode": "ht",
+      "Title": "HCV, Haitian Creole Version (Haitian Creole)",
+      "FileName": "HCV, Haitian Creole Version (Haitian Creole).sqlite3",
+      "FileSize": 13.5,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZXEk/J7z4/bxNyfuZkHGcvlYjanFWop6Sfbkl/0qTmtMw==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "HCV",
+      "FullName": "Haitian Creole Version",
+      "HTMLMetadata": "",
+      "WebName": "societebiblique-haiti.org",
+      "WebUrl": "http://societebiblique-haiti.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 23,
+      "IsVisible": true,
+      "Language": "Hausa",
+      "LanguageCode": "ha",
+      "Title": "HAU, Littafi Mai Tsarki (Hausa)",
+      "FileName": "HAU, Littafi Mai Tsarki (Hausa).sqlite3",
+      "FileSize": 12.7,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZVvTC4Mj1400yQgwtA1lOosgWcf2hxmoaPshe0apyTQTg==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "HAU",
+      "FullName": "Littafi Mai Tsarki",
+      "HTMLMetadata": "",
+      "WebName": "www.biblesociety-nigeria.org",
+      "WebUrl": "http://www.biblesociety-nigeria.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 25,
+      "IsVisible": true,
+      "Language": "Hebrew",
+      "LanguageCode": "he",
+      "Title": "WLC, The Westminster Leningrad Codex (Hebrew)",
+      "FileName": "WLC, The Westminster Leningrad Codex (Hebrew).sqlite3",
+      "FileSize": 12.2,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8Vr5ZTSfXnO8u56uOutdEQiqpiAOm4huK9r1bfbsSMsS/hdxbWATBNRHIewupQHavyv3rYAGereWrEnoWuqD0maEItWX7zV8dY4g/BBM3XZD",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "WLC",
+      "FullName": "The Westminster Leningrad Codex",
+      "HTMLMetadata": "",
+      "WebName": "dornsife.usc.edu",
+      "WebUrl": "https://dornsife.usc.edu/wsrp/leningrad-codex/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 24,
+      "IsVisible": true,
+      "Language": "Hebrew",
+      "LanguageCode": "he",
+      "Title": "HHH, Habrit HakhadashaHaderekh (Hebrew)",
+      "FileName": "HHH, Habrit HakhadashaHaderekh (Hebrew).sqlite3",
+      "FileSize": 3.85,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZXW4p9eVD4vSdUEyc9q7fATPWshDd/CQFExET0mcqcSfQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "HHH",
+      "FullName": "Habrit HakhadashaHaderekh",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 27,
+      "IsVisible": true,
+      "Language": "Hiligaynon",
+      "LanguageCode": "hil",
+      "Title": "HLGN, Ang Pulong Sang Dios (Hiligaynon)",
+      "FileName": "HLGN, Ang Pulong Sang Dios (Hiligaynon).sqlite3",
+      "FileSize": 16.6,
+      "Link": "m+5KpiahkEsP2yceeEJHMNQFsya9ATWERE+FQSWVPjdwi93VExygrkP+DE7IXHxW2dHoC93gQ1+WCaXvJH5CQUWjSQGWMPHOUeT37XSWT9QFyIEdBCo5cPNyJk2TZkQzq+pRunomrWdV5z5RKe5j7vrEt9shU8w+kZn99UctYNQ5QeRyQSxKVxcrDjrUoVQpNA4tVeIyjhyKoan1+UKsDhMtVIrrp1AFI01PbnNCn/UWR8QYotABgdhPeO8cPdeS+HPmbVNuSoNDtjRSg4RN+x5NlovOirQlkuiyZSBcUcTnvMPUTedXyk/n2EKIyNFjm+Xka3YJBpgUy0ohrnyFWGWICTCepATJRO+MUnBjlsg1IW+NvVHkPuDYyTjHrH/jKizIViqKFWOou8pLVuwc1EHjjv4HbHBUl4/vD+Jq0/Lt95GEGSSaYy8D+ySumK+0",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "HLGN",
+      "FullName": "Ang Pulong Sang Dios",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 26,
+      "IsVisible": true,
+      "Language": "Hindi",
+      "LanguageCode": "hi",
+      "Title": "ERVHI, Hindi Bible Easy-to-Read Version (Hindi)",
+      "FileName": "ERVHI, Hindi Bible Easy-to-Read Version (Hindi).sqlite3",
+      "FileSize": 33.55,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZWXrQlTezai9dZe4quNMy9uyuGtTY15AgH45HXPWg1mUw==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ERVHI",
+      "FullName": "Hindi Bible Easy-to-Read Version",
+      "HTMLMetadata": "",
+      "WebName": "www.bibleleague.org",
+      "WebUrl": "https://www.bibleleague.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 31,
+      "IsVisible": true,
+      "Language": "Igbo",
+      "LanguageCode": "ig",
+      "Title": "IGBOB, Bible Nso (Igbo)",
+      "FileName": "IGBOB, Bible Nso (Igbo).sqlite3",
+      "FileSize": 12.9,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKThwSMCzvOcPKmeLLkIYNSejgBRhhXbTOmLxALtf3TMgODV/v6UmtHiGGB2/wo6EtF9eeH4V27c/awRqKD1AFRdo=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "IGBOB",
+      "FullName": "Bible Nso",
+      "HTMLMetadata": "",
+      "WebName": "www.biblesociety-nigeria.org",
+      "WebUrl": "http://www.biblesociety-nigeria.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 32,
+      "IsVisible": true,
+      "Language": "Iloko",
+      "LanguageCode": "ilo",
+      "Title": "RIPV, Ti Baro a Naimbag a Damag Biblia (Iloko)",
+      "FileName": "RIPV, Ti Baro a Naimbag a Damag Biblia (Iloko).sqlite3",
+      "FileSize": 15.3,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTpCfG66NW7AoOUqd0GCkzuZfTLcR7UGCojsJotH9AorGe+Uaigy1JptGsp1Gcm9LnFTWVNIbHHpNG/O53s5RVfTveyVWl+z8seelJ1lwbZFg5lgrkTWbu+wpGapWfomRtA==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "RIPV",
+      "FullName": "Ti Baro a Naimbag a Damag Biblia",
+      "HTMLMetadata": "",
+      "WebName": "bible.org.ph",
+      "WebUrl": "https://bible.org.ph/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 30,
+      "IsVisible": true,
+      "Language": "Indonesian",
+      "LanguageCode": "id",
+      "Title": "BIMK, Alkitab dalam Bahasa Indonesia Masa Kini (Indonesian)",
+      "FileName": "BIMK, Alkitab dalam Bahasa Indonesia Masa Kini (Indonesian).sqlite3",
+      "FileSize": 14.2,
+      "Link": "aVEubmZHyke5Q2Fj3Add/6c5MTgT6OpmOan/SK7zzmTBkF04idf+yOMJWYQ80JT/r8p0JI7HevVk/aqF7Z+A2Uqt9mczDJWD3yPUlFkOkuIfZpWBTPuWYwbGxO9EGqYEvtNnKj+zH4dGwiFOtgKshA==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "BIMK",
+      "FullName": "Alkitab dalam Bahasa Indonesia Masa Kini",
+      "HTMLMetadata": "",
+      "WebName": "www.alkitab.or.id",
+      "WebUrl": "https://www.alkitab.or.id/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 33,
+      "IsVisible": true,
+      "Language": "Italian",
+      "LanguageCode": "it",
+      "Title": "NR2006, Nuova Riveduta 2006 (Italian)",
+      "FileName": "NR2006, Nuova Riveduta 2006 (Italian).sqlite3",
+      "FileSize": 16.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTjfdDFx0NwuUdJwew+b9MNe9uO7T3vRskGqrqOChR5IojCok2UlgwjH2Cit9D7AL3wsDossv4smwIx+Et5IR342LKy/UOWEDDPa8d3uWUQbJ",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "NR2006",
+      "FullName": "NR2006, Nuova Riveduta 2006",
+      "HTMLMetadata": "",
+      "WebName": "www.bible-society.org",
+      "WebUrl": "https://www.bible-society.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 34,
+      "IsVisible": true,
+      "Language": "Jarai",
+      "LanguageCode": "jra",
+      "Title": "JNT, Jarai NT (Jarai)",
+      "FileName": "JNT, Jarai NT (Jarai).sqlite3",
+      "FileSize": 3.94,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTufA0AcHvacSXHg1uNroaUTAR00wbRBga0qq4nWJVk00NQ1ImBvdzoK8Q8Yx76yMfg==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "JNT",
+      "FullName": "Jarai NT",
+      "HTMLMetadata": "",
+      "WebName": "biblesociety.org.nz",
+      "WebUrl": "https://biblesociety.org.nz/vietnams-ethnic-minorities-long-for-the-bible/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 52,
+      "IsVisible": true,
+      "Language": "Kinyarwanda",
+      "LanguageCode": "rw",
+      "Title": "BYSB, Bibiliya Yera (Kinyarwanda)",
+      "FileName": "BYSB, Bibiliya Yera (Kinyarwanda).sqlite3",
+      "FileSize": 12.2,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTkas0ueS5vQ4ql3vdnHU5czbw3Bae4NtrwrNw8kQBjZbJdahL30Qzd2sC/Cr1RNZxVehfYNdXfemWNxDNZRKGus=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "BYSB",
+      "FullName": "Bibiliya Yera",
+      "HTMLMetadata": "",
+      "WebName": "biblesociety-rwanda.org",
+      "WebUrl": "https://biblesociety-rwanda.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 37,
+      "IsVisible": true,
+      "Language": "Korean",
+      "LanguageCode": "ko",
+      "Title": "KB, Korean Bible (Korean)",
+      "FileName": "KB, Korean Bible.sqlite3",
+      "FileSize": 18.0,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8TsxQpxMlDpHj/jhIa5OoyaVeAs1BOe6bmEGsGxumzi2w3b6Gzb0OiFa6HpKw/TSmA==",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "KB",
+      "FullName": "Korean Bible",
+      "HTMLMetadata": "",
+      "WebName": "Christian Nations",
+      "WebUrl": "https://christian-nations.github.io/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 37,
+      "IsVisible": true,
+      "Language": "Korean",
+      "LanguageCode": "ko",
+      "Title": "RNKSV, Revised New Korean Standard Version (Korean)",
+      "FileName": "RNKSV, Revised New Korean Standard Version (Korean).sqlite3",
+      "FileSize": 18.0,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTl+C+IFkyedo1kubAjDHwGpC/8zkjDmoibYkOEZSKPXdJ+fk+UqoAeNyZqDTzalX1DdtUpYXFJvmSR9QC0JS/gCuaNj62Sc2BNDE1nfpDlgftyDNAjvL5rZnp8I1cd6W0w==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "RNKSV",
+      "FullName": "Revised New Korean Standard Version",
+      "HTMLMetadata": "",
+      "WebName": "www.koreanbible.or.kr/koreanbible",
+      "WebUrl": "http://www.koreanbible.or.kr/koreanbible/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 35,
+      "IsVisible": true,
+      "Language": "Kwanyama",
+      "LanguageCode": "kua",
+      "Title": "OKYB, Ombibeli Iyapuki (Kwanyama).sqlite3",
+      "FileName": "OKYB, Ombibeli Iyapuki (Kwanyama).sqlite3",
+      "FileSize": 12.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTgDQh5rsL7j8JBH8Z6CsSsXvnmZz/2Iq5WVZCVQzOt+5IVYLvg9np8voK57GJfc6Cu2ccxXC+RDaQu4F0XN25h8=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "OKYB",
+      "FullName": "Ombibeli Iyapuki",
+      "HTMLMetadata": "",
+      "WebName": "www.nambible.org.na",
+      "WebUrl": "http://www.nambible.org.na/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 54,
+      "IsVisible": true,
+      "Language": "Latin",
+      "LanguageCode": "la",
+      "Title": "VULGATE, Biblia Sacra Vulgata",
+      "FileName": "VULGATE, Biblia Sacra Vulgata.sqlite3",
+      "FileSize": 14.0,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8bF/FDvcZ77/qVPdHPTEmXgKZRTR52468OvOYbh0orddnG5yOHdkc9xyYc2suzV2DJ0RKXjHOuS1KPZrPyN6DGI=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "VULGATE",
+      "FullName": "Biblia Sacra Vulgata",
+      "HTMLMetadata": "",
+      "WebName": "www.britannica.com",
+      "WebUrl": "https://www.britannica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 2,
+      "IsVisible": true,
+      "Language": "Malay",
+      "LanguageCode": "ms",
+      "Title": "BMD, Alkitab Berita Baik",
+      "FileName": "BMD, Alkitab Berita Baik.sqlite3",
+      "FileSize": 17.3,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZW1BOmUzNQucbsWZSKDGZ3+8/X0HK08DJ5XJu7uEaRhRQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "BMD",
+      "FullName": "Alkitab Berita Baik",
+      "HTMLMetadata": "",
+      "WebName": "bibles.org",
+      "WebUrl": "http://bibles.org",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 54,
+      "IsVisible": true,
+      "Language": "Maori",
+      "LanguageCode": "mi",
+      "Title": "MAORI, Maori Bible",
+      "FileName": "MAORI, Maori Bible.sqlite3",
+      "FileSize": 18.7,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8QJHV0HliiYQiVZEbQr41hXq6R/9joFMVT8L1qi9JGz/P/mt/UK9CkLqYVqar2Xj8A==",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "MAORI",
+      "FullName": "Maori Bible",
+      "HTMLMetadata": "",
+      "WebName": "biblesociety.org.nz",
+      "WebUrl": "https://biblesociety.org.nz/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 43,
+      "IsVisible": true,
+      "Language": "Marathi",
+      "LanguageCode": "mr",
+      "Title": "ERVMR, Marathi Bible Easy to Read Version",
+      "FileName": "ERVMR, Marathi Bible Easy to Read Version.sqlite3",
+      "FileSize": 32.99,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdbuMeS2m7q5C9bcqEkvWNEXiP68TV75VQ8U9N0MysPmpP3SsDdGZNFKjh/VMyicXQFmVezCZiCyV/Mjre3qZ8qQrQA2cH68LSpWmDrIyjG/Sw==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ERVMR",
+      "FullName": "Marathi Bible Easy to Read Version",
+      "HTMLMetadata": "",
+      "WebName": "www.bibleleague.org",
+      "WebUrl": "https://www.bibleleague.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 36,
+      "IsVisible": true,
+      "Language": "Mountain Koiali",
+      "LanguageCode": "kpx",
+      "Title": "KPXNT, Iesu Keliso Hotoe Tumu (Mountain Koiali)",
+      "FileName": "KPXNT, Iesu Keliso Hotoe Tumu (Mountain Koiali).sqlite3",
+      "FileSize": 3.56,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTtmAP0HC6/r9sG3w7RWmElc3O4T6e2ojPyTBveBf4gHgmGPLOmToQXtY5lcU7djQcXEMgVrq/tCDXU+xzuT9tRF2m+qWuzGE4069hL5MefR7",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "KPXNT",
+      "FullName": "Iesu Keliso Hotoe Tumu",
+      "HTMLMetadata": "",
+      "WebName": "www.wycliffe.org",
+      "WebUrl": "http://www.wycliffe.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 44,
+      "IsVisible": true,
+      "Language": "Ndonga",
+      "LanguageCode": "ng",
+      "Title": "ONDB, Ombiimbeli Ondjapuki",
+      "FileName": "ONDB, Ombiimbeli Ondjapuki.sqlite3",
+      "FileSize": 12.7,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTs5MOyCcyencIMo1tlCmwvegN9jDrUjnnWILhmKcIO0O3Bd3yorIfDiWRA4uE4/ob28HMmrg0rJiHmPq7uWr0Ys=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ONDB",
+      "FullName": "Ombiimbeli Ondjapuki",
+      "HTMLMetadata": "",
+      "WebName": "www.nambible.org.na",
+      "WebUrl": "http://www.nambible.org.na/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 40,
+      "IsVisible": true,
+      "Language": "Nepali",
+      "LanguageCode": "ne",
+      "Title": "ERVNE, Nepali Bible Easy to Read Version",
+      "FileName": "ERVNE, Nepali Bible Easy to Read Version.sqlite3",
+      "FileSize": 34.7,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdbuMeS2m7q5C9bcqEkvWNEXiP68TV75VQ8U9N0MysPmpP3SsDdGZNFKjh/VMyicXQHPO1/nULj2bgB3h9PX/OSTUrBAtNXG5jFnVG5nXjtgzw==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ERVNE",
+      "FullName": "Nepali Bible Easy to Read Version",
+      "HTMLMetadata": "",
+      "WebName": "www.bibleleague.org",
+      "WebUrl": "https://www.bibleleague.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 47,
+      "IsVisible": true,
+      "Language": "Northern Sotho",
+      "LanguageCode": "ns",
+      "Title": "NSO00, BIBELE Taba yea Botse",
+      "FileName": "NSO00, BIBELE Taba yea Botse.sqlite3",
+      "FileSize": 14.5,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTu2xhPQ68hebOCdjyA7lQNsM7qH0dMoLh2zB5w+Wrl0JDu1v+HGgplyOd41ZxAQ0waK4xlIdr1a5O27QwqZF6yE=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "NSO00",
+      "FullName": "BIBELE Taba yea Botse",
+      "HTMLMetadata": "",
+      "WebName": "www.biblesociety.co.za",
+      "WebUrl": "http://www.biblesociety.co.za/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 54,
+      "IsVisible": true,
+      "Language": "Norwegian",
+      "LanguageCode": "no",
+      "Title": "DNB1930, Det Norsk Bibelselskap 1930",
+      "FileName": "DNB1930, Det Norsk Bibelselskap 1930.sqlite3",
+      "FileSize": 18.7,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8Upq5wmpXlo6/s+4HFeGuwVEwWaGCVvrEumVIY60rmNzoLbN9dVOl1dTlRSrh8yEDU4VsY3QCm5kR4vbOAcFdMMBlvwWdD5DA6sH9EmF+tn7",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "DNB1930",
+      "FullName": "Det Norsk Bibelselskap 1930",
+      "HTMLMetadata": "",
+      "WebName": "newchristianbiblestudy.org",
+      "WebUrl": "https://newchristianbiblestudy.org/bible/norwegian/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 41,
+      "IsVisible": true,
+      "Language": "Norwegian Bokmål",
+      "LanguageCode": "nb",
+      "Title": "SND12, IsiNdebele 2012 Translation",
+      "FileName": "SND12, IsiNdebele 2012 Translation.sqlite3",
+      "FileSize": 14.6,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZW3vn6VzrodUKhb/Zq3FKaVMIAPyOs7uQIe8PRMiFqrgQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "SND12",
+      "FullName": "IsiNdebele 2012 Translation",
+      "HTMLMetadata": "",
+      "WebName": "biblesociety.co.za",
+      "WebUrl": "https://biblesociety.co.za/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 48,
+      "IsVisible": true,
+      "Language": "Oriya",
+      "LanguageCode": "or",
+      "Title": "ERVOR, Oriya Bible Easy-to-Read Version",
+      "FileName": "ERVOR, Oriya Bible Easy-to-Read Version.sqlite3",
+      "FileSize": 34.67,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZXnCFNoRGI506zc65oX8Kvobjk1TVZeKOW8+lUim+W2MQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ERVOR",
+      "FullName": "Oriya Bible Easy-to-Read Version",
+      "HTMLMetadata": "",
+      "WebName": "worldcat.org",
+      "WebUrl": "http://worldcat.org/identities/lccn-n84173729/",
+      "WebUrlTip": "World Bible Translation Center",
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 53,
+      "IsVisible": true,
+      "Language": "Portuguese",
+      "LanguageCode": "pt",
+      "Title": "PHB, Portuguese HTML Bible",
+      "FileName": "PHB, Portuguese HTML Bible.sqlite3",
+      "FileSize": 13.7,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8TsxQpxMlDpHj/jhIa5OoyZ2/J1u1ZjLtV8kmhFvZbFJnapw1+G/7vd8p93snJvCpQbgjQUcg3a6gvCZRxucsno=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "PHB",
+      "FullName": "PHB, Portuguese HTML Bible",
+      "HTMLMetadata": "",
+      "WebName": "www.johnhurt.com",
+      "WebUrl": "http://www.johnhurt.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 49,
+      "IsVisible": true,
+      "Language": "Portuguese",
+      "LanguageCode": "pt",
+      "Title": "ARC09, Edição Revista e Corrigida de João Ferreira de Almeida",
+      "FileName": "ARC09, Edição Revista e Corrigida de João Ferreira de Almeida.sqlite3",
+      "FileSize": 12.8,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZVSeMuwDy8JCJGwPfAMziz+ZN+EsiZuXO5B/d0Eu7yyqQ==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ARC09",
+      "FullName": "Edição Revista e Corrigida de João Ferreira de Almeida",
+      "HTMLMetadata": "",
+      "WebName": "biblia.sbb.org.br",
+      "WebUrl": "https://biblia.sbb.org.br/almeida-revista-e-corrigida",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 51,
+      "IsVisible": true,
+      "Language": "Russian",
+      "LanguageCode": "ru",
+      "Title": "NRT, New Russian Translation",
+      "FileName": "NRT, New Russian Translation.sqlite3",
+      "FileSize": 22.6,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTlKCp4q2iuzMTM4Yfq+NcGJQhVfaUEn+VCbx879bmFKC6NUzjWJtTR/KyoRBbL/S3s4umcGNxBiguEbPxV+V0fg=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "NRT",
+      "FullName": "New Russian Translation",
+      "HTMLMetadata": "",
+      "WebName": "www.biblica.com",
+      "WebUrl": "https://www.biblica.com/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 56,
+      "IsVisible": true,
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "Title": "RVR09, Reina Valera (1909).sqlite3",
+      "FileName": "RVR09, Reina Valera (1909).sqlite3",
+      "FileSize": 32.5,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8TsxQpxMlDpHj/jhIa5OoyZhr8D1Aq2kQYauwA6nwCF2FGsxjtWttUYX0WS4UKdva0Nkw8tWyRb5tjXBup/cPW4=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "RVR09",
+      "FullName": "Reina Valera (1909)",
+      "HTMLMetadata": null,
+      "WebName": "americanbible.org",
+      "WebUrl": "https://americanbible.org/",
+      "WebUrlTip": "American Bible Society",
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 21,
+      "IsVisible": true,
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "Title": "BL92, Buku Lopatulika 1992 (Spanish)",
+      "FileName": "BL92, Buku Lopatulika 1992 (Spanish).sqlite3",
+      "FileSize": 12.3,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTvI6mLGrS2/B6kzUvuTAva7qoZIJ8qK1xMCCFG/348fBbkkPG0EBkhS82SvOkfZQHse0zrfD01uqzGn7Ezy0TLc=",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "BL92",
+      "FullName": "Buku Lopatulika 1992",
+      "HTMLMetadata": "",
+      "WebName": "www.biblesociety-malawi.org",
+      "WebUrl": "http://www.biblesociety-malawi.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 56,
+      "IsVisible": true,
+      "Language": "Spanish",
+      "LanguageCode": "es",
+      "Title": "RVR60, Biblia Reina Valera 1960.sqlite3",
+      "FileName": "RVR60, Biblia Reina Valera 1960.sqlite3",
+      "FileSize": 14.3,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZXdzfpANdve2+Z82xarEOq+lhxn9s7lu3s3lCMLz6TYmw==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "RVR60",
+      "FullName": "Biblia Reina Valera 1960",
+      "HTMLMetadata": null,
+      "WebName": "americanbible.org",
+      "WebUrl": "https://americanbible.org/",
+      "WebUrlTip": "American Bible Society",
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 53,
+      "IsVisible": true,
+      "Language": "Swahili",
+      "LanguageCode": "sw",
+      "Title": "SUV, Swahili Union Version",
+      "FileName": "SUV, Swahili Union Version.sqlite3",
+      "FileSize": 14.1,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZUVjdMPL8qLHOnpW6alTOXky4dck9kseG4SrolN++dDrg==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "SUV",
+      "FullName": "SUV, Swahili Union Version",
+      "HTMLMetadata": "",
+      "WebName": "biblesociety-kenya.org",
+      "WebUrl": "https://biblesociety-kenya.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 54,
+      "IsVisible": true,
+      "Language": "Tagalog",
+      "LanguageCode": "tl",
+      "Title": "ADB1905, Ang Dating Biblia (1905) (Tagalog)",
+      "FileName": "ADB1905, Ang Dating Biblia (1905) (Tagalog).sqlite3",
+      "FileSize": 15.6,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8UrsQD81ZtTO6thWBGs+sYEP/yx+W/XeTOTiQDAmI5VHLXmERBzR21ZTQNW24AXfzTJR0AijNZyQcyen3IIHJ4U8g9R++i5zu5BZJxEctrY/",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "ADB1905",
+      "FullName": "Ang Dating Biblia (1905)",
+      "HTMLMetadata": "<div class=\"long-heading\">            <span class=\"bread-crumb\"><span class=\"left-arrow\">◀</span><a href=\"/versions\">Versions </a> /           Ang Dating Biblia (1905)           (ADB1905)            </span>    </div>    <div class=\"publisher-link\">        <span class=\"publisher\">      Publisher: <a href=\"https://support.biblegateway.com/entries/32920140-How-do-I-get-permission-to-use-content-on-your-website-\">Public Domain</a>      </span>    </div>    <div class=\"version-info-main\">        <div class=\"version-info-content\">            <div class=\"vinfo-content\" style=\"visibility: visible; opacity: 1;\">                <h2>Version Information</h2>                <p>                  No version information available.                </p>            </div>",
+      "WebName": "bible.org.ph",
+      "WebUrl": "https://bible.org.ph/",
+      "WebUrlTip": "Philippine Bible Society",
+      "BibleVersion": "ADB1905, Ang Dating Biblia (1905)",
+      "Json": null,
+      "BibleAudios": [
+        {
+          "Osis": "Gen",
+          "Url": "https://youtu.be/ZCmxdlLSZlU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Exod",
+          "Url": "https://youtu.be/qFa0jjqyg6Q",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Lev",
+          "Url": "https://youtu.be/xgbb289Tlb0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Num",
+          "Url": "https://youtu.be/GkToT99C19o",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Deut",
+          "Url": "https://youtu.be/QwXzIFO9W_M",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Josh",
+          "Url": "https://youtu.be/bOahEpbOmqI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Judg",
+          "Url": "https://youtu.be/WRT-mFxjZN8",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ruth",
+          "Url": "https://youtu.be/nMCLtmDgEgQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Sam",
+          "Url": "https://youtu.be/4uFc6ufT3UY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Sam",
+          "Url": "https://youtu.be/3yh1ZYu3KZs",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Kgs",
+          "Url": "https://youtu.be/dPbyR8gwKQE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Kgs",
+          "Url": "https://youtu.be/jQa3vSe-1QQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Chr",
+          "Url": "https://youtu.be/0PPkTjLnI-I",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Chr",
+          "Url": "https://youtu.be/vO93tet2-6w",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezra",
+          "Url": "https://youtu.be/5Wyncny4oV0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Neh",
+          "Url": "https://youtu.be/t0h7LjdBdcA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Esth",
+          "Url": "https://youtu.be/cJjR5xM6mbg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Job",
+          "Url": "https://youtu.be/GkIy9EAlT-M",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ps",
+          "Url": "https://youtu.be/CcVFNd_NCqY",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Prov",
+          "Url": "https://youtu.be/FOUCfxkFYUk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eccl",
+          "Url": "https://youtu.be/c7IuvHd4xkI",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Song",
+          "Url": "https://youtu.be/_wqFc3iTRcA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Isa",
+          "Url": "https://youtu.be/96oZEI0Qb6k",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jer",
+          "Url": "https://youtu.be/AHMDV1eco_c",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Lam",
+          "Url": "https://youtu.be/z6qWtcCl_gQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Ezek",
+          "Url": "https://youtu.be/JLMGAPHYvUM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Dan",
+          "Url": "https://youtu.be/1fhTwxECtHw",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hos",
+          "Url": "https://youtu.be/i4TxjxsiWO0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Joel",
+          "Url": "https://youtu.be/eZaLWkLpsDs",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Amos",
+          "Url": "https://youtu.be/hfLZt5efNp4",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Obad",
+          "Url": "https://youtu.be/2xPkk9NDmiM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jonah",
+          "Url": "https://youtu.be/HVUNTho2M3Q",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mic",
+          "Url": "https://youtu.be/i1boeyI8ryU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Nah",
+          "Url": "https://youtu.be/61mZIsqggXg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hab",
+          "Url": "https://youtu.be/VIwX59S9oh0",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zeph",
+          "Url": "https://youtu.be/M-3NMfdTCW8",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Hag",
+          "Url": "https://youtu.be/T42D1mR8ieE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Zech",
+          "Url": "https://youtu.be/rl3_LUJki_Q",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mal",
+          "Url": "https://youtu.be/GgYlwI5NG2o",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Matt",
+          "Url": "https://youtu.be/GkmBjLedxiU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Mark",
+          "Url": "https://youtu.be/HCdhkOFbN1E",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Luke",
+          "Url": "https://youtu.be/A_kVCU5vf0k",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "John",
+          "Url": "https://youtu.be/PQIFde1gxi4",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Acts",
+          "Url": "https://youtu.be/TJtrvI7SmrE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rom",
+          "Url": "https://youtu.be/AgmHwKF-g78",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Cor",
+          "Url": "https://youtu.be/e6k5dZyB-dc",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Cor",
+          "Url": "https://youtu.be/5lDLc0o-I8M",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Gal",
+          "Url": "https://youtu.be/zulWDMfdDpE",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Eph",
+          "Url": "https://youtu.be/QXPLQE2WVps",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phil",
+          "Url": "https://youtu.be/UXhHqHhi020",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Col",
+          "Url": "https://youtu.be/pzftV1de2RM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Thess",
+          "Url": "https://youtu.be/P62mKa4K5cg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Thess",
+          "Url": "https://youtu.be/N7JA8r3PkGg",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Tim",
+          "Url": "https://youtu.be/45mAvOepUnU",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Tim",
+          "Url": "https://youtu.be/3ks9YfpJyPQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Titus",
+          "Url": "https://youtu.be/xr0vkMv4w9s",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Phlm",
+          "Url": "https://youtu.be/z53-dclsoSA",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Heb",
+          "Url": "https://youtu.be/DY4q5juvZmQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jas",
+          "Url": "https://youtu.be/-SQxMvc0ARM",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1Pet",
+          "Url": "https://youtu.be/oySFaHaqr2Y",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2Pet",
+          "Url": "https://youtu.be/bQuFXwOWbGs",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "1John",
+          "Url": "https://youtu.be/rG2FtLEtHXk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "2John",
+          "Url": "https://youtu.be/NIMfWo0dGmk",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "3John",
+          "Url": "https://youtu.be/xO5fIz6xqnQ",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Jude",
+          "Url": "https://youtu.be/fgiWZ0_UWTs",
+          "EmbeddedUrl": null
+        },
+        {
+          "Osis": "Rev",
+          "Url": "https://youtu.be/LyawogxWBg8",
+          "EmbeddedUrl": null
+        }
+      ]
+    },
+    {
+      "Id": 53,
+      "IsVisible": true,
+      "Language": "Tamil",
+      "LanguageCode": "ta",
+      "Title": "ERV-TA, Tamil Bible Easy2Read Version",
+      "FileName": "ERV-TA, Tamil Bible Easy2Read Version.sqlite3",
+      "FileSize": 18.7,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZWVN0eZzl3QndSBXC+JRXM+ZFhDSlBUFoQPTz2QGTkmvA==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "ERV-TA",
+      "FullName": "Tamil Bible Easy2Read Version",
+      "HTMLMetadata": "",
+      "WebName": "www.bibleleague.org",
+      "WebUrl": "https://www.bibleleague.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 54,
+      "IsVisible": true,
+      "Language": "Tongan",
+      "LanguageCode": "to",
+      "Title": "RWV, Tongan Bible (Revised West Version)",
+      "FileName": "RWV, Tongan Bible (Revised West Version).sqlite3",
+      "FileSize": 18.7,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8adYA9QFcZI2OGo01y8+gFdjmwD2Jsamt5eoijWTjtilLPzALZr6epk1xfw1QadUQGwMHRImYwpuXoiBzB+Qm6bpDcUyNhepzQnJ4VEZMYMi",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "RWV",
+      "FullName": "Tongan Bible (Revised West Version)",
+      "HTMLMetadata": "",
+      "WebName": "www.aionianbible.org",
+      "WebUrl": "https://www.aionianbible.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 53,
+      "IsVisible": true,
+      "Language": "Tswana",
+      "LanguageCode": "tsn",
+      "Title": "TSW70, BEIBELE",
+      "FileName": "TSW70, BEIBELE.sqlite3",
+      "FileSize": 15.3,
+      "Link": "aVEubmZHyke5Q2Fj3Add/52/ObTOjoVcqRpYqMAbqdYwMSAlEW/iwk+g8WHJgIm/150F2C4C3i2Eq7hEsmL/qpLeE9fsObYyTE0sdwjxNZXotkNdzoPr396TDdvrleTpgjNMOBRad0//e0tM+EXPLA==",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "TSW70",
+      "FullName": "TSW70, BEIBELE",
+      "HTMLMetadata": "",
+      "WebName": "bibles.org",
+      "WebUrl": "http://bibles.org/versions/tsn-TSW70",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 53,
+      "IsVisible": true,
+      "Language": "Vietnamese",
+      "LanguageCode": "vi",
+      "Title": "VIET, 1934 Vietnamese Bible",
+      "FileName": "VIET, 1934 Vietnamese Bible.sqlite3",
+      "FileSize": 14.8,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8aBmBq8vnC0kvnGlUU6ml2/n8H0hBqubIG0DUSjZeNUaMWKp4CFvgmYeXZq2bgSrRP1/UOcx99LVGd03AO4FMd0=",
+      "FilePath": null,
+      "Copyright": 0,
+      "CopyrightNotes": null,
+      "Name": "VIET",
+      "FullName": "VIET, 1934 Vietnamese Bible",
+      "HTMLMetadata": "",
+      "WebName": "www.bible-discovery.com",
+      "WebUrl": "http://www.bible-discovery.com/bible-license-viet.php",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    },
+    {
+      "Id": 53,
+      "IsVisible": true,
+      "Language": "Vietnamese",
+      "LanguageCode": "vi",
+      "Title": "BPT, Vietnamese Bible Easy-to-Read Version",
+      "FileName": "BPT, Vietnamese Bible Easy-to-Read Version.sqlite3",
+      "FileSize": 18.7,
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdojfVrJfCjFyX1rF2umeKTm+687PL9W6IvJjx3kcDaecAnK4HfH/XlQHLzCCtDD/YD3wXhcKVhoe3O0YB40EJxfD4EcBj2QzRmOHApcU1D+TvwgxnJ2zxrfn0kYMF4O3E",
+      "FilePath": null,
+      "Copyright": 1,
+      "CopyrightNotes": null,
+      "Name": "BPT",
+      "FullName": "Vietnamese Bible Easy-to-Read Version",
+      "HTMLMetadata": "",
+      "WebName": "www.bibleleague.org",
+      "WebUrl": "https://www.bibleleague.org/",
+      "WebUrlTip": null,
+      "BibleVersion": null,
+      "Json": null,
+      "BibleAudios": null
+    }
+  ]
+}
