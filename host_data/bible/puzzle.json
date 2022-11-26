@@ -2,1579 +2,1594 @@
   "Title": null,
   "Items": [
     {
-      "Book": "Jer 10:23-24"
-    },
-    {
-      "Book": "Rom 6:12"
-    },
-    {
-      "Book": "1Cor 5:10"
-    },
-    {
-      "Book": "Hag 1:6-7"
-    },
-    {
-      "Book": "Heb 4:14"
-    },
-    {
-      "Book": "Gen 1:28"
-    },
-    {
-      "Book": "Jas 5:11"
-    },
-    {
-      "Book": "Acts 1:8"
-    },
-    {
-      "Book": "Prov 1:7"
-    },
-    {
-      "Book": "Phil 2:9-10"
-    },
-    {
-      "Book": "John 3:13"
-    },
-    {
-      "Book": "Matt 23:8"
-    },
-    {
-      "Book": "Heb 11:6"
-    },
-    {
-      "Book": "Deut 13:3"
-    },
-    {
-      "Book": "2Cor 5:21"
-    },
-    {
-      "Book": "Matt 4:4"
-    },
-    {
-      "Book": "1Tim 1:2"
-    },
-    {
-      "Book": "Prov 13:24"
-    },
-    {
-      "Book": "Rev 22:18-19"
-    },
-    {
-      "Book": "1Thess 5:23"
-    },
-    {
-      "Book": "1Tim 6:19"
-    },
-    {
-      "Book": "Heb 1:3"
-    },
-    {
-      "Book": "John 21:5"
-    },
-    {
-      "Book": "Matt 5:36"
-    },
-    {
-      "Book": "Isa 48:13"
-    },
-    {
-      "Book": "1Cor 7:27"
-    },
-    {
-      "Book": "Eph 5:19"
-    },
-    {
-      "Book": "Phil 2:12"
-    },
-    {
-      "Book": "Matt 6:19-21"
-    },
-    {
-      "Book": "Ps 12:6-7"
-    },
-    {
-      "Book": "Matt 10:1"
-    },
-    {
-      "Book": "Gal 3:24-25"
-    },
-    {
-      "Book": "Luke 1:37"
-    },
-    {
-      "Book": "Josh 1:8"
-    },
-    {
-      "Book": "1Cor 6:9-10"
-    },
-    {
-      "Book": "Prov 16:31"
-    },
-    {
-      "Book": "Rom 8:24"
-    },
-    {
-      "Book": "Eph 2:5"
-    },
-    {
-      "Book": "Prov 13:1"
-    },
-    {
-      "Book": "Heb 10:36-38"
-    },
-    {
-      "Book": "Gal 5:16-18"
-    },
-    {
-      "Book": "Ps 71:22"
-    },
-    {
-      "Book": "2Pet 2:3"
-    },
-    {
-      "Book": "1John 3:20"
-    },
-    {
-      "Book": "Gal 6:6"
-    },
-    {
-      "Book": "Heb 8:13"
-    },
-    {
-      "Book": "Matt 5:28"
-    },
-    {
-      "Book": "Phil 3:20"
-    },
-    {
-      "Book": "Mark 12:10"
-    },
-    {
-      "Book": "Isa 52:10"
-    },
-    {
-      "Book": "Rom 5:12"
-    },
-    {
-      "Book": "John 3:5"
-    },
-    {
-      "Book": "Heb 4:15-16"
-    },
-    {
-      "Book": "Acts 2:38"
-    },
-    {
-      "Book": "Ps 136:12"
-    },
-    {
-      "Book": "Rom 14:8-9"
-    },
-    {
-      "Book": "Acts 16:16-18"
-    },
-    {
-      "Book": "Col 1:24"
-    },
-    {
-      "Book": "Jas 2:12-13"
-    },
-    {
-      "Book": "Heb 13:5"
-    },
-    {
-      "Book": "Matt 22:42-45"
-    },
-    {
-      "Book": "Matt 6:1"
-    },
-    {
-      "Book": "Heb 4:7"
-    },
-    {
-      "Book": "Isa 44:24"
-    },
-    {
-      "Book": "Prov 20:29"
-    },
-    {
-      "Book": "John 10:28"
-    },
-    {
-      "Book": "Ps 140:1-4"
-    },
-    {
-      "Book": "Ps 23:1"
-    },
-    {
-      "Book": "Rom 1:16"
-    },
-    {
-      "Book": "Matt 5:44"
-    },
-    {
-      "Book": "2Tim 3:1-9"
-    },
-    {
-      "Book": "Jas 3:16"
-    },
-    {
-      "Book": "Mark 12:33-34"
-    },
-    {
-      "Book": "1Pet 4:8"
-    },
-    {
-      "Book": "Isa 43:10"
-    },
-    {
-      "Book": "Eph 4:4-6"
-    },
-    {
-      "Book": "2Tim 3:1-5"
-    },
-    {
-      "Book": "1John 5:11-12"
-    },
-    {
-      "Book": "Rom 2:7"
-    },
-    {
-      "Book": "2Cor 5:17"
-    },
-    {
-      "Book": "Prov 12:18"
-    },
-    {
-      "Book": "Matt 10:42"
-    },
-    {
-      "Book": "Zeph 1:8"
-    },
-    {
-      "Book": "Prov 19:17"
-    },
-    {
-      "Book": "Rom 8:16"
-    },
-    {
-      "Book": "Matt 6:34"
-    },
-    {
-      "Book": "Prov 16:7"
-    },
-    {
-      "Book": "Gal 6:9"
-    },
-    {
-      "Book": "John 3:17"
-    },
-    {
-      "Book": "1Pet 3:3"
-    },
-    {
-      "Book": "Ps 1:1"
-    },
-    {
-      "Book": "Prov 8:17"
-    },
-    {
-      "Book": "Acts 15:29"
-    },
-    {
-      "Book": "Heb 1:8"
-    },
-    {
-      "Book": "Matt 12:50"
-    },
-    {
-      "Book": "Heb 4:8-9"
-    },
-    {
-      "Book": "Phil 3:13-14"
-    },
-    {
-      "Book": "John 8:24"
-    },
-    {
-      "Book": "Phil 3:21"
-    },
-    {
-      "Book": "Luke 4:34"
-    },
-    {
-      "Book": "Matt 18:5"
-    },
-    {
-      "Book": "1Pet 1:3"
-    },
-    {
-      "Book": "Luke 21:34"
-    },
-    {
-      "Book": "John 3:31"
-    },
-    {
-      "Book": "Rom 8:38-39"
-    },
-    {
-      "Book": "1Thess 5:22"
-    },
-    {
-      "Book": "Col 3:12-17"
-    },
-    {
-      "Book": "Luke 20:42-44"
-    },
-    {
-      "Book": "Eph 2:1"
-    },
-    {
-      "Book": "Eph 4:30"
-    },
-    {
-      "Book": "Matt 7:15"
-    },
-    {
-      "Book": "Ps 1:6"
-    },
-    {
-      "Book": "Heb 10:2-5"
-    },
-    {
-      "Book": "Isa 45:21"
-    },
-    {
-      "Book": "2Cor 9:6-7"
-    },
-    {
-      "Book": "Lev 6:10"
-    },
-    {
-      "Book": "Isa 33:2"
-    },
-    {
-      "Book": "Luke 14:11"
-    },
-    {
-      "Book": "1Tim 2:9"
-    },
-    {
-      "Book": "Matt 7:24-25"
-    },
-    {
-      "Book": "Matt 23:5-8"
-    },
-    {
-      "Book": "Heb 7:12"
-    },
-    {
-      "Book": "Jas 1:6"
-    },
-    {
-      "Book": "Ps 92:1-2"
-    },
-    {
-      "Book": "Acts 5:31"
-    },
-    {
-      "Book": "Gal 6:10"
-    },
-    {
-      "Book": "1Cor 12:8-11"
-    },
-    {
-      "Book": "Rom 13:10"
-    },
-    {
-      "Book": "Isa 43:11"
-    },
-    {
-      "Book": "Gal 6:8"
-    },
-    {
-      "Book": "Col 5:8-9"
-    },
-    {
-      "Book": "John 10:10"
-    },
-    {
-      "Book": "2Cor 1:21-22"
-    },
-    {
-      "Book": "Jer 29:11"
-    },
-    {
-      "Book": "2Pet 2:20-21"
-    },
-    {
-      "Book": "Heb 5:14"
-    },
-    {
-      "Book": "2Tim 1:14"
-    },
-    {
-      "Book": "Eph 5:25"
-    },
-    {
-      "Book": "Gal 5:2-3"
-    },
-    {
-      "Book": "Gal 3:10"
-    },
-    {
-      "Book": "Ps 89:34"
-    },
-    {
-      "Book": "Matt 23:23"
-    },
-    {
-      "Book": "Jas 2:10"
-    },
-    {
-      "Book": "Isa 3:16-24"
-    },
-    {
-      "Book": "Eph 6:17"
-    },
-    {
-      "Book": "1Tim 5:6"
-    },
-    {
-      "Book": "John 15:4-5"
-    },
-    {
-      "Book": "Isa 41:10"
-    },
-    {
-      "Book": "Heb 2:16"
-    },
-    {
-      "Book": "Rom 1:23"
-    },
-    {
-      "Book": "Matt 6:25-26"
-    },
-    {
-      "Book": "Rom 14:13"
-    },
-    {
-      "Book": "1Tim 3:2"
-    },
-    {
-      "Book": "2Cor 7:1"
-    },
-    {
-      "Book": "Rom 12:1-2"
-    },
-    {
-      "Book": "Acts 15:28"
-    },
-    {
-      "Book": "Rev 1:16-17"
-    },
-    {
-      "Book": "Jas 4:17"
-    },
-    {
-      "Book": "Matt 5:8"
-    },
-    {
-      "Book": "1Cor 4:6"
-    },
-    {
-      "Book": "Acts 20:35"
-    },
-    {
-      "Book": "1Cor 1:26-31"
-    },
-    {
-      "Book": "Rom 12:20"
-    },
-    {
-      "Book": "Deut 13:1-3"
-    },
-    {
-      "Book": "Heb 6:4-6"
-    },
-    {
-      "Book": "Deut 22:1"
-    },
-    {
-      "Book": "Matt 22:44"
-    },
-    {
-      "Book": "Prov 24:16"
-    },
-    {
-      "Book": "2Pet 1:5-9"
-    },
-    {
-      "Book": "Jas 2:14,17"
-    },
-    {
-      "Book": "Heb 6:5-6"
-    },
-    {
-      "Book": "2Tim 2:19"
-    },
-    {
-      "Book": "John 8:36"
-    },
-    {
-      "Book": "Mark 7:8-9"
-    },
-    {
-      "Book": "Isa 53:1"
-    },
-    {
-      "Book": "1John 3:8"
-    },
-    {
-      "Book": "Prov 28:26"
-    },
-    {
-      "Book": "Rom 8:28"
-    },
-    {
-      "Book": "Rom 9:20"
-    },
-    {
-      "Book": "John 14:28"
-    },
-    {
-      "Book": "Titus 2:13"
-    },
-    {
-      "Book": "Isa 45:21-22"
-    },
-    {
-      "Book": "John 1:3"
-    },
-    {
-      "Book": "1Pet 2:5"
-    },
-    {
-      "Book": "Gen 6:3"
-    },
-    {
-      "Book": "John 17:5"
-    },
-    {
-      "Book": "John 6:29"
-    },
-    {
-      "Book": "1John 4:7-11"
-    },
-    {
-      "Book": "Eph 4:17-18"
-    },
-    {
-      "Book": "Rom 7:20"
-    },
-    {
-      "Book": "Gal 3:15"
-    },
-    {
-      "Book": "1Cor 5:12-13"
-    },
-    {
-      "Book": "1Tim 6:7-10"
-    },
-    {
-      "Book": "Jer 10:2-5"
-    },
-    {
-      "Book": "Rev 6:9"
-    },
-    {
-      "Book": "Rom 15:13"
-    },
-    {
-      "Book": "John 6:68-69"
-    },
-    {
-      "Book": "Rev 5:13-14"
-    },
-    {
-      "Book": "Heb 11:1"
-    },
-    {
-      "Book": "Isa 8:19-20"
-    },
-    {
-      "Book": "Jer 2:27"
-    },
-    {
-      "Book": "Mark 16:18"
-    },
-    {
-      "Book": "Col 2:23"
-    },
-    {
-      "Book": "2Cor 8:9"
-    },
-    {
-      "Book": "Col 1:15-17"
-    },
-    {
-      "Book": "Rom 8:34"
-    },
-    {
-      "Book": "Rom 6:14"
-    },
-    {
-      "Book": "Isa 58:6-7"
-    },
-    {
-      "Book": "Ezek 33:12"
-    },
-    {
-      "Book": "John 4:14"
-    },
-    {
-      "Book": "2Thess 2:14"
-    },
-    {
-      "Book": "John 12:24"
-    },
-    {
-      "Book": "Col 2:8"
-    },
-    {
-      "Book": "Isa 40:22"
-    },
-    {
-      "Book": "Rev 21:4"
-    },
-    {
-      "Book": "2Cor 13:5"
-    },
-    {
-      "Book": "Gal 5:9"
-    },
-    {
-      "Book": "1Cor 12:13"
-    },
-    {
-      "Book": "Deut 5:21"
-    },
-    {
-      "Book": "Eph 2:10"
-    },
-    {
-      "Book": "Ps 55:22"
-    },
-    {
-      "Book": "Rom 2:5-10"
-    },
-    {
-      "Book": "Prov 16:28-29"
-    },
-    {
-      "Book": "1Cor 12:5-6"
-    },
-    {
-      "Book": "Lev 19:27-28"
-    },
-    {
-      "Book": "Acts 10:25-26"
-    },
-    {
-      "Book": "Luke 14:26"
-    },
-    {
-      "Book": "Deut 12:32"
-    },
-    {
-      "Book": "Col 3:4"
-    },
-    {
-      "Book": "Prov 28:27"
-    },
-    {
-      "Book": "2Cor 4:7"
-    },
-    {
-      "Book": "Luke 22:69"
-    },
-    {
-      "Book": "Matt 24:13"
-    },
-    {
-      "Book": "Eph 5:18"
-    },
-    {
-      "Book": "Prov 3:5-6"
-    },
-    {
-      "Book": "Matt 5:19"
-    },
-    {
-      "Book": "Rom 14:5-6"
-    },
-    {
-      "Book": "Heb 1:1-2"
-    },
-    {
-      "Book": "Isa 56:11"
-    },
-    {
-      "Book": "2Cor 10:7"
-    },
-    {
-      "Book": "Isa 45:5-6"
-    },
-    {
-      "Book": "Acts 14:8-9"
-    },
-    {
-      "Book": "Rom 7:12"
-    },
-    {
-      "Book": "Acts 15:19"
-    },
-    {
-      "Book": "2Chr 7:14"
-    },
-    {
-      "Book": "2Cor 3:5-6"
-    },
-    {
-      "Book": "Rom 8:29"
-    },
-    {
-      "Book": "Heb 7:8"
-    },
-    {
-      "Book": "Matt 22:32"
-    },
-    {
-      "Book": "1Cor 15:45"
-    },
-    {
-      "Book": "Rev 22:8-9"
-    },
-    {
-      "Book": "Jer 17:5"
-    },
-    {
-      "Book": "Prov 12:28"
-    },
-    {
-      "Book": "1Tim 3:15"
-    },
-    {
-      "Book": "Rom 1:16-17"
-    },
-    {
-      "Book": "John 12:38"
-    },
-    {
-      "Book": "Matt 23:1-4"
-    },
-    {
-      "Book": "Matt 7:21"
-    },
-    {
-      "Book": "Mark 12:17"
-    },
-    {
-      "Book": "1Cor 3:19"
-    },
-    {
-      "Book": "Acts 14:13-14"
-    },
-    {
-      "Book": "2Cor 9:8"
-    },
-    {
-      "Book": "2Thess 2:9-12"
-    },
-    {
-      "Book": "Heb 3:1-3"
-    },
-    {
-      "Book": "Heb 7:5"
-    },
-    {
-      "Book": "2Tim 4:7-8"
-    },
-    {
-      "Book": "Matt 22:20-21"
-    },
-    {
-      "Book": "John 1:23"
-    },
-    {
-      "Book": "1John 2:15-16"
-    },
-    {
-      "Book": "Hab 2:18-20"
-    },
-    {
-      "Book": "Isa 43:2"
-    },
-    {
-      "Book": "Rev 22:19"
-    },
-    {
-      "Book": "1Pet 1:15"
-    },
-    {
-      "Book": "Rom 5:8-9"
-    },
-    {
-      "Book": "Matt 23:9-12"
-    },
-    {
-      "Book": "1Pet 5:10-11"
-    },
-    {
-      "Book": "Deut 22:5"
-    },
-    {
-      "Book": "2Cor 6:14-18"
-    },
-    {
-      "Book": "Jas 1:27"
-    },
-    {
-      "Book": "John 6:51"
-    },
-    {
-      "Book": "1John 2:18-19"
-    },
-    {
-      "Book": "2Tim 2:4"
-    },
-    {
-      "Book": "Jas 4:7"
-    },
-    {
-      "Book": "Jas 5:19-20"
-    },
-    {
-      "Book": "2Pet 2:20-22"
-    },
-    {
-      "Book": "Isa 9:6"
-    },
-    {
-      "Book": "2Tim 4:3-4"
-    },
-    {
-      "Book": "John 10:27-28"
-    },
-    {
-      "Book": "Acts 16:31"
-    },
-    {
-      "Book": "John 1:9-10"
-    },
-    {
-      "Book": "2Pet 2:4-7"
-    },
-    {
-      "Book": "Acts 1:2"
-    },
-    {
-      "Book": "Matt 10:16"
-    },
-    {
-      "Book": "Matt 7:13"
-    },
-    {
-      "Book": "Exod 32:33"
-    },
-    {
-      "Book": "Gal 2:20"
-    },
-    {
-      "Book": "Jas 2:14"
-    },
-    {
-      "Book": "Rev 1:8"
-    },
-    {
-      "Book": "Luke 12:29-31"
-    },
-    {
-      "Book": "John 5:18"
-    },
-    {
-      "Book": "Job 37:7"
-    },
-    {
-      "Book": "John 10:11-16"
-    },
-    {
-      "Book": "Num 12:6"
-    },
-    {
-      "Book": "John 7:33"
-    },
-    {
-      "Book": "1Cor 2:9"
-    },
-    {
-      "Book": "Ps 37:1-4"
-    },
-    {
-      "Book": "Rom 1:25"
-    },
-    {
-      "Book": "Matt 16:18"
-    },
-    {
-      "Book": "John 6:44"
-    },
-    {
-      "Book": "Matt 5:48"
-    },
-    {
-      "Book": "Jer 17:9-10"
-    },
-    {
-      "Book": "Deut 18:10-12"
-    },
-    {
-      "Book": "1Tim 6:7"
-    },
-    {
-      "Book": "Gal 4:9-11"
-    },
-    {
-      "Book": "Jas 4:4"
-    },
-    {
-      "Book": "John 16:5"
-    },
-    {
-      "Book": "Jer 10:8-9"
-    },
-    {
-      "Book": "Rom 10:9"
-    },
-    {
-      "Book": "Matt 22:11-13"
-    },
-    {
-      "Book": "Matt 16:26"
-    },
-    {
-      "Book": "Rom 8:1"
-    },
-    {
       "Book": "Matt 5:11-12"
-    },
-    {
-      "Book": "Jer 27:5"
-    },
-    {
-      "Book": "Phil 4:3"
-    },
-    {
-      "Book": "John 3:16"
-    },
-    {
-      "Book": "2Pet 3:9"
-    },
-    {
-      "Book": "Eph 6:1-2"
-    },
-    {
-      "Book": "Ps 23:6"
-    },
-    {
-      "Book": "Rom 10:13"
-    },
-    {
-      "Book": "Matt 24:5"
-    },
-    {
-      "Book": "John 21:25"
-    },
-    {
-      "Book": "Isa 53:3-15"
-    },
-    {
-      "Book": "2Cor 2:17"
-    },
-    {
-      "Book": "2Cor 6:2"
-    },
-    {
-      "Book": "Jude 1:20"
-    },
-    {
-      "Book": "Isa 55:8-9"
-    },
-    {
-      "Book": "Mark 8:36"
-    },
-    {
-      "Book": "Ps 92:1"
-    },
-    {
-      "Book": "Matt 28:16-18"
-    },
-    {
-      "Book": "Rom 1:25-28"
-    },
-    {
-      "Book": "Heb 8:6"
-    },
-    {
-      "Book": "Ezek 14:3-4"
-    },
-    {
-      "Book": "Acts 4:32-35"
-    },
-    {
-      "Book": "Ps 107:1"
-    },
-    {
-      "Book": "Isa 58:10"
-    },
-    {
-      "Book": "Luke 9:25"
-    },
-    {
-      "Book": "Gen 6:5-6"
-    },
-    {
-      "Book": "Gal 5:19"
-    },
-    {
-      "Book": "Jas 1:2-4"
-    },
-    {
-      "Book": "John 10:12"
-    },
-    {
-      "Book": "Gen 1:26"
-    },
-    {
-      "Book": "Heb 4:10-11"
-    },
-    {
-      "Book": "Acts 20:21"
-    },
-    {
-      "Book": "2Tim 1:13-14"
-    },
-    {
-      "Book": "1Pet 4:12-13"
-    },
-    {
-      "Book": "Matt 5:20"
-    },
-    {
-      "Book": "Exod 28:42"
-    },
-    {
-      "Book": "Matt 5:7"
-    },
-    {
-      "Book": "Isa 8:11-15"
-    },
-    {
-      "Book": "Isa 59:1"
-    },
-    {
-      "Book": "Isa 89:13"
-    },
-    {
-      "Book": "Matt 20:26-28"
-    },
-    {
-      "Book": "John 4:34"
-    },
-    {
-      "Book": "Jer 10:14-15"
-    },
-    {
-      "Book": "1John 5:13"
-    },
-    {
-      "Book": "Prov 10:4"
-    },
-    {
-      "Book": "Ps 44:3"
-    },
-    {
-      "Book": "1Cor 5:1-5"
-    },
-    {
-      "Book": "John 1:18"
-    },
-    {
-      "Book": "Isa 47:4"
-    },
-    {
-      "Book": "Heb 3:6"
-    },
-    {
-      "Book": "Matt 18:20"
-    },
-    {
-      "Book": "Deut 5:8-9"
-    },
-    {
-      "Book": "Rom 12:2"
-    },
-    {
-      "Book": "Phil 1:17-19"
-    },
-    {
-      "Book": "2Cor 5:18-19"
-    },
-    {
-      "Book": "Deut 9:29"
-    },
-    {
-      "Book": "Jer 9:14"
-    },
-    {
-      "Book": "Exod 20:4-5"
-    },
-    {
-      "Book": "Luke 6:46-47"
-    },
-    {
-      "Book": "Isa 2:22"
-    },
-    {
-      "Book": "1Tim 5:8"
-    },
-    {
-      "Book": "Matt 1:21"
-    },
-    {
-      "Book": "Isa 44:6"
-    },
-    {
-      "Book": "Isa 34:16"
-    },
-    {
-      "Book": "2Pet 2:14"
-    },
-    {
-      "Book": "John 3:3"
-    },
-    {
-      "Book": "Luke 16:9"
-    },
-    {
-      "Book": "Matt 6:25"
-    },
-    {
-      "Book": "Eccl 7:3"
-    },
-    {
-      "Book": "Matt 6:33"
-    },
-    {
-      "Book": "Luke 1:76"
-    },
-    {
-      "Book": "1Cor 12:4-11"
-    },
-    {
-      "Book": "Lev 16:4"
-    },
-    {
-      "Book": "John 15:1-6"
-    },
-    {
-      "Book": "John 8:23"
-    },
-    {
-      "Book": "Isa 2:11"
-    },
-    {
-      "Book": "Luke 6:20-21"
-    },
-    {
-      "Book": "Eccl 10:4"
-    },
-    {
-      "Book": "Ps 93:5"
-    },
-    {
-      "Book": "Col 3:16"
-    },
-    {
-      "Book": "Matt 13:44"
-    },
-    {
-      "Book": "Ps 37:25"
-    },
-    {
-      "Book": "1Pet 5:7"
-    },
-    {
-      "Book": "Heb 10:36"
-    },
-    {
-      "Book": "Luke 6:35"
-    },
-    {
-      "Book": "Jas 3:7"
-    },
-    {
-      "Book": "John 1:26-30"
-    },
-    {
-      "Book": "Jas 1:25"
-    },
-    {
-      "Book": "Jer 9:23-24"
-    },
-    {
-      "Book": "Isa 59:16"
-    },
-    {
-      "Book": "Jer 10:3-5"
-    },
-    {
-      "Book": "Titus 2:6-8"
-    },
-    {
-      "Book": "John 14:6"
-    },
-    {
-      "Book": "2Thess 2:1-4"
-    },
-    {
-      "Book": "Eph 1:13"
-    },
-    {
-      "Book": "Eph 3:17"
-    },
-    {
-      "Book": "1Tim 3:1-5"
-    },
-    {
-      "Book": "1Cor 1:1-2"
-    },
-    {
-      "Book": "2Cor 12:9"
-    },
-    {
-      "Book": "Luke 6:38"
-    },
-    {
-      "Book": "2Cor 10:3-6"
-    },
-    {
-      "Book": "1Cor 12:29-30"
-    },
-    {
-      "Book": "1Tim 6:5-6"
-    },
-    {
-      "Book": "Gen 1:1"
-    },
-    {
-      "Book": "Phil 4:15-17"
-    },
-    {
-      "Book": "John 1:1"
-    },
-    {
-      "Book": "Isa 57:1"
-    },
-    {
-      "Book": "1Thess 5:16-18"
-    },
-    {
-      "Book": "Matt 7:7"
-    },
-    {
-      "Book": "Gal 2:17"
-    },
-    {
-      "Book": "Heb 1:5-6"
-    },
-    {
-      "Book": "Eccl 7:29"
-    },
-    {
-      "Book": "Mark 1:24"
-    },
-    {
-      "Book": "John 8:58"
-    },
-    {
-      "Book": "John 8:47"
-    },
-    {
-      "Book": "Heb 4:1-2"
-    },
-    {
-      "Book": "Ps 51:10"
-    },
-    {
-      "Book": "Rom 8:11"
-    },
-    {
-      "Book": "2Tim 1:1"
-    },
-    {
-      "Book": "Eph 10:26"
-    },
-    {
-      "Book": "Ps 118:16"
-    },
-    {
-      "Book": "Col 2:16"
-    },
-    {
-      "Book": "Rom 14:5"
-    },
-    {
-      "Book": "Hab 2:18"
-    },
-    {
-      "Book": "Isa 55:11"
-    },
-    {
-      "Book": "2Cor 4:17"
-    },
-    {
-      "Book": "Rev 3:2-3"
-    },
-    {
-      "Book": "Phil 2:6"
-    },
-    {
-      "Book": "Gen 1:27"
-    },
-    {
-      "Book": "Ps 110:1"
-    },
-    {
-      "Book": "Matt 25:34-36"
-    },
-    {
-      "Book": "Job 2:4"
-    },
-    {
-      "Book": "John 15:5"
-    },
-    {
-      "Book": "Isa 48:12-13"
-    },
-    {
-      "Book": "Luke 5:4-7"
-    },
-    {
-      "Book": "Matt 10:29"
-    },
-    {
-      "Book": "Heb 7:18-19"
-    },
-    {
-      "Book": "Matt 6:7"
-    },
-    {
-      "Book": "Col 1:18"
-    },
-    {
-      "Book": "Rev 3:5"
-    },
-    {
-      "Book": "Eph 6:11"
-    },
-    {
-      "Book": "Jer 4:30"
-    },
-    {
-      "Book": "1Tim 6:17"
-    },
-    {
-      "Book": "Mark 16:16"
-    },
-    {
-      "Book": "Heb 1:13"
-    },
-    {
-      "Book": "1Chr 28:9"
-    },
-    {
-      "Book": "1Thess 5:18"
-    },
-    {
-      "Book": "Eccl 12:13"
-    },
-    {
-      "Book": "John 1:12"
-    },
-    {
-      "Book": "1Cor 1:23"
-    },
-    {
-      "Book": "1Cor 1:23-24"
-    },
-    {
-      "Book": "Ps 98:1"
-    },
-    {
-      "Book": "Eph 4:8"
-    },
-    {
-      "Book": "Mark 7:7"
-    },
-    {
-      "Book": "Rev 18:23"
-    },
-    {
-      "Book": "Matt 4:17"
-    },
-    {
-      "Book": "1Tim 2:8"
-    },
-    {
-      "Book": "Prov 30:11"
-    },
-    {
-      "Book": "John 6:27"
-    },
-    {
-      "Book": "Rev 1:17-18"
-    },
-    {
-      "Book": "Matt 25:32-36"
-    },
-    {
-      "Book": "John 10:11-13"
-    },
-    {
-      "Book": "Jer 10:11"
-    },
-    {
-      "Book": "Matt 5:18"
-    },
-    {
-      "Book": "Rom 7:18"
-    },
-    {
-      "Book": "Rom 8:26"
-    },
-    {
-      "Book": "Eph 4:28-30"
-    },
-    {
-      "Book": "Mal 2:10"
-    },
-    {
-      "Book": "Eccl 7:17"
-    },
-    {
-      "Book": "Rom 5:10"
-    },
-    {
-      "Book": "Matt 26:41"
-    },
-    {
-      "Book": "1Pet 4:16"
-    },
-    {
-      "Book": "1Cor 9:25"
-    },
-    {
-      "Book": "John 1:76"
-    },
-    {
-      "Book": "Prov 9:10"
-    },
-    {
-      "Book": "Isa 59:2"
-    },
-    {
-      "Book": "Prov 10:27"
-    },
-    {
-      "Book": "Eph 4:11"
-    },
-    {
-      "Book": "Matt 23:5"
-    },
-    {
-      "Book": "Gal 4:8"
-    },
-    {
-      "Book": "Heb 5:7-8"
-    },
-    {
-      "Book": "Dan 3:21"
-    },
-    {
-      "Book": "Titus 3:5"
-    },
-    {
-      "Book": "1Pet 3:3-4"
-    },
-    {
-      "Book": "Isa 53:4-5"
-    },
-    {
-      "Book": "John 1:15"
-    },
-    {
-      "Book": "1Cor 12:28"
-    },
-    {
-      "Book": "Isa 66:1"
-    },
-    {
-      "Book": "Matt 24:12"
-    },
-    {
-      "Book": "Jer 17:5-7"
-    },
-    {
-      "Book": "Rom 25:28"
-    },
-    {
-      "Book": "Prov 30:4"
-    },
-    {
-      "Book": "Matt 2:1-2"
-    },
-    {
-      "Book": "Ezek 3:20"
     },
     {
       "Book": "2Cor 5:19-20"
     },
     {
-      "Book": "John 1:29"
+      "Book": "John 6:68-69"
     },
     {
-      "Book": "Luke 5:37"
+      "Book": "Matt 24:5"
     },
     {
-      "Book": "Prov 20:1"
+      "Book": "2Cor 6:14-18"
     },
     {
-      "Book": "Eph 4:10"
+      "Book": "Acts 4:32-35"
     },
     {
-      "Book": "1Cor 14:3-5"
+      "Book": "Isa 44:6"
     },
     {
-      "Book": "Rom 8:38"
+      "Book": "Mark 16:18"
+    },
+    {
+      "Book": "Gal 4:8"
+    },
+    {
+      "Book": "Gal 5:9"
+    },
+    {
+      "Book": "1Pet 4:12-13"
+    },
+    {
+      "Book": "Rom 25:28"
+    },
+    {
+      "Book": "Prov 12:18"
+    },
+    {
+      "Book": "John 8:24"
+    },
+    {
+      "Book": "Jas 1:2-4"
+    },
+    {
+      "Book": "Matt 23:1-4"
+    },
+    {
+      "Book": "Ps 37:25"
+    },
+    {
+      "Book": "Matt 7:13"
+    },
+    {
+      "Book": "Luke 6:20-21"
+    },
+    {
+      "Book": "Deut 5:21"
+    },
+    {
+      "Book": "Matt 4:4"
     },
     {
       "Book": "Jer 33:3"
     },
     {
+      "Book": "Gal 3:10"
+    },
+    {
+      "Book": "2Cor 8:9"
+    },
+    {
+      "Book": "Prov 16:28-29"
+    },
+    {
+      "Book": "Eph 6:17"
+    },
+    {
+      "Book": "Deut 9:29"
+    },
+    {
+      "Book": "John 1:26-30"
+    },
+    {
+      "Book": "Isa 89:13"
+    },
+    {
+      "Book": "1Cor 5:10"
+    },
+    {
+      "Book": "Ps 107:1"
+    },
+    {
+      "Book": "Isa 53:4-5"
+    },
+    {
+      "Book": "Rev 22:8-9"
+    },
+    {
+      "Book": "Isa 55:8-9"
+    },
+    {
+      "Book": "Matt 10:1"
+    },
+    {
+      "Book": "Prov 20:29"
+    },
+    {
+      "Book": "1Pet 4:8"
+    },
+    {
+      "Book": "Col 2:8"
+    },
+    {
+      "Book": "Rom 14:5-6"
+    },
+    {
+      "Book": "Rom 7:20"
+    },
+    {
+      "Book": "Acts 16:16-18"
+    },
+    {
+      "Book": "Jer 2:27"
+    },
+    {
+      "Book": "Jer 4:30"
+    },
+    {
+      "Book": "Rom 14:8-9"
+    },
+    {
+      "Book": "Heb 6:4-6"
+    },
+    {
+      "Book": "Eph 4:17-18"
+    },
+    {
+      "Book": "Eccl 7:3"
+    },
+    {
+      "Book": "Dan 3:21"
+    },
+    {
+      "Book": "1John 3:8"
+    },
+    {
+      "Book": "Col 1:24"
+    },
+    {
+      "Book": "Luke 1:37"
+    },
+    {
+      "Book": "2Pet 2:20-22"
+    },
+    {
+      "Book": "Matt 6:1"
+    },
+    {
+      "Book": "Phil 4:15-17"
+    },
+    {
+      "Book": "Heb 4:1-2"
+    },
+    {
+      "Book": "Matt 10:29"
+    },
+    {
+      "Book": "Rom 12:20"
+    },
+    {
+      "Book": "John 3:13"
+    },
+    {
+      "Book": "John 6:44"
+    },
+    {
+      "Book": "2Cor 7:1"
+    },
+    {
+      "Book": "2Cor 10:7"
+    },
+    {
+      "Book": "Matt 16:18"
+    },
+    {
+      "Book": "Titus 3:5"
+    },
+    {
+      "Book": "Isa 40:22"
+    },
+    {
+      "Book": "Lev 16:4"
+    },
+    {
+      "Book": "1Pet 5:7"
+    },
+    {
+      "Book": "1Pet 3:3"
+    },
+    {
+      "Book": "1Thess 5:18"
+    },
+    {
+      "Book": "Prov 30:11"
+    },
+    {
+      "Book": "Eph 6:1-2"
+    },
+    {
+      "Book": "Phil 2:9-10"
+    },
+    {
+      "Book": "Matt 23:8"
+    },
+    {
+      "Book": "John 6:29"
+    },
+    {
+      "Book": "Matt 6:25-26"
+    },
+    {
+      "Book": "Rev 5:13-14"
+    },
+    {
+      "Book": "John 17:5"
+    },
+    {
+      "Book": "Ps 1:6"
+    },
+    {
+      "Book": "Col 2:6"
+    },
+    {
+      "Book": "Rom 2:5-10"
+    },
+    {
+      "Book": "2Thess 2:1-4"
+    },
+    {
+      "Book": "Acts 5:31"
+    },
+    {
+      "Book": "Rom 5:10"
+    },
+    {
+      "Book": "1Thess 5:22"
+    },
+    {
+      "Book": "Rom 8:11"
+    },
+    {
+      "Book": "John 10:27-28"
+    },
+    {
+      "Book": "2Cor 6:2"
+    },
+    {
+      "Book": "Luke 14:26"
+    },
+    {
+      "Book": "Matt 6:19-21"
+    },
+    {
+      "Book": "Prov 13:24"
+    },
+    {
+      "Book": "Ps 140:1-4"
+    },
+    {
+      "Book": "Gal 6:8"
+    },
+    {
+      "Book": "1Cor 1:1-2"
+    },
+    {
+      "Book": "1John 5:13"
+    },
+    {
+      "Book": "Matt 18:20"
+    },
+    {
+      "Book": "John 1:23"
+    },
+    {
+      "Book": "Col 5:8-9"
+    },
+    {
+      "Book": "Isa 41:10"
+    },
+    {
+      "Book": "Acts 1:8"
+    },
+    {
+      "Book": "1Tim 2:8"
+    },
+    {
+      "Book": "Heb 2:16"
+    },
+    {
+      "Book": "2Tim 1:13-14"
+    },
+    {
+      "Book": "Luke 21:34"
+    },
+    {
+      "Book": "1Chr 28:9"
+    },
+    {
+      "Book": "2Chr 7:14"
+    },
+    {
+      "Book": "Isa 52:10"
+    },
+    {
+      "Book": "Heb 1:1-2"
+    },
+    {
+      "Book": "Exod 20:4-5"
+    },
+    {
+      "Book": "Ps 55:22"
+    },
+    {
+      "Book": "Heb 6:5-6"
+    },
+    {
+      "Book": "Matt 23:23"
+    },
+    {
+      "Book": "Matt 5:7"
+    },
+    {
+      "Book": "Exod 28:42"
+    },
+    {
+      "Book": "Eph 4:4-6"
+    },
+    {
+      "Book": "Ezek 33:12"
+    },
+    {
+      "Book": "Jas 4:7"
+    },
+    {
+      "Book": "Zeph 1:8"
+    },
+    {
+      "Book": "Deut 12:32"
+    },
+    {
+      "Book": "John 1:9-10"
+    },
+    {
+      "Book": "Matt 6:34"
+    },
+    {
+      "Book": "Isa 8:11-15"
+    },
+    {
+      "Book": "Acts 15:28"
+    },
+    {
+      "Book": "Rom 8:28"
+    },
+    {
+      "Book": "Prov 24:16"
+    },
+    {
+      "Book": "Isa 43:10"
+    },
+    {
+      "Book": "1Tim 2:9"
+    },
+    {
+      "Book": "Luke 16:9"
+    },
+    {
+      "Book": "1Cor 12:29-30"
+    },
+    {
+      "Book": "Rom 8:29"
+    },
+    {
+      "Book": "Phil 3:13-14"
+    },
+    {
+      "Book": "Isa 2:22"
+    },
+    {
+      "Book": "1John 4:7-11"
+    },
+    {
+      "Book": "Phil 4:3"
+    },
+    {
+      "Book": "Jas 4:17"
+    },
+    {
+      "Book": "Phil 3:21"
+    },
+    {
+      "Book": "Matt 3:11"
+    },
+    {
+      "Book": "Mark 12:17"
+    },
+    {
+      "Book": "Isa 45:5-6"
+    },
+    {
+      "Book": "Heb 11:6"
+    },
+    {
+      "Book": "Ps 89:34"
+    },
+    {
+      "Book": "Matt 5:28"
+    },
+    {
+      "Book": "1John 2:15-16"
+    },
+    {
+      "Book": "2Pet 2:4-7"
+    },
+    {
+      "Book": "Mark 8:36"
+    },
+    {
+      "Book": "Jas 3:7"
+    },
+    {
+      "Book": "Rom 15:13"
+    },
+    {
+      "Book": "Heb 1:3"
+    },
+    {
+      "Book": "Matt 5:19"
+    },
+    {
+      "Book": "Jer 27:5"
+    },
+    {
+      "Book": "1Cor 12:5-6"
+    },
+    {
+      "Book": "Heb 11:1"
+    },
+    {
+      "Book": "Isa 3:16-24"
+    },
+    {
+      "Book": "2Cor 5:17"
+    },
+    {
+      "Book": "Prov 12:28"
+    },
+    {
+      "Book": "Eccl 10:4"
+    },
+    {
+      "Book": "2Thess 2:9-12"
+    },
+    {
+      "Book": "Ps 92:1-2"
+    },
+    {
+      "Book": "Matt 6:7"
+    },
+    {
+      "Book": "John 1:15"
+    },
+    {
+      "Book": "Jas 2:10"
+    },
+    {
+      "Book": "Jer 17:5-7"
+    },
+    {
+      "Book": "John 8:47"
+    },
+    {
+      "Book": "Num 12:6"
+    },
+    {
+      "Book": "1Tim 3:1-5"
+    },
+    {
+      "Book": "Matt 23:5-8"
+    },
+    {
+      "Book": "Heb 5:7-8"
+    },
+    {
+      "Book": "1Pet 3:3-4"
+    },
+    {
+      "Book": "Jer 9:23-24"
+    },
+    {
+      "Book": "1Cor 12:4-11"
+    },
+    {
+      "Book": "Rom 5:8-9"
+    },
+    {
+      "Book": "2Tim 2:19"
+    },
+    {
+      "Book": "Jas 2:14"
+    },
+    {
+      "Book": "Luke 5:37"
+    },
+    {
+      "Book": "Job 2:4"
+    },
+    {
+      "Book": "Eph 4:30"
+    },
+    {
+      "Book": "1Cor 12:28"
+    },
+    {
+      "Book": "1Tim 3:2"
+    },
+    {
+      "Book": "John 3:17"
+    },
+    {
+      "Book": "Lev 19:27-28"
+    },
+    {
+      "Book": "Gen 1:1"
+    },
+    {
+      "Book": "Hag 1:6-7"
+    },
+    {
+      "Book": "Isa 55:11"
+    },
+    {
+      "Book": "Heb 7:12"
+    },
+    {
+      "Book": "Acts 15:19"
+    },
+    {
+      "Book": "Deut 18:10-12"
+    },
+    {
+      "Book": "Jer 10:3-5"
+    },
+    {
+      "Book": "Acts 15:29"
+    },
+    {
+      "Book": "Jas 1:27"
+    },
+    {
+      "Book": "Eph 5:18"
+    },
+    {
+      "Book": "Lev 6:10"
+    },
+    {
+      "Book": "Matt 22:11-13"
+    },
+    {
+      "Book": "2Tim 2:4"
+    },
+    {
+      "Book": "John 8:58"
+    },
+    {
+      "Book": "Gal 6:9"
+    },
+    {
+      "Book": "Isa 58:10"
+    },
+    {
+      "Book": "Eph 2:5"
+    },
+    {
+      "Book": "Rom 5:12"
+    },
+    {
+      "Book": "Luke 20:42-44"
+    },
+    {
+      "Book": "Heb 10:36"
+    },
+    {
+      "Book": "2Tim 1:14"
+    },
+    {
+      "Book": "Ps 118:16"
+    },
+    {
+      "Book": "Heb 1:5-6"
+    },
+    {
+      "Book": "Rom 1:16"
+    },
+    {
+      "Book": "Acts 16:31"
+    },
+    {
+      "Book": "Prov 19:17"
+    },
+    {
+      "Book": "Prov 9:10"
+    },
+    {
+      "Book": "Rom 14:13"
+    },
+    {
+      "Book": "Rom 2:7"
+    },
+    {
+      "Book": "Eph 6:11"
+    },
+    {
+      "Book": "John 1:12"
+    },
+    {
+      "Book": "1Cor 1:26-31"
+    },
+    {
+      "Book": "John 3:31"
+    },
+    {
+      "Book": "1Cor 12:8-11"
+    },
+    {
+      "Book": "Heb 8:13"
+    },
+    {
+      "Book": "1Cor 6:9-10"
+    },
+    {
+      "Book": "John 15:3"
+    },
+    {
+      "Book": "Matt 6:25"
+    },
+    {
+      "Book": "Jude 1:20"
+    },
+    {
+      "Book": "Isa 59:16"
+    },
+    {
+      "Book": "Ps 23:6"
+    },
+    {
+      "Book": "Gal 5:2-3"
+    },
+    {
+      "Book": "Ps 136:12"
+    },
+    {
+      "Book": "Gal 4:9-11"
+    },
+    {
+      "Book": "Col 1:18"
+    },
+    {
+      "Book": "Matt 5:8"
+    },
+    {
+      "Book": "Isa 56:11"
+    },
+    {
+      "Book": "Rev 22:18-19"
+    },
+    {
+      "Book": "Matt 16:26"
+    },
+    {
+      "Book": "Matt 5:20"
+    },
+    {
+      "Book": "Isa 47:4"
+    },
+    {
+      "Book": "Jer 10:14-15"
+    },
+    {
+      "Book": "John 8:36"
+    },
+    {
+      "Book": "Luke 6:38"
+    },
+    {
+      "Book": "1Cor 15:45"
+    },
+    {
+      "Book": "2Cor 9:6-7"
+    },
+    {
+      "Book": "Matt 22:20-21"
+    },
+    {
+      "Book": "John 10:10"
+    },
+    {
+      "Book": "John 3:3"
+    },
+    {
+      "Book": "Isa 53:1"
+    },
+    {
+      "Book": "John 1:29"
+    },
+    {
+      "Book": "Jer 29:11"
+    },
+    {
+      "Book": "Matt 5:36"
+    },
+    {
+      "Book": "John 1:1"
+    },
+    {
+      "Book": "2Cor 4:7"
+    },
+    {
+      "Book": "1Thess 5:16-18"
+    },
+    {
+      "Book": "Luke 5:4-7"
+    },
+    {
+      "Book": "1John 5:11-12"
+    },
+    {
+      "Book": "1Pet 5:10-11"
+    },
+    {
+      "Book": "Phil 3:20"
+    },
+    {
+      "Book": "Jer 17:9-10"
+    },
+    {
+      "Book": "Isa 2:11"
+    },
+    {
+      "Book": "Matt 7:15"
+    },
+    {
+      "Book": "Matt 5:44"
+    },
+    {
+      "Book": "Ps 71:22"
+    },
+    {
+      "Book": "Ps 92:1"
+    },
+    {
+      "Book": "Heb 10:2-5"
+    },
+    {
+      "Book": "Eph 4:8"
+    },
+    {
+      "Book": "Matt 20:26-28"
+    },
+    {
+      "Book": "Luke 4:34"
+    },
+    {
+      "Book": "2Cor 5:18-19"
+    },
+    {
+      "Book": "Acts 1:2"
+    },
+    {
+      "Book": "Gal 2:20"
+    },
+    {
+      "Book": "Prov 8:17"
+    },
+    {
+      "Book": "Jer 10:8-9"
+    },
+    {
+      "Book": "1Pet 2:5"
+    },
+    {
+      "Book": "Ps 44:3"
+    },
+    {
+      "Book": "Matt 1:21"
+    },
+    {
+      "Book": "Rom 1:23"
+    },
+    {
+      "Book": "1Cor 2:9"
+    },
+    {
+      "Book": "Jas 2:14,17"
+    },
+    {
+      "Book": "Heb 7:5"
+    },
+    {
+      "Book": "Titus 2:6-8"
+    },
+    {
+      "Book": "Isa 53:3-15"
+    },
+    {
+      "Book": "Col 3:12-17"
+    },
+    {
+      "Book": "Prov 16:31"
+    },
+    {
+      "Book": "Gal 3:24-25"
+    },
+    {
+      "Book": "Isa 43:2"
+    },
+    {
+      "Book": "2Thess 2:14"
+    },
+    {
+      "Book": "Mark 7:8-9"
+    },
+    {
+      "Book": "Isa 59:2"
+    },
+    {
+      "Book": "Matt 24:12"
+    },
+    {
+      "Book": "Matt 5:18"
+    },
+    {
+      "Book": "Ps 37:1-4"
+    },
+    {
+      "Book": "Rom 1:16-17"
+    },
+    {
+      "Book": "1Tim 6:5-6"
+    },
+    {
+      "Book": "1John 2:18-19"
+    },
+    {
+      "Book": "2Tim 4:3-4"
+    },
+    {
+      "Book": "Luke 6:46-47"
+    },
+    {
+      "Book": "Hab 2:18-20"
+    },
+    {
+      "Book": "Rom 10:13"
+    },
+    {
+      "Book": "Rom 7:12"
+    },
+    {
+      "Book": "Eccl 7:29"
+    },
+    {
+      "Book": "Rom 8:38-39"
+    },
+    {
+      "Book": "1Cor 5:1-5"
+    },
+    {
+      "Book": "1Tim 6:19"
+    },
+    {
+      "Book": "Isa 57:1"
+    },
+    {
+      "Book": "Eph 4:11"
+    },
+    {
+      "Book": "Luke 6:35"
+    },
+    {
+      "Book": "Ps 23:1"
+    },
+    {
+      "Book": "Titus 2:13"
+    },
+    {
+      "Book": "Isa 34:16"
+    },
+    {
+      "Book": "2Cor 12:9"
+    },
+    {
+      "Book": "John 6:51"
+    },
+    {
+      "Book": "Matt 12:50"
+    },
+    {
+      "Book": "Col 3:4"
+    },
+    {
+      "Book": "Rom 12:1-2"
+    },
+    {
+      "Book": "John 21:25"
+    },
+    {
+      "Book": "John 5:18"
+    },
+    {
+      "Book": "Heb 8:6"
+    },
+    {
+      "Book": "Mark 1:24"
+    },
+    {
+      "Book": "Heb 7:8"
+    },
+    {
       "Book": "1Pet 1:7"
     },
     {
+      "Book": "Jas 2:12-13"
+    },
+    {
+      "Book": "Ezek 14:3-4"
+    },
+    {
+      "Book": "Eph 4:28-30"
+    },
+    {
+      "Book": "Prov 3:5-6"
+    },
+    {
+      "Book": "Job 37:7"
+    },
+    {
+      "Book": "2Tim 1:1"
+    },
+    {
+      "Book": "John 7:33"
+    },
+    {
+      "Book": "Rom 1:25-28"
+    },
+    {
+      "Book": "Eph 5:25"
+    },
+    {
+      "Book": "Isa 58:6-7"
+    },
+    {
+      "Book": "Jas 3:16"
+    },
+    {
+      "Book": "2Cor 5:21"
+    },
+    {
+      "Book": "Matt 25:34-36"
+    },
+    {
+      "Book": "Heb 4:10-11"
+    },
+    {
+      "Book": "1Cor 7:27"
+    },
+    {
+      "Book": "Matt 7:24-25"
+    },
+    {
+      "Book": "Isa 59:1"
+    },
+    {
+      "Book": "2Pet 2:3"
+    },
+    {
+      "Book": "Acts 2:38"
+    },
+    {
+      "Book": "Matt 7:7"
+    },
+    {
+      "Book": "Eph 1:13"
+    },
+    {
+      "Book": "Col 2:23"
+    },
+    {
+      "Book": "Col 1:15-17"
+    },
+    {
+      "Book": "Rom 10:9"
+    },
+    {
+      "Book": "Jas 5:11"
+    },
+    {
+      "Book": "Jas 1:25"
+    },
+    {
+      "Book": "1Tim 6:17"
+    },
+    {
+      "Book": "Prov 30:4"
+    },
+    {
+      "Book": "2Cor 3:5-6"
+    },
+    {
+      "Book": "John 15:4-5"
+    },
+    {
+      "Book": "Deut 13:3"
+    },
+    {
+      "Book": "Mal 2:10"
+    },
+    {
+      "Book": "Prov 20:1"
+    },
+    {
+      "Book": "Heb 4:7"
+    },
+    {
+      "Book": "Rom 13:10"
+    },
+    {
+      "Book": "1Cor 9:25"
+    },
+    {
+      "Book": "Ps 93:5"
+    },
+    {
+      "Book": "Eph 2:10"
+    },
+    {
+      "Book": "Luke 14:11"
+    },
+    {
+      "Book": "Isa 33:2"
+    },
+    {
+      "Book": "John 14:28"
+    },
+    {
+      "Book": "Isa 66:1"
+    },
+    {
+      "Book": "Rev 1:8"
+    },
+    {
+      "Book": "1Pet 1:15"
+    },
+    {
+      "Book": "Matt 18:5"
+    },
+    {
+      "Book": "Gal 6:10"
+    },
+    {
+      "Book": "1Cor 14:3-5"
+    },
+    {
+      "Book": "Rom 8:24"
+    },
+    {
+      "Book": "Ps 110:1"
+    },
+    {
+      "Book": "2Tim 4:7-8"
+    },
+    {
+      "Book": "Deut 5:8-9"
+    },
+    {
+      "Book": "Heb 5:14"
+    },
+    {
+      "Book": "1Cor 5:12-13"
+    },
+    {
+      "Book": "Heb 4:8-9"
+    },
+    {
+      "Book": "Acts 10:25-26"
+    },
+    {
+      "Book": "Matt 25:32-36"
+    },
+    {
+      "Book": "Rom 12:2"
+    },
+    {
+      "Book": "1Tim 5:6"
+    },
+    {
+      "Book": "John 1:3"
+    },
+    {
+      "Book": "John 15:5"
+    },
+    {
+      "Book": "Rev 3:5"
+    },
+    {
+      "Book": "Rev 6:9"
+    },
+    {
+      "Book": "Heb 7:18-19"
+    },
+    {
+      "Book": "John 14:6"
+    },
+    {
+      "Book": "Col 3:16"
+    },
+    {
+      "Book": "1Tim 3:16"
+    },
+    {
+      "Book": "Matt 4:17"
+    },
+    {
+      "Book": "Gen 1:28"
+    },
+    {
+      "Book": "Luke 22:69"
+    },
+    {
+      "Book": "Heb 1:8"
+    },
+    {
+      "Book": "Rom 7:18"
+    },
+    {
+      "Book": "John 15:1-6"
+    },
+    {
+      "Book": "Isa 45:21-22"
+    },
+    {
+      "Book": "Jas 1:6"
+    },
+    {
+      "Book": "Isa 48:13"
+    },
+    {
+      "Book": "Prov 28:26"
+    },
+    {
+      "Book": "Isa 43:11"
+    },
+    {
+      "Book": "Ezek 3:20"
+    },
+    {
+      "Book": "Heb 13:5"
+    },
+    {
+      "Book": "2Pet 2:14"
+    },
+    {
+      "Book": "1Cor 12:13"
+    },
+    {
+      "Book": "Matt 13:44"
+    },
+    {
+      "Book": "Acts 20:35"
+    },
+    {
+      "Book": "Heb 10:36-38"
+    },
+    {
+      "Book": "Matt 5:48"
+    },
+    {
+      "Book": "1Tim 6:7"
+    },
+    {
+      "Book": "Eph 3:17"
+    },
+    {
+      "Book": "Heb 4:15-16"
+    },
+    {
+      "Book": "Rom 8:38"
+    },
+    {
+      "Book": "2Cor 9:8"
+    },
+    {
+      "Book": "Deut 22:1"
+    },
+    {
+      "Book": "2Pet 1:5-9"
+    },
+    {
+      "Book": "2Pet 2:20-21"
+    },
+    {
+      "Book": "2Cor 1:21-22"
+    },
+    {
+      "Book": "Eph 10:26"
+    },
+    {
+      "Book": "Luke 9:25"
+    },
+    {
+      "Book": "Rev 1:16-17"
+    },
+    {
+      "Book": "Matt 22:44"
+    },
+    {
+      "Book": "Matt 23:9-12"
+    },
+    {
+      "Book": "Isa 48:12-13"
+    },
+    {
+      "Book": "John 10:11-13"
+    },
+    {
+      "Book": "Prov 1:7"
+    },
+    {
+      "Book": "Isa 44:24"
+    },
+    {
+      "Book": "Rom 9:20"
+    },
+    {
+      "Book": "John 12:38"
+    },
+    {
+      "Book": "Jas 4:4"
+    },
+    {
+      "Book": "1Cor 1:23-24"
+    },
+    {
+      "Book": "Exod 32:33"
+    },
+    {
+      "Book": "Mark 12:33-34"
+    },
+    {
+      "Book": "Eccl 7:17"
+    },
+    {
+      "Book": "Rom 6:12"
+    },
+    {
+      "Book": "Rev 18:23"
+    },
+    {
+      "Book": "Rev 3:2-3"
+    },
+    {
+      "Book": "2Cor 13:5"
+    },
+    {
+      "Book": "John 4:14"
+    },
+    {
+      "Book": "Deut 13:1-3"
+    },
+    {
+      "Book": "1Tim 1:2"
+    },
+    {
+      "Book": "Mark 7:7"
+    },
+    {
+      "Book": "Jer 10:23-24"
+    },
+    {
+      "Book": "John 21:5"
+    },
+    {
+      "Book": "1Cor 3:19"
+    },
+    {
+      "Book": "Matt 7:21"
+    },
+    {
+      "Book": "Jer 9:14"
+    },
+    {
+      "Book": "Acts 14:8-9"
+    },
+    {
+      "Book": "Matt 10:16"
+    },
+    {
+      "Book": "1Cor 1:23"
+    },
+    {
+      "Book": "1Tim 5:8"
+    },
+    {
+      "Book": "1Tim 3:15"
+    },
+    {
+      "Book": "Jer 17:5"
+    },
+    {
       "Book": "Col 1:21"
+    },
+    {
+      "Book": "Rom 6:14"
+    },
+    {
+      "Book": "Gal 5:19"
+    },
+    {
+      "Book": "Ps 1:1"
+    },
+    {
+      "Book": "Isa 8:19-20"
+    },
+    {
+      "Book": "1Cor 4:6"
+    },
+    {
+      "Book": "1Pet 1:3"
+    },
+    {
+      "Book": "Hab 2:18"
+    },
+    {
+      "Book": "Matt 11:28-29"
+    },
+    {
+      "Book": "Matt 26:41"
+    },
+    {
+      "Book": "Gen 1:27"
+    },
+    {
+      "Book": "John 4:34"
+    },
+    {
+      "Book": "2Pet 3:9"
+    },
+    {
+      "Book": "Rev 1:17-18"
+    },
+    {
+      "Book": "Prov 10:4"
+    },
+    {
+      "Book": "Matt 22:32"
+    },
+    {
+      "Book": "Josh 1:8"
+    },
+    {
+      "Book": "John 10:11-16"
+    },
+    {
+      "Book": "Rom 14:5"
+    },
+    {
+      "Book": "Gen 6:5-6"
+    },
+    {
+      "Book": "Gal 3:15"
+    },
+    {
+      "Book": "Acts 14:13-14"
+    },
+    {
+      "Book": "Rom 8:34"
+    },
+    {
+      "Book": "Heb 3:1-3"
+    },
+    {
+      "Book": "Matt 22:42-45"
+    },
+    {
+      "Book": "Rom 8:26"
+    },
+    {
+      "Book": "John 10:12"
+    },
+    {
+      "Book": "John 10:28"
+    },
+    {
+      "Book": "John 6:27"
+    },
+    {
+      "Book": "Mark 16:16"
+    },
+    {
+      "Book": "Rev 21:4"
+    },
+    {
+      "Book": "Rom 1:25"
+    },
+    {
+      "Book": "Gal 5:16-18"
+    },
+    {
+      "Book": "Ps 98:1"
+    },
+    {
+      "Book": "2Cor 4:17"
+    },
+    {
+      "Book": "Matt 24:13"
+    },
+    {
+      "Book": "Heb 1:13"
+    },
+    {
+      "Book": "Col 2:16"
+    },
+    {
+      "Book": "Mark 12:10"
+    },
+    {
+      "Book": "2Cor 10:3-6"
+    },
+    {
+      "Book": "Rom 8:1"
+    },
+    {
+      "Book": "2Tim 3:1-9"
+    },
+    {
+      "Book": "1Thess 5:23"
+    },
+    {
+      "Book": "Ps 51:10"
+    },
+    {
+      "Book": "Rev 22:19"
+    },
+    {
+      "Book": "Eccl 12:13"
+    },
+    {
+      "Book": "1John 3:20"
+    },
+    {
+      "Book": "John 12:24"
+    },
+    {
+      "Book": "1Pet 4:16"
+    },
+    {
+      "Book": "Phil 1:17-19"
+    },
+    {
+      "Book": "Prov 16:7"
+    },
+    {
+      "Book": "John 3:5"
+    },
+    {
+      "Book": "Acts 20:21"
+    },
+    {
+      "Book": "Matt 6:33"
+    },
+    {
+      "Book": "John 1:76"
+    },
+    {
+      "Book": "Prov 28:27"
+    },
+    {
+      "Book": "John 1:18"
+    },
+    {
+      "Book": "Phil 2:6"
+    },
+    {
+      "Book": "2Cor 2:17"
+    },
+    {
+      "Book": "Isa 9:6"
+    },
+    {
+      "Book": "Matt 10:42"
+    },
+    {
+      "Book": "Luke 12:29-31"
+    },
+    {
+      "Book": "Heb 3:6"
+    },
+    {
+      "Book": "John 8:23"
+    },
+    {
+      "Book": "Gen 1:26"
+    },
+    {
+      "Book": "Prov 10:27"
+    },
+    {
+      "Book": "2Tim 3:1-5"
+    },
+    {
+      "Book": "Isa 45:21"
+    },
+    {
+      "Book": "Phil 2:12"
+    },
+    {
+      "Book": "Ps 12:6-7"
+    },
+    {
+      "Book": "Jer 10:2-5"
+    },
+    {
+      "Book": "Gal 2:17"
+    },
+    {
+      "Book": "John 3:16"
+    },
+    {
+      "Book": "Eph 4:10"
+    },
+    {
+      "Book": "Eph 5:19"
+    },
+    {
+      "Book": "1Tim 6:7-10"
+    },
+    {
+      "Book": "Gal 6:6"
+    },
+    {
+      "Book": "Luke 1:76"
+    },
+    {
+      "Book": "Gen 6:3"
+    },
+    {
+      "Book": "Matt 28:16-18"
+    },
+    {
+      "Book": "Jas 5:19-20"
+    },
+    {
+      "Book": "Jer 10:11"
+    },
+    {
+      "Book": "Matt 23:5"
+    },
+    {
+      "Book": "Deut 22:5"
+    },
+    {
+      "Book": "Rom 8:16"
+    },
+    {
+      "Book": "Matt 2:1-2"
+    },
+    {
+      "Book": "Prov 13:1"
+    },
+    {
+      "Book": "Heb 4:14"
+    },
+    {
+      "Book": "Eph 2:1"
+    },
+    {
+      "Book": "John 16:5"
     }
   ]
 }
