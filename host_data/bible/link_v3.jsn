@@ -1,14 +1,14 @@
 {
-  "CopyRightedIsVisible": false,
   "GithubServerUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/link_v3.jsn",
   "GithubEbookUrl": null,
   "GithubStoriesUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/stories.json",
   "GithubToken": "0tLZS+i2eOQrHHdtyPJrw/j2ISHPCG4Odj6edqoLtRczv5lgnRq38TawArYC1fSI",
   "Title": "BibleApp",
   "WorshipsToken": "Elbe4ARf1aj8RTBaPYM3v1NEakrOwRuc+H8XzOQ3KPu45OBp1SMaUnVfmWOE6nyP",
-  "CopyRightChecker": true,
   "DownloadLinks": [
     {
+      "Name": "AFR53",
+      "FullName": "Afrikaans 1933,1953",
       "Id": 2,
       "IsVisible": true,
       "Language": "Afrikaans",
@@ -20,8 +20,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "AFR53",
-      "FullName": "Afrikaans 1933,1953",
       "HTMLMetadata": "",
       "WebName": "www.biblesociety.co.za",
       "WebUrl": "http://www.biblesociety.co.za/",
@@ -31,6 +29,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "AFR83",
+      "FullName": "Afrikaans 1983",
       "Id": 3,
       "IsVisible": true,
       "Language": "Afrikaans",
@@ -42,8 +42,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "AFR83",
-      "FullName": "Afrikaans 1983",
       "HTMLMetadata": "",
       "WebName": "www.biblesociety.co.za",
       "WebUrl": "http://www.biblesociety.co.za/",
@@ -53,6 +51,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ALAB",
+      "FullName": "Arabic Life Application Bible",
       "Id": 4,
       "IsVisible": true,
       "Language": "Arabic",
@@ -64,8 +64,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ALAB",
-      "FullName": "Arabic Life Application Bible",
       "HTMLMetadata": "",
       "WebName": null,
       "WebUrl": null,
@@ -75,6 +73,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "AVDDV",
+      "FullName": "New Van Dyck Bible Reduced Vocalization with Helps",
       "Id": 5,
       "IsVisible": true,
       "Language": "Arabic",
@@ -86,8 +86,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "AVDDV",
-      "FullName": "New Van Dyck Bible Reduced Vocalization with Helps",
       "HTMLMetadata": "",
       "WebName": "biblesocietyegypt.com",
       "WebUrl": "https://biblesocietyegypt.com/",
@@ -97,6 +95,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ERVAR",
+      "FullName": "Easy-to-Read Version",
       "Id": 6,
       "IsVisible": true,
       "Language": "Arabic",
@@ -108,8 +108,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ERVAR",
-      "FullName": "Easy-to-Read Version",
       "HTMLMetadata": "",
       "WebName": "www.bibleleague.org",
       "WebUrl": "https://www.bibleleague.org/",
@@ -119,6 +117,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "NAV",
+      "FullName": "Ketab El Hayat",
       "Id": 7,
       "IsVisible": true,
       "Language": "Arabic",
@@ -130,8 +130,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "NAV",
-      "FullName": "Ketab El Hayat",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/",
@@ -141,6 +139,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BDK",
+      "FullName": "Buuk Do Kinorohingan",
       "Id": 10,
       "IsVisible": true,
       "Language": "Boros Dusun",
@@ -152,8 +152,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "BDK",
-      "FullName": "Buuk Do Kinorohingan",
       "HTMLMetadata": "",
       "WebName": "biblemalaysia.org",
       "WebUrl": "https://biblemalaysia.org/",
@@ -163,6 +161,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BJB",
+      "FullName": "Judson Bible",
       "Id": 42,
       "IsVisible": true,
       "Language": "Burmese",
@@ -174,8 +174,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "BJB",
-      "FullName": "Judson Bible",
       "HTMLMetadata": "",
       "WebName": "www.myanmarbs.org",
       "WebUrl": "http://www.myanmarbs.org/",
@@ -185,6 +183,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "CKJV",
+      "FullName": "Cebuano King James Version",
       "Id": 55,
       "IsVisible": true,
       "Language": "Cebuano",
@@ -196,8 +196,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "CKJV",
-      "FullName": "Cebuano King James Version",
       "HTMLMetadata": "<div class=\"long-heading\">            <span class=\"bread-crumb\"><span class=\"left-arrow\">◀</span><a href=\"/versions\">Versions </a> /           Ang Dating Biblia (1905)           (ADB1905)            </span>    </div>    <div class=\"publisher-link\">        <span class=\"publisher\">      Publisher: <a href=\"https://support.biblegateway.com/entries/32920140-How-do-I-get-permission-to-use-content-on-your-website-\">Public Domain</a>      </span>    </div>    <div class=\"version-info-main\">        <div class=\"version-info-content\">            <div class=\"vinfo-content\" style=\"visibility: visible; opacity: 1;\">                <h2>Version Information</h2>                <p>                  No version information available.                </p>            </div>",
       "WebName": "www.ccel.org/ccel",
       "WebUrl": "https://www.ccel.org/ccel/bible/ceb_b.html",
@@ -548,6 +546,8 @@
       ]
     },
     {
+      "Name": "RCPV",
+      "FullName": "Ang Bag-ong Maayong Balita Biblia",
       "Id": 9,
       "IsVisible": true,
       "Language": "Cebuano",
@@ -559,8 +559,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "RCPV",
-      "FullName": "Ang Bag-ong Maayong Balita Biblia",
       "HTMLMetadata": "",
       "WebName": "bible.org.ph",
       "WebUrl": "https://bible.org.ph/",
@@ -570,6 +568,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "CCB",
+      "FullName": "Chinese Contemporary Bible",
       "Id": 50,
       "IsVisible": true,
       "Language": "Chinese (PRC)",
@@ -581,8 +581,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "CCB",
-      "FullName": "Chinese Contemporary Bible",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/bible/ccb/%E5%88%9B%E4%B8%96%E8%AE%B0/1/",
@@ -592,6 +590,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "CNVT",
+      "FullName": "新譯本",
       "Id": 54,
       "IsVisible": true,
       "Language": "Chinese (Taiwan)",
@@ -603,8 +603,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "CNVT",
-      "FullName": "新譯本",
       "HTMLMetadata": "",
       "WebName": "www.wwbible.org",
       "WebUrl": "https://www.wwbible.org/",
@@ -614,6 +612,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "HNZ-RI",
+      "FullName": "Hrvatski Novi Zavjet – Rijeka 2001",
       "Id": 28,
       "IsVisible": true,
       "Language": "Croatian",
@@ -625,8 +625,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "HNZ-RI",
-      "FullName": "Hrvatski Novi Zavjet – Rijeka 2001",
       "HTMLMetadata": "",
       "WebName": "www.lifecenterinternational.org",
       "WebUrl": "https://www.lifecenterinternational.org/",
@@ -636,6 +634,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "HTB",
+      "FullName": "Het Boek",
       "Id": 45,
       "IsVisible": true,
       "Language": "Dutch",
@@ -647,8 +647,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "HTB",
-      "FullName": "Het Boek",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/",
@@ -658,6 +656,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "AKJV",
+      "FullName": "Authorized King James Version",
       "Id": 14,
       "IsVisible": true,
       "Language": "English",
@@ -669,8 +669,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "AKJV",
-      "FullName": "Authorized King James Version",
       "HTMLMetadata": "",
       "WebName": "www.kingjamesbibleonline.org",
       "WebUrl": "https://www.kingjamesbibleonline.org/",
@@ -680,6 +678,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BBE",
+      "FullName": "BBE, Bible in Basic English",
       "Id": 14,
       "IsVisible": true,
       "Language": "English",
@@ -691,8 +691,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "BBE",
-      "FullName": "BBE, Bible in Basic English",
       "HTMLMetadata": "",
       "WebName": "ebible.org",
       "WebUrl": "https://ebible.org/Scriptures/details.php?id=engBBE",
@@ -702,6 +700,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "WEB",
+      "FullName": "WEB, World English Bible",
       "Id": 14,
       "IsVisible": true,
       "Language": "English",
@@ -713,8 +713,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "WEB",
-      "FullName": "WEB, World English Bible",
       "HTMLMetadata": "",
       "WebName": "bibles.org",
       "WebUrl": "https://bibles.org/versions/eng-WEB",
@@ -724,6 +722,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "WEBBE",
+      "FullName": "WEBBE, World English Bible British Edition",
       "Id": 14,
       "IsVisible": true,
       "Language": "English",
@@ -735,8 +735,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "WEBBE",
-      "FullName": "WEBBE, World English Bible British Edition",
       "HTMLMetadata": "",
       "WebName": "bibles.org",
       "WebUrl": "https://bibles.org/versions/eng-WEB",
@@ -746,6 +744,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "YLT",
+      "FullName": "YLT, Young's Literal Translation",
       "Id": 14,
       "IsVisible": true,
       "Language": "English",
@@ -757,8 +757,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "YLT",
-      "FullName": "YLT, Young's Literal Translation",
       "HTMLMetadata": "",
       "WebName": "www.biblegateway.com",
       "WebUrl": "https://www.biblegateway.com/",
@@ -768,6 +766,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ASV",
+      "FullName": "American Standard Version",
       "Id": 17,
       "IsVisible": true,
       "Language": "English",
@@ -779,8 +779,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "ASV",
-      "FullName": "American Standard Version",
       "HTMLMetadata": "www.britannica.com",
       "WebName": "britannica.com",
       "WebUrl": "https://www.britannica.com/topic/American-Standard-Version",
@@ -790,6 +788,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "DARBY",
+      "FullName": "Darby Translation",
       "Id": 20,
       "IsVisible": true,
       "Language": "English",
@@ -801,8 +801,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "DARBY",
-      "FullName": "Darby Translation",
       "HTMLMetadata": "",
       "WebName": "www.goodreads.com",
       "WebUrl": "https://www.goodreads.com/book/show/19227892-darby-translation-of-the-bible",
@@ -812,6 +810,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "KJV",
+      "FullName": "King James Version",
       "Id": 39,
       "IsVisible": true,
       "Language": "English",
@@ -823,8 +823,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "KJV",
-      "FullName": "King James Version",
       "HTMLMetadata": "",
       "WebName": "www.kingjamesbibleonline.org",
       "WebUrl": "https://www.kingjamesbibleonline.org/",
@@ -1175,6 +1173,8 @@
       ]
     },
     {
+      "Name": "AMP",
+      "FullName": "Amplified Bible",
       "Id": 15,
       "IsVisible": true,
       "Language": "English",
@@ -1186,8 +1186,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "AMP",
-      "FullName": "Amplified Bible",
       "HTMLMetadata": "",
       "WebName": "www.lockman.org",
       "WebUrl": "https://www.lockman.org/",
@@ -1197,6 +1195,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "NIV",
+      "FullName": "New International Version 2011",
       "Id": 15,
       "IsVisible": true,
       "Language": "English",
@@ -1208,8 +1208,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "NIV",
-      "FullName": "New International Version 2011",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/",
@@ -1219,6 +1217,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "AMPC",
+      "FullName": "Amplified Bible Classic Edition",
       "Id": 16,
       "IsVisible": true,
       "Language": "English",
@@ -1230,8 +1230,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "AMPC",
-      "FullName": "Amplified Bible Classic Edition",
       "HTMLMetadata": "",
       "WebName": "www.lockman.org",
       "WebUrl": "https://www.lockman.org/",
@@ -1241,6 +1239,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "CEB",
+      "FullName": "Common English Bible",
       "Id": 18,
       "IsVisible": true,
       "Language": "English",
@@ -1252,8 +1252,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "CEB",
-      "FullName": "Common English Bible",
       "HTMLMetadata": "",
       "WebName": "www.commonenglishbible.com",
       "WebUrl": "https://www.commonenglishbible.com/",
@@ -1263,6 +1261,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "CEV",
+      "FullName": "Contemporary English Version",
       "Id": 19,
       "IsVisible": true,
       "Language": "English",
@@ -1274,8 +1274,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "CEV",
-      "FullName": "Contemporary English Version",
       "HTMLMetadata": "",
       "WebName": "www.americanbible.org",
       "WebUrl": "http://www.americanbible.org/",
@@ -1285,6 +1283,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ISV",
+      "FullName": "International Standard Version",
       "Id": 38,
       "IsVisible": true,
       "Language": "English",
@@ -1296,8 +1296,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ISV",
-      "FullName": "International Standard Version",
       "HTMLMetadata": "",
       "WebName": "www.davidsonpublishing.org",
       "WebUrl": "https://www.davidsonpublishing.org/",
@@ -1307,6 +1305,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "NKJV",
+      "FullName": "New King James Version",
       "Id": 39,
       "IsVisible": true,
       "Language": "English",
@@ -1318,8 +1318,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "NKJV",
-      "FullName": "New King James Version",
       "HTMLMetadata": "",
       "WebName": "www.kingjamesbibleonline.org",
       "WebUrl": "https://www.kingjamesbibleonline.org/",
@@ -1329,6 +1327,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "NASB",
+      "FullName": "New American Standard Bible",
       "Id": 53,
       "IsVisible": true,
       "Language": "English",
@@ -1340,8 +1340,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "NASB",
-      "FullName": "New American Standard Bible",
       "HTMLMetadata": "",
       "WebName": "www.lockman.org",
       "WebUrl": "https://www.lockman.org/",
@@ -1351,6 +1349,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "LSG",
+      "FullName": "Bible Segond 1910",
       "Id": 22,
       "IsVisible": true,
       "Language": "French",
@@ -1362,8 +1362,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "LSG",
-      "FullName": "Bible Segond 1910",
       "HTMLMetadata": "",
       "WebName": "www.la-bible.net/",
       "WebUrl": "http://www.la-bible.net/",
@@ -1704,6 +1702,8 @@
       ]
     },
     {
+      "Name": "BDS",
+      "FullName": "La Bible du Semeur",
       "Id": 22,
       "IsVisible": true,
       "Language": "French",
@@ -1715,8 +1715,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "BDS",
-      "FullName": "La Bible du Semeur",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/",
@@ -1726,6 +1724,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "LB",
+      "FullName": "Luther-1545",
       "Id": 9,
       "IsVisible": true,
       "Language": "German",
@@ -1737,8 +1737,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "LB",
-      "FullName": "Luther-1545",
       "HTMLMetadata": "",
       "WebName": "newchristianbiblestudy.org",
       "WebUrl": "https://newchristianbiblestudy.org/bible/german-luther-1545/info",
@@ -1748,6 +1746,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "SCH2000",
+      "FullName": "Schlachter 2000",
       "Id": 9,
       "IsVisible": true,
       "Language": "German",
@@ -1759,8 +1759,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "SCH2000",
-      "FullName": "Schlachter 2000",
       "HTMLMetadata": "",
       "WebName": "www.bibelgesellschaft.com",
       "WebUrl": "https://www.bibelgesellschaft.com/neu/",
@@ -1770,6 +1768,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "TR1550",
+      "FullName": "1550 Stephanus New Testament",
       "Id": 11,
       "IsVisible": true,
       "Language": "Greek",
@@ -1781,8 +1781,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "TR1550",
-      "FullName": "1550 Stephanus New Testament",
       "HTMLMetadata": "",
       "WebName": "www.lueur.org",
       "WebUrl": "https://www.lueur.org/bible/versions/stephanus-tr1550.html",
@@ -1792,6 +1790,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "TR1894",
+      "FullName": "1894 Scrivener New Testament",
       "Id": 12,
       "IsVisible": true,
       "Language": "Greek",
@@ -1803,8 +1803,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "TR1894",
-      "FullName": "1894 Scrivener New Testament",
       "HTMLMetadata": "",
       "WebName": "https://www.ccel.org/",
       "WebUrl": "https://www.ccel.org/",
@@ -1814,6 +1812,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "HCV",
+      "FullName": "Haitian Creole Version",
       "Id": 29,
       "IsVisible": true,
       "Language": "Haitian Creole",
@@ -1825,8 +1825,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "HCV",
-      "FullName": "Haitian Creole Version",
       "HTMLMetadata": "",
       "WebName": "societebiblique-haiti.org",
       "WebUrl": "http://societebiblique-haiti.org/",
@@ -1836,6 +1834,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "HAU",
+      "FullName": "Littafi Mai Tsarki",
       "Id": 23,
       "IsVisible": true,
       "Language": "Hausa",
@@ -1847,8 +1847,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "HAU",
-      "FullName": "Littafi Mai Tsarki",
       "HTMLMetadata": "",
       "WebName": "www.biblesociety-nigeria.org",
       "WebUrl": "http://www.biblesociety-nigeria.org/",
@@ -1858,6 +1856,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "WLC",
+      "FullName": "The Westminster Leningrad Codex",
       "Id": 25,
       "IsVisible": true,
       "Language": "Hebrew",
@@ -1869,8 +1869,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "WLC",
-      "FullName": "The Westminster Leningrad Codex",
       "HTMLMetadata": "",
       "WebName": "dornsife.usc.edu",
       "WebUrl": "https://dornsife.usc.edu/wsrp/leningrad-codex/",
@@ -1880,6 +1878,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "HHH",
+      "FullName": "Habrit HakhadashaHaderekh",
       "Id": 24,
       "IsVisible": true,
       "Language": "Hebrew",
@@ -1891,8 +1891,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "HHH",
-      "FullName": "Habrit HakhadashaHaderekh",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/",
@@ -1902,6 +1900,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "HLGN",
+      "FullName": "Ang Pulong Sang Dios",
       "Id": 27,
       "IsVisible": true,
       "Language": "Hiligaynon",
@@ -1913,8 +1913,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "HLGN",
-      "FullName": "Ang Pulong Sang Dios",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/",
@@ -1924,6 +1922,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ERVHI",
+      "FullName": "Hindi Bible Easy-to-Read Version",
       "Id": 26,
       "IsVisible": true,
       "Language": "Hindi",
@@ -1935,8 +1935,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ERVHI",
-      "FullName": "Hindi Bible Easy-to-Read Version",
       "HTMLMetadata": "",
       "WebName": "www.bibleleague.org",
       "WebUrl": "https://www.bibleleague.org/",
@@ -1946,6 +1944,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "IGBOB",
+      "FullName": "Bible Nso",
       "Id": 31,
       "IsVisible": true,
       "Language": "Igbo",
@@ -1957,8 +1957,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "IGBOB",
-      "FullName": "Bible Nso",
       "HTMLMetadata": "",
       "WebName": "www.biblesociety-nigeria.org",
       "WebUrl": "http://www.biblesociety-nigeria.org/",
@@ -1968,6 +1966,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "RIPV",
+      "FullName": "Ti Baro a Naimbag a Damag Biblia",
       "Id": 32,
       "IsVisible": true,
       "Language": "Iloko",
@@ -1979,8 +1979,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "RIPV",
-      "FullName": "Ti Baro a Naimbag a Damag Biblia",
       "HTMLMetadata": "",
       "WebName": "bible.org.ph",
       "WebUrl": "https://bible.org.ph/",
@@ -1990,6 +1988,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BIMK",
+      "FullName": "Alkitab dalam Bahasa Indonesia Masa Kini",
       "Id": 30,
       "IsVisible": true,
       "Language": "Indonesian",
@@ -2001,8 +2001,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "BIMK",
-      "FullName": "Alkitab dalam Bahasa Indonesia Masa Kini",
       "HTMLMetadata": "",
       "WebName": "www.alkitab.or.id",
       "WebUrl": "https://www.alkitab.or.id/",
@@ -2012,6 +2010,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "NR2006",
+      "FullName": "NR2006, Nuova Riveduta 2006",
       "Id": 33,
       "IsVisible": true,
       "Language": "Italian",
@@ -2023,8 +2023,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "NR2006",
-      "FullName": "NR2006, Nuova Riveduta 2006",
       "HTMLMetadata": "",
       "WebName": "www.bible-society.org",
       "WebUrl": "https://www.bible-society.org/",
@@ -2034,6 +2032,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "JNT",
+      "FullName": "Jarai NT",
       "Id": 34,
       "IsVisible": true,
       "Language": "Jarai",
@@ -2045,8 +2045,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "JNT",
-      "FullName": "Jarai NT",
       "HTMLMetadata": "",
       "WebName": "biblesociety.org.nz",
       "WebUrl": "https://biblesociety.org.nz/vietnams-ethnic-minorities-long-for-the-bible/",
@@ -2056,6 +2054,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BYSB",
+      "FullName": "Bibiliya Yera",
       "Id": 52,
       "IsVisible": true,
       "Language": "Kinyarwanda",
@@ -2067,8 +2067,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "BYSB",
-      "FullName": "Bibiliya Yera",
       "HTMLMetadata": "",
       "WebName": "biblesociety-rwanda.org",
       "WebUrl": "https://biblesociety-rwanda.org/",
@@ -2078,6 +2076,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "KB",
+      "FullName": "Korean Bible",
       "Id": 37,
       "IsVisible": true,
       "Language": "Korean",
@@ -2089,8 +2089,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "KB",
-      "FullName": "Korean Bible",
       "HTMLMetadata": "",
       "WebName": "Christian Nations",
       "WebUrl": "https://christian-nations.github.io/",
@@ -2100,6 +2098,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "RNKSV",
+      "FullName": "Revised New Korean Standard Version",
       "Id": 37,
       "IsVisible": true,
       "Language": "Korean",
@@ -2111,8 +2111,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "RNKSV",
-      "FullName": "Revised New Korean Standard Version",
       "HTMLMetadata": "",
       "WebName": "www.koreanbible.or.kr/koreanbible",
       "WebUrl": "http://www.koreanbible.or.kr/koreanbible/",
@@ -2122,6 +2120,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "OKYB",
+      "FullName": "Ombibeli Iyapuki",
       "Id": 35,
       "IsVisible": true,
       "Language": "Kwanyama",
@@ -2133,8 +2133,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "OKYB",
-      "FullName": "Ombibeli Iyapuki",
       "HTMLMetadata": "",
       "WebName": "www.nambible.org.na",
       "WebUrl": "http://www.nambible.org.na/",
@@ -2144,6 +2142,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "VULGATE",
+      "FullName": "Biblia Sacra Vulgata",
       "Id": 54,
       "IsVisible": true,
       "Language": "Latin",
@@ -2155,8 +2155,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "VULGATE",
-      "FullName": "Biblia Sacra Vulgata",
       "HTMLMetadata": "",
       "WebName": "www.britannica.com",
       "WebUrl": "https://www.britannica.com/",
@@ -2166,6 +2164,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BMD",
+      "FullName": "Alkitab Berita Baik",
       "Id": 2,
       "IsVisible": true,
       "Language": "Malay",
@@ -2177,8 +2177,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "BMD",
-      "FullName": "Alkitab Berita Baik",
       "HTMLMetadata": "",
       "WebName": "bibles.org",
       "WebUrl": "http://bibles.org",
@@ -2188,6 +2186,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "MAORI",
+      "FullName": "Maori Bible",
       "Id": 54,
       "IsVisible": true,
       "Language": "Maori",
@@ -2199,8 +2199,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "MAORI",
-      "FullName": "Maori Bible",
       "HTMLMetadata": "",
       "WebName": "biblesociety.org.nz",
       "WebUrl": "https://biblesociety.org.nz/",
@@ -2210,6 +2208,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ERVMR",
+      "FullName": "Marathi Bible Easy to Read Version",
       "Id": 43,
       "IsVisible": true,
       "Language": "Marathi",
@@ -2221,8 +2221,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ERVMR",
-      "FullName": "Marathi Bible Easy to Read Version",
       "HTMLMetadata": "",
       "WebName": "www.bibleleague.org",
       "WebUrl": "https://www.bibleleague.org/",
@@ -2232,6 +2230,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "KPXNT",
+      "FullName": "Iesu Keliso Hotoe Tumu",
       "Id": 36,
       "IsVisible": true,
       "Language": "Mountain Koiali",
@@ -2243,8 +2243,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "KPXNT",
-      "FullName": "Iesu Keliso Hotoe Tumu",
       "HTMLMetadata": "",
       "WebName": "www.wycliffe.org",
       "WebUrl": "http://www.wycliffe.org/",
@@ -2254,6 +2252,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ONDB",
+      "FullName": "Ombiimbeli Ondjapuki",
       "Id": 44,
       "IsVisible": true,
       "Language": "Ndonga",
@@ -2265,8 +2265,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ONDB",
-      "FullName": "Ombiimbeli Ondjapuki",
       "HTMLMetadata": "",
       "WebName": "www.nambible.org.na",
       "WebUrl": "http://www.nambible.org.na/",
@@ -2276,6 +2274,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ERVNE",
+      "FullName": "Nepali Bible Easy to Read Version",
       "Id": 40,
       "IsVisible": true,
       "Language": "Nepali",
@@ -2287,8 +2287,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ERVNE",
-      "FullName": "Nepali Bible Easy to Read Version",
       "HTMLMetadata": "",
       "WebName": "www.bibleleague.org",
       "WebUrl": "https://www.bibleleague.org/",
@@ -2298,6 +2296,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "NSO00",
+      "FullName": "BIBELE Taba yea Botse",
       "Id": 47,
       "IsVisible": true,
       "Language": "Northern Sotho",
@@ -2309,8 +2309,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "NSO00",
-      "FullName": "BIBELE Taba yea Botse",
       "HTMLMetadata": "",
       "WebName": "www.biblesociety.co.za",
       "WebUrl": "http://www.biblesociety.co.za/",
@@ -2320,6 +2318,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "DNB1930",
+      "FullName": "Det Norsk Bibelselskap 1930",
       "Id": 54,
       "IsVisible": true,
       "Language": "Norwegian",
@@ -2331,8 +2331,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "DNB1930",
-      "FullName": "Det Norsk Bibelselskap 1930",
       "HTMLMetadata": "",
       "WebName": "newchristianbiblestudy.org",
       "WebUrl": "https://newchristianbiblestudy.org/bible/norwegian/",
@@ -2342,6 +2340,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "SND12",
+      "FullName": "IsiNdebele 2012 Translation",
       "Id": 41,
       "IsVisible": true,
       "Language": "Norwegian Bokmål",
@@ -2353,8 +2353,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "SND12",
-      "FullName": "IsiNdebele 2012 Translation",
       "HTMLMetadata": "",
       "WebName": "biblesociety.co.za",
       "WebUrl": "https://biblesociety.co.za/",
@@ -2364,6 +2362,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ERVOR",
+      "FullName": "Oriya Bible Easy-to-Read Version",
       "Id": 48,
       "IsVisible": true,
       "Language": "Oriya",
@@ -2375,8 +2375,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ERVOR",
-      "FullName": "Oriya Bible Easy-to-Read Version",
       "HTMLMetadata": "",
       "WebName": "worldcat.org",
       "WebUrl": "http://worldcat.org/identities/lccn-n84173729/",
@@ -2386,6 +2384,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "PHB",
+      "FullName": "PHB, Portuguese HTML Bible",
       "Id": 53,
       "IsVisible": true,
       "Language": "Portuguese",
@@ -2397,8 +2397,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "PHB",
-      "FullName": "PHB, Portuguese HTML Bible",
       "HTMLMetadata": "",
       "WebName": "www.johnhurt.com",
       "WebUrl": "http://www.johnhurt.com/",
@@ -2408,6 +2406,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ARC09",
+      "FullName": "Edição Revista e Corrigida de João Ferreira de Almeida",
       "Id": 49,
       "IsVisible": true,
       "Language": "Portuguese",
@@ -2419,8 +2419,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ARC09",
-      "FullName": "Edição Revista e Corrigida de João Ferreira de Almeida",
       "HTMLMetadata": "",
       "WebName": "biblia.sbb.org.br",
       "WebUrl": "https://biblia.sbb.org.br/almeida-revista-e-corrigida",
@@ -2430,6 +2428,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "NRT",
+      "FullName": "New Russian Translation",
       "Id": 51,
       "IsVisible": true,
       "Language": "Russian",
@@ -2441,8 +2441,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "NRT",
-      "FullName": "New Russian Translation",
       "HTMLMetadata": "",
       "WebName": "www.biblica.com",
       "WebUrl": "https://www.biblica.com/",
@@ -2452,6 +2450,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "RVR09",
+      "FullName": "Reina Valera (1909)",
       "Id": 56,
       "IsVisible": true,
       "Language": "Spanish",
@@ -2459,12 +2459,10 @@
       "Title": "RVR09, Reina Valera (1909).sqlite3",
       "FileName": "RVR09, Reina Valera (1909).sqlite3",
       "FileSize": 32.5,
-      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8TsxQpxMlDpHj/jhIa5OoyZhr8D1Aq2kQYauwA6nwCF2FGsxjtWttUYX0WS4UKdva0Nkw8tWyRb5tjXBup/cPW4=",
+      "Link": "pkBhv9mYohFTZ7Kl1HwTezcNzqGQFrSd86StL52fUipS7FnQPvLEntBMSy+B2fBdKj0sAx4WIJo1Ai+F7QJf8Uen2lrOs6RR8yHIUsHjnbAFKrpWi7cnMUWCkDNFN7SO19mmFpCKoHTW/wFEsnpxnbs3uiCRxbFNgkj0CIGUI0w=",
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "RVR09",
-      "FullName": "Reina Valera (1909)",
       "HTMLMetadata": null,
       "WebName": "americanbible.org",
       "WebUrl": "https://americanbible.org/",
@@ -2474,6 +2472,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BL92",
+      "FullName": "Buku Lopatulika 1992",
       "Id": 21,
       "IsVisible": true,
       "Language": "Spanish",
@@ -2485,8 +2485,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "BL92",
-      "FullName": "Buku Lopatulika 1992",
       "HTMLMetadata": "",
       "WebName": "www.biblesociety-malawi.org",
       "WebUrl": "http://www.biblesociety-malawi.org/",
@@ -2496,6 +2494,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "RVR60",
+      "FullName": "Biblia Reina Valera 1960",
       "Id": 56,
       "IsVisible": true,
       "Language": "Spanish",
@@ -2507,8 +2507,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "RVR60",
-      "FullName": "Biblia Reina Valera 1960",
       "HTMLMetadata": null,
       "WebName": "americanbible.org",
       "WebUrl": "https://americanbible.org/",
@@ -2518,6 +2516,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "SUV",
+      "FullName": "SUV, Swahili Union Version",
       "Id": 53,
       "IsVisible": true,
       "Language": "Swahili",
@@ -2529,8 +2529,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "SUV",
-      "FullName": "SUV, Swahili Union Version",
       "HTMLMetadata": "",
       "WebName": "biblesociety-kenya.org",
       "WebUrl": "https://biblesociety-kenya.org/",
@@ -2540,6 +2538,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "ADB1905",
+      "FullName": "Ang Dating Biblia (1905)",
       "Id": 54,
       "IsVisible": true,
       "Language": "Tagalog",
@@ -2551,8 +2551,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "ADB1905",
-      "FullName": "Ang Dating Biblia (1905)",
       "HTMLMetadata": "<div class=\"long-heading\">            <span class=\"bread-crumb\"><span class=\"left-arrow\">◀</span><a href=\"/versions\">Versions </a> /           Ang Dating Biblia (1905)           (ADB1905)            </span>    </div>    <div class=\"publisher-link\">        <span class=\"publisher\">      Publisher: <a href=\"https://support.biblegateway.com/entries/32920140-How-do-I-get-permission-to-use-content-on-your-website-\">Public Domain</a>      </span>    </div>    <div class=\"version-info-main\">        <div class=\"version-info-content\">            <div class=\"vinfo-content\" style=\"visibility: visible; opacity: 1;\">                <h2>Version Information</h2>                <p>                  No version information available.                </p>            </div>",
       "WebName": "bible.org.ph",
       "WebUrl": "https://bible.org.ph/",
@@ -2893,6 +2891,8 @@
       ]
     },
     {
+      "Name": "ERV-TA",
+      "FullName": "Tamil Bible Easy2Read Version",
       "Id": 53,
       "IsVisible": true,
       "Language": "Tamil",
@@ -2904,8 +2904,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "ERV-TA",
-      "FullName": "Tamil Bible Easy2Read Version",
       "HTMLMetadata": "",
       "WebName": "www.bibleleague.org",
       "WebUrl": "https://www.bibleleague.org/",
@@ -2915,6 +2913,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "RWV",
+      "FullName": "Tongan Bible (Revised West Version)",
       "Id": 54,
       "IsVisible": true,
       "Language": "Tongan",
@@ -2926,8 +2926,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "RWV",
-      "FullName": "Tongan Bible (Revised West Version)",
       "HTMLMetadata": "",
       "WebName": "www.aionianbible.org",
       "WebUrl": "https://www.aionianbible.org/",
@@ -2937,6 +2935,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "TSW70",
+      "FullName": "TSW70, BEIBELE",
       "Id": 53,
       "IsVisible": true,
       "Language": "Tswana",
@@ -2948,8 +2948,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "TSW70",
-      "FullName": "TSW70, BEIBELE",
       "HTMLMetadata": "",
       "WebName": "bibles.org",
       "WebUrl": "http://bibles.org/versions/tsn-TSW70",
@@ -2959,6 +2957,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "VIET",
+      "FullName": "VIET, 1934 Vietnamese Bible",
       "Id": 53,
       "IsVisible": true,
       "Language": "Vietnamese",
@@ -2970,8 +2970,6 @@
       "FilePath": null,
       "Copyright": 0,
       "CopyrightNotes": null,
-      "Name": "VIET",
-      "FullName": "VIET, 1934 Vietnamese Bible",
       "HTMLMetadata": "",
       "WebName": "www.bible-discovery.com",
       "WebUrl": "http://www.bible-discovery.com/bible-license-viet.php",
@@ -2981,6 +2979,8 @@
       "BibleAudios": null
     },
     {
+      "Name": "BPT",
+      "FullName": "Vietnamese Bible Easy-to-Read Version",
       "Id": 53,
       "IsVisible": true,
       "Language": "Vietnamese",
@@ -2992,8 +2992,6 @@
       "FilePath": null,
       "Copyright": 1,
       "CopyrightNotes": null,
-      "Name": "BPT",
-      "FullName": "Vietnamese Bible Easy-to-Read Version",
       "HTMLMetadata": "",
       "WebName": "www.bibleleague.org",
       "WebUrl": "https://www.bibleleague.org/",
@@ -3002,5 +3000,7 @@
       "Json": null,
       "BibleAudios": null
     }
-  ]
+  ],
+  "CopyRightedIsVisible": false,
+  "CopyRightedEnabled": false
 }
