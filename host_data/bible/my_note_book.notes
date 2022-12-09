@@ -1,27 +1,35 @@
 {
   "Lessons": [
     {
-      "Message": "",
       "Id": 1,
       "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
       "Title": "Sharing the Gospel",
       "Notes": "",
       "Link": "",
-      "Version": 6
+      "Version": 6,
+      "Message": ""
     },
     {
-      "Message": "",
       "Id": 2,
       "NoteId": "17b4a2c1-1258-40e2-b2d0-2a98054f58e7",
       "Title": "Meeting Preparation",
       "Notes": "PRAYER PERSONAL: <br>\rSalamat LORD, Niining isa na pud kahigayon sa panagtipon, Himoa o Lord nga magdugang kinig kalig-on, ang imong mga pulong sa among mag tagsa-tagsa ka kinabuhi. \rSalamat Ginoo sa imong pamatigayon, Salamat Ginoo sa imong gabay, Himoa Ginoo na ang mga testimony sa among kinabuhi,, mahimong blessing usab sa uban, Himua Ginoo na mouswag pa ang among Spiritual Knowledge.\rAron usab mapaambit namo ang maayong balita  ngadto sa katawhan, Salamat Ginoo sa sa  imong kalinaw ug kaayo sa na nia namo, Ang tanang dungog ug himaya sa imo lamang Ginoo, hantud sa kahangturan… AMEN.<br>\r\rPRAYER 1:<br>\r Dalaygon namo nga Amahan, salamat sa usa napud ka adlaw nga gihatag nimo kanamo, salamat sa mga grasya nga padayon mo nga ginabubo kanamo ug Amahan kami naga pangayo ug pasaylo sa tanang kalapasan nga among nabuhat sa among isig katawo, kami nagatuo nga ang mga kalapasan nga among nabuhat sa among isig katawo amo usab kining gibuhat sa imo, maong anagay ug matarung lamang nga kami magahangyo sa imong pasaylo sa among mga sala.\r\r       Amahan ania kami karun nagkatigum, nagahangyo sa imong presensya pinaagi sa balaang Espiritu. Giyahi ug lamdagi ang matag usa kanamo Amahan arun nga ang among tumong ug tinguha niiining adlawa mamahimong malampuson.\r\r       Kini among ginapasalamatan ug ginahangyo pinaagi sa imong bugtong anak nga si Hesukristo nga among manluluwas, Amen.\r",
       "Link": "",
-      "Version": 7
+      "Version": 7,
+      "Message": ""
+    },
+    {
+      "Id": 3,
+      "NoteId": "1a35f8fa-bca6-442f-a99b-1e60800e6883",
+      "Title": "Choosen People",
+      "Notes": null,
+      "Link": null,
+      "Version": 0,
+      "Message": null
     }
   ],
   "LessonItems": [
     {
-      "Message": null,
       "Id": 1,
       "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
       "Chapter": 52,
@@ -30,10 +38,10 @@
       "Osis": "Isa",
       "OrderNumber": 0,
       "Version": 1,
-      "Book": "Isa 52:7"
+      "Book": "Isa 52:7",
+      "Message": null
     },
     {
-      "Message": null,
       "Id": 2,
       "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
       "Chapter": 14,
@@ -42,10 +50,10 @@
       "Osis": "John",
       "OrderNumber": 0,
       "Version": 0,
-      "Book": "John 14:3"
+      "Book": "John 14:3",
+      "Message": null
     },
     {
-      "Message": null,
       "Id": 3,
       "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
       "Chapter": 3,
@@ -54,10 +62,10 @@
       "Osis": "Rom",
       "OrderNumber": 0,
       "Version": 0,
-      "Book": "Rom 3:23"
+      "Book": "Rom 3:23",
+      "Message": null
     },
     {
-      "Message": null,
       "Id": 4,
       "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
       "Chapter": 5,
@@ -66,7 +74,32 @@
       "Osis": "Rom",
       "OrderNumber": 0,
       "Version": 4,
-      "Book": "Rom 5:8"
+      "Book": "Rom 5:8",
+      "Message": null
+    },
+    {
+      "Id": 6,
+      "NoteId": "1a35f8fa-bca6-442f-a99b-1e60800e6883",
+      "Chapter": 5,
+      "Verses": "22-23",
+      "Notes": "",
+      "Osis": "Gal",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Gal 5:22-23",
+      "Message": null
+    },
+    {
+      "Id": 7,
+      "NoteId": "1a35f8fa-bca6-442f-a99b-1e60800e6883",
+      "Chapter": 1,
+      "Verses": "5-8",
+      "Notes": "",
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Pet 1:5-8",
+      "Message": null
     }
   ],
   "NoteBooks": [
@@ -4837,24 +4870,6 @@
       "MarkingStyler": 1
     },
     {
-      "Id": 24,
-      "Osis": "1John",
-      "HexColor": "#FF4500",
-      "Chapter": 5,
-      "Verse": 8,
-      "Book": "1John 5:8",
-      "MarkingStyler": 1
-    },
-    {
-      "Id": 25,
-      "Osis": "1John",
-      "HexColor": "#FF4500",
-      "Chapter": 5,
-      "Verse": 7,
-      "Book": "1John 5:7",
-      "MarkingStyler": 1
-    },
-    {
       "Id": 26,
       "Osis": "Heb",
       "HexColor": "#FF0000",
@@ -4924,6 +4939,294 @@
       "Chapter": 9,
       "Verse": 30,
       "Book": "John 9:30",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 34,
+      "Osis": "1John",
+      "HexColor": "#FF4169E1",
+      "Chapter": 4,
+      "Verse": 15,
+      "Book": "1John 4:15",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 35,
+      "Osis": "1John",
+      "HexColor": "#FF00FF00",
+      "Chapter": 4,
+      "Verse": 1,
+      "Book": "1John 4:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 36,
+      "Osis": "1John",
+      "HexColor": "#FFFF0000",
+      "Chapter": 4,
+      "Verse": 7,
+      "Book": "1John 4:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 37,
+      "Osis": "1John",
+      "HexColor": "#FFFF0000",
+      "Chapter": 5,
+      "Verse": 16,
+      "Book": "1John 5:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 38,
+      "Osis": "1John",
+      "HexColor": "#FFFF0000",
+      "Chapter": 5,
+      "Verse": 17,
+      "Book": "1John 5:17",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 39,
+      "Osis": "1John",
+      "HexColor": "#FFFFA500",
+      "Chapter": 1,
+      "Verse": 6,
+      "Book": "1John 1:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 40,
+      "Osis": "1John",
+      "HexColor": "#FFFFA500",
+      "Chapter": 1,
+      "Verse": 7,
+      "Book": "1John 1:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 41,
+      "Osis": "1John",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 8,
+      "Book": "1John 1:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 42,
+      "Osis": "1John",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 9,
+      "Book": "1John 1:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 43,
+      "Osis": "1John",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 10,
+      "Book": "1John 1:10",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 44,
+      "Osis": "1John",
+      "HexColor": "#FF00FF00",
+      "Chapter": 2,
+      "Verse": 4,
+      "Book": "1John 2:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 45,
+      "Osis": "1John",
+      "HexColor": "#FF6B8E23",
+      "Chapter": 2,
+      "Verse": 9,
+      "Book": "1John 2:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 46,
+      "Osis": "1John",
+      "HexColor": "#FF6B8E23",
+      "Chapter": 2,
+      "Verse": 10,
+      "Book": "1John 2:10",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 47,
+      "Osis": "1John",
+      "HexColor": "#FF6B8E23",
+      "Chapter": 2,
+      "Verse": 11,
+      "Book": "1John 2:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 48,
+      "Osis": "1John",
+      "HexColor": "#FFDA70D6",
+      "Chapter": 2,
+      "Verse": 15,
+      "Book": "1John 2:15",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 49,
+      "Osis": "1John",
+      "HexColor": "#FFDA70D6",
+      "Chapter": 2,
+      "Verse": 16,
+      "Book": "1John 2:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 50,
+      "Osis": "1John",
+      "HexColor": "#FFDA70D6",
+      "Chapter": 2,
+      "Verse": 17,
+      "Book": "1John 2:17",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 51,
+      "Osis": "1John",
+      "HexColor": "#FF00008B",
+      "Chapter": 3,
+      "Verse": 14,
+      "Book": "1John 3:14",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 52,
+      "Osis": "1John",
+      "HexColor": "#FF00008B",
+      "Chapter": 3,
+      "Verse": 15,
+      "Book": "1John 3:15",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 53,
+      "Osis": "2John",
+      "HexColor": "#FFFFA500",
+      "Chapter": 1,
+      "Verse": 8,
+      "Book": "2John 1:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 54,
+      "Osis": "3John",
+      "HexColor": "#FF00FF00",
+      "Chapter": 1,
+      "Verse": 6,
+      "Book": "3John 1:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 55,
+      "Osis": "3John",
+      "HexColor": "#FF00FF00",
+      "Chapter": 1,
+      "Verse": 7,
+      "Book": "3John 1:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 56,
+      "Osis": "3John",
+      "HexColor": "#FF00FF00",
+      "Chapter": 1,
+      "Verse": 8,
+      "Book": "3John 1:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 58,
+      "Osis": "3John",
+      "HexColor": "#FF000080",
+      "Chapter": 1,
+      "Verse": 11,
+      "Book": "3John 1:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 59,
+      "Osis": "Jude",
+      "HexColor": "#FFC71585",
+      "Chapter": 1,
+      "Verse": 6,
+      "Book": "Jude 1:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 60,
+      "Osis": "Jude",
+      "HexColor": "#FF0000CD",
+      "Chapter": 1,
+      "Verse": 9,
+      "Book": "Jude 1:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 61,
+      "Osis": "Jude",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 16,
+      "Book": "Jude 1:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 62,
+      "Osis": "Jude",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 15,
+      "Book": "Jude 1:15",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 63,
+      "Osis": "Jude",
+      "HexColor": "#FFFFFF00",
+      "Chapter": 1,
+      "Verse": 20,
+      "Book": "Jude 1:20",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 64,
+      "Osis": "Jude",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 1,
+      "Verse": 24,
+      "Book": "Jude 1:24",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 65,
+      "Osis": "Jude",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 1,
+      "Verse": 25,
+      "Book": "Jude 1:25",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 66,
+      "Osis": "Rev",
+      "HexColor": "#FFFFFF00",
+      "Chapter": 3,
+      "Verse": 5,
+      "Book": "Rev 3:5",
       "MarkingStyler": 0
     }
   ]
