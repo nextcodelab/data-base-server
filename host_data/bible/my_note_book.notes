@@ -5282,6 +5282,708 @@
       "Verse": 20,
       "Book": "Col 1:20",
       "MarkingStyler": 0
+    },
+    {
+      "Id": 73,
+      "Osis": "Jas",
+      "HexColor": "#FFFF0000",
+      "Chapter": 5,
+      "Verse": 16,
+      "Book": "Jas 5:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 74,
+      "Osis": "Jas",
+      "HexColor": "#FF00FF00",
+      "Chapter": 5,
+      "Verse": 19,
+      "Book": "Jas 5:19",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 75,
+      "Osis": "Jas",
+      "HexColor": "#FF00FF00",
+      "Chapter": 5,
+      "Verse": 20,
+      "Book": "Jas 5:20",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 76,
+      "Osis": "Heb",
+      "HexColor": "#FFC71585",
+      "Chapter": 1,
+      "Verse": 3,
+      "Book": "Heb 1:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 77,
+      "Osis": "Heb",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 6,
+      "Book": "Heb 1:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 78,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 1,
+      "Verse": 8,
+      "Book": "Heb 1:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 79,
+      "Osis": "Heb",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 1,
+      "Verse": 14,
+      "Book": "Heb 1:14",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 80,
+      "Osis": "Heb",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 2,
+      "Verse": 3,
+      "Book": "Heb 2:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 81,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 2,
+      "Verse": 14,
+      "Book": "Heb 2:14",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 82,
+      "Osis": "Heb",
+      "HexColor": "#FFFF8C00",
+      "Chapter": 2,
+      "Verse": 16,
+      "Book": "Heb 2:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 83,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 2,
+      "Verse": 17,
+      "Book": "Heb 2:17",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 84,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 3,
+      "Verse": 7,
+      "Book": "Heb 3:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 85,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 3,
+      "Verse": 8,
+      "Book": "Heb 3:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 86,
+      "Osis": "Heb",
+      "HexColor": "#FF800080",
+      "Chapter": 3,
+      "Verse": 12,
+      "Book": "Heb 3:12",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 87,
+      "Osis": "Heb",
+      "HexColor": "#FF800080",
+      "Chapter": 3,
+      "Verse": 13,
+      "Book": "Heb 3:13",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 88,
+      "Osis": "Heb",
+      "HexColor": "#FF800080",
+      "Chapter": 4,
+      "Verse": 1,
+      "Book": "Heb 4:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 89,
+      "Osis": "Heb",
+      "HexColor": "#FF800080",
+      "Chapter": 4,
+      "Verse": 2,
+      "Book": "Heb 4:2",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 90,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 4,
+      "Verse": 7,
+      "Book": "Heb 4:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 91,
+      "Osis": "Heb",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 4,
+      "Verse": 9,
+      "Book": "Heb 4:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 92,
+      "Osis": "Heb",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 4,
+      "Verse": 10,
+      "Book": "Heb 4:10",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 93,
+      "Osis": "Heb",
+      "HexColor": "#FF008B8B",
+      "Chapter": 4,
+      "Verse": 11,
+      "Book": "Heb 4:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 94,
+      "Osis": "Heb",
+      "HexColor": "#FFF0E68C",
+      "Chapter": 4,
+      "Verse": 13,
+      "Book": "Heb 4:13",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 95,
+      "Osis": "Heb",
+      "HexColor": "#FFB8860B",
+      "Chapter": 5,
+      "Verse": 4,
+      "Book": "Heb 5:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 96,
+      "Osis": "Heb",
+      "HexColor": "#FFB8860B",
+      "Chapter": 5,
+      "Verse": 5,
+      "Book": "Heb 5:5",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 97,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 5,
+      "Verse": 8,
+      "Book": "Heb 5:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 98,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 5,
+      "Verse": 9,
+      "Book": "Heb 5:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 99,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 5,
+      "Verse": 10,
+      "Book": "Heb 5:10",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 100,
+      "Osis": "Heb",
+      "HexColor": "#FF7FFF00",
+      "Chapter": 5,
+      "Verse": 12,
+      "Book": "Heb 5:12",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 101,
+      "Osis": "Heb",
+      "HexColor": "#FF7FFF00",
+      "Chapter": 5,
+      "Verse": 13,
+      "Book": "Heb 5:13",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 102,
+      "Osis": "Heb",
+      "HexColor": "#FF7FFF00",
+      "Chapter": 5,
+      "Verse": 14,
+      "Book": "Heb 5:14",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 103,
+      "Osis": "Heb",
+      "HexColor": "#FFF08080",
+      "Chapter": 6,
+      "Verse": 1,
+      "Book": "Heb 6:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 104,
+      "Osis": "Heb",
+      "HexColor": "#FFF08080",
+      "Chapter": 6,
+      "Verse": 3,
+      "Book": "Heb 6:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 105,
+      "Osis": "Heb",
+      "HexColor": "#FFF08080",
+      "Chapter": 6,
+      "Verse": 2,
+      "Book": "Heb 6:2",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 106,
+      "Osis": "Heb",
+      "HexColor": "#FFF08080",
+      "Chapter": 6,
+      "Verse": 4,
+      "Book": "Heb 6:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 107,
+      "Osis": "Heb",
+      "HexColor": "#FF7FFFD4",
+      "Chapter": 6,
+      "Verse": 6,
+      "Book": "Heb 6:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 108,
+      "Osis": "Heb",
+      "HexColor": "#FF0000FF",
+      "Chapter": 6,
+      "Verse": 10,
+      "Book": "Heb 6:10",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 109,
+      "Osis": "Heb",
+      "HexColor": "#FFF08080",
+      "Chapter": 6,
+      "Verse": 12,
+      "Book": "Heb 6:12",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 110,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 6,
+      "Verse": 20,
+      "Book": "Heb 6:20",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 111,
+      "Osis": "Heb",
+      "HexColor": "#FF9ACD32",
+      "Chapter": 7,
+      "Verse": 7,
+      "Book": "Heb 7:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 112,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 7,
+      "Verse": 12,
+      "Book": "Heb 7:12",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 113,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 7,
+      "Verse": 13,
+      "Book": "Heb 7:13",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 114,
+      "Osis": "Heb",
+      "HexColor": "#FFFF6347",
+      "Chapter": 7,
+      "Verse": 18,
+      "Book": "Heb 7:18",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 115,
+      "Osis": "Heb",
+      "HexColor": "#FFFF6347",
+      "Chapter": 7,
+      "Verse": 19,
+      "Book": "Heb 7:19",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 116,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 7,
+      "Verse": 21,
+      "Book": "Heb 7:21",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 117,
+      "Osis": "Heb",
+      "HexColor": "#FFDC143C",
+      "Chapter": 7,
+      "Verse": 24,
+      "Book": "Heb 7:24",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 118,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 7,
+      "Verse": 26,
+      "Book": "Heb 7:26",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 119,
+      "Osis": "Heb",
+      "HexColor": "#FF9ACD32",
+      "Chapter": 7,
+      "Verse": 28,
+      "Book": "Heb 7:28",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 120,
+      "Osis": "Heb",
+      "HexColor": "#FF9ACD32",
+      "Chapter": 8,
+      "Verse": 6,
+      "Book": "Heb 8:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 121,
+      "Osis": "Heb",
+      "HexColor": "#FF9ACD32",
+      "Chapter": 8,
+      "Verse": 7,
+      "Book": "Heb 8:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 122,
+      "Osis": "Heb",
+      "HexColor": "#FF9ACD32",
+      "Chapter": 8,
+      "Verse": 8,
+      "Book": "Heb 8:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 123,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 8,
+      "Verse": 10,
+      "Book": "Heb 8:10",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 124,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 8,
+      "Verse": 11,
+      "Book": "Heb 8:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 125,
+      "Osis": "Heb",
+      "HexColor": "#FF9ACD32",
+      "Chapter": 8,
+      "Verse": 13,
+      "Book": "Heb 8:13",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 126,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 9,
+      "Verse": 11,
+      "Book": "Heb 9:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 127,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 9,
+      "Verse": 12,
+      "Book": "Heb 9:12",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 128,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 9,
+      "Verse": 15,
+      "Book": "Heb 9:15",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 129,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 9,
+      "Verse": 22,
+      "Book": "Heb 9:22",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 130,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 9,
+      "Verse": 24,
+      "Book": "Heb 9:24",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 131,
+      "Osis": "Heb",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 9,
+      "Verse": 27,
+      "Book": "Heb 9:27",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 132,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 9,
+      "Verse": 28,
+      "Book": "Heb 9:28",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 133,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 10,
+      "Verse": 4,
+      "Book": "Heb 10:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 134,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 10,
+      "Verse": 7,
+      "Book": "Heb 10:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 135,
+      "Osis": "Heb",
+      "HexColor": "#FFFF0000",
+      "Chapter": 10,
+      "Verse": 22,
+      "Book": "Heb 10:22",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 136,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 10,
+      "Verse": 14,
+      "Book": "Heb 10:14",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 137,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 10,
+      "Verse": 15,
+      "Book": "Heb 10:15",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 138,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 10,
+      "Verse": 16,
+      "Book": "Heb 10:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 139,
+      "Osis": "Heb",
+      "HexColor": "#FF2E8B57",
+      "Chapter": 10,
+      "Verse": 25,
+      "Book": "Heb 10:25",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 140,
+      "Osis": "Heb",
+      "HexColor": "#FF8B008B",
+      "Chapter": 10,
+      "Verse": 26,
+      "Book": "Heb 10:26",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 141,
+      "Osis": "Heb",
+      "HexColor": "#FF8B008B",
+      "Chapter": 10,
+      "Verse": 27,
+      "Book": "Heb 10:27",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 142,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 10,
+      "Verse": 30,
+      "Book": "Heb 10:30",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 143,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 10,
+      "Verse": 31,
+      "Book": "Heb 10:31",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 144,
+      "Osis": "Heb",
+      "HexColor": "#FF6495ED",
+      "Chapter": 10,
+      "Verse": 29,
+      "Book": "Heb 10:29",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 145,
+      "Osis": "Heb",
+      "HexColor": "#FF1E90FF",
+      "Chapter": 10,
+      "Verse": 33,
+      "Book": "Heb 10:33",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 146,
+      "Osis": "Heb",
+      "HexColor": "#FF1E90FF",
+      "Chapter": 10,
+      "Verse": 34,
+      "Book": "Heb 10:34",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 147,
+      "Osis": "Heb",
+      "HexColor": "#FF1E90FF",
+      "Chapter": 10,
+      "Verse": 35,
+      "Book": "Heb 10:35",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 148,
+      "Osis": "Heb",
+      "HexColor": "#FF0000FF",
+      "Chapter": 10,
+      "Verse": 36,
+      "Book": "Heb 10:36",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 149,
+      "Osis": "Heb",
+      "HexColor": "#FF0000FF",
+      "Chapter": 10,
+      "Verse": 37,
+      "Book": "Heb 10:37",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 150,
+      "Osis": "Heb",
+      "HexColor": "#FF0000FF",
+      "Chapter": 10,
+      "Verse": 38,
+      "Book": "Heb 10:38",
+      "MarkingStyler": 0
     }
   ]
 }
