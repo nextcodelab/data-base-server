@@ -1309,10 +1309,10 @@
       "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
       "Chapter": 1,
       "Verses": "2",
-      "Notes": "",
+      "Notes": null,
       "Osis": "1Tim",
       "OrderNumber": 0,
-      "Version": 9,
+      "Version": 1,
       "Book": "1Tim 1:2"
     },
     {
@@ -4647,6 +4647,160 @@
       "OrderNumber": 0,
       "Version": 3,
       "Book": "Mark 12:27"
+    },
+    {
+      "Id": 382,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 1,
+      "Verses": "6",
+      "Notes": null,
+      "Osis": "Heb",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Heb 1:6"
+    },
+    {
+      "Id": 383,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 4,
+      "Verses": "9,10",
+      "Notes": null,
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 4:9,10"
+    },
+    {
+      "Id": 384,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 5,
+      "Verses": "1,20,21",
+      "Notes": null,
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 5:1,20,21"
+    },
+    {
+      "Id": 385,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 1,
+      "Verses": "3",
+      "Notes": null,
+      "Osis": "2John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2John 1:3"
+    },
+    {
+      "Id": 386,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 1,
+      "Verses": "3",
+      "Notes": null,
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 1:3"
+    },
+    {
+      "Id": 387,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 1,
+      "Verses": "12",
+      "Notes": "Sinugo",
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 1:12"
+    },
+    {
+      "Id": 388,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 1,
+      "Verses": "16",
+      "Notes": null,
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 1:16"
+    },
+    {
+      "Id": 389,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 2,
+      "Verses": "1,6,11",
+      "Notes": null,
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 2:1,6,11"
+    },
+    {
+      "Id": 390,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 2,
+      "Verses": "21",
+      "Notes": null,
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 2:21"
+    },
+    {
+      "Id": 391,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 2,
+      "Verses": "21,22,23",
+      "Notes": null,
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 2:21,22,23"
+    },
+    {
+      "Id": 392,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 1,
+      "Verses": "2",
+      "Notes": null,
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Pet 1:2"
+    },
+    {
+      "Id": 393,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 1,
+      "Verses": "5,6,7,8",
+      "Notes": null,
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 1,
+      "Book": "2Pet 1:5,6,7,8"
+    },
+    {
+      "Id": 394,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 1,
+      "Verses": "1",
+      "Notes": null,
+      "Osis": "Jas",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Jas 1:1"
+    },
+    {
+      "Id": 395,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 17,
+      "Verses": "21,22,23",
+      "Notes": "Maging isa",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 17:21,22,23"
     }
   ],
   "BookMarks": [
@@ -5320,15 +5474,6 @@
       "MarkingStyler": 0
     },
     {
-      "Id": 77,
-      "Osis": "Heb",
-      "HexColor": "#FFFF4500",
-      "Chapter": 1,
-      "Verse": 6,
-      "Book": "Heb 1:6",
-      "MarkingStyler": 0
-    },
-    {
       "Id": 78,
       "Osis": "Heb",
       "HexColor": "#FFDC143C",
@@ -5983,6 +6128,222 @@
       "Chapter": 10,
       "Verse": 38,
       "Book": "Heb 10:38",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 151,
+      "Osis": "Heb",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 6,
+      "Book": "Heb 1:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 152,
+      "Osis": "1Pet",
+      "HexColor": "#FFFF4500",
+      "Chapter": 1,
+      "Verse": 16,
+      "Book": "1Pet 1:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 153,
+      "Osis": "1Pet",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 2,
+      "Verse": 1,
+      "Book": "1Pet 2:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 154,
+      "Osis": "1Pet",
+      "HexColor": "#FFFF4500",
+      "Chapter": 2,
+      "Verse": 6,
+      "Book": "1Pet 2:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 155,
+      "Osis": "1Pet",
+      "HexColor": "#FF3CB371",
+      "Chapter": 2,
+      "Verse": 11,
+      "Book": "1Pet 2:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 158,
+      "Osis": "1Pet",
+      "HexColor": "#FF3CB371",
+      "Chapter": 2,
+      "Verse": 21,
+      "Book": "1Pet 2:21",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 159,
+      "Osis": "1Pet",
+      "HexColor": "#FF3CB371",
+      "Chapter": 2,
+      "Verse": 22,
+      "Book": "1Pet 2:22",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 160,
+      "Osis": "1Pet",
+      "HexColor": "#FF3CB371",
+      "Chapter": 2,
+      "Verse": 23,
+      "Book": "1Pet 2:23",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 161,
+      "Osis": "1Pet",
+      "HexColor": "#FF3CB371",
+      "Chapter": 3,
+      "Verse": 1,
+      "Book": "1Pet 3:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 162,
+      "Osis": "1Pet",
+      "HexColor": "#FF3CB371",
+      "Chapter": 3,
+      "Verse": 2,
+      "Book": "1Pet 3:2",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 163,
+      "Osis": "1Pet",
+      "HexColor": "#FF48D1CC",
+      "Chapter": 3,
+      "Verse": 3,
+      "Book": "1Pet 3:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 164,
+      "Osis": "1Pet",
+      "HexColor": "#FF48D1CC",
+      "Chapter": 3,
+      "Verse": 4,
+      "Book": "1Pet 3:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 165,
+      "Osis": "1Pet",
+      "HexColor": "#FF48D1CC",
+      "Chapter": 3,
+      "Verse": 5,
+      "Book": "1Pet 3:5",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 166,
+      "Osis": "1Pet",
+      "HexColor": "#FFFF4500",
+      "Chapter": 3,
+      "Verse": 18,
+      "Book": "1Pet 3:18",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 167,
+      "Osis": "1Pet",
+      "HexColor": "#FF00FF00",
+      "Chapter": 4,
+      "Verse": 18,
+      "Book": "1Pet 4:18",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 168,
+      "Osis": "1Pet",
+      "HexColor": "#FF00FF7F",
+      "Chapter": 5,
+      "Verse": 5,
+      "Book": "1Pet 5:5",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 169,
+      "Osis": "2Pet",
+      "HexColor": "#FFB0E0E6",
+      "Chapter": 1,
+      "Verse": 21,
+      "Book": "2Pet 1:21",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 170,
+      "Osis": "2Pet",
+      "HexColor": "#FFB0E0E6",
+      "Chapter": 1,
+      "Verse": 20,
+      "Book": "2Pet 1:20",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 171,
+      "Osis": "2Pet",
+      "HexColor": "#FF00FFFF",
+      "Chapter": 3,
+      "Verse": 8,
+      "Book": "2Pet 3:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 172,
+      "Osis": "2Pet",
+      "HexColor": "#FF00BFFF",
+      "Chapter": 3,
+      "Verse": 15,
+      "Book": "2Pet 3:15",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 173,
+      "Osis": "2Pet",
+      "HexColor": "#FFB22222",
+      "Chapter": 3,
+      "Verse": 16,
+      "Book": "2Pet 3:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 174,
+      "Osis": "Jas",
+      "HexColor": "#FFF08080",
+      "Chapter": 1,
+      "Verse": 5,
+      "Book": "Jas 1:5",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 175,
+      "Osis": "Titus",
+      "HexColor": "#FF228B22",
+      "Chapter": 3,
+      "Verse": 1,
+      "Book": "Titus 3:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 176,
+      "Osis": "Titus",
+      "HexColor": "#FF228B22",
+      "Chapter": 3,
+      "Verse": 2,
+      "Book": "Titus 3:2",
       "MarkingStyler": 0
     }
   ]
