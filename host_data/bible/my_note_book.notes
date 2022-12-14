@@ -454,6 +454,14 @@
       "Notes": null,
       "Link": null,
       "Version": 3
+    },
+    {
+      "Id": 45,
+      "NoteId": "bd745f98-654d-4e74-b89d-22eda7d0fbb3",
+      "Title": "Brothers & Sisters",
+      "Notes": null,
+      "Link": null,
+      "Version": 0
     }
   ],
   "NoteBookItems": [
@@ -4801,6 +4809,39 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "John 17:21,22,23"
+    },
+    {
+      "Id": 396,
+      "NoteId": "bd745f98-654d-4e74-b89d-22eda7d0fbb3",
+      "Chapter": 17,
+      "Verses": "10",
+      "Notes": "",
+      "Osis": "Luke",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Luke 17:10"
+    },
+    {
+      "Id": 397,
+      "NoteId": "09da44e4-2bd4-407f-872d-eecd62e7dc3c",
+      "Chapter": 14,
+      "Verses": "21,22",
+      "Notes": null,
+      "Osis": "1Cor",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Cor 14:21,22"
+    },
+    {
+      "Id": 398,
+      "NoteId": "09da44e4-2bd4-407f-872d-eecd62e7dc3c",
+      "Chapter": 2,
+      "Verses": "8,7,6",
+      "Notes": null,
+      "Osis": "Acts",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Acts 2:8,7,6"
     }
   ],
   "BookMarks": [
@@ -6344,6 +6385,87 @@
       "Chapter": 3,
       "Verse": 2,
       "Book": "Titus 3:2",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 177,
+      "Osis": "1Cor",
+      "HexColor": "#FFFFDEAD",
+      "Chapter": 16,
+      "Verse": 1,
+      "Book": "1Cor 16:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 178,
+      "Osis": "1Cor",
+      "HexColor": "#FFFFDEAD",
+      "Chapter": 16,
+      "Verse": 2,
+      "Book": "1Cor 16:2",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 179,
+      "Osis": "1Cor",
+      "HexColor": "#FFFFDEAD",
+      "Chapter": 16,
+      "Verse": 3,
+      "Book": "1Cor 16:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 180,
+      "Osis": "1Cor",
+      "HexColor": "#FF00FF00",
+      "Chapter": 16,
+      "Verse": 19,
+      "Book": "1Cor 16:19",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 181,
+      "Osis": "2Cor",
+      "HexColor": "#FFFFE4B5",
+      "Chapter": 1,
+      "Verse": 1,
+      "Book": "2Cor 1:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 182,
+      "Osis": "2Cor",
+      "HexColor": "#FF87CEFA",
+      "Chapter": 1,
+      "Verse": 2,
+      "Book": "2Cor 1:2",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 183,
+      "Osis": "2Cor",
+      "HexColor": "#FF87CEFA",
+      "Chapter": 1,
+      "Verse": 3,
+      "Book": "2Cor 1:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 187,
+      "Osis": "1Cor",
+      "HexColor": "#FFC71585",
+      "Chapter": 14,
+      "Verse": 21,
+      "Book": "1Cor 14:21",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 188,
+      "Osis": "1Cor",
+      "HexColor": "#FFC71585",
+      "Chapter": 14,
+      "Verse": 22,
+      "Book": "1Cor 14:22",
       "MarkingStyler": 0
     }
   ]
