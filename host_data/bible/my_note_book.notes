@@ -4,9 +4,9 @@
       "Id": 1,
       "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
       "Title": "Sharing the Gospel",
-      "Notes": "",
+      "Notes": "“And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved.”(Acts 4:12esv).\r\rJesus answered, “I am the way and the truth and the life. No one comes to the Father except through me”.  (John 14:6)\r\r\r\rSin will lead us to death, Hell, and eternal separation from God, but Jesus will lead us to reconciliation with God and Heaven. It is by His Mercy & Grace that God offers you salvation through the death & resurrection of Jesus Christ. Only Jesus has paid the price for sin – our transgression of His commands such as lying, stealing, sexual immorality, unrighteous anger, unforgiveness, coveting and greed, idolatry, misusing His holy name, worshipping other things in place of God, selfishness, pride, etc. He paid the just price on the cross. That price was death, in order that we may be set free from the righteous judgment and punishment we deserve.\r\r“For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord” (Romans 6:23)\r\r“Jesus answered and said to him, “Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God.” (John 3,3)\r\r“For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life”. (John 3:16-17)\r\r“As many as received Him, to them He gave the right to become children of God, to those who believe in His name: who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.” (John 1,12-13)  \r\rHe loves you and calls you to deep repentance from sin and total surrender to His Lordship.\r\rSurrender your life to God, believe in your heart Jesus died on the cross for you for your sins, that God raise Him from the dead, confess Him as your Lord (Romans 10,10), ask for forgiveness and repent of all your sins. True faith is sincerely believing, repenting & surrendering yourself to Him. If you are ready, come to Him now with a prayer something like this:\r\r \r\r🙏 Sinner’s Prayer 🙏\rPrayer gesture“Lord Jesus, thank You for the word that has reached my heart today. I thank You for Your love and Your mercy.\rI believe You are the Son of God and You died for me.\rThank you for bearing my sins and giving me the gift of eternal life.\rI am ready to trust You as my Lord and Savior.\rToday, I ask You, Lord, to forgive my sins and cleanse me with Your Precious Blood, I ask that You, to write my name in the Book of Life.\rSeal me with Your Holy Spirit, enter and dwell in my life and free me of all wickedness.\rRight now, I forgive anyone that I had not been able to forgive.\rI renounce my lack of forgiveness.\rI renounce the desires of my flesh;\rI renounce my former life, and all that is unpleasing to you,\rI declare today, that all chains that bind me, be released,\rI am free because You have freed me\rI will now follow you and use me for Your Glory.\rIn Jesus Name, Amen.”",
       "Link": "",
-      "Version": 6,
+      "Version": 7,
       "Message": ""
     },
     {
@@ -6466,6 +6466,24 @@
       "Chapter": 14,
       "Verse": 22,
       "Book": "1Cor 14:22",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 190,
+      "Osis": "Joel",
+      "HexColor": "#FF4682B4",
+      "Chapter": 2,
+      "Verse": 28,
+      "Book": "Joel 2:28",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 191,
+      "Osis": "Acts",
+      "HexColor": "#FF4682B4",
+      "Chapter": 2,
+      "Verse": 16,
+      "Book": "Acts 2:16",
       "MarkingStyler": 0
     }
   ]
