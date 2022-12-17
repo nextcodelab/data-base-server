@@ -462,6 +462,14 @@
       "Notes": null,
       "Link": null,
       "Version": 0
+    },
+    {
+      "Id": 46,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Title": "Christ in Clouds",
+      "Notes": null,
+      "Link": null,
+      "Version": 0
     }
   ],
   "NoteBookItems": [
@@ -1152,10 +1160,10 @@
       "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
       "Chapter": 30,
       "Verses": "4",
-      "Notes": "",
+      "Notes": "Who is the Son",
       "Osis": "Prov",
       "OrderNumber": 0,
-      "Version": 10,
+      "Version": 11,
       "Book": "Prov 30:4"
     },
     {
@@ -4842,6 +4850,138 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "Acts 2:8,7,6"
+    },
+    {
+      "Id": 399,
+      "NoteId": "bd745f98-654d-4e74-b89d-22eda7d0fbb3",
+      "Chapter": 3,
+      "Verses": "11",
+      "Notes": "",
+      "Osis": "Mic",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Mic 3:11"
+    },
+    {
+      "Id": 400,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 8,
+      "Verses": "22-27",
+      "Notes": "Before the world was.",
+      "Osis": "Prov",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Prov 8:22-27"
+    },
+    {
+      "Id": 401,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 1,
+      "Verses": "10",
+      "Notes": "",
+      "Osis": "1Thess",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Thess 1:10"
+    },
+    {
+      "Id": 402,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 5,
+      "Verses": "9",
+      "Notes": "",
+      "Osis": "Rom",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rom 5:9"
+    },
+    {
+      "Id": 403,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 5,
+      "Verses": "9",
+      "Notes": "",
+      "Osis": "1Thess",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Thess 5:9"
+    },
+    {
+      "Id": 404,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 2,
+      "Verses": "7-8",
+      "Notes": "",
+      "Osis": "2Thess",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Thess 2:7-8"
+    },
+    {
+      "Id": 405,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 2,
+      "Verses": "5",
+      "Notes": "",
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Pet 2:5"
+    },
+    {
+      "Id": 406,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 2,
+      "Verses": "6-7",
+      "Notes": "",
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Pet 2:6-7"
+    },
+    {
+      "Id": 407,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 19,
+      "Verses": "7-8",
+      "Notes": "",
+      "Osis": "Rev",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rev 19:7-8"
+    },
+    {
+      "Id": 408,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 20,
+      "Verses": "7",
+      "Notes": "",
+      "Osis": "Rev",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rev 20:7"
+    },
+    {
+      "Id": 409,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 15,
+      "Verses": "53-54",
+      "Notes": "",
+      "Osis": "1Cor",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Cor 15:53-54"
+    },
+    {
+      "Id": 410,
+      "NoteId": "972df903-cac3-4647-abf6-39abd4d79a67",
+      "Chapter": 22,
+      "Verses": "30",
+      "Notes": "",
+      "Osis": "Matt",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Matt 22:30"
     }
   ],
   "BookMarks": [
