@@ -470,6 +470,14 @@
       "Notes": null,
       "Link": null,
       "Version": 0
+    },
+    {
+      "Id": 47,
+      "NoteId": "a1191204-3f6d-402a-885b-485363914013",
+      "Title": "Earthly Shepherd",
+      "Notes": null,
+      "Link": null,
+      "Version": 0
     }
   ],
   "NoteBookItems": [
@@ -4982,6 +4990,127 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "Matt 22:30"
+    },
+    {
+      "Id": 411,
+      "NoteId": "aff775e5-a484-4b51-ad46-26228497dc8d",
+      "Chapter": 26,
+      "Verses": "1",
+      "Notes": "",
+      "Osis": "Lev",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Lev 26:1"
+    },
+    {
+      "Id": 412,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 12,
+      "Verses": "2",
+      "Notes": "Paul begins to tell the story of his supernatural experience of being taken to \"the third heaven.\" There he was shown otherwise unknowable truths by Christ (2 Corinthians 12:4). Especially in the Old Testament, the third heaven is often referred to as the highest heaven, a place created by God where He lives and where angels praise Him (1 Kings 8:27; Nehemiah 9:6; Psalm 148:4). Most commentators understand the first heaven—or first heavens—to be the sky above the earth. The second would be the realm of the sun, moon, and stars: what we would now refer to as outer space.",
+      "Osis": "2Cor",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Cor 12:2"
+    },
+    {
+      "Id": 413,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 3,
+      "Verses": "18-20",
+      "Notes": "Spiritong nakabilanggo",
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 3:18-20"
+    },
+    {
+      "Id": 414,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 4,
+      "Verses": "14",
+      "Notes": "Mga tawag na Cristiano",
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 4:14"
+    },
+    {
+      "Id": 415,
+      "NoteId": "9d73bfec-5de7-4219-97fb-31e55049a773",
+      "Chapter": 11,
+      "Verses": "26",
+      "Notes": "",
+      "Osis": "Acts",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Acts 11:26"
+    },
+    {
+      "Id": 416,
+      "NoteId": "a1191204-3f6d-402a-885b-485363914013",
+      "Chapter": 1,
+      "Verses": "16",
+      "Notes": "",
+      "Osis": "Jude",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Jude 1:16"
+    },
+    {
+      "Id": 417,
+      "NoteId": "a1191204-3f6d-402a-885b-485363914013",
+      "Chapter": 16,
+      "Verses": "17-18",
+      "Notes": "",
+      "Osis": "Rom",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rom 16:17-18"
+    },
+    {
+      "Id": 418,
+      "NoteId": "a1191204-3f6d-402a-885b-485363914013",
+      "Chapter": 3,
+      "Verses": "11",
+      "Notes": "",
+      "Osis": "Mic",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Mic 3:11"
+    },
+    {
+      "Id": 419,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 4,
+      "Verses": "8-10",
+      "Notes": "",
+      "Osis": "Eph",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Eph 4:8-10"
+    },
+    {
+      "Id": 420,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 2,
+      "Verses": "7",
+      "Notes": "",
+      "Osis": "Ps",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Ps 2:7"
+    },
+    {
+      "Id": 421,
+      "NoteId": "e38a5eed-9762-4171-b49d-b17315f7da2e",
+      "Chapter": 2,
+      "Verses": "34-36",
+      "Notes": "",
+      "Osis": "Acts",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Acts 2:34-36"
     }
   ],
   "BookMarks": [
@@ -5012,6 +5141,13 @@
       "Osis": "Rev",
       "Chapter": 14,
       "Verses": "12"
+    },
+    {
+      "Id": 5,
+      "Book": "Jas 2:",
+      "Osis": "Jas",
+      "Chapter": 2,
+      "Verses": "15"
     }
   ],
   "VerseMarks": [
@@ -6624,6 +6760,132 @@
       "Chapter": 2,
       "Verse": 16,
       "Book": "Acts 2:16",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 193,
+      "Osis": "Jas",
+      "HexColor": "#FF4682B4",
+      "Chapter": 1,
+      "Verse": 7,
+      "Book": "Jas 1:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 194,
+      "Osis": "Jas",
+      "HexColor": "#FF808000",
+      "Chapter": 2,
+      "Verse": 4,
+      "Book": "Jas 2:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 195,
+      "Osis": "Jas",
+      "HexColor": "#FFFFDEAD",
+      "Chapter": 2,
+      "Verse": 6,
+      "Book": "Jas 2:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 196,
+      "Osis": "Jas",
+      "HexColor": "#FF808000",
+      "Chapter": 2,
+      "Verse": 7,
+      "Book": "Jas 2:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 197,
+      "Osis": "Jas",
+      "HexColor": "#FF006400",
+      "Chapter": 2,
+      "Verse": 13,
+      "Book": "Jas 2:13",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 198,
+      "Osis": "Jas",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 2,
+      "Verse": 23,
+      "Book": "Jas 2:23",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 199,
+      "Osis": "Rom",
+      "HexColor": "#FFFFA500",
+      "Chapter": 12,
+      "Verse": 3,
+      "Book": "Rom 12:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 200,
+      "Osis": "Rom",
+      "HexColor": "#FF000080",
+      "Chapter": 12,
+      "Verse": 5,
+      "Book": "Rom 12:5",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 201,
+      "Osis": "Rom",
+      "HexColor": "#FF808000",
+      "Chapter": 12,
+      "Verse": 7,
+      "Book": "Rom 12:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 202,
+      "Osis": "Rom",
+      "HexColor": "#FFFFA500",
+      "Chapter": 12,
+      "Verse": 9,
+      "Book": "Rom 12:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 206,
+      "Osis": "Rom",
+      "HexColor": "#FF000080",
+      "Chapter": 13,
+      "Verse": 10,
+      "Book": "Rom 13:10",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 207,
+      "Osis": "Rom",
+      "HexColor": "#FF191970",
+      "Chapter": 13,
+      "Verse": 8,
+      "Book": "Rom 13:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 212,
+      "Osis": "Rom",
+      "HexColor": "#FF808000",
+      "Chapter": 13,
+      "Verse": 9,
+      "Book": "Rom 13:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 213,
+      "Osis": "Rom",
+      "HexColor": "#FFFFA500",
+      "Chapter": 13,
+      "Verse": 3,
+      "Book": "Rom 13:3",
       "MarkingStyler": 0
     }
   ]
