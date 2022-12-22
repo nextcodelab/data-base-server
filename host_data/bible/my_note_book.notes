@@ -6862,30 +6862,12 @@
       "MarkingStyler": 0
     },
     {
-      "Id": 207,
-      "Osis": "Rom",
-      "HexColor": "#FF191970",
-      "Chapter": 13,
-      "Verse": 8,
-      "Book": "Rom 13:8",
-      "MarkingStyler": 0
-    },
-    {
       "Id": 212,
       "Osis": "Rom",
       "HexColor": "#FF808000",
       "Chapter": 13,
       "Verse": 9,
       "Book": "Rom 13:9",
-      "MarkingStyler": 0
-    },
-    {
-      "Id": 213,
-      "Osis": "Rom",
-      "HexColor": "#FFFFA500",
-      "Chapter": 13,
-      "Verse": 3,
-      "Book": "Rom 13:3",
       "MarkingStyler": 0
     }
   ]
