@@ -5394,6 +5394,83 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "John 1:30"
+    },
+    {
+      "Id": 447,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 3,
+      "Verses": "15",
+      "Notes": "AUTHOR OF LIFE",
+      "Osis": "Acts",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Acts 3:15"
+    },
+    {
+      "Id": 448,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "16-17",
+      "Notes": "",
+      "Osis": "Col",
+      "OrderNumber": 0,
+      "Version": 1,
+      "Book": "Col 1:16-17"
+    },
+    {
+      "Id": 449,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 18,
+      "Verses": "13-14",
+      "Notes": "Is any thing too hard for the Lord?",
+      "Osis": "Gen",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Gen 18:13-14"
+    },
+    {
+      "Id": 450,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 8,
+      "Verses": "58",
+      "Notes": "Before Abraham was born, I am!\rExodus 3:14",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 1,
+      "Book": "John 8:58"
+    },
+    {
+      "Id": 451,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 13,
+      "Verses": "19",
+      "Notes": "I AM",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 13:19"
+    },
+    {
+      "Id": 452,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 41,
+      "Verses": "4",
+      "Notes": "Revelation 1:8",
+      "Osis": "Isa",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Isa 41:4"
+    },
+    {
+      "Id": 453,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 9,
+      "Verses": "5",
+      "Notes": "",
+      "Osis": "Rom",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rom 9:5"
     }
   ],
   "BookMarks": [
