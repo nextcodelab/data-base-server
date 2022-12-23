@@ -5262,6 +5262,61 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "1John 4:15"
+    },
+    {
+      "Id": 435,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "7-8",
+      "Notes": "",
+      "Osis": "Heb",
+      "OrderNumber": 0,
+      "Version": 1,
+      "Book": "Heb 1:7-8"
+    },
+    {
+      "Id": 436,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 45,
+      "Verses": "6-7",
+      "Notes": "",
+      "Osis": "Ps",
+      "OrderNumber": 0,
+      "Version": 1,
+      "Book": "Ps 45:6-7"
+    },
+    {
+      "Id": 437,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 14,
+      "Verses": "1",
+      "Notes": "",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 14:1"
+    },
+    {
+      "Id": 438,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 17,
+      "Verses": "11",
+      "Notes": "",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 17:11"
+    },
+    {
+      "Id": 439,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 17,
+      "Verses": "21",
+      "Notes": "",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 17:21"
     }
   ],
   "BookMarks": [
