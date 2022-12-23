@@ -5317,6 +5317,83 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "John 17:21"
+    },
+    {
+      "Id": 440,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 2,
+      "Verses": "10-11",
+      "Notes": "",
+      "Osis": "Phil",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Phil 2:10-11"
+    },
+    {
+      "Id": 441,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "23",
+      "Notes": "",
+      "Osis": "Matt",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Matt 1:23"
+    },
+    {
+      "Id": 442,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 4,
+      "Verses": "3-5",
+      "Notes": "",
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 4:3-5"
+    },
+    {
+      "Id": 443,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 5,
+      "Verses": "24",
+      "Notes": "",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 5:24"
+    },
+    {
+      "Id": 444,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 14,
+      "Verses": "7,8,9,10,11",
+      "Notes": null,
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 14:7,8,9,10,11"
+    },
+    {
+      "Id": 445,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 6,
+      "Verses": "16",
+      "Notes": "ANG DIOS",
+      "Osis": "1Tim",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Tim 6:16"
+    },
+    {
+      "Id": 446,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "30",
+      "Notes": "Una",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 1:30"
     }
   ],
   "BookMarks": [
