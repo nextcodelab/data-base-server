@@ -5570,6 +5570,28 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "2Tim 3:16-17"
+    },
+    {
+      "Id": 463,
+      "NoteId": "aff775e5-a484-4b51-ad46-26228497dc8d",
+      "Chapter": 18,
+      "Verses": "1-6",
+      "Notes": "Sinira ang Ahas na Tanza",
+      "Osis": "2Kgs",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Kgs 18:1-6"
+    },
+    {
+      "Id": 464,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 5,
+      "Verses": "20",
+      "Notes": "",
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 5:20"
     }
   ],
   "BookMarks": [
