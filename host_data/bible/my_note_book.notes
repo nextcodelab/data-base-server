@@ -474,10 +474,10 @@
     {
       "Id": 47,
       "NoteId": "a1191204-3f6d-402a-885b-485363914013",
-      "Title": "Earthly Shepherd",
+      "Title": "Servants",
       "Notes": null,
       "Link": null,
-      "Version": 0
+      "Version": 1
     },
     {
       "Id": 48,
@@ -5471,6 +5471,105 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "Rom 9:5"
+    },
+    {
+      "Id": 454,
+      "NoteId": "a1191204-3f6d-402a-885b-485363914013",
+      "Chapter": 3,
+      "Verses": "15",
+      "Notes": "",
+      "Osis": "Jer",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Jer 3:15"
+    },
+    {
+      "Id": 455,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 3,
+      "Verses": "18",
+      "Notes": "Binuhay sa Espiritu",
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Pet 3:18"
+    },
+    {
+      "Id": 456,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 4,
+      "Verses": "6",
+      "Notes": "Notice",
+      "Osis": "Hos",
+      "OrderNumber": 0,
+      "Version": 1,
+      "Book": "Hos 4:6"
+    },
+    {
+      "Id": 457,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 2,
+      "Verses": "22",
+      "Notes": "Notice",
+      "Osis": "Isa",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Isa 2:22"
+    },
+    {
+      "Id": 458,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 10,
+      "Verses": "17",
+      "Notes": "Notice",
+      "Osis": "Rom",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rom 10:17"
+    },
+    {
+      "Id": 459,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 8,
+      "Verses": "32",
+      "Notes": "",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 8:32"
+    },
+    {
+      "Id": 460,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 5,
+      "Verses": "4",
+      "Notes": "",
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 5:4"
+    },
+    {
+      "Id": 461,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 16,
+      "Verses": "13",
+      "Notes": "",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 16:13"
+    },
+    {
+      "Id": 462,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 3,
+      "Verses": "16-17",
+      "Notes": "The Book is Enough",
+      "Osis": "2Tim",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Tim 3:16-17"
     }
   ],
   "BookMarks": [
