@@ -5603,6 +5603,39 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "1Cor 8:6"
+    },
+    {
+      "Id": 466,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 8,
+      "Verses": "22-27",
+      "Notes": "When he made ready the heavens I was there.",
+      "Osis": "Prov",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Prov 8:22-27"
+    },
+    {
+      "Id": 467,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 110,
+      "Verses": "1",
+      "Notes": "The Lord said to my lord",
+      "Osis": "Ps",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Ps 110:1"
+    },
+    {
+      "Id": 468,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 30,
+      "Verses": "4",
+      "Notes": "What is His name, and what is His Son’s name,\rIf you know?",
+      "Osis": "Prov",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Prov 30:4"
     }
   ],
   "BookMarks": [
