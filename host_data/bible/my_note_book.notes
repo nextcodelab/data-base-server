@@ -5592,6 +5592,17 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "1John 5:20"
+    },
+    {
+      "Id": 465,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 8,
+      "Verses": "6",
+      "Notes": "",
+      "Osis": "1Cor",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Cor 8:6"
     }
   ],
   "BookMarks": [
