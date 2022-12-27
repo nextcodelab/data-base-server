@@ -1,5 +1,6 @@
 {
   "ServerUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/link_v4.jsn",
+  "ServerOther": "3solQw2KnG6UHqQbyR1F8rzVyXiBdKFHUNMWovx+divX19W5puzgKYlWiESCvJgsc/st2nqu+Vv/OqvUsBWd4QVKqIpyZ1L/m4INU/9KHUuHDsahVw8jhPHCc57IwvDf8grphG3RmBRbXfGJ7TYpwQ==",
   "EbookUrl": null,
   "StoriesUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/stories.json",
   "Token": "0tLZS+i2eOQrHHdtyPJrw/j2ISHPCG4Odj6edqoLtRczv5lgnRq38TawArYC1fSI",
