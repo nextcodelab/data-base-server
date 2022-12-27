@@ -100,6 +100,18 @@
       "Version": 0,
       "Book": "2Pet 1:5-8",
       "Message": null
+    },
+    {
+      "Id": 7,
+      "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
+      "Chapter": 10,
+      "Verses": "9",
+      "Notes": "",
+      "Osis": "Rom",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rom 10:9",
+      "Message": null
     }
   ],
   "NoteBooks": [
@@ -486,6 +498,14 @@
       "Notes": null,
       "Link": null,
       "Version": 0
+    },
+    {
+      "Id": 49,
+      "NoteId": "dab39ee1-5656-48d1-943c-2149602e8b1d",
+      "Title": "God the Father, Apostles Messages",
+      "Notes": null,
+      "Link": null,
+      "Version": 1
     }
   ],
   "NoteBookItems": [
@@ -5587,10 +5607,10 @@
       "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
       "Chapter": 5,
       "Verses": "20",
-      "Notes": "",
+      "Notes": null,
       "Osis": "1John",
       "OrderNumber": 0,
-      "Version": 0,
+      "Version": 1,
       "Book": "1John 5:20"
     },
     {
@@ -5636,6 +5656,160 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "Prov 30:4"
+    },
+    {
+      "Id": 469,
+      "NoteId": "dab39ee1-5656-48d1-943c-2149602e8b1d",
+      "Chapter": 1,
+      "Verses": "3",
+      "Notes": null,
+      "Osis": "1Pet",
+      "OrderNumber": 0,
+      "Version": 1,
+      "Book": "1Pet 1:3"
+    },
+    {
+      "Id": 470,
+      "NoteId": "dab39ee1-5656-48d1-943c-2149602e8b1d",
+      "Chapter": 1,
+      "Verses": "1",
+      "Notes": "",
+      "Osis": "Jas",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Jas 1:1"
+    },
+    {
+      "Id": 471,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "1",
+      "Notes": null,
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Pet 1:1"
+    },
+    {
+      "Id": 472,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "2",
+      "Notes": null,
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Pet 1:2"
+    },
+    {
+      "Id": 473,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 3,
+      "Verses": "5",
+      "Notes": null,
+      "Osis": "2Pet",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Pet 3:5"
+    },
+    {
+      "Id": 474,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "2,1",
+      "Notes": null,
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 1:2,1"
+    },
+    {
+      "Id": 475,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 2,
+      "Verses": "1",
+      "Notes": null,
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 2:1"
+    },
+    {
+      "Id": 476,
+      "NoteId": "dab39ee1-5656-48d1-943c-2149602e8b1d",
+      "Chapter": 4,
+      "Verses": "14",
+      "Notes": null,
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 4:14"
+    },
+    {
+      "Id": 477,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 5,
+      "Verses": "5",
+      "Notes": null,
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 5:5"
+    },
+    {
+      "Id": 478,
+      "NoteId": "dab39ee1-5656-48d1-943c-2149602e8b1d",
+      "Chapter": 5,
+      "Verses": "9",
+      "Notes": null,
+      "Osis": "1John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1John 5:9"
+    },
+    {
+      "Id": 479,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 1,
+      "Verses": "3",
+      "Notes": null,
+      "Osis": "2John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2John 1:3"
+    },
+    {
+      "Id": 480,
+      "NoteId": "dab39ee1-5656-48d1-943c-2149602e8b1d",
+      "Chapter": 1,
+      "Verses": "1",
+      "Notes": null,
+      "Osis": "Jude",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Jude 1:1"
+    },
+    {
+      "Id": 481,
+      "NoteId": "dab39ee1-5656-48d1-943c-2149602e8b1d",
+      "Chapter": 1,
+      "Verses": "7",
+      "Notes": null,
+      "Osis": "Rom",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rom 1:7"
+    },
+    {
+      "Id": 482,
+      "NoteId": "6a6c17b8-bb64-441e-a9f8-a1da467e41cd",
+      "Chapter": 8,
+      "Verses": "3",
+      "Notes": null,
+      "Osis": "Rom",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rom 8:3"
     }
   ],
   "BookMarks": [
@@ -5673,6 +5847,13 @@
       "Osis": "Jas",
       "Chapter": 2,
       "Verses": "15"
+    },
+    {
+      "Id": 6,
+      "Book": "John 1:",
+      "Osis": "John",
+      "Chapter": 1,
+      "Verses": "1"
     }
   ],
   "VerseMarks": [
@@ -7393,6 +7574,330 @@
       "Chapter": 13,
       "Verse": 9,
       "Book": "Rom 13:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 192,
+      "Osis": "John",
+      "HexColor": "#FF808000",
+      "Chapter": 1,
+      "Verse": 1,
+      "Book": "John 1:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 193,
+      "Osis": "1Pet",
+      "HexColor": "#FF0000CD",
+      "Chapter": 1,
+      "Verse": 3,
+      "Book": "1Pet 1:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 194,
+      "Osis": "2Pet",
+      "HexColor": "#FFDB7093",
+      "Chapter": 1,
+      "Verse": 5,
+      "Book": "2Pet 1:5",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 195,
+      "Osis": "2Pet",
+      "HexColor": "#FFDB7093",
+      "Chapter": 1,
+      "Verse": 6,
+      "Book": "2Pet 1:6",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 196,
+      "Osis": "2Pet",
+      "HexColor": "#FFDB7093",
+      "Chapter": 1,
+      "Verse": 7,
+      "Book": "2Pet 1:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 197,
+      "Osis": "2Pet",
+      "HexColor": "#FFDB7093",
+      "Chapter": 1,
+      "Verse": 8,
+      "Book": "2Pet 1:8",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 198,
+      "Osis": "2Pet",
+      "HexColor": "#FFDB7093",
+      "Chapter": 1,
+      "Verse": 9,
+      "Book": "2Pet 1:9",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 199,
+      "Osis": "2Pet",
+      "HexColor": "#FFFFFFE0",
+      "Chapter": 2,
+      "Verse": 4,
+      "Book": "2Pet 2:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 200,
+      "Osis": "2Pet",
+      "HexColor": "#FF87CEFA",
+      "Chapter": 3,
+      "Verse": 5,
+      "Book": "2Pet 3:5",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 201,
+      "Osis": "1John",
+      "HexColor": "#FF800000",
+      "Chapter": 1,
+      "Verse": 1,
+      "Book": "1John 1:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 202,
+      "Osis": "1John",
+      "HexColor": "#FF800000",
+      "Chapter": 1,
+      "Verse": 2,
+      "Book": "1John 1:2",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 203,
+      "Osis": "1John",
+      "HexColor": "#FF800000",
+      "Chapter": 2,
+      "Verse": 1,
+      "Book": "1John 2:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 204,
+      "Osis": "1John",
+      "HexColor": "#FFFFA500",
+      "Chapter": 4,
+      "Verse": 20,
+      "Book": "1John 4:20",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 205,
+      "Osis": "1John",
+      "HexColor": "#FFFFA500",
+      "Chapter": 4,
+      "Verse": 21,
+      "Book": "1John 4:21",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 206,
+      "Osis": "1John",
+      "HexColor": "#FFFFA500",
+      "Chapter": 5,
+      "Verse": 1,
+      "Book": "1John 5:1",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 207,
+      "Osis": "1John",
+      "HexColor": "#FFFDF5E6",
+      "Chapter": 5,
+      "Verse": 4,
+      "Book": "1John 5:4",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 208,
+      "Osis": "1John",
+      "HexColor": "#FFFF4500",
+      "Chapter": 5,
+      "Verse": 11,
+      "Book": "1John 5:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 209,
+      "Osis": "1John",
+      "HexColor": "#FF800000",
+      "Chapter": 5,
+      "Verse": 21,
+      "Book": "1John 5:21",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 210,
+      "Osis": "1John",
+      "HexColor": "#FF800000",
+      "Chapter": 5,
+      "Verse": 20,
+      "Book": "1John 5:20",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 211,
+      "Osis": "Rom",
+      "HexColor": "#FF000080",
+      "Chapter": 1,
+      "Verse": 7,
+      "Book": "Rom 1:7",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 212,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 21,
+      "Book": "Rom 1:21",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 213,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 22,
+      "Book": "Rom 1:22",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 214,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 23,
+      "Book": "Rom 1:23",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 215,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 24,
+      "Book": "Rom 1:24",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 216,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 25,
+      "Book": "Rom 1:25",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 217,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 26,
+      "Book": "Rom 1:26",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 218,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 27,
+      "Book": "Rom 1:27",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 219,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 28,
+      "Book": "Rom 1:28",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 220,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 29,
+      "Book": "Rom 1:29",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 221,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 30,
+      "Book": "Rom 1:30",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 222,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 31,
+      "Book": "Rom 1:31",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 223,
+      "Osis": "Rom",
+      "HexColor": "#FF20B2AA",
+      "Chapter": 1,
+      "Verse": 32,
+      "Book": "Rom 1:32",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 224,
+      "Osis": "Rom",
+      "HexColor": "#FF808000",
+      "Chapter": 2,
+      "Verse": 11,
+      "Book": "Rom 2:11",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 225,
+      "Osis": "Rom",
+      "HexColor": "#FFFFA500",
+      "Chapter": 2,
+      "Verse": 14,
+      "Book": "Rom 2:14",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 227,
+      "Osis": "Rom",
+      "HexColor": "#FF800000",
+      "Chapter": 6,
+      "Verse": 23,
+      "Book": "Rom 6:23",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 228,
+      "Osis": "Rom",
+      "HexColor": "#FF800000",
+      "Chapter": 8,
+      "Verse": 3,
+      "Book": "Rom 8:3",
       "MarkingStyler": 0
     }
   ]
