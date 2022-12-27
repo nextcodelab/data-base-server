@@ -506,6 +506,14 @@
       "Notes": null,
       "Link": null,
       "Version": 1
+    },
+    {
+      "Id": 50,
+      "NoteId": "389b39ee-d470-4f46-9616-f087213ca385",
+      "Title": "Fruits of Faith",
+      "Notes": null,
+      "Link": null,
+      "Version": 0
     }
   ],
   "NoteBookItems": [
@@ -5810,6 +5818,17 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "Rom 8:3"
+    },
+    {
+      "Id": 483,
+      "NoteId": "389b39ee-d470-4f46-9616-f087213ca385",
+      "Chapter": 5,
+      "Verses": "22-23",
+      "Notes": "",
+      "Osis": "Gal",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Gal 5:22-23"
     }
   ],
   "BookMarks": [
