@@ -106,10 +106,10 @@
       "NoteId": "4cbfd2a7-fe06-42e1-a871-0ee5fd58948c",
       "Chapter": 10,
       "Verses": "9",
-      "Notes": "",
+      "Notes": null,
       "Osis": "Rom",
       "OrderNumber": 0,
-      "Version": 0,
+      "Version": 1,
       "Book": "Rom 10:9",
       "Message": null
     }
