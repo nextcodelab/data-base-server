@@ -522,6 +522,14 @@
       "Notes": null,
       "Link": null,
       "Version": 0
+    },
+    {
+      "Id": 52,
+      "NoteId": "309e2e49-ac3b-403c-8c5f-623c4383c7d1",
+      "Title": "Love",
+      "Notes": null,
+      "Link": null,
+      "Version": 0
     }
   ],
   "NoteBookItems": [
@@ -5914,6 +5922,61 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "Gal 1:3"
+    },
+    {
+      "Id": 491,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 1,
+      "Verses": "8-9",
+      "Notes": "",
+      "Osis": "Josh",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Josh 1:8-9"
+    },
+    {
+      "Id": 492,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 34,
+      "Verses": "16",
+      "Notes": "",
+      "Osis": "Isa",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Isa 34:16"
+    },
+    {
+      "Id": 493,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 5,
+      "Verses": "36",
+      "Notes": "",
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 5:36"
+    },
+    {
+      "Id": 494,
+      "NoteId": "309e2e49-ac3b-403c-8c5f-623c4383c7d1",
+      "Chapter": 13,
+      "Verses": "4-8",
+      "Notes": "",
+      "Osis": "1Cor",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Cor 13:4-8"
+    },
+    {
+      "Id": 495,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 5,
+      "Verses": "29",
+      "Notes": "",
+      "Osis": "Acts",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Acts 5:29"
     }
   ],
   "BookMarks": [
@@ -8002,6 +8065,24 @@
       "Chapter": 8,
       "Verse": 3,
       "Book": "Rom 8:3",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 232,
+      "Osis": "Acts",
+      "HexColor": "#FF191970",
+      "Chapter": 7,
+      "Verse": 59,
+      "Book": "Acts 7:59",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 233,
+      "Osis": "Acts",
+      "HexColor": "#FF191970",
+      "Chapter": 7,
+      "Verse": 60,
+      "Book": "Acts 7:60",
       "MarkingStyler": 0
     }
   ]
