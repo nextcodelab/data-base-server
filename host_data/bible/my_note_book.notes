@@ -4586,10 +4586,10 @@
       "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
       "Chapter": 6,
       "Verses": "9-11",
-      "Notes": null,
+      "Notes": "Ilalim ng dambana",
       "Osis": "Rev",
       "OrderNumber": 0,
-      "Version": 2,
+      "Version": 3,
       "Book": "Rev 6:9-11"
     },
     {
@@ -4696,10 +4696,10 @@
       "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
       "Chapter": 21,
       "Verses": "16",
-      "Notes": "",
+      "Notes": " kapisanan ng patay",
       "Osis": "Prov",
       "OrderNumber": 0,
-      "Version": 1,
+      "Version": 2,
       "Book": "Prov 21:16"
     },
     {
@@ -5977,6 +5977,94 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "Acts 5:29"
+    },
+    {
+      "Id": 496,
+      "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
+      "Chapter": 9,
+      "Verses": "39",
+      "Notes": null,
+      "Osis": "John",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "John 9:39"
+    },
+    {
+      "Id": 497,
+      "NoteId": "a1191204-3f6d-402a-885b-485363914013",
+      "Chapter": 56,
+      "Verses": "10-11",
+      "Notes": "",
+      "Osis": "Isa",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Isa 56:10-11"
+    },
+    {
+      "Id": 498,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 1,
+      "Verses": "18",
+      "Notes": "Nasa Akin ang mga susi ng kamatayan at ng Hades. ",
+      "Osis": "Rev",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rev 1:18"
+    },
+    {
+      "Id": 499,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 5,
+      "Verses": "8",
+      "Notes": "",
+      "Osis": "2Cor",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "2Cor 5:8"
+    },
+    {
+      "Id": 500,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 21,
+      "Verses": "23",
+      "Notes": "",
+      "Osis": "Rev",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rev 21:23"
+    },
+    {
+      "Id": 501,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 2,
+      "Verses": "7",
+      "Notes": "",
+      "Osis": "Rev",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Rev 2:7"
+    },
+    {
+      "Id": 502,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 4,
+      "Verses": "15",
+      "Notes": "",
+      "Osis": "1Thess",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "1Thess 4:15"
+    },
+    {
+      "Id": 503,
+      "NoteId": "a08ec30c-b089-44ec-9f54-ac6fc48aa078",
+      "Chapter": 1,
+      "Verses": "22-24",
+      "Notes": "",
+      "Osis": "Phil",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Phil 1:22-24"
     }
   ],
   "BookMarks": [
@@ -8050,7 +8138,7 @@
       "MarkingStyler": 0
     },
     {
-      "Id": 227,
+      "Id": 226,
       "Osis": "Rom",
       "HexColor": "#FF800000",
       "Chapter": 6,
@@ -8059,7 +8147,7 @@
       "MarkingStyler": 0
     },
     {
-      "Id": 228,
+      "Id": 227,
       "Osis": "Rom",
       "HexColor": "#FF800000",
       "Chapter": 8,
@@ -8068,7 +8156,7 @@
       "MarkingStyler": 0
     },
     {
-      "Id": 232,
+      "Id": 228,
       "Osis": "Acts",
       "HexColor": "#FF191970",
       "Chapter": 7,
@@ -8077,12 +8165,21 @@
       "MarkingStyler": 0
     },
     {
-      "Id": 233,
+      "Id": 229,
       "Osis": "Acts",
       "HexColor": "#FF191970",
       "Chapter": 7,
       "Verse": 60,
       "Book": "Acts 7:60",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 230,
+      "Osis": "John",
+      "HexColor": "#FFFFDEAD",
+      "Chapter": 9,
+      "Verse": 39,
+      "Book": "John 9:39",
       "MarkingStyler": 0
     }
   ]
