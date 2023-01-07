@@ -119,25 +119,25 @@
       "Id": 1,
       "NoteId": "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd",
       "Title": "Teach us the Truth",
-      "Notes": null,
+      "Notes": "",
       "Link": null,
-      "Version": 2
+      "Version": 7
     },
     {
       "Id": 2,
       "NoteId": "f391d674-2b46-4e0d-8564-5519aaf1f4c1",
       "Title": "Give thanks God in all circumstances",
-      "Notes": null,
+      "Notes": "",
       "Link": null,
-      "Version": 8
+      "Version": 9
     },
     {
       "Id": 3,
       "NoteId": "2d9440b5-a4e3-4b38-8c93-6e74390d63a3",
       "Title": "Love Your Neighbor",
-      "Notes": null,
+      "Notes": "",
       "Link": null,
-      "Version": 8
+      "Version": 10
     },
     {
       "Id": 4,
@@ -145,7 +145,7 @@
       "Title": "Are All Problems Test?",
       "Notes": "Hindi lahat ng problem ay pagsubok…\rExample di mo inayos ang trabaho at naalis ka.",
       "Link": null,
-      "Version": 7
+      "Version": 9
     },
     {
       "Id": 5,
@@ -8180,6 +8180,15 @@
       "Chapter": 9,
       "Verse": 39,
       "Book": "John 9:39",
+      "MarkingStyler": 0
+    },
+    {
+      "Id": 231,
+      "Osis": "Acts",
+      "HexColor": "#FF800000",
+      "Chapter": 4,
+      "Verse": 12,
+      "Book": "Acts 4:12",
       "MarkingStyler": 0
     }
   ]
