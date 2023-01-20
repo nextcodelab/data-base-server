@@ -6087,6 +6087,17 @@
       "OrderNumber": 0,
       "Version": 0,
       "Book": "2Tim 3:16"
+    },
+    {
+      "Id": 506,
+      "NoteId": null,
+      "Chapter": 5,
+      "Verses": "2",
+      "Notes": "",
+      "Osis": "Eccl",
+      "OrderNumber": 0,
+      "Version": 0,
+      "Book": "Eccl 5:2"
     }
   ],
   "BookMarks": [
