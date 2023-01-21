@@ -1,1 +1,25 @@
-{"Name":"","Description":null,"Locks":null,"MaxItems":2,"TK":null,"URL":null,"CUSTOM_URL":"https://github.com/nextcodelab/data-base-server/blob/main/host_data/bg/customs.txt","Items":[{"Small":"https://media.istockphoto.com/id/1198271727/photo/abstract-wavy-object.jpg?s=1024x1024&w=is&k=20&c=aH5jo8F8KHz09oCZ1oJZFKAQBCwAwJp1sDJIYSQWT4E=","Big":"https://media.istockphoto.com/id/1198271727/photo/abstract-wavy-object.jpg?s=1024x1024&w=is&k=20&c=aH5jo8F8KHz09oCZ1oJZFKAQBCwAwJp1sDJIYSQWT4E=","Banned":false,"Group":"My Wallpapers","Type":"My Collection"}]}
+{
+  "Name": "",
+  "Description": null,
+  "Locks": null,
+  "MaxItems": 2,
+  "TK": null,
+  "URL": null,
+  "CUSTOM_URL": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bg/customs.txt",
+  "Items": [
+    {
+      "Small": "https://media.istockphoto.com/id/1198271727/photo/abstract-wavy-object.jpg?s=1024x1024&w=is&k=20&c=aH5jo8F8KHz09oCZ1oJZFKAQBCwAwJp1sDJIYSQWT4E=",
+      "Big": "https://media.istockphoto.com/id/1198271727/photo/abstract-wavy-object.jpg?s=1024x1024&w=is&k=20&c=aH5jo8F8KHz09oCZ1oJZFKAQBCwAwJp1sDJIYSQWT4E=",
+      "Banned": false,
+      "Group": "My Wallpapers",
+      "Type": "My Collection"
+    },
+    {
+      "Small": "https://media.istockphoto.com/id/1198271727/photo/abstract-wavy-object.jpg?s=1024x1024&w=is&k=20&c=aH5jo8F8KHz09oCZ1oJZFKAQBCwAwJp1sDJIYSQWT4E=",
+      "Big": "https://media.istockphoto.com/id/1198271727/photo/abstract-wavy-object.jpg?s=1024x1024&w=is&k=20&c=aH5jo8F8KHz09oCZ1oJZFKAQBCwAwJp1sDJIYSQWT4E=",
+      "Banned": false,
+      "Group": "My Wallpapers",
+      "Type": "My Collection"
+    }
+  ]
+}
