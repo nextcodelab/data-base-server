@@ -16,11 +16,11 @@
       "BibleAudios": null
     },
     {
-      "Title": "CKJV, Cebuano King James Version (Bugna Version)",
+      "Title": "Bugna, Bible Cebuano Version",
       "FileSize": "14.3 MB",
       "WebUrl": "https://www.ccel.org/ccel/bible/ceb_b.html",
       "Language": "Cebuano",
-      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd_enc/CKJV%2C%20Cebuano%20King%20James%20Version.sqlite3",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd_enc/Bugna%2C%20Bible%20Cebuano%20Version.sqlite3",
       "BibleAudios": [
         {
           "Osis": "Gen",
