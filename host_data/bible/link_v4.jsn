@@ -365,14 +365,6 @@
       ]
     },
     {
-      "Title": "AKJV, Authorized King James Version",
-      "FileSize": "14.1 MB",
-      "WebUrl": "https://www.kingjamesbibleonline.org/",
-      "Language": "English",
-      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/c_enc/AKJV%2C%20Authorized%20King%20James%20Version.sqlite3",
-      "BibleAudios": null
-    },
-    {
       "Title": "BBE, Bible in Basic English",
       "FileSize": "12.8 MB",
       "WebUrl": "https://ebible.org/Scriptures/details.php?id=engBBE",
