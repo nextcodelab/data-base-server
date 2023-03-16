@@ -66,13 +66,6 @@
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52478771595_4dccc2e93e_o_d.jpg",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Natures"
-    },
-    {
-      "Name": null,
       "Big": "https://live.staticflickr.com/65535/52478655335_a655fa3f12_o_d.jpg",
       "Small": null,
       "Source": "https://www.flickr.com/",
