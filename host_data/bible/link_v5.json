@@ -1,0 +1,171 @@
+{
+  "ServerUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/link_v5.json",
+  "ServerOther": "3solQw2KnG6UHqQbyR1F8rzVyXiBdKFHUNMWovx+divX19W5puzgKYlWiESCvJgsc/st2nqu+Vv/OqvUsBWd4QVKqIpyZ1L/m4INU/9KHUuHDsahVw8jhPHCc57IwvDf8grphG3RmBRbXfGJ7TYpwQ==",
+  "EbookUrl": null,
+  "StoriesUrl": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/stories.json",
+  "Token": "0tLZS+i2eOQrHHdtyPJrw/j2ISHPCG4Odj6edqoLtRczv5lgnRq38TawArYC1fSI",
+  "Title": "BibleApp",
+  "DownloadLinks": [
+    {
+      "Title": "BJB, Judson Bible",
+      "FileSize": "30.8 MB",
+      "WebUrl": "http://www.myanmarbs.org/",
+      "Language": "Burmese",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd_enc/BJB%2C%20Judson%20Bible.sqlite3"
+    },
+    {
+      "Title": "Bugna, Bible Cebuano Version",
+      "FileSize": "14.3 MB",
+      "WebUrl": "https://www.ccel.org/ccel/bible/ceb_b.html",
+      "Language": "Cebuano",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd_enc/Bugna%2C%20Bible%20Cebuano%20Version.sqlite3"
+    },
+    {
+      "Title": "BBE, Bible in Basic English",
+      "FileSize": "12.8 MB",
+      "WebUrl": "https://ebible.org/Scriptures/details.php?id=engBBE",
+      "Language": "English",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/BBE%2C%20Bible%20in%20Basic%20English.sqlite3"
+    },
+    {
+      "Title": "WEB, World English Bible",
+      "FileSize": "17.2 MB",
+      "WebUrl": "https://bibles.org/versions/eng-WEB",
+      "Language": "English",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/WEB%2C%20World%20English%20Bible.sqlite3"
+    },
+    {
+      "Title": "WEBBE, World English Bible British Edition",
+      "FileSize": "17.4 MB",
+      "WebUrl": "https://bibles.org/versions/eng-WEB",
+      "Language": "English",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/WEBBE%2C%20World%20English%20Bible%20British%20Edition.sqlite3"
+    },
+    {
+      "Title": "YLT, Young's Literal Translation",
+      "FileSize": "13.8 MB",
+      "WebUrl": "https://www.biblegateway.com/",
+      "Language": "English",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/YLT%2C%20Young's%20Literal%20Translation.sqlite3"
+    },
+    {
+      "Title": "ASV, American Standard Version",
+      "FileSize": "13 MB",
+      "WebUrl": "https://www.britannica.com/topic/American-Standard-Version",
+      "Language": "English",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/ASV%2C%20American%20Standard%20Version.sqlite3"
+    },
+    {
+      "Title": "DARBY, Darby Translation (English)",
+      "FileSize": "13.4 MB",
+      "WebUrl": "https://www.goodreads.com/book/show/19227892-darby-translation-of-the-bible",
+      "Language": "English",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/DARBY%2C%20Darby%20Translation%20(English).sqlite3"
+    },
+    {
+      "Title": "KJV, King James Version (English)",
+      "FileSize": "13.6 MB",
+      "WebUrl": "https://www.kingjamesbibleonline.org/",
+      "Language": "English",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/KJV%2C%20King%20James%20Version%20(English).sqlite3"
+    },
+    {
+      "Title": "Bible Segond 1910 (French)",
+      "FileSize": "18.8 MB",
+      "WebUrl": "http://www.la-bible.net/",
+      "Language": "French",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/Bible%20Segond%201910.sqlite3"
+    },
+    {
+      "Title": "LB, Luther-1545",
+      "FileSize": "17 MB",
+      "WebUrl": "https://newchristianbiblestudy.org/bible/german-luther-1545/info",
+      "Language": "German",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd_enc/LB%2C%20Luther-1545.sqlite3"
+    },
+    {
+      "Title": "TR1550, 1550 Stephanus New Testament (Greek)",
+      "FileSize": "4.37 MB",
+      "WebUrl": "https://www.lueur.org/bible/versions/stephanus-tr1550.html",
+      "Language": "Greek",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/TR1550%2C%201550%20Stephanus%20New%20Testament%20(Greek).sqlite3"
+    },
+    {
+      "Title": "TR1894, 1894 Scrivener New Testament (Greek)",
+      "FileSize": "4.37 MB",
+      "WebUrl": "https://www.ccel.org/",
+      "Language": "Greek",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/TR1894%2C%201894%20Scrivener%20New%20Testament%20(Greek)%20.sqlite3"
+    },
+    {
+      "Title": "WLC, The Westminster Leningrad Codex (Hebrew)",
+      "FileSize": "12.2 MB",
+      "WebUrl": "https://dornsife.usc.edu/wsrp/leningrad-codex/",
+      "Language": "Hebrew",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/WLC%2C%20The%20Westminster%20Leningrad%20Codex%20(Hebrew).sqlite3"
+    },
+    {
+      "Title": "KB, Korean Bible (Korean)",
+      "FileSize": "18 MB",
+      "WebUrl": "https://christian-nations.github.io/",
+      "Language": "Korean",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd_enc/KB%2C%20Korean%20Bible.sqlite3"
+    },
+    {
+      "Title": "VULGATE, Biblia Sacra Vulgata",
+      "FileSize": "14 MB",
+      "WebUrl": "https://www.britannica.com/",
+      "Language": "Latin",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/VULGATE%2C%20Biblia%20Sacra%20Vulgata.sqlite3"
+    },
+    {
+      "Title": "MAORI, Maori Bible",
+      "FileSize": "18.7 MB",
+      "WebUrl": "https://biblesociety.org.nz/",
+      "Language": "Maori",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/Maori%20Bible.sqlite3"
+    },
+    {
+      "Title": "DNB1930, Det Norsk Bibelselskap 1930",
+      "FileSize": "18.7 MB",
+      "WebUrl": "https://newchristianbiblestudy.org/bible/norwegian/",
+      "Language": "Norwegian",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/DNB1930%2C%20Det%20Norsk%20Bibelselskap%201930.sqlite3"
+    },
+    {
+      "Title": "PHB, Portuguese HTML Bible",
+      "FileSize": "13.7 MB",
+      "WebUrl": "http://www.johnhurt.com/",
+      "Language": "Portuguese",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd_enc/PHB%2C%20Portuguese%20HTML%20Bible.sqlite3"
+    },
+    {
+      "Title": "RVR09, Reina Valera (1909)3",
+      "FileSize": "32.5 MB",
+      "WebUrl": "https://americanbible.org/",
+      "Language": "Spanish",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/RVR09%2C%20Reina%20Valera%20(1909).sqlite"
+    },
+    {
+      "Title": "ADB1905, Ang Dating Biblia (1905) (Tagalog)",
+      "FileSize": "15.6 MB",
+      "WebUrl": "https://bible.org.ph/",
+      "Language": "Tagalog",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/ADB1905%2C%20Ang%20Dating%20Biblia%20(1905)%20(Tagalog).sqlite3"
+    },
+    {
+      "Title": "RWV, Tongan Bible (Revised West Version)",
+      "FileSize": "18.7 MB",
+      "WebUrl": "https://www.aionianbible.org/",
+      "Language": "Tongan",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/RWV%2C%20Tongan%20Bible%20(Revised%20West%20Version).sqlite3"
+    },
+    {
+      "Title": "VIET, 1934 Vietnamese Bible",
+      "FileSize": "14.8 MB",
+      "WebUrl": "http://www.bible-discovery.com/bible-license-viet.php",
+      "Language": "Vietnamese",
+      "Link": "https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/pd/VIET%2C%201934%20Vietnamese%20Bible.sqlite3"
+    }
+  ]
+}
