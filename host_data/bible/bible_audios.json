@@ -1,0 +1,1366 @@
+[
+  {
+    "Version": "Bugna, Bible Cebuano Version",
+    "Language": "Cebuano",
+    "Items": [
+      {
+        "Osis": "Gen",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Exod",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lev",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Num",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Deut",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Josh",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Judg",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ruth",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Sam",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Sam",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Kgs",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Kgs",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Chr",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Chr",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezra",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Neh",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Esth",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Job",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ps",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Prov",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eccl",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Song",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Isa",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Isa",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jer",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lam",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezek",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Dan",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hos",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Joel",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Amos",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Obad",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jonah",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jonah",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mic",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Nah",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hab",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zeph",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hag",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zech",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mal",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Matt",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mark",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Luke",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "John",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Acts",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rom",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Cor",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Cor",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Gal",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eph",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phil",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Col",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Thess",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Thess",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Tim",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Tim",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Titus",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phlm",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Heb",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jas",
+        "Url": "https://youtu.be/GxnPxx0kTDE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Pet",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Pet",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1John",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2John",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "3John",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jude",
+        "Url": "",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rev",
+        "Url": "",
+        "Timestamp": null
+      }
+    ]
+  },
+  {
+    "Version": "KJV, King James Version (English)",
+    "Language": "English",
+    "Items": [
+      {
+        "Osis": "Gen",
+        "Url": "https://youtu.be/EiXQmeuHTOY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Exod",
+        "Url": "https://youtu.be/rUWeZGSerC4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lev",
+        "Url": "https://youtu.be/sryNbaDJRlI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Num",
+        "Url": "https://youtu.be/sws2Yx423fM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Deut",
+        "Url": "https://youtu.be/VzuYt-C5y2g",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Josh",
+        "Url": "https://youtu.be/YEAcAk375JQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Judg",
+        "Url": "https://youtu.be/EX_GurpX4mE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ruth",
+        "Url": "https://youtu.be/MLt_kg9BUsU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Sam",
+        "Url": "https://youtu.be/q5gozWT1IMI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Sam",
+        "Url": "https://youtu.be/ofpT77YMF7g",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Kgs",
+        "Url": "https://youtu.be/qSDMeBRSOZQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Kgs",
+        "Url": "https://youtu.be/jGwG8zQhBMg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Chr",
+        "Url": "https://youtu.be/DU07ML7G2_0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Chr",
+        "Url": "https://youtu.be/cU9Q5CusYXk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezra",
+        "Url": "https://youtu.be/WO2Dfwbhk6U",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Neh",
+        "Url": "https://youtu.be/peTrO8Rrs-s",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Esth",
+        "Url": "https://youtu.be/i7rHVtQknXo",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Job",
+        "Url": "https://youtu.be/W9TqvqMjMoA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ps",
+        "Url": "https://youtu.be/7zEHZOx66j4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Prov",
+        "Url": "https://youtu.be/liPJFT-5Bug",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eccl",
+        "Url": "https://youtu.be/KKDZSZTWPzk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Song",
+        "Url": "https://youtu.be/EeMsMc4XqCA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Isa",
+        "Url": "https://youtu.be/i4aDwZRovoI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Isa",
+        "Url": "https://youtu.be/i4aDwZRovoI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jer",
+        "Url": "https://youtu.be/7SS4o6zLh-I",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lam",
+        "Url": "https://youtu.be/RmBsoqKlSxE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezek",
+        "Url": "https://youtu.be/nAr9jjhLO5k",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Dan",
+        "Url": "https://youtu.be/hVcy2fpQkX8",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hos",
+        "Url": "https://youtu.be/fQREnyOJm-0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Joel",
+        "Url": "https://youtu.be/wew6Sm8c6Co",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Amos",
+        "Url": "https://youtu.be/0cYWZHZthmM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Obad",
+        "Url": "https://youtu.be/rWWJmmSIh8I",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jonah",
+        "Url": "https://youtu.be/DQ1Fk-I8LFA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jonah",
+        "Url": "https://youtu.be/DQ1Fk-I8LFA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mic",
+        "Url": "https://youtu.be/Bh5G016Jci8",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Nah",
+        "Url": "https://youtu.be/RM87xhgqMZY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hab",
+        "Url": "https://youtu.be/fy6vPtug_tU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zeph",
+        "Url": "https://youtu.be/DC0sVZ-tU-k",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hag",
+        "Url": "https://youtu.be/1ZSmJhY6sC0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zech",
+        "Url": "https://youtu.be/fIfGIzEgHXU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mal",
+        "Url": "https://youtu.be/iG37sHaDdek",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Matt",
+        "Url": "https://youtu.be/j6ENtjQqgoA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mark",
+        "Url": "https://youtu.be/xcNj9f4oykU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Luke",
+        "Url": "https://youtu.be/k84RZNrRmHE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "John",
+        "Url": "https://youtu.be/SDqQY2qMMxw",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Acts",
+        "Url": "https://youtu.be/UL9dFDpMyio",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rom",
+        "Url": "https://youtu.be/tZ4ekulrEPk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Cor",
+        "Url": "https://youtu.be/Wfd0H87lU7k",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Cor",
+        "Url": "https://youtu.be/jeJMMVfSHFY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Gal",
+        "Url": "https://youtu.be/eUSTZJKH4II",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eph",
+        "Url": "https://youtu.be/eUSTZJKH4II",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phil",
+        "Url": "https://youtu.be/hXiRaCqjKQ0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Col",
+        "Url": "https://youtu.be/SDbEGdVma4I",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Thess",
+        "Url": "https://youtu.be/-lPTc6YCqiw",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Thess",
+        "Url": "https://youtu.be/Q6i8USBglgY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Tim",
+        "Url": "https://youtu.be/9cWN9LTthgo",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Tim",
+        "Url": "https://youtu.be/qZG_VCFVahQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Titus",
+        "Url": "https://youtu.be/v7zGj-cNa2Q",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phlm",
+        "Url": "https://youtu.be/Rd57ITYtML8",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Heb",
+        "Url": "https://youtu.be/8zpME3ES0-8",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jas",
+        "Url": "https://youtu.be/KDaTEunPrSw",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Pet",
+        "Url": "https://youtu.be/VW6P6ObOhtU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Pet",
+        "Url": "https://youtu.be/_3NVmin9KGU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1John",
+        "Url": "https://youtu.be/5omWZi83Cd8",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2John",
+        "Url": "https://youtu.be/10uixBD1fHQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "3John",
+        "Url": "https://youtu.be/lbP6wsFl9iM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jude",
+        "Url": "https://youtu.be/KR3y8Z5NSdA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rev",
+        "Url": "https://youtu.be/yHaPKGTu2hw",
+        "Timestamp": null
+      }
+    ]
+  },
+  {
+    "Version": "Bible Segond 1910 (French)",
+    "Language": "French",
+    "Items": [
+      {
+        "Osis": "Gen",
+        "Url": "https://youtu.be/t6XbZudHST0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Exod",
+        "Url": "https://youtu.be/nS8EEnZu2zk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lev",
+        "Url": "https://youtu.be/QilMAVDbCkQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Num",
+        "Url": "https://youtu.be/2dwdcoy8n6s",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Deut",
+        "Url": "https://youtu.be/uOR9FEj43-I",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Josh",
+        "Url": "https://youtu.be/qG242STaRgM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Judg",
+        "Url": "https://youtu.be/2lUjleqcdGs",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ruth",
+        "Url": "https://youtu.be/dt22CdKrHjk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Sam",
+        "Url": "https://youtu.be/bKaWMgyMRS0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Sam",
+        "Url": "https://youtu.be/-B0I5y_5Axk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Kgs",
+        "Url": "https://youtu.be/5rrKX2_K0Zg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Kgs",
+        "Url": "https://youtu.be/rIJUwOtn8Mo",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Chr",
+        "Url": "https://youtu.be/glRSgSFzeyI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Chr",
+        "Url": "https://youtu.be/08mT5EP0YN4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezra",
+        "Url": "https://youtu.be/pEhOKzM5XTY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Neh",
+        "Url": "https://youtu.be/K2dwQTU2rp0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Esth",
+        "Url": "https://youtu.be/rwxE5AlzB68",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Job",
+        "Url": "https://youtu.be/sw2EVhYIM88",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ps",
+        "Url": "https://youtu.be/B4zpsNKrTPM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Prov",
+        "Url": "https://youtu.be/HCBDVC83qtM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eccl",
+        "Url": "https://youtu.be/9noBuUs0G_c",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Song",
+        "Url": "https://youtu.be/zWhY-ynlUUM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Isa",
+        "Url": "https://youtu.be/mUTs8DOfuSw",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jer",
+        "Url": "https://youtu.be/IxEyKxy5Lps",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lam",
+        "Url": "https://youtu.be/PhCk5QynlDQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezek",
+        "Url": "https://youtu.be/c7hp5tR5FRM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Dan",
+        "Url": "https://youtu.be/jv5SkIWxMvg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hos",
+        "Url": "https://youtu.be/cntN2CNFhds",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Joel",
+        "Url": "https://youtu.be/qSI7NENbJPM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Amos",
+        "Url": "https://youtu.be/jIeIeCCbxsA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Obad",
+        "Url": "https://youtu.be/DjvqfL4_7iM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jonah",
+        "Url": "https://youtu.be/vLhWGeektAg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mic",
+        "Url": "https://youtu.be/gDatI6QIdss",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Nah",
+        "Url": "https://youtu.be/0NEJRPG-8CI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hab",
+        "Url": "https://youtu.be/SWz-yVJ7Szw",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zeph",
+        "Url": "https://youtu.be/VlSQKt25FkY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hag",
+        "Url": "https://youtu.be/zD-HSc4KkRg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zech",
+        "Url": "https://youtu.be/hTlpHz4OX9Y",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mal",
+        "Url": "https://youtu.be/vCFePiCWsAY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Matt",
+        "Url": "https://youtu.be/JXu3HDmbBYU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mark",
+        "Url": "https://youtu.be/UqoYvQBj1hk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Luke",
+        "Url": "https://youtu.be/hs3JpuH1R1I",
+        "Timestamp": null
+      },
+      {
+        "Osis": "John",
+        "Url": "https://youtu.be/oDuvMthkmIE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Acts",
+        "Url": "https://youtu.be/DvzXL2DfgHs",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rom",
+        "Url": "https://youtu.be/xl1nwUr52Y4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Cor",
+        "Url": "https://youtu.be/Cj3Eb9kErzs",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Cor",
+        "Url": "https://youtu.be/xDLO6Ksbv1k",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Gal",
+        "Url": "https://youtu.be/Qdii5fgpqxc",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eph",
+        "Url": "https://youtu.be/jkz-yyKCuMQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phil",
+        "Url": "https://youtu.be/rRdqsMQZ9SY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Col",
+        "Url": "https://youtu.be/Iwl9kz2xDWk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Thess",
+        "Url": "https://youtu.be/Ji7TDPQENEo",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Thess",
+        "Url": "https://youtu.be/ZFMG16yZFGU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Tim",
+        "Url": "https://youtu.be/2_t9u5OiXbI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Tim",
+        "Url": "https://youtu.be/MkjzuHH3ER4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Titus",
+        "Url": "https://youtu.be/FP9W43PCb-g",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phlm",
+        "Url": "https://youtu.be/Jhru9xe-Q8U",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Heb",
+        "Url": "https://youtu.be/wX_h6BdTOLc",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jas",
+        "Url": "https://youtu.be/ewwbA47-W8o",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Pet",
+        "Url": "https://youtu.be/76m4unwNDEI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Pet",
+        "Url": "https://youtu.be/76m4unwNDEI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1John",
+        "Url": "https://youtu.be/OmCIymPjN0s",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2John",
+        "Url": "https://youtu.be/UkUjulXmbWI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "3John",
+        "Url": "https://youtu.be/0QtQtPoIf3E",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jude",
+        "Url": "https://youtu.be/2eBOG_o6WC4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rev",
+        "Url": "https://youtu.be/p14g_2RUicM",
+        "Timestamp": null
+      }
+    ]
+  },
+  {
+    "Version": "ADB1905, Ang Dating Biblia (1905) (Tagalog)",
+    "Language": "Tagalog",
+    "Items": [
+      {
+        "Osis": "Gen",
+        "Url": "https://youtu.be/ZCmxdlLSZlU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Exod",
+        "Url": "https://youtu.be/qFa0jjqyg6Q",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lev",
+        "Url": "https://youtu.be/xgbb289Tlb0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Num",
+        "Url": "https://youtu.be/GkToT99C19o",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Deut",
+        "Url": "https://youtu.be/QwXzIFO9W_M",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Josh",
+        "Url": "https://youtu.be/bOahEpbOmqI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Judg",
+        "Url": "https://youtu.be/WRT-mFxjZN8",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ruth",
+        "Url": "https://youtu.be/nMCLtmDgEgQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Sam",
+        "Url": "https://youtu.be/4uFc6ufT3UY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Sam",
+        "Url": "https://youtu.be/3yh1ZYu3KZs",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Kgs",
+        "Url": "https://youtu.be/dPbyR8gwKQE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Kgs",
+        "Url": "https://youtu.be/jQa3vSe-1QQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Chr",
+        "Url": "https://youtu.be/0PPkTjLnI-I",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Chr",
+        "Url": "https://youtu.be/vO93tet2-6w",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezra",
+        "Url": "https://youtu.be/5Wyncny4oV0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Neh",
+        "Url": "https://youtu.be/t0h7LjdBdcA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Esth",
+        "Url": "https://youtu.be/cJjR5xM6mbg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Job",
+        "Url": "https://youtu.be/GkIy9EAlT-M",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ps",
+        "Url": "https://youtu.be/CcVFNd_NCqY",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Prov",
+        "Url": "https://youtu.be/FOUCfxkFYUk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eccl",
+        "Url": "https://youtu.be/c7IuvHd4xkI",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Song",
+        "Url": "https://youtu.be/_wqFc3iTRcA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Isa",
+        "Url": "https://youtu.be/96oZEI0Qb6k",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jer",
+        "Url": "https://youtu.be/AHMDV1eco_c",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Lam",
+        "Url": "https://youtu.be/z6qWtcCl_gQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Ezek",
+        "Url": "https://youtu.be/JLMGAPHYvUM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Dan",
+        "Url": "https://youtu.be/1fhTwxECtHw",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hos",
+        "Url": "https://youtu.be/i4TxjxsiWO0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Joel",
+        "Url": "https://youtu.be/eZaLWkLpsDs",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Amos",
+        "Url": "https://youtu.be/hfLZt5efNp4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Obad",
+        "Url": "https://youtu.be/2xPkk9NDmiM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jonah",
+        "Url": "https://youtu.be/HVUNTho2M3Q",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mic",
+        "Url": "https://youtu.be/i1boeyI8ryU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Nah",
+        "Url": "https://youtu.be/61mZIsqggXg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hab",
+        "Url": "https://youtu.be/VIwX59S9oh0",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zeph",
+        "Url": "https://youtu.be/M-3NMfdTCW8",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Hag",
+        "Url": "https://youtu.be/T42D1mR8ieE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Zech",
+        "Url": "https://youtu.be/rl3_LUJki_Q",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mal",
+        "Url": "https://youtu.be/GgYlwI5NG2o",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Matt",
+        "Url": "https://youtu.be/GkmBjLedxiU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Mark",
+        "Url": "https://youtu.be/HCdhkOFbN1E",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Luke",
+        "Url": "https://youtu.be/A_kVCU5vf0k",
+        "Timestamp": null
+      },
+      {
+        "Osis": "John",
+        "Url": "https://youtu.be/PQIFde1gxi4",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Acts",
+        "Url": "https://youtu.be/TJtrvI7SmrE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rom",
+        "Url": "https://youtu.be/AgmHwKF-g78",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Cor",
+        "Url": "https://youtu.be/e6k5dZyB-dc",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Cor",
+        "Url": "https://youtu.be/5lDLc0o-I8M",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Gal",
+        "Url": "https://youtu.be/zulWDMfdDpE",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Eph",
+        "Url": "https://youtu.be/QXPLQE2WVps",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phil",
+        "Url": "https://youtu.be/UXhHqHhi020",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Col",
+        "Url": "https://youtu.be/pzftV1de2RM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Thess",
+        "Url": "https://youtu.be/P62mKa4K5cg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Thess",
+        "Url": "https://youtu.be/N7JA8r3PkGg",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Tim",
+        "Url": "https://youtu.be/45mAvOepUnU",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Tim",
+        "Url": "https://youtu.be/3ks9YfpJyPQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Titus",
+        "Url": "https://youtu.be/xr0vkMv4w9s",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Phlm",
+        "Url": "https://youtu.be/z53-dclsoSA",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Heb",
+        "Url": "https://youtu.be/DY4q5juvZmQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jas",
+        "Url": "https://youtu.be/-SQxMvc0ARM",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1Pet",
+        "Url": "https://youtu.be/oySFaHaqr2Y",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2Pet",
+        "Url": "https://youtu.be/bQuFXwOWbGs",
+        "Timestamp": null
+      },
+      {
+        "Osis": "1John",
+        "Url": "https://youtu.be/rG2FtLEtHXk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "2John",
+        "Url": "https://youtu.be/NIMfWo0dGmk",
+        "Timestamp": null
+      },
+      {
+        "Osis": "3John",
+        "Url": "https://youtu.be/xO5fIz6xqnQ",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Jude",
+        "Url": "https://youtu.be/fgiWZ0_UWTs",
+        "Timestamp": null
+      },
+      {
+        "Osis": "Rev",
+        "Url": "https://youtu.be/LyawogxWBg8",
+        "Timestamp": null
+      }
+    ]
+  }
+]
