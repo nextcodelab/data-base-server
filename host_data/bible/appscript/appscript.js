@@ -1,5 +1,6 @@
 //CREATE GOOGLE SHEET IN GOOGLE DRIVE => SAMPLE LINK => https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/appscript/notebook_sample.xlsx
 //COPY THIS SCRIPT TO YOUR GOOGLE APPS sCRIPT
+//ABOUT APPS SCRIPTS => https://www.youtube.com/watch?v=GPIEBIgpP3E
 
 function doPost(request) {
   
