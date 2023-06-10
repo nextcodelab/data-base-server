@@ -70,6 +70,7 @@ function doGet(request) {
 
 }
 function getData(sheet) {
+  //Download sheet data as json
   var rows = sheet.getDataRange();
   var numRows = rows.getNumRows();
   var values = rows.getValues();
