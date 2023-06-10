@@ -1,4 +1,4 @@
-//CREATE GOOGLE SHEET IN GOOGLE DRIVE => SAMPLE LINK => 
+//CREATE GOOGLE SHEET IN GOOGLE DRIVE => SAMPLE LINK => https://github.com/nextcodelab/data-base-server/raw/main/host_data/bible/appscript/notebook_sample.xlsx
 //COPY THIS SCRIPT TO YOUR GOOGLE APPS sCRIPT
 
 function doPost(request) {
