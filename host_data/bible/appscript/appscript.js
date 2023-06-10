@@ -4,7 +4,7 @@
 function doPost(request) {
   
   // Open Google Sheet using ID
-  var sheet = SpreadsheetApp.openById("YOUR_GOOGLE_SHEET_UD");
+  var sheet = SpreadsheetApp.openById("YOUR_GOOGLE_SHEET_ID");
   var result = { "status": "SUCCESS" };
   try {
     //var activeSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
@@ -62,7 +62,7 @@ function doGet(request) {
 
   // Get all Parameters
   // Open Google Sheet using ID
-  var sheet = SpreadsheetApp.openById("YOUR_GOOGLE_SHEET_UD");
+  var sheet = SpreadsheetApp.openById("YOUR_GOOGLE_SHEET_ID");
 
   var data = getData(sheet);
   var json = getAsJson(data);
