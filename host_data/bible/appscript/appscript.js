@@ -67,12 +67,16 @@ function doGet(request) {
   // Get all Parameters
   // Open Google Sheet using ID
   var sheet = SpreadsheetApp.openById(sheetId);
-
   var data = getData(sheet);
   var json = getAsJson(data);
   return json;
 
 }
+//All code testing is here.
+function testCode(){
+
+}
+//Customs
 function getData(sheet) {
   var rows = sheet.getDataRange();
   var numRows = rows.getNumRows();
@@ -98,14 +102,18 @@ function getData(sheet) {
   }
   return data;
 }
+
+
+
+
+
+
+//LIBRARIES
 function getAsJson(data) {
   var json = ContentService
     .createTextOutput(JSON.stringify(data))
     .setMimeType(ContentService.MimeType.JSON);
   return json;
-}
-function updateNow() {
-  updateSheet(1, 1, "Hi");
 }
 function updateSheet(row, column, newValue) {
   var activeSheet = SpreadsheetApp.openById(sheetId);
@@ -168,7 +176,7 @@ function findCells(withHeader, withValueOf) {
 
 
 
-//Helpers
+//HELPERS
 function getLetter(column) {
   if (column > 0) {
     column = column - 1;
