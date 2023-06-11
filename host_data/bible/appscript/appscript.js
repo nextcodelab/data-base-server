@@ -37,6 +37,9 @@ function doPost(request) {
       var rowData = sheet.appendRow([unique_id, type, book, title, message, notes, link, color]);
       result = "POST";
     }
+    else if (queryArray[0] === "UPDATE") {
+      updateRow(request);
+    }
     else {
       var data = getData(sheet);
       var json = getAsJson(data);
@@ -73,10 +76,10 @@ function doGet(request) {
 
 }
 //All code testing is here.
-function testCode(){
+function testCode() {
 
 }
-//Customs
+//CUSTOMS
 function getData(sheet) {
   var rows = sheet.getDataRange();
   var numRows = rows.getNumRows();
@@ -98,9 +101,31 @@ function getData(sheet) {
     item["notes"] = row[5];
     item["link"] = row[6];
     item["color"] = row[7];
+    //Include cell position code
+    item["cell_row"] = i + 1;
     data.push(item);
   }
   return data;
+}
+function updateRow(request) {
+  var unique_id = request.parameter.unique_id;//0
+  var type = request.parameter.type;//1
+  var book = request.parameter.book;//2
+  var title = request.parameter.title;//3
+  var message = request.parameter.message;//4
+  var notes = request.parameter.notes;//5
+  var link = request.parameter.link;//6
+  var color = request.parameter.color;//7
+
+  var cell_row = request.parameter.cell_row;
+
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  var columns = activeSheet.getDataRange().getValues()[cell_row - 1];
+  for (i = 0; i < columns.length; item++) {
+    var cell = getCell(activeSheet, cell_row, i + 1);
+    updateValue(cell, i + 1);
+  }
+
 }
 
 
