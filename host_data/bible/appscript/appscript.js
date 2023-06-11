@@ -4,10 +4,11 @@
 //COPY THIS SCRIPT TO YOUR GOOGLE APPS sCRIPT
 //ABOUT APPS SCRIPTS => https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s
 
+var sheetId = "YOUR_GSheet_ID";
 function doPost(request) {
-  
+
   // Open Google Sheet using ID
-  var sheet = SpreadsheetApp.openById("YOUR_GOOGLE_SHEET_ID");
+  var sheet = SpreadsheetApp.openById(sheetId);
   var result = { "status": "SUCCESS" };
   try {
     //var activeSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
@@ -16,7 +17,7 @@ function doPost(request) {
     //check parameter conditions
 
     var queryArray = request.queryString.split("=");
-    if (queryArray[0] === "GET") {     
+    if (queryArray[0] === "GET") {
       //sheet = SpreadsheetApp.getActive().getSheetByName(str);
       var data = getData(sheet);
       var json = getAsJson(request);
@@ -65,7 +66,7 @@ function doGet(request) {
 
   // Get all Parameters
   // Open Google Sheet using ID
-  var sheet = SpreadsheetApp.openById("YOUR_GOOGLE_SHEET_ID");
+  var sheet = SpreadsheetApp.openById(sheetId);
 
   var data = getData(sheet);
   var json = getAsJson(data);
@@ -73,12 +74,12 @@ function doGet(request) {
 
 }
 function getData(sheet) {
-  //Download sheet data as json
   var rows = sheet.getDataRange();
   var numRows = rows.getNumRows();
   var values = rows.getValues();
   var rowList = [];
   var data = [];
+  //Do not include the header so start with i = 1.
   for (var i = 1; i <= numRows - 1; i++) {
     var row = values[i];
     rowList.push(row);
@@ -102,4 +103,76 @@ function getAsJson(data) {
     .createTextOutput(JSON.stringify(data))
     .setMimeType(ContentService.MimeType.JSON);
   return json;
+}
+function updateNow() {
+  updateSheet(1, 1, "Hi");
+}
+function updateSheet(row, column, newValue) {
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  var cell = getCell(activeSheet, row, column);
+  Logger.log("old-value: " + cell.getValue());
+  //updateValue(cell, newValue);
+  Logger.log("new-value: " + newValue);
+
+
+}
+//Always start with 1 not zero, HEADER is included
+function getCell(sheet, row, column) {
+  if (row == 0) {
+    row = 1;
+  }
+  // Example C2, C is the column horizontal alphabet (ABC), 2 is the row vertical number.
+  var positionCode = getLetter(column) + "" + row;
+  Logger.log("HEADER: " + sheet.getRange(alphabet[column] + "" + 1).getValue());
+  return sheet.getRange(positionCode);
+}
+//Update value in specific cell
+function updateValue(cell, newValue) {
+  cell.setValue(newValue);
+}
+//Find cells with HEADER that has value of.
+function findCells(withHeader, withValueOf) {
+  //withHeader = "book"; 
+  //withValueOf = "John 1:1";
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  var rows = activeSheet.getDataRange().getValues();
+  var columns = rows[0];
+  var letter = "";
+  var results = [];
+  var index = 0;
+  var indexFound = 0
+  columns.forEach(c => {
+    if (c == withHeader) {
+      letter = getLetter(index + 1);
+      indexFound = index;
+    }
+    index++;
+  });
+  if (letter != "") {
+    var rowCounter = 1;
+    rows.forEach(r => {
+      var val = r[indexFound];
+      if (val == withValueOf) {
+        var positionCode = letter + "" + rowCounter;
+        Logger.log(positionCode);//Example C36
+        var cell = activeSheet.getRange(positionCode)
+        results.push(cell);
+      }
+      rowCounter++;
+    });
+  }
+
+  return results;
+}
+
+
+
+
+//Helpers
+function getLetter(column) {
+  if (column > 0) {
+    column = column - 1;
+  }
+  const alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+  return alphabet[column];
 }
