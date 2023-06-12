@@ -17,42 +17,80 @@ function doPost(request) {
     //check parameter conditions
 
     var queryArray = request.queryString.split("=");
-    if (queryArray[0] === "GET") {
+    //Update if exist, add if not exist.
+    if (queryArray[0] === "UPDATEIF") {
+      var array = paramaterAsArray(request);
+      var headerType = array[1];
+      if (headerType === "highlight") {
+        var rowList = filterCells("highlight");
+        var newValue = array[2];
+        var cells = findCells("book", newValue, "row");
+        if (cells.length > 0) {
+          //updateRow(request, cells[0]);
+
+        }
+        else {
+          //appendRow(array);
+        }
+        Logger.log(cells);
+      }
+      else if (headerType === "bookmark") {
+        var newValue = array[2];
+        var cells = findCells("book", newValue, "row");
+        if (cells.length > 0) {
+          //updateRow(request, cells[0]);
+        }
+        else {
+          //appendRow(array);
+        }
+      }
+      else if (headerType === "notebook_item") {
+        var newValue = array[2];
+        var cells = filterCells(headerType);
+        cells = filterCells(array[0])
+        var selectInfoCell = null;
+        for (i = 0; i < cells.length; i++) {
+          var hasCell = cells[i].row.includes(newValue);
+          if (hasCell) {
+            selectInfoCell = cells[i];
+            break;
+          }
+        }
+        if (selectInfoCell != null) {
+          updateRow(request, selectInfoCell.rowNum);
+          Logger.log("Update: " + selectInfoCell.code);
+        }
+        else {
+          appendRow(array);
+        }
+      }
+    }
+    else if (queryArray[0] === "GET") {
       //sheet = SpreadsheetApp.getActive().getSheetByName(str);
-      var data = getData(sheet);
-      var json = getAsJson(request);
-      result = json;
-    }
-    else if (queryArray[0] === "POST") {
-      // Get all Parameters
-      var unique_id = request.parameter.unique_id;
-      var type = request.parameter.type;
-      var book = request.parameter.book;
-      var title = request.parameter.title;
-      var message = request.parameter.message;
-      var notes = request.parameter.notes;
-      var link = request.parameter.link;
-      var color = request.parameter.color;
-      // Append data on Google Sheet
-      var rowData = sheet.appendRow([unique_id, type, book, title, message, notes, link, color]);
-      result = "POST";
-    }
-    else if (queryArray[0] === "UPDATE") {
-      updateRow(request);
-    }
-    else {
       var data = getData(sheet);
       var json = getAsJson(data);
       result = json;
     }
+    else if (queryArray[0] === "POST") {
+      // Get all Parameters
+      var array = paramaterAsArray(request);
+      // Append data on Google Sheet
+      var rowData = sheet.appendRow([array[0], array[1], array[2], array[3], array[4], array[5], array[6], array[7]]);
+      result = "POST";
+    }
+    else if (queryArray[0] === "UPDATE") {
+      //updateRow(request, 814);
+      result = "UPDATE";
+    }
+    else if (queryArray[0] === "REQUEST") {
 
-
-    // Append data on Google Sheet
-    //var rowData = sheet.appendRow([unique_id, type, book, title, message, notes, link, color]);
-    //result = request;
-    console.log('Good', "List");
-
-
+      result = request;
+    }
+    else {
+      var array = paramaterAsArray(request);
+      appendRow(array);
+      result = "ADD";
+    }
   } catch (exc) {
     // If error occurs, throw exception
     result = { "status": "FAILED", "message": exc.message };
@@ -78,6 +116,8 @@ function doGet(request) {
 //All code testing is here.
 function testCode() {
   //updateRowString(request, "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd", "notebook_item", );
+  var request = getSampleRequest();
+  doPost(request);
 }
 //CUSTOMS
 function getData(sheet) {
@@ -101,13 +141,25 @@ function getData(sheet) {
     item["notes"] = row[5];
     item["link"] = row[6];
     item["color"] = row[7];
-    //Include cell position code
-    item["cell_row"] = i + 1;
     data.push(item);
   }
   return data;
 }
-function updateRow(request) {
+function updateRow(request, row) {
+  var array = paramaterAsArray(request);
+  updateRowString(array, row);
+
+
+}
+function updateRowString(array, row) {
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  var columns = activeSheet.getDataRange().getValues()[row - 1];
+  for (i = 0; i < columns.length; i++) {
+    var cell = getCell(activeSheet, row, i + 1);
+    updateValue(cell, array[i]);
+  }
+}
+function paramaterAsArray(request) {
   var unique_id = request.parameter.unique_id;//0
   var type = request.parameter.type;//1
   var book = request.parameter.book;//2
@@ -116,23 +168,72 @@ function updateRow(request) {
   var notes = request.parameter.notes;//5
   var link = request.parameter.link;//6
   var color = request.parameter.color;//7
-
-  var cell_row = request.parameter.cell_row;
-
-  updateRowString(unique_id, type, book, title, message, notes, link, color, cell_row);
-
-
+  return [unique_id, type, book, title, message, notes, link, color]
 }
-function updateRowString(unique_id, type, book, title, message, notes, link, color, cell_row) {
+function appendRow(array) {
   var activeSheet = SpreadsheetApp.openById(sheetId);
-  var columns = activeSheet.getDataRange().getValues()[cell_row - 1];
-  var currentColumns = [unique_id, type, book, title, message, notes, link, color];
-  for (i = 0; i < columns.length; i++) {
-    var cell = getCell(activeSheet, cell_row, i + 1);
-    updateValue(cell, currentColumns[i]);
-    activeSheet.deleteRow(814);
-  }
+  var rowData = activeSheet.appendRow([array[0], array[1], array[2], array[3], array[4], array[5], array[6], array[7]]);
+
 }
+function getSampleRequest() {
+  var request = {
+    contentLength: 120,
+    parameters: {
+      notes: [
+        ""
+      ],
+      type: [
+        "notebook_item"
+      ],
+      color: [
+        ""
+      ],
+      title: [
+        ""
+      ],
+      link: [
+        ""
+      ],
+      message: [
+        ""
+      ],
+      unique_id: [
+        "f391d674-2b46-4e0d-8564-5519aaf1f4c1"
+      ],
+      book: [
+        "1Thess 5:18"
+      ],
+      UPDATEIF: [
+        "UPDATEIF"
+      ]
+    },
+    queryString: "UPDATEIF=UPDATEIF",
+    parameter: {
+      message: "",
+      book: "1Thess 5:18",
+      color: "",
+      UPDATEIF: "UPDATEIF",
+      type: "notebook_item",
+      link: "",
+      unique_id: "f391d674-2b46-4e0d-8564-5519aaf1f4c1",
+      notes: "",
+      title: ""
+    },
+    postData: {
+      contents: "unique_id=f391d674-2b46-4e0d-8564-5519aaf1f4c1&type=notebook_item&book=1Thess+5%3A18&title=&message=&notes=&link=&color=",
+      length: 120,
+      name: "postData",
+      type: "application/x-www-form-urlencoded"
+    },
+    contextPath: ""
+  }
+  return request;
+}
+
+
+
+
+
 
 
 
@@ -194,11 +295,53 @@ function findCells(withHeader, withValueOf) {
         var positionCode = letter + "" + rowCounter;
         Logger.log(positionCode);//Example C36
         var cell = activeSheet.getRange(positionCode)
-        results.push(cell);
+        var info = new CellInfo(cell, positionCode, r, rowCounter);
+        results.push(info);
+
       }
       rowCounter++;
     });
   }
+
+  return results;
+}
+//Filter the cells that has specific values.
+function filterCells(hasValueOf) {
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  var rows = activeSheet.getDataRange().getValues();
+  var results = [];
+  //Iterate vertical numbers or rows
+  var rowCounter = 1;
+  rows.forEach(r => {
+    var columns = r;
+    var index = 0;
+    var info = new CellInfo();
+
+    var cell = null;
+    var positionCode = "";
+    //Each row has columns, Iterate horizontal column.
+    var hasValue = false;
+    columns.forEach(c => {
+      if (c == hasValueOf) {
+        hasValue = true;
+        var letter = getLetter(index + 1);
+        positionCode = letter + "" + rowCounter;
+        cell = activeSheet.getRange(positionCode)
+
+        info.cell = cell;
+        info.code = positionCode;
+        info.row = r;
+        info.rowNum = rowCounter;
+      }
+      index++;
+
+    });
+    if (hasValue) {
+      results.push(info);
+    }
+    rowCounter++;
+  });
+
 
   return results;
 }
@@ -216,7 +359,7 @@ function deleteEmptyRows() {
     for (i = 0; i < r.length; i++) {
       val += r[i];
     }
-    if(val.trim() === ""){
+    if (val.trim() === "") {
       //Delete row action
       Logger.log("Deleted row: " + rowNum);
       deleteRow(rowNum);
@@ -224,9 +367,66 @@ function deleteEmptyRows() {
     rowNum++;
   });
 }
+function setHeaders(sheetName, columnNames) {
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  // check result of trying to get Sheet
+  if (activeSheet === null) {
+    // Sheet does not exist, so create it
+    var getNewSheet = activeSheet.insertSheet(sheetName);
+    // get total number of Columns in Sheet regardless of if empty
+    var maxCols = getNewSheet.getMaxColumns();
+
+    // delete unnecessary Columns (minus the number we want to keep)
+    getNewSheet.deleteColumns(7, maxCols - 6);
+
+    // get Header row range
+    var headerRow = getNewSheet.getRange(1, 1, 1, 6);
+
+    // add Header values
+    headerRow.setValues([columnNames]);
+
+    // set font size
+    headerRow.setFontSize(14);
+
+    // set font colour
+    headerRow.setFontColor('white');
+
+    // set font bold
+    headerRow.setFontWeight('bold');
+
+    // set font horizontal alignment
+    headerRow.setHorizontalAlignment('center');
+
+    // set font vertical alignment
+    headerRow.setVerticalAlignment('middle');
+
+    // set row background colour
+    headerRow.setBackground('black');
+
+    // set row height
+    getNewSheet.setRowHeight(1, 34);
+
+    // set column widths
+    getNewSheet.setColumnWidths(1, 6, 208);
+  }
+  // else {
+  //   // Sheet already exists so delete and create new one
+  //   activeSheet.deleteSheet(getSheet);
+  //   var getNewSheet = ss.insertSheet(sheetName);
+  // }
+}
 
 
 //HELPERS
+class CellInfo {
+  constructor(cell, code, row, rownum) {
+    this.code;
+    this.cell;
+    this.row;
+    this.rownum;
+
+  }
+}
 function getLetter(column) {
   if (column > 0) {
     column = column - 1;
