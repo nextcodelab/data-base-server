@@ -9,16 +9,15 @@ var activeSheet = SpreadsheetApp.openById(sheetId);
 var resultLogger = ["v2"];
 function doPost(request) {
   // Open Google Sheet using ID
-  
+
   try {
-   
+
     //check parameter conditions
     var queryArray = request.queryString.split("=");
     //Update if exist, add if not exist.
     resultLogger.push(queryArray[0]);
-    if (queryArray[0] === "UPDATEIF") {
-      
-      var array = paramaterAsArray(request);
+    var array = paramaterAsArray(request);
+    if (queryArray[0] === "UPDATEIF") {   
       var headerType = array[1];
       if (headerType === "highlight") {
         var newValue = array[2];
@@ -157,6 +156,16 @@ function doPost(request) {
 
       result = request;
     }
+    else if (queryArray[0] === "DELETE") {
+      var rowNum = 1;
+      let newString = array.join('');
+      getAllRows().forEach(r => {
+        if (r.join('') === newString) {
+          deleteRow(rowNum);
+        }
+        rowNum++;
+      });
+    }
     else {
       var array = paramaterAsArray(request);
       appendRow(array);
@@ -185,7 +194,7 @@ function doGet(request) {
 //All code testing is here.
 function testCode() {
   //updateRowString(request, "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd", "notebook_item", );
-  var request = getSampleRequest();
+  var request = getSampleRequest("DELETE");
   doPost(request);
 }
 //CUSTOMS
@@ -242,7 +251,7 @@ function appendRow(array) {
   var rowData = activeSheet.appendRow([array[0], array[1], array[2], array[3], array[4], array[5], array[6], array[7]]);
 
 }
-function getSampleRequest() {
+function getSampleRequest(query) {
   var request = {
     contentLength: 120,
     parameters: {
@@ -270,16 +279,16 @@ function getSampleRequest() {
       book: [
         "Insert"
       ],
-      UPDATEIF: [
-        "UPDATEIF"
+      query: [
+        query
       ]
     },
-    queryString: "UPDATEIF=UPDATEIF",
+    queryString: query=query,
     parameter: {
       message: "",
       book: "Insert",
       color: "",
-      UPDATEIF: "UPDATEIF",
+      query: query,
       type: "highlight",
       link: "",
       unique_id: "",
@@ -409,8 +418,8 @@ function filterCells(hasValueOf) {
 
   return results;
 }
-function deleteRow(row) {
-  activeSheet.deleteRow(row);
+function deleteRow(rowNum) {
+  activeSheet.deleteRow(rowNum);
 }
 function deleteEmptyRows() {
   var values = getAllRows();
@@ -428,7 +437,7 @@ function deleteEmptyRows() {
     rowNum++;
   });
 }
-function getAllRows(){
+function getAllRows() {
   var rows = activeSheet.getDataRange();
   var values = rows.getValues();
   return values;
@@ -481,9 +490,9 @@ function setHeaders(sheetName, columnNames) {
   //   var getNewSheet = ss.insertSheet(sheetName);
   // }
 }
-function createNewSheet(newSheetName){
-    var newSheet = activeSheet.insertSheet();
-    newSheet.setName(newSheetName);
+function createNewSheet(newSheetName) {
+  var newSheet = activeSheet.insertSheet();
+  newSheet.setName(newSheetName);
 }
 
 //HELPERS
