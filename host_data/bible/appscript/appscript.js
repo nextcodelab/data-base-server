@@ -5,29 +5,24 @@
 //ABOUT APPS SCRIPTS => https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s
 
 var sheetId = "YOUR_GSheet_ID";
+var activeSheet = SpreadsheetApp.openById(sheetId);
 var resultLogger = ["v2"];
 function doPost(request) {
-
-
   // Open Google Sheet using ID
-  var sheet = SpreadsheetApp.openById(sheetId);
-
+  
   try {
-    //var activeSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
-    //var newSheet = activeSpreadsheet.insertSheet();
-    //newSheet.setName("whatever");
+   
     //check parameter conditions
-
     var queryArray = request.queryString.split("=");
     //Update if exist, add if not exist.
+    resultLogger.push(queryArray[0]);
     if (queryArray[0] === "UPDATEIF") {
+      
       var array = paramaterAsArray(request);
       var headerType = array[1];
-      resultLogger.push("Header: " + headerType);
       if (headerType === "highlight") {
         var newValue = array[2];
         var cells = filterCells("highlight");
-        resultLogger.push("cells: " + cells)
         var selectInfoCell = null;
         for (var i = 0; i < cells.length; i++) {
 
@@ -144,8 +139,7 @@ function doPost(request) {
       }
     }
     else if (queryArray[0] === "GET") {
-      //sheet = SpreadsheetApp.getActive().getSheetByName(str);
-      var data = getData(sheet);
+      var data = getData();
       var json = getAsJson(data);
       resultLogger.push(json);
     }
@@ -153,12 +147,11 @@ function doPost(request) {
       // Get all Parameters
       var array = paramaterAsArray(request);
       // Append data on Google Sheet
-      var rowData = sheet.appendRow([array[0], array[1], array[2], array[3], array[4], array[5], array[6], array[7]]);
-      result = "POST";
+      var rowData = activeSheet.appendRow([array[0], array[1], array[2], array[3], array[4], array[5], array[6], array[7]]);
     }
     else if (queryArray[0] === "UPDATE") {
       //updateRow(request, 814);
-      resultLogger.push("UPDATE");
+      //resultLogger.push("UPDATE");
     }
     else if (queryArray[0] === "REQUEST") {
 
@@ -167,7 +160,6 @@ function doPost(request) {
     else {
       var array = paramaterAsArray(request);
       appendRow(array);
-      resultLogger.push("ADD");
     }
   } catch (exc) {
     // If error occurs, throw exception
@@ -197,8 +189,9 @@ function testCode() {
   doPost(request);
 }
 //CUSTOMS
-function getData(sheet) {
-  var rows = sheet.getDataRange();
+
+function getData() {
+  var rows = activeSheet.getDataRange();
   var numRows = rows.getNumRows();
   var values = rows.getValues();
   var rowList = [];
@@ -229,10 +222,8 @@ function updateRow(request, rowNum) {
 
 }
 function updateRowString(array, rowNum) {
-  var activeSheet = SpreadsheetApp.openById(sheetId);
-  //var columns = activeSheet.getDataRange().getValues()[row - 1];
   for (i = 0; i < array.length; i++) {
-    var cell = getCell(activeSheet, rowNum, i + 1);
+    var cell = getCell(rowNum, i + 1);
     updateValue(cell, array[i]);
   }
 }
@@ -248,7 +239,6 @@ function paramaterAsArray(request) {
   return [unique_id, type, book, title, message, notes, link, color]
 }
 function appendRow(array) {
-  var activeSheet = SpreadsheetApp.openById(sheetId);
   var rowData = activeSheet.appendRow([array[0], array[1], array[2], array[3], array[4], array[5], array[6], array[7]]);
 
 }
@@ -317,15 +307,14 @@ function getSampleRequest() {
 
 
 //LIBRARIES
-function getAsJson(data) {
+function getAsJson(dataArray) {
   var json = ContentService
-    .createTextOutput(JSON.stringify(data))
+    .createTextOutput(JSON.stringify(dataArray))
     .setMimeType(ContentService.MimeType.JSON);
   return json;
 }
 function updateSheet(rowNum, column, newValue) {
-  var activeSheet = SpreadsheetApp.openById(sheetId);
-  var cell = getCell(activeSheet, rowNum, column);
+  var cell = getCell(rowNum, column);
   Logger.log("old-value: " + cell.getValue());
   //updateValue(cell, newValue);
   Logger.log("new-value: " + newValue);
@@ -333,14 +322,14 @@ function updateSheet(rowNum, column, newValue) {
 
 }
 //Always start with 1 not zero, HEADER is included
-function getCell(sheet, rowNum, column) {
+function getCell(rowNum, column) {
   if (rowNum == 0) {
     rowNum = 1;
   }
   // Example C2, C is the column horizontal alphabet (ABC), 2 is the row vertical number.
   var positionCode = getLetter(column) + "" + rowNum;
-  Logger.log("HEADER: " + sheet.getRange(getLetter(column) + "" + 1).getValue());
-  return sheet.getRange(positionCode);
+  Logger.log("HEADER: " + activeSheet.getRange(getLetter(column) + "" + 1).getValue());
+  return activeSheet.getRange(positionCode);
 }
 //Update value in specific cell
 function updateValue(cell, newValue) {
@@ -350,8 +339,7 @@ function updateValue(cell, newValue) {
 function findCells(withHeader, withValueOf) {
   //withHeader = "book"; 
   //withValueOf = "John 1:1";
-  var activeSheet = SpreadsheetApp.openById(sheetId);
-  var rows = activeSheet.getDataRange().getValues();
+  var rows = getAllRows();
   var columns = rows[0];
   var letter = "";
   var results = [];
@@ -384,8 +372,7 @@ function findCells(withHeader, withValueOf) {
 }
 //Filter the cells that has specific values.
 function filterCells(hasValueOf) {
-  var activeSheet = SpreadsheetApp.openById(sheetId);
-  var rows = activeSheet.getDataRange().getValues();
+  var rows = getAllRows();
   var results = [];
   //Iterate vertical numbers or rows
   var rowCounter = 1;
@@ -423,13 +410,10 @@ function filterCells(hasValueOf) {
   return results;
 }
 function deleteRow(row) {
-  var activeSheet = SpreadsheetApp.openById(sheetId);
   activeSheet.deleteRow(row);
 }
 function deleteEmptyRows() {
-  var activeSheet = SpreadsheetApp.openById(sheetId);
-  var rows = activeSheet.getDataRange();
-  var values = rows.getValues();
+  var values = getAllRows();
   var rowNum = 1;
   values.forEach(r => {
     var val = "";
@@ -443,6 +427,11 @@ function deleteEmptyRows() {
     }
     rowNum++;
   });
+}
+function getAllRows(){
+  var rows = activeSheet.getDataRange();
+  var values = rows.getValues();
+  return values;
 }
 function setHeaders(sheetName, columnNames) {
   var activeSheet = SpreadsheetApp.openById(sheetId);
@@ -492,7 +481,10 @@ function setHeaders(sheetName, columnNames) {
   //   var getNewSheet = ss.insertSheet(sheetName);
   // }
 }
-
+function createNewSheet(newSheetName){
+    var newSheet = activeSheet.insertSheet();
+    newSheet.setName(newSheetName);
+}
 
 //HELPERS
 class CellInfo {
