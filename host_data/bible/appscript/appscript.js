@@ -5,11 +5,13 @@
 //ABOUT APPS SCRIPTS => https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s
 
 var sheetId = "YOUR_GSheet_ID";
+var resultLogger = ["v2"];
 function doPost(request) {
+
 
   // Open Google Sheet using ID
   var sheet = SpreadsheetApp.openById(sheetId);
-  var result = { "status": "SUCCESS" };
+
   try {
     //var activeSpreadsheet = SpreadsheetApp.getActiveSpreadsheet();
     //var newSheet = activeSpreadsheet.insertSheet();
@@ -21,30 +23,106 @@ function doPost(request) {
     if (queryArray[0] === "UPDATEIF") {
       var array = paramaterAsArray(request);
       var headerType = array[1];
+      resultLogger.push("Header: " + headerType);
       if (headerType === "highlight") {
-        var rowList = filterCells("highlight");
         var newValue = array[2];
-        var cells = findCells("book", newValue, "row");
-        if (cells.length > 0) {
-          //updateRow(request, cells[0]);
+        var cells = filterCells("highlight");
+        resultLogger.push("cells: " + cells)
+        var selectInfoCell = null;
+        for (var i = 0; i < cells.length; i++) {
 
+          if (cells[i].row.includes(newValue)) {
+            selectInfoCell = cells[i];
+            break;
+          }
+        }
+        if (selectInfoCell != null) {
+          resultLogger.push("Updating row..." + cells)
+          updateRow(request, selectInfoCell.rowNum);
         }
         else {
-          //appendRow(array);
+          resultLogger.push("adding row..." + cells)
+          appendRow(array);
         }
-        Logger.log(cells);
       }
       else if (headerType === "bookmark") {
         var newValue = array[2];
-        var cells = findCells("book", newValue, "row");
-        if (cells.length > 0) {
-          //updateRow(request, cells[0]);
+        var cells = filterCells("bookmark");
+        var selectInfoCell = null;
+        for (var i = 0; i < cells.length; i++) {
+          if (cells[i].row.includes(newValue)) {
+            selectInfoCell = cells[i];
+            break;
+          }
+        }
+        if (selectInfoCell != null) {
+          updateRow(request, selectInfoCell.rowNum);
         }
         else {
-          //appendRow(array);
+          appendRow(array);
         }
       }
       else if (headerType === "notebook_item") {
+        var newValue = array[2];
+        var cells = filterCells(headerType);
+        cells = filterCells(array[0])
+        var selectInfoCell = null;
+        for (i = 0; i < cells.length; i++) {
+          var hasCell = cells[i].row.includes(newValue);
+          if (hasCell) {
+            selectInfoCell = cells[i];
+            break;
+          }
+        }
+        if (selectInfoCell != null) {
+          updateRow(request, selectInfoCell.rowNum);
+          Logger.log("Update: " + selectInfoCell.code);
+        }
+        else {
+          appendRow(array);
+        }
+      }
+      else if (headerType === "lesson_item") {
+        var newValue = array[2];
+        var cells = filterCells(headerType);
+        cells = filterCells(array[0])
+        var selectInfoCell = null;
+        for (i = 0; i < cells.length; i++) {
+          var hasCell = cells[i].row.includes(newValue);
+          if (hasCell) {
+            selectInfoCell = cells[i];
+            break;
+          }
+        }
+        if (selectInfoCell != null) {
+          updateRow(request, selectInfoCell.rowNum);
+          Logger.log("Update: " + selectInfoCell.code);
+        }
+        else {
+          appendRow(array);
+        }
+      }
+      else if (headerType === "lesson") {
+        var newValue = array[2];
+        var cells = filterCells(headerType);
+        cells = filterCells(array[0])
+        var selectInfoCell = null;
+        for (i = 0; i < cells.length; i++) {
+          var hasCell = cells[i].row.includes(newValue);
+          if (hasCell) {
+            selectInfoCell = cells[i];
+            break;
+          }
+        }
+        if (selectInfoCell != null) {
+          updateRow(request, selectInfoCell.rowNum);
+          Logger.log("Update: " + selectInfoCell.code);
+        }
+        else {
+          appendRow(array);
+        }
+      }
+      else if (headerType === "notebook") {
         var newValue = array[2];
         var cells = filterCells(headerType);
         cells = filterCells(array[0])
@@ -69,7 +147,7 @@ function doPost(request) {
       //sheet = SpreadsheetApp.getActive().getSheetByName(str);
       var data = getData(sheet);
       var json = getAsJson(data);
-      result = json;
+      resultLogger.push(json);
     }
     else if (queryArray[0] === "POST") {
       // Get all Parameters
@@ -80,7 +158,7 @@ function doPost(request) {
     }
     else if (queryArray[0] === "UPDATE") {
       //updateRow(request, 814);
-      result = "UPDATE";
+      resultLogger.push("UPDATE");
     }
     else if (queryArray[0] === "REQUEST") {
 
@@ -89,17 +167,16 @@ function doPost(request) {
     else {
       var array = paramaterAsArray(request);
       appendRow(array);
-      result = "ADD";
+      resultLogger.push("ADD");
     }
   } catch (exc) {
     // If error occurs, throw exception
-    result = { "status": "FAILED", "message": exc.message };
-    console.log('Failed with error %s', exc.message);
+    resultLogger.push("FAILED: " + exc.message);
   }
 
   // Return result
   return ContentService
-    .createTextOutput(JSON.stringify(result))
+    .createTextOutput(JSON.stringify(resultLogger))
     .setMimeType(ContentService.MimeType.JSON);
 }
 function doGet(request) {
@@ -145,17 +222,17 @@ function getData(sheet) {
   }
   return data;
 }
-function updateRow(request, row) {
+function updateRow(request, rowNum) {
   var array = paramaterAsArray(request);
-  updateRowString(array, row);
+  updateRowString(array, rowNum);
 
 
 }
-function updateRowString(array, row) {
+function updateRowString(array, rowNum) {
   var activeSheet = SpreadsheetApp.openById(sheetId);
-  var columns = activeSheet.getDataRange().getValues()[row - 1];
-  for (i = 0; i < columns.length; i++) {
-    var cell = getCell(activeSheet, row, i + 1);
+  //var columns = activeSheet.getDataRange().getValues()[row - 1];
+  for (i = 0; i < array.length; i++) {
+    var cell = getCell(activeSheet, rowNum, i + 1);
     updateValue(cell, array[i]);
   }
 }
@@ -183,10 +260,10 @@ function getSampleRequest() {
         ""
       ],
       type: [
-        "notebook_item"
+        "highlight"
       ],
       color: [
-        ""
+        "NEW COLOR"
       ],
       title: [
         ""
@@ -198,10 +275,10 @@ function getSampleRequest() {
         ""
       ],
       unique_id: [
-        "f391d674-2b46-4e0d-8564-5519aaf1f4c1"
+        ""
       ],
       book: [
-        "1Thess 5:18"
+        "Insert"
       ],
       UPDATEIF: [
         "UPDATEIF"
@@ -210,12 +287,12 @@ function getSampleRequest() {
     queryString: "UPDATEIF=UPDATEIF",
     parameter: {
       message: "",
-      book: "1Thess 5:18",
+      book: "Insert",
       color: "",
       UPDATEIF: "UPDATEIF",
-      type: "notebook_item",
+      type: "highlight",
       link: "",
-      unique_id: "f391d674-2b46-4e0d-8564-5519aaf1f4c1",
+      unique_id: "",
       notes: "",
       title: ""
     },
@@ -246,9 +323,9 @@ function getAsJson(data) {
     .setMimeType(ContentService.MimeType.JSON);
   return json;
 }
-function updateSheet(row, column, newValue) {
+function updateSheet(rowNum, column, newValue) {
   var activeSheet = SpreadsheetApp.openById(sheetId);
-  var cell = getCell(activeSheet, row, column);
+  var cell = getCell(activeSheet, rowNum, column);
   Logger.log("old-value: " + cell.getValue());
   //updateValue(cell, newValue);
   Logger.log("new-value: " + newValue);
@@ -256,12 +333,12 @@ function updateSheet(row, column, newValue) {
 
 }
 //Always start with 1 not zero, HEADER is included
-function getCell(sheet, row, column) {
-  if (row == 0) {
-    row = 1;
+function getCell(sheet, rowNum, column) {
+  if (rowNum == 0) {
+    rowNum = 1;
   }
   // Example C2, C is the column horizontal alphabet (ABC), 2 is the row vertical number.
-  var positionCode = getLetter(column) + "" + row;
+  var positionCode = getLetter(column) + "" + rowNum;
   Logger.log("HEADER: " + sheet.getRange(getLetter(column) + "" + 1).getValue());
   return sheet.getRange(positionCode);
 }
@@ -434,3 +511,4 @@ function getLetter(column) {
   const alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
   return alphabet[column];
 }
+
