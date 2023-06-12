@@ -77,7 +77,7 @@ function doGet(request) {
 }
 //All code testing is here.
 function testCode() {
-
+  //updateRowString(request, "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd", "notebook_item", );
 }
 //CUSTOMS
 function getData(sheet) {
@@ -119,15 +119,20 @@ function updateRow(request) {
 
   var cell_row = request.parameter.cell_row;
 
-  var activeSheet = SpreadsheetApp.openById(sheetId);
-  var columns = activeSheet.getDataRange().getValues()[cell_row - 1];
-  for (i = 0; i < columns.length; item++) {
-    var cell = getCell(activeSheet, cell_row, i + 1);
-    updateValue(cell, i + 1);
-  }
+  updateRowString(unique_id, type, book, title, message, notes, link, color, cell_row);
+
 
 }
-
+function updateRowString(unique_id, type, book, title, message, notes, link, color, cell_row) {
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  var columns = activeSheet.getDataRange().getValues()[cell_row - 1];
+  var currentColumns = [unique_id, type, book, title, message, notes, link, color];
+  for (i = 0; i < columns.length; i++) {
+    var cell = getCell(activeSheet, cell_row, i + 1);
+    updateValue(cell, currentColumns[i]);
+    activeSheet.deleteRow(814);
+  }
+}
 
 
 
@@ -156,7 +161,7 @@ function getCell(sheet, row, column) {
   }
   // Example C2, C is the column horizontal alphabet (ABC), 2 is the row vertical number.
   var positionCode = getLetter(column) + "" + row;
-  Logger.log("HEADER: " + sheet.getRange(alphabet[column] + "" + 1).getValue());
+  Logger.log("HEADER: " + sheet.getRange(getLetter(column) + "" + 1).getValue());
   return sheet.getRange(positionCode);
 }
 //Update value in specific cell
@@ -197,8 +202,28 @@ function findCells(withHeader, withValueOf) {
 
   return results;
 }
-
-
+function deleteRow(row) {
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  activeSheet.deleteRow(row);
+}
+function deleteEmptyRows() {
+  var activeSheet = SpreadsheetApp.openById(sheetId);
+  var rows = activeSheet.getDataRange();
+  var values = rows.getValues();
+  var rowNum = 1;
+  values.forEach(r => {
+    var val = "";
+    for (i = 0; i < r.length; i++) {
+      val += r[i];
+    }
+    if(val.trim() === ""){
+      //Delete row action
+      Logger.log("Deleted row: " + rowNum);
+      deleteRow(rowNum);
+    }
+    rowNum++;
+  });
+}
 
 
 //HELPERS
