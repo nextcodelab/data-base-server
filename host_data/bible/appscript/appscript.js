@@ -193,7 +193,6 @@ function doGet(request) {
 }
 //All code testing is here.
 function testCode() {
-  //updateRowString(request, "97c5cada-3778-41a7-bd0f-b93a5bc5bfdd", "notebook_item", );
   var request = getSampleRequest("DELETE");
   doPost(request);
 }
@@ -296,7 +295,7 @@ function getSampleRequest(query) {
       title: ""
     },
     postData: {
-      contents: "unique_id=f391d674-2b46-4e0d-8564-5519aaf1f4c1&type=notebook_item&book=1Thess+5%3A18&title=&message=&notes=&link=&color=",
+      contents: "",
       length: 120,
       name: "postData",
       type: "application/x-www-form-urlencoded"
