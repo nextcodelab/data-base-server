@@ -45,7 +45,7 @@
     },
     {
       "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/7.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
