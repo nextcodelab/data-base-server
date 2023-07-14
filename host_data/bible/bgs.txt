@@ -10,7 +10,7 @@
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52485706466_7b26cabaf0_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/2.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
