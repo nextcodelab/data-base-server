@@ -31,70 +31,70 @@
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52485981909_c368210009_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/5.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52486168645_e6001dbfd5_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52485210947_2976c69b04_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52486168655_ec1a9fab70_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52486252508_0c22e23395_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52478655335_a655fa3f12_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Natures"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52478588281_615d837a62_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Natures"
     },
      {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52478444236_a0ffb1074c_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Natures"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52475467147_59f211e880_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Natures"
     },
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/49232015336_9775d8917b_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Natures"
