@@ -87,14 +87,14 @@
     },
     {
       "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/13.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Natures"
     },
     {
       "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/14.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Natures"
