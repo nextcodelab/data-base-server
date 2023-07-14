@@ -3,7 +3,7 @@
   "Items": [
     {
       "Name": null,
-      "Big": "https://live.staticflickr.com/65535/52486252028_56360e8784_o_d.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/1.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
