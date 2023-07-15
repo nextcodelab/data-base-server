@@ -3,108 +3,10 @@
   "Items": [
     {
       "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/1.jpg?raw=true",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/backgrounds/images/1.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/2.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/3.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/4.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/5.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/6.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/7.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/8.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/9.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Classic"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/10.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Natures"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/11.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Natures"
-    },
-     {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/12.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Natures"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/13.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Natures"
-    },
-    {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/14.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Natures"
-    },
-   {
-      "Name": null,
-      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/imgs/15.jpg?raw=true",
-      "Small": null,
-      "Source": "https://www.flickr.com/",
-      "Group": "Natures"
     }
   ]
 }
