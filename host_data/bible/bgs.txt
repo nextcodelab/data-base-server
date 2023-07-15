@@ -10,7 +10,7 @@
     },
     {
       "Name": null,
-      "Big": "https://rare-gallery.com/uploads/posts/525948-meadow-evening.jpg",
+      "Big": "https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/backgrounds/images/2.jpg?raw=true",
       "Small": null,
       "Source": "https://www.flickr.com/",
       "Group": "Classic"
