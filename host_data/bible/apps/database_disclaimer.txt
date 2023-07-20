@@ -1,7 +1,13 @@
-Disclaimer
+Friendly Disclaimer:
 
-This app is not responsible for the copyright status of the databases that are imported into it. The user is responsible for ensuring that the databases that they import are not copyrighted. The app does not provide any guarantees about the copyright status of the databases.
+Thank you for using our app! We want to ensure a smooth and enjoyable experience for all users. Please keep in mind the following disclaimer:
 
-If the user imports a copyrighted database into the app, they may be liable for copyright infringement. The app does not provide any legal advice and the user should consult with an attorney if they have any concerns about the copyright status of the databases.
+This app is not responsible for determining the copyright status of databases that users import into it. We kindly remind users that they are solely responsible for ensuring that the databases they import are not copyrighted or violate any intellectual property rights.
 
-By using this app, the user agrees to indemnify and hold harmless the app and its developers from any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in any way connected with the user's use of the app.
+While our app strives to provide a safe environment for database management, we cannot guarantee the copyright status of the databases. Users should exercise caution and conduct their own research regarding copyright ownership before importing any data.
+
+If a user inadvertently imports a copyrighted database into the app, they may potentially face copyright infringement claims. To avoid any legal issues, we strongly encourage users to seek legal advice from a qualified attorney if they have any concerns about the copyright status of their databases.
+
+By using our app, users agree to hold the app and its developers harmless from any claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) that may arise from their use of the app.
+
+We value our users' experience and are here to help answer any questions or concerns you may have. Please feel free to reach out to us if you need any assistance. Happy app-ing!
