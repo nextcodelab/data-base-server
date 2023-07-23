@@ -4,6 +4,10 @@
 //COPY THIS SCRIPT TO YOUR GOOGLE APPS sCRIPT -> Extensions -> Apps Script
 //ABOUT APPS SCRIPTS & SETUP -> https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s
 
+//PLEASE WAIT FOR THE NEXT UPDATE, WE WILL MOVE TO SQLITE QUERIES ON APPSCRIPTS LIKE RELATIONAL DATASET
+//BACKUP YOUR NOTEBOOK FIRST IN HARD DRIVE
+//NO USE THIS< WAIT FOR FINAL UPDATE, Once this message is remove.
+
 var sheetId = "YOUR_GSheet_ID";
 var activeSheet = SpreadsheetApp.openById(sheetId);
 var resultLogger = ["v2"];
