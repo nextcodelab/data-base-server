@@ -1,6 +1,7 @@
 [
   {
     "Version": "Bugna, Bible Cebuano Version",
+    "Code": "Bugna",
     "Language": "Cebuano",
     "Items": [
       {
@@ -347,6 +348,7 @@
   },
   {
     "Version": "KJV, King James Version",
+    "Code": "KJV",
     "Language": "English",
     "Items": [
       {
@@ -683,6 +685,7 @@
   },
   {
     "Version": "Bible Segond 1910 (French)",
+    "Code": "BS1910",
     "Language": "French",
     "Items": [
       {
@@ -1018,7 +1021,8 @@
     ]
   },
   {
-    "Version": "ADB1905, Ang Dating Biblia (1905) (Tagalog)",
+    "Version": "ADB1905, Ang Dating Biblia (1905)",
+    "Code": "ADB1905",
     "Language": "Tagalog",
     "Items": [
       {
