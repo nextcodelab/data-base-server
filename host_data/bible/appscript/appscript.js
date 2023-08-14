@@ -52,7 +52,7 @@ function doGet() {
   // List of table names
   var tableNames = [
     tableNotebooks,
-    tableLessonItems,
+    tableNotebookItems,
     tableLessons,
     tableLessonItems,
     tableBookmarks,
@@ -367,4 +367,8 @@ var CRUD = {
       }
     });
   },
+
+
+
 };
+
