@@ -5,7 +5,7 @@ Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting You
 
 **3.**
 Encouraging Inclusive Learning and Sharing
-Let's let others share their opinions on topics like Bible study meeting, so that they can expand their knowledge and learn to convey the Good News to others as well. Let's teach them to learn and utilize the Lord's guidance in spreading the good news. Let's not allow only leaders or teachers to have the knowledge to proclaim the Good News of salvation. Invite others to read the Bible in order to have the knowledge to share the Good News (Colosas 3:16-17).
+Let's let others share their opinions on topics like Bible study, meetings or fellowships, so that they can expand their knowledge and learn to convey the Good News to others as well. Let's teach them to learn and utilize the Lord's guidance in spreading the good news. Let's not allow only leaders or teachers to have the knowledge to proclaim the Good News of salvation. Invite others to read the Bible in order to have the knowledge to share the Good News (Colosas 3:16-17).
 
 **4.**
 Following the Footsteps of our Lord Jesus (Juan 13:29) and the Apostles in Acts of Assistance (Romans 15:25-26, James 1:27)
