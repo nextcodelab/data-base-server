@@ -21,6 +21,7 @@ It is just a suggestion not to use titles like 'Rabbi' (Teacher), for we all hav
 
 **7.**
 Take Paul as an example; he worked diligently to support himself and to lessen the burden on the Church (Acts 20:34).
+*And Absolutely, we should wholeheartedly support missionaries not only through financial means but also through fervent prayer.*
 
 **Serve GOD with HOLINESS and RIGHTEOUSNESS.**
 
