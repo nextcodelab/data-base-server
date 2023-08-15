@@ -17,9 +17,6 @@ A Guideline Inspired by our Lord Jesus's Teachings (Matthew 6:2-4)
 As Lord Jesus said, "When you give to the poor, don't let your left hand know what your right hand is doing." When offering financial help to our fellow brethren within the Church, consider the example of placing the assistance in an envelope. Specify the recipient's name without indicating the source of the aid. This envelope can then be securely placed into the Offering Box.
 
 **6.**
-It is just a suggestion not to use titles like 'Rabbi' (Teacher), for we all have one Teacher, and we're all brothers and sisters (Matthew 23:8). When it comes to the gifts we possess, such as teaching, evangelism, and others (Ephesians 4:11), it might be worth considering treating them as Gifts, rather than making them a titles or professions (Mateo 20:27) There are elders/shepherds in the church, we supports them.
-
-**7.**
 Take Paul as an example; he worked diligently to support himself and to lessen the burden on the Church (Acts 20:34).
 *And Absolutely, we should wholeheartedly support missionaries not only through financial means but also through fervent prayer (Colossians 4:2-4).*
 
