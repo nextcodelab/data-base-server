@@ -16,10 +16,6 @@ Anonymous Giving for Generous Hearts
 A Guideline Inspired by our Lord Jesus's Teachings (Matthew 6:2-4)
 As Lord Jesus said, "When you give to the poor, don't let your left hand know what your right hand is doing." When offering financial help to our fellow brethren within the Church, consider the example of placing the assistance in an envelope. Specify the recipient's name without indicating the source of the aid. This envelope can then be securely placed into the Offering Box.
 
-**6.**
-Take Paul as an example; he worked diligently to support himself and to lessen the burden on the Church (Acts 20:34).
-*And Absolutely, we should wholeheartedly support missionaries not only through financial means but also through fervent prayer (Colossians 4:2-4).*
-
 **Serve GOD with HOLINESS and RIGHTEOUSNESS.**
 
 Please note that these suggestions are offered in a friendly spirit and are intended as helpful tips from a fellow believer. Always consider your personal circumstances and understanding as you apply these suggestions.
