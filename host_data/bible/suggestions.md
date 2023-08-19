@@ -6,7 +6,7 @@ Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Our
 **3.**
 Promote learning and sharing by allowing others to express their opinions on topics such, as Bible study, meetings or fellowships. This will enable them to expand their knowledge and effectively convey the Good News to others. Lets teach them how to seek and apply the guidance of the Lord when spreading the Good News; it shouldn't be limited to leaders or teachers who possess this knowledge. Encourage others to engage in reading the Bible so they can acquire the knowledge to share the Gospel ***(Colossians 3:16-17)***.
 
-***Individually reading the Bible with the guidance of the Holy Spirit can preserve the truth for the next generation, so people will be less likely to be deceived by others' teachings, as they will have a foundation of their own.***
+***By engaging in personal Bible reading while being guided by the Holy Spirit (1 John 2:27), individuals can develop a strong foundation. Serves as a protective shield against the potential deception of alternative teachings. This process ensures the preservation of truth for generations to come.***
 
 **4.**
 The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***Juan 13:29*** and Acts of Assistance ***(Romans 15:25-26, James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to our Lord and Savior.
