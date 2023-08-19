@@ -16,7 +16,7 @@ As Lord Jesus said, *"When you give to the poor, don't let your left hand know w
 
 **Serve GOD with HOLINESS and RIGHTEOUSNESS.**
 
-This suggestions aren't directed at newcomers to our gatherings; our desire is to ensure everyone feels equally embraced.
+This suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced.
 Please remember, these are just suggestions, out of love for the Body of Christ.
 
 ## Please you can email us your suggestions
