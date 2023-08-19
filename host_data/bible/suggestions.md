@@ -1,4 +1,4 @@
-**1.** Suggest for our experienced leaders to avoid much disco lights and to abstain from worldly-style concerts that emphasize emotional gratification (John 4:24). For our veteran sisters, let modesty guide their dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more fitting than shorts, aligning with the occasion's importance (1 Timothy 2;9-10), (Romans 12:2).
+**1.** Suggest for our experienced leaders to avoid much disco lights and to abstain from worldly-style concerts that emphasize emotional gratification (John 4:24). For our veteran sisters, let modesty guide their dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance (1 Timothy 2:9-10), (Romans 12:2).
 
 **2.** 
 Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Yourself to the Lord (Matthew 5:23-24).
