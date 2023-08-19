@@ -20,3 +20,6 @@ As Lord Jesus said, "When you give to the poor, don't let your left hand know wh
 
 Please note that these suggestions are offered in a brotherly spirit, and are intended as helpful tips from a fellow believer, not intended for new comers in fellowships. Everyone should be welcomed equally. Always consider churches circumstances and understanding as for these are just a brotherly suggestions.
 
+## Please you can email us your suggestions
+[belmegood24@gmail.com](belmegood24@gmail.com)
+
