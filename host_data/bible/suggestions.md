@@ -16,7 +16,8 @@ As Lord Jesus said, "When you give to the poor, don't let your left hand know wh
 
 **Serve GOD with HOLINESS and RIGHTEOUSNESS.**
 
-Please note that these suggestions are offered in a brotherly spirit, and are intended as helpful tips from a fellow believer, not intended for new comers in fellowships. Everyone should be welcomed equally. Always consider churches circumstances and understanding as for these are just a brotherly suggestions.
+This suggestions aren't directed at newcomers to our gatherings; our desire is to ensure everyone feels equally embraced.
+Please remember, these are just suggestions, out of love for the Body of Christ.
 
 ## Please you can email us your suggestions
 [belmegood24@gmail.com](belmegood24@gmail.com)
