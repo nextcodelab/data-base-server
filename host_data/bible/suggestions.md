@@ -1,15 +1,13 @@
-**1.** Suggest for our experienced leaders to avoid much disco lights and to abstain from worldly-style concerts that emphasize emotional gratification (John 4:24). For our veteran sisters, let modesty guide their dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance (1 Timothy 2:9-10), (Romans 12:2).
+**1.** Suggest for our experienced leaders to balance lights (not to become a disco lights) and become more likely worldly-style concerts (John 4:24). For our veteran sisters, let modesty guide their dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance (1 Timothy 2:9-10), (Romans 12:2).
 
 **2.** 
-Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Yourself to the Lord (Matthew 5:23-24).
+Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Ourselves to the Lord (Matthew 5:23-24).
 
 **3.**
-Encouraging Inclusive Learning and Sharing
-Let's let others share their opinions on topics like Bible study, meetings or fellowships, so that they can expand their knowledge and learn to convey the Good News to others as well. Let's teach them to learn and utilize the Lord's guidance in spreading the good news. Let's not allow only leaders or teachers to have the knowledge to proclaim the Good News of salvation. Invite others to read the Bible in order to have the knowledge to share the Good News (Colosas 3:16-17).
+3. Promote learning and sharing by allowing others to express their opinions on topics such, as Bible study, meetings or fellowships. This will enable them to expand their knowledge and effectively convey the Good News to others. Lets teach them how to seek and apply the guidance of the Lord when spreading the Good News; it shouldn't be limited to leaders or teachers who possess this knowledge. Encourage others to engage in reading the Bible so they can acquire the knowledge to share the Gospel (Colossians 3;16 17).
 
 **4.**
-Following the Footsteps of our Lord Jesus (Juan 13:29) and the Apostles in Acts of Assistance (Romans 15:25-26, James 1:27)
-Church extending help to those in need, much like Lord Jesus and the Apostles did. It highlights the compassionate nature of the Church by addressing the needs of the less fortunate, particularly widows and widowers. The act of providing assistance is carried out with humility, with the sole intention of bringing glory to our Lord and Savior.
+The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in Juan 13;29 and Acts of Assistance (Romans 15;25 26 James 1;27). This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to our Lord and Savior.
 
 **5.**
 Anonymous Giving for Generous Hearts
