@@ -5,6 +5,7 @@ Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Our
 
 **3.**
 Promote learning and sharing by allowing others to express their opinions on topics such, as Bible study, meetings or fellowships. This will enable them to expand their knowledge and effectively convey the Good News to others. Lets teach them how to seek and apply the guidance of the Lord when spreading the Good News; it shouldn't be limited to leaders or teachers who possess this knowledge. Encourage others to engage in reading the Bible so they can acquire the knowledge to share the Gospel ***(Colossians 3:16-17)***.
+
 ***Individually reading the Bible with the guidance of the Holy Spirit can preserve the truth for the next generation, so people will be less likely to be deceived by others' teachings, as they will have a foundation of their own.***
 
 **4.**
