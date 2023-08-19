@@ -9,7 +9,7 @@ Promote learning and sharing by allowing others to express their opinions on top
 ***By engaging in personal Bible reading while being guided by the Holy Spirit (1 John 2:27), individuals can develop a strong foundation. Serves as a protective shield against the potential deception of alternative teachings. This process ensures the preservation of truth for generations to come.***
 
 **4.**
-The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***Juan 13:29*** and Acts of Assistance ***(Romans 15:25-26, James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to our Lord and Savior.
+The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***Juan 13:29*** and Acts of Assistance ***(Romans 15:25-26, James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father through our Lord and Savior Jesus Christ AMEN.
 
 **5.**
 Anonymous Giving for Generous Hearts
