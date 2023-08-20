@@ -11,7 +11,7 @@ Promote learning and sharing by allowing others to express their opinions on top
 *Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.* **(Revelation 1:3)**
 
 **4.**
-The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***Juan 13:29*** and Acts of Assistance ***(Romans 15:25-26, James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ AMEN (1 Peter 1:3). 
+The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***Juan 13:29*** and Acts of Assistance ***(Romans 15:25-26, James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ (1 Peter 1:3). 
 
 **5.**
 Anonymous Giving for Generous Hearts
