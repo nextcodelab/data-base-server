@@ -24,6 +24,6 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 Please remember, these are just suggestions, out of love for the Body of Christ.
 
 **Please you can email us your suggestions or comments**
-### belmegood24@gmail.com
+### studioappsupporfeedback2000@outlook.com 
 
 
