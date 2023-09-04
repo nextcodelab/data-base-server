@@ -38,8 +38,11 @@ var CRUD = {
     var numRows = sheet.getLastRow();
 
     // Delete all rows, starting from row 1 to numRows
+    if (numRows > 1) {
+      sheet.deleteRows(2, numRows);
+    }
     if (numRows > 0) {
-      sheet.deleteRows(1, numRows);
+      sheet.getRange("A:AC").clearContent();
     }
     var data = longText;
     // write content to a new row created, no 50k error!
@@ -49,7 +52,7 @@ var CRUD = {
     var sheet = SpreadsheetApp.openById(sheetId);
     var numRows = sheet.getLastRow();
 
-    // return if no data
+    // Delete all rows, starting from row 1 to numRows
     if (numRows === 0) {
       return "";
     }
