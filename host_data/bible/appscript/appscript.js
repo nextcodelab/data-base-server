@@ -37,7 +37,7 @@ var CRUD = {
     var sheet = SpreadsheetApp.openById(sheetId);
     var numRows = sheet.getLastRow();
 
-    // Delete all rows, starting from row 1 to numRows
+    // Delete all rows, starting from row 2 to numRows
     if (numRows > 1) {
       sheet.deleteRows(2, numRows);
     }
