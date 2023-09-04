@@ -52,7 +52,7 @@ var CRUD = {
     var sheet = SpreadsheetApp.openById(sheetId);
     var numRows = sheet.getLastRow();
 
-    // Delete all rows, starting from row 1 to numRows
+    // return empty string if no data
     if (numRows === 0) {
       return "";
     }
