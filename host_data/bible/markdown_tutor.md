@@ -26,7 +26,7 @@
 
 [1 Peter 1:3](1Pet 1:3)
 
-
+[Revelation 21:6-7](Rev 21:6-7)
 
 #Click on link to open in browser
 [Genesis](https://en.wikipedia.org/wiki/Genesis_1:1)
