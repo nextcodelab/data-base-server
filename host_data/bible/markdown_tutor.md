@@ -38,3 +38,5 @@
 
 > This is a blockquote.
 
+*We hope this app will expand to other platforms, such as Windows Desktop, Android, iOS, Mac, and Linux.*
+
