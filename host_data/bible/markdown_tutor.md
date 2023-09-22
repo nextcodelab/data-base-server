@@ -38,7 +38,7 @@
 
 > This is a blockquote.
 
-**2 Corinthians 13:13-14**
+**2 Corinthians 13:14**
 
 *The grace of the* **LORD JESUS CHRIST**, *and the* **LOVE of GOD**, *and the communion of the* **HOLY GHOST**, *be with you all*. **Amen**.
 
