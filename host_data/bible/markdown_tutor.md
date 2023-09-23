@@ -42,6 +42,6 @@
 
 *The grace of the* **LORD JESUS CHRIST**, *and the* **LOVE of GOD**, *and the communion of the* **HOLY GHOST**, *be with you all*. **Amen**.
 
-
+>--------------
 *We hope this app will expand to other platforms, such as Windows Desktop, Android, iOS, Mac, and Linux.*
 
