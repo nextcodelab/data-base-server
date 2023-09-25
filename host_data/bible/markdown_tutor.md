@@ -28,6 +28,8 @@
 
 [Revelation 21:6-7](Rev 21:6-7)
 
+[https://www.youtube.com/watch?v=I46JquDHdCQ](https://www.youtube.com/watch?v=I46JquDHdCQ)
+
 #Click on link to open in browser
 [Genesis](https://en.wikipedia.org/wiki/Genesis_1:1)
 
