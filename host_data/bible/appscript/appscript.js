@@ -1,9 +1,9 @@
-//https://developers.google.com/apps-script/reference/spreadsheet
+[https://developers.google.com/apps-script/reference/spreadsheet](https://developers.google.com/apps-script/reference/spreadsheet)
 
 //CREATE GOOGLE SHEET IN GOOGLE DRIVE
 //COPY THIS SCRIPT TO YOUR GOOGLE APPS sCRIPT -> Extensions -> Apps Script
 //DEPLOY AS WEB APP WITH "ANYONE" ACCESS => THEN COPY SCRIPT LINK
-//ABOUT APPS SCRIPTS & SETUP -> https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s
+[ABOUT APPS SCRIPTS & SETUP](https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s)
 
 
 var sheetId = "REPLACE WITH YOUR SHEET_ID";
