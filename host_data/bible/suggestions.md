@@ -13,7 +13,7 @@ Promote learning and sharing by allowing others to express their opinions on top
 
 
 ***The One and Only worthy Pioneer, Author and Finisher of our faith, spiritual lives (Heb 12:2).*** 
-*The Lord was showing me like a bright spotlight when we no longer see Jesus Christ as THE Pioneer and we all as His fellow spiritual pioneers along the Heavenly way He uniquely and personally leads us on from day one, then we are no longer on His way, since HE is the way; no other man is the way. Even as I write now, the nagging painful question in my soul is: “At what point saints did following the LORD become follow the Ministry?” And when did follow MINISTRY become the only way to follow the Lord. That’s when the MINISTRY became cultic.* 
+*The Lord was showing me like a bright spotlight when we no longer see Jesus Christ as THE Pioneer and we all as His fellow spiritual pioneers along the Heavenly way He uniquely and personally leads us on from day one, then we are no longer on His way, since HE is the way; no other man is the way. Even as I write now, the nagging painful question in my soul is: “At what point saints did following the LORD become follow the Ministry?” And when did follow MINISTRY become the only way to follow the Lord. That’s when the MINISTRY became cultic.* **By other testimony**
 
 
 
