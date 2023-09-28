@@ -21,7 +21,7 @@ Promote learning and sharing by allowing others to express their opinions on top
 
 
 **4.**
-The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[Juan 13:29](Juan 13:29)*** and Acts of Assistance ***[Romans 15:25-26](Romans 15:25-26), [James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ [1 Peter 1:3](1 Peter 1:3). 
+The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[John 13:29](John 13:29)*** and Acts of Assistance ***[Romans 15:25-26](Romans 15:25-26), [James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ [1 Peter 1:3](1 Peter 1:3). 
 
 
 **5.**
