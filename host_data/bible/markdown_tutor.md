@@ -30,7 +30,7 @@
 
 #Click on link to open in browser
 
-[https://www.youtube.com/watch?v=I46JquDHdCQ](https://www.youtube.com/watch?v=I46JquDHdCQ)
+[Can We Know if God is Real? - Nabeel Qureshi](https://www.youtube.com/live/qq_I8ZcUgio?si=7iIhU10haKrwbTui)
 
 [Genesis](https://en.wikipedia.org/wiki/Genesis_1:1)
 
