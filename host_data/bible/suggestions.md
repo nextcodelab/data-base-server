@@ -36,7 +36,7 @@ As Lord Jesus said, *"When you give to the poor, don't let your left hand know w
 These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
 
 *We hope this app will expand to other platforms, such as Windows Desktop, Android, iOS, Mac, and Linux.*
-> Thanks for your patience. The app will not receive updates for several months until I can buy a new laptop. My current laptop, which was used to create this app, needs to be replaced.
+> Thanks for your patience. The app will not receive updates for several months until I can buy a new laptop. My current laptop, which was used to create this app, needs to be replaced. I need to save for several months to buy a new machine.
 
 **Please you can email us your suggestions or comments**
 ### studioappsupporfeedback2000@outlook.com 
