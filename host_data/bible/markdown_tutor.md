@@ -24,7 +24,15 @@
 
 [John 1:1](John 1:1)
 
+[1 John 5:20](1John 5:20)
+
+[1John 1:1-2](1John 1:1-2)
+
 [1 Peter 1:3](1Pet 1:3)
+
+[Colossians 1:3](Col 1:3)
+
+
 
 [Revelation 21:6-7](Rev 21:6-7)
 
