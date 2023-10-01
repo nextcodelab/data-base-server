@@ -26,11 +26,13 @@
 
 [1 John 5:20](1John 5:20)
 
-[1John 1:1-2](1John 1:1-2)
-
+[1 John 1:1-2](1John 1:1-2)
+#Click more verse to display words
 [1 Peter 1:3](1Pet 1:3)
 
 [Colossians 1:3](Col 1:3)
+
+[1 John 1:3](1John 1:3)
 
 [2 John 1:3](2John 1:3)
 
