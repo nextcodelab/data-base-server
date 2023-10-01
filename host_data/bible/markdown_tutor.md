@@ -32,6 +32,8 @@
 
 [Colossians 1:3](Col 1:3)
 
+[2 John 1:3](2John 1:3)
+
 
 
 [Revelation 21:6-7](Rev 21:6-7)
