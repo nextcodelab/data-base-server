@@ -31,6 +31,7 @@
 [Revelation 21:6-7](Rev 21:6-7)
 
 #Click more verse to display words
+
 [1 Peter 1:3](1Pet 1:3)
 
 [Ephesians 1:3](Eph 1:3)
