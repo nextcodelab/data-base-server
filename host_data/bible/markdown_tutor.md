@@ -29,6 +29,7 @@
 [1 John 1:1-2](1John 1:1-2)
 
 [Revelation 21:6-7](Rev 21:6-7)
+
 #Click more verse to display words
 [1 Peter 1:3](1Pet 1:3)
 
