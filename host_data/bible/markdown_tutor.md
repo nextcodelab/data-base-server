@@ -59,7 +59,7 @@
 
 **Powerpoint Compile from People**
 
-*You can send powerpoint links to be added here [Disclaimer: always review content]*
+*You can send powerpoint links to be added here. [Disclaimer: always review content]*
 
 [TOPICS PPT - Google Drive](https://drive.google.com/drive/folders/1Yop0Nvk2l8Uhq-678SCI4lRi-NO7MAz6?fbclid=IwAR04OCbe41ROGKwAyGEJ0fAKheTr-QA1XymOAL_DoWA_YqRPtKeDlGh1Pyc)
 
