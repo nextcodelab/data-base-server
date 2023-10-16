@@ -1,6 +1,6 @@
 ### THIS ARE SOME BASIC OF MARKDOWN SYNTAX
-##Header 2
-#Header 3
+## Header 2
+# Header 3
 
 *Emphasis* 
 
@@ -30,7 +30,7 @@
 
 [Revelation 21:6-7](Rev 21:6-7)
 
-#Click more verse to display words
+# Click more verse to display words
 
 [1 Peter 1:3](1Pet 1:3)
 
@@ -42,7 +42,7 @@
 
 [2 John 1:3](2John 1:3)
 
-#Click on link to open in browser
+# Click on link to open in browser
 
 [Can We Know if God is Real? - Nabeel Qureshi](https://www.youtube.com/live/qq_I8ZcUgio?si=7iIhU10haKrwbTui)
 
@@ -50,7 +50,7 @@
 
 [John](https://en.wikipedia.org/wiki/John_1:1)
 
-#Embed image
+# Embed image
 ![Image link](https://upload.wikimedia.org/wikipedia/commons/b/b3/Genesis_on_egg_cropped.jpg)
 
 > This is a blockquote.
@@ -66,6 +66,6 @@
 
 *The grace of the* **LORD JESUS CHRIST**, *and the* **LOVE of GOD**, *and the communion of the* **HOLY GHOST**, *be with you all*. **Amen**.
 
-##Platforms
+## Platforms
 *We hope this app will expand to other platforms, such as Windows Desktop, Android, iOS, Mac, and Linux.*
 
