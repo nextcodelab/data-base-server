@@ -40,6 +40,10 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 ### Mac and iOS app is under development.
 ![Developing for Mac and iOS](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/screenshot_mac.png?raw=true)
 
+### Android app is under development.
+![Developing for Android](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/screenshot_vs_code.png?raw=true)
+
+
 **Please you can email us your suggestions or comments**
 ### studioappsupporfeedback2000@outlook.com 
 
