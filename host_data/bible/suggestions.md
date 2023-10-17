@@ -47,7 +47,11 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 **Please you can email us your suggestions or comments**
 ### studioappsupporfeedback2000@outlook.com 
 
+
+
+
 ### You can also support the development of this app for all platforms.
+
 <a href="https://www.paypal.com/paypalme/robelinghog">
   <img src="https://play-lh.googleusercontent.com/Y2_nyEd0zJftXnlhQrWoweEvAy4RzbpDah_65JGQDKo9zCcBxHVpajYgXWFZcXdKS_o=s360-rw" width="100" height="100" alt="PayPal">
 </a>
