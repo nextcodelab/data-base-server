@@ -37,6 +37,8 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 *We hope this app will expand to other platforms, such as* ***Windows Desktop***, ***Android***, ***iOS***, ***Mac***, and ***Linux.***
 
+![Developing for Mac and iOS](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/screenshot_mac.png?raw=true)
+
 **Please you can email us your suggestions or comments**
 ### studioappsupporfeedback2000@outlook.com 
 
