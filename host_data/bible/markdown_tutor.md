@@ -63,6 +63,13 @@
 
 [TOPICS PPT - Google Drive](https://drive.google.com/drive/folders/1Yop0Nvk2l8Uhq-678SCI4lRi-NO7MAz6?fbclid=IwAR04OCbe41ROGKwAyGEJ0fAKheTr-QA1XymOAL_DoWA_YqRPtKeDlGh1Pyc)
 
+# Sample Image
+
+![Testimony](http://i3.ytimg.com/vi/upTofuSIcVM/hqdefault.jpg)
+
+[Former Hezbollah Fighter Recalls Encounter with Jesus: 'God Didn't Design Us to Hate'](https://www.youtube.com/watch?v=upTofuSIcVM)
+
+
 
 *The grace of the* **LORD JESUS CHRIST**, *and the* **LOVE of GOD**, *and the communion of the* **HOLY GHOST**, *be with you all*. **Amen**.
 
