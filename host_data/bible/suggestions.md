@@ -50,7 +50,7 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 
 
-### You can also support the development of this app for all platforms.
+<--### You can also support the development of this app for all platforms.
 
 <a href="https://www.paypal.com/paypalme/robelinghog">
   <img src="https://play-lh.googleusercontent.com/Y2_nyEd0zJftXnlhQrWoweEvAy4RzbpDah_65JGQDKo9zCcBxHVpajYgXWFZcXdKS_o=s360-rw" width="100" height="100" alt="PayPal">
@@ -60,7 +60,7 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 </a>
 <a href="https://nextcodelab.github.io/online-support/">
   <img src="https://play-lh.googleusercontent.com/QNP0Aj2hyumAmYiWVAsJtY2LLTQnzHxdW7-DpwFUFNkPJjgRxi-BXg7A4yI6tgYKMeU=s360-rw" width="100" height="100" alt="PayPal">
-</a>
+</a>-->
 
 
 
