@@ -35,6 +35,8 @@ As Lord Jesus said, *"When you give to the poor, don't let your left hand know w
 
 These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
 
+### This app is still in development, and bugs and errors are being addressed continuously.
+
 *We hope this app will expand to other platforms, such as* ***Windows Desktop***, ***Android***, ***iOS***, ***Mac***, and ***Linux.***
 
 ### Mac and iOS app is under development.
