@@ -39,6 +39,9 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 *We hope this app will expand to other platforms, such as* ***Windows Desktop***, ***Android***, ***iOS***, ***Mac***, and ***Linux.***
 
+### Bible app for Windows is undergoing an overhaul, bringing a new design. The notebook feature will resemble Like OneNote, organized by pages..
+![New Design](https://raw.githubusercontent.com/nextcodelab/data-base-server/main/host_data/bible/images/Shepherd%20Bible%20(DEBUG).png)
+
 ### Mac and iOS app is under development.
 ![Developing for Mac and iOS](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/screenshot_mac.png?raw=true)
 
