@@ -44,7 +44,6 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 ### Bible app for Windows is undergoing an overhaul, bringing a new design. The notebook feature will resemble Like OneNote, organized by pages.
 
-![New Design for Windows](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/shepherd_bible.png?raw=true)
 
 <!-- ### Mac and iOS app is under development.
 ![Developing for Mac and iOS](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/screenshot_mac.png?raw=true) -->
@@ -57,6 +56,8 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 **Please you can email us your suggestions or comments**
 ### studioappsupporfeedback2000@outlook.com 
+
+### SHALOM
 
 
 
