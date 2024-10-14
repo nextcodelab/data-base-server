@@ -5,7 +5,7 @@
 //DEPLOY AS WEB APP WITH "ANYONE" ACCESS => THEN COPY SCRIPT LINK
 [ABOUT APPS SCRIPTS & SETUP](https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s)
 
-
+//Copy script below
 function doPost(e) {
   try {
     // Ensure headers are created first
@@ -35,7 +35,7 @@ function doPost(e) {
         }
         existingEntriesByBook[book].push({ type, rowIndex: i + 1 }); // Store type and row index (1-based)
       }
-      
+
       // Use unique_id as the identifier for hymns, sections, and pages
       if (type === "hymn" || type === "section" || type === "page") {
         existingEntriesByUniqueId[unique_id] = i + 1; // Store row index (1-based)
@@ -61,22 +61,29 @@ function doPost(e) {
       // If an existing entry is found, delete it
       if (rowIndex) {
         sheet.deleteRow(rowIndex); // Delete the existing row
+
+        // Adjust row index mapping or re-fetch data to ensure correct deletion handling
+        const remainingData = sheet.getDataRange().getValues(); // Fetch updated data
+        // Optional: Rebuild existingEntriesByBook and existingEntriesByUniqueId here
       }
 
-      // Insert the new row
-      const row = [
-        item.type,
-        item.unique_id,
-        item.title,
-        item.section_id,
-        item.notes,
-        item.date,
-        item.book,
-        item.reference,
-        item.content,
-        item.link
-      ];
-      sheet.appendRow(row);
+      // Only insert a new row if action is not "delete" and item.action is null
+      if (item.action == null || item.action.toLowerCase() !== "delete") {
+        // Insert the new row
+        const row = [
+          item.type,
+          item.unique_id,
+          item.title,
+          item.section_id,
+          item.notes,
+          item.date,
+          item.book,
+          item.reference,
+          item.content,
+          item.link
+        ];
+        sheet.appendRow(row);
+      }
     });
 
     return ContentService.createTextOutput("Data added/updated successfully.");
@@ -84,7 +91,6 @@ function doPost(e) {
     return ContentService.createTextOutput(`Error: ${error.message}`);
   }
 }
-
 
 
 
@@ -133,74 +139,8 @@ function createNotebookHeaders() {
   sheet.setFrozenRows(1);
 }
 
-function doGet(request) {
-  // Ensure headers are created first
-  createNotebookHeaders();
 
-  const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
-  const sheet = spreadsheet.getActiveSheet(); // Get the currently active sheet
-
-  var unique_id = request.parameter.unique_id;
-  var book = request.parameter.book; // Assuming book is the reference in your current context
-  var action = request.parameter.action;
-
-  var hasBook = book && book.toString().trim() !== '';
-
-  if (action === "find" || action === "query" || action === "delete") {
-    var data = sheet.getDataRange().getValues();
-    var rowData = data.find(function (row, index) {
-      if (index !== 0) {
-        // If book is provided, find by book (7th column)
-        if (hasBook && row[6] === book) {
-          return row;
-        } else if (row[1] === unique_id) { // Check by unique_id (2nd column)
-          return row;
-        }
-      }
-    });
-
-    if (rowData) {
-      var item = {
-        type: rowData[0],            // Type (1st column)
-        unique_id: rowData[1],       // Unique ID (2nd column)
-        title: rowData[2],           // Title (3rd column)
-        section_id: rowData[3],      // Section ID (4th column)
-        notes: rowData[4],           // Notes (5th column)
-        date: rowData[5],            // Date (6th column)
-        book: rowData[6],            // Book (7th column)
-        reference: rowData[7],       // Reference (8th column)
-        content: rowData[8],         // Content (9th column)
-        link: rowData[9]             // Link (10th column)
-      };
-
-      // If action is 'delete', remove the row
-      if (action === 'delete') {
-        var rowIndex = data.findIndex(function (row) {
-          return row[1] === unique_id; // Find row by unique_id
-        });
-        if (rowIndex !== -1) {
-          sheet.deleteRow(rowIndex + 1); // Add 1 to account for header row
-        }
-      }
-
-      return ContentService
-        .createTextOutput(JSON.stringify(item))
-        .setMimeType(ContentService.MimeType.JSON);
-    } else {
-      var errorMessage = {
-        "error": "No item found"
-      };
-      return ContentService
-        .createTextOutput(JSON.stringify(errorMessage))
-        .setMimeType(ContentService.MimeType.JSON);
-    }
-  } else {
-    return getAll(); // Call your existing getAll function to return all items
-  }
-}
-
-
-function getAll() {
+function doGet() {
   const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   const sheet = spreadsheet.getActiveSheet(); // Get the currently active sheet
 
@@ -224,3 +164,6 @@ function getAll() {
   return ContentService.createTextOutput(JSON.stringify(jsonData))
     .setMimeType(ContentService.MimeType.JSON);
 }
+
+
+
