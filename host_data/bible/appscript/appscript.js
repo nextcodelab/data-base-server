@@ -17,9 +17,9 @@ function doPost(e) {
     const sheet = spreadsheet.getActiveSheet(); // Get the currently active sheet
     const headers = sheet.getRange(1, 1, 1, sheet.getLastColumn()).getValues()[0];
 
-    // Create mappings of existing entries by book and unique_id
+    // Create mappings of existing entries by book and unique_id/section_id
     const existingEntriesByBook = {};
-    const existingEntriesByUniqueId = {};
+    const existingEntriesByUniqueIdOrSectionId = {};
     const existingData = sheet.getDataRange().getValues();
 
     for (let i = 1; i < existingData.length; i++) {
@@ -27,6 +27,7 @@ function doPost(e) {
       const type = row[0];
       const book = row[6]; // Assuming book is in the 7th column
       const unique_id = row[1]; // Assuming unique_id is in the 2nd column
+      const section_id = row[3]; // Assuming section_id is in the 4th column
 
       // Use book as the identifier for highlights, bookmarks, and references
       if (type === "highlight" || type === "bookmark" || type === "reference") {
@@ -36,9 +37,10 @@ function doPost(e) {
         existingEntriesByBook[book].push({ type, rowIndex: i + 1 }); // Store type and row index (1-based)
       }
 
-      // Use unique_id as the identifier for hymns, sections, and pages
+      // Use unique_id or section_id as the identifier for hymns, sections, and pages
       if (type === "hymn" || type === "section" || type === "page") {
-        existingEntriesByUniqueId[unique_id] = i + 1; // Store row index (1-based)
+        const id = type === "section" ? section_id : unique_id; // Use section_id for sections, unique_id for others
+        existingEntriesByUniqueIdOrSectionId[id] = i + 1; // Store row index (1-based)
       }
     }
 
@@ -46,7 +48,7 @@ function doPost(e) {
     jsonData.forEach(item => {
       let rowIndex;
 
-      // Determine rowIndex based on type (use book or unique_id)
+      // Determine rowIndex based on type (use book or unique_id/section_id)
       if (item.type === "highlight" || item.type === "bookmark" || item.type === "reference") {
         const entries = existingEntriesByBook[item.book] || [];
         entries.forEach(entry => {
@@ -55,7 +57,8 @@ function doPost(e) {
           }
         });
       } else if (item.type === "hymn" || item.type === "section" || item.type === "page") {
-        rowIndex = existingEntriesByUniqueId[item.unique_id]; // Match by unique_id
+        const id = item.type === "section" ? item.section_id : item.unique_id; // Match by section_id for sections, unique_id for others
+        rowIndex = existingEntriesByUniqueIdOrSectionId[id]; // Match by unique_id or section_id
       }
 
       // If an existing entry is found, delete it
@@ -64,10 +67,10 @@ function doPost(e) {
 
         // Adjust row index mapping or re-fetch data to ensure correct deletion handling
         const remainingData = sheet.getDataRange().getValues(); // Fetch updated data
-        // Optional: Rebuild existingEntriesByBook and existingEntriesByUniqueId here
+        // Optional: Rebuild existingEntriesByBook and existingEntriesByUniqueIdOrSectionId here
       }
 
-      // Only insert a new row if action is not "delete" and item.action is null
+      // Only insert a new row if Action is not "delete" and item.Action is null
       if (item.action == null || item.action.toLowerCase() !== "delete") {
         // Insert the new row
         const row = [
@@ -164,6 +167,5 @@ function doGet() {
   return ContentService.createTextOutput(JSON.stringify(jsonData))
     .setMimeType(ContentService.MimeType.JSON);
 }
-
 
 
