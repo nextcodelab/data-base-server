@@ -7,9 +7,8 @@
 
 // Please be aware of quotas in retrieval per cell in Google account.
 // The last known limit is 500,000 cells per day.
-//Copy code below only                             
-// Please be aware of quotas in retrieval per cell in Google account.
-// The last known limit is 500,000 cells per day.
+                             
+//Copy code below only, do not include above info...                           
 function doPost(request) {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   var result = { "status": "SUCCESS" };
