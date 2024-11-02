@@ -8,10 +8,13 @@
 // Please be aware of quotas in retrieval per cell in Google account.
 // The last known limit is 500,000 cells per day.
 //Copy code below only                             
+// Please be aware of quotas in retrieval per cell in Google account.
+// The last known limit is 500,000 cells per day.
 function doPost(request) {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   var result = { "status": "SUCCESS" };
   createFixedHeaders();
+
   try {
     // Extract parameters from the request
     var type = request.parameter.type;
@@ -32,11 +35,23 @@ function doPost(request) {
     // Use TextFinder to search for the unique_id
     var textFinder = sheet.createTextFinder(unique_id);
     var matchedCells = textFinder.findAll();
-    var rowIndexToUpdate = matchedCells.length > 0 ? matchedCells[0].getRow() : -1;
+    var rowIndexToDelete = -1;
 
-    // If a matching row is found, delete it to prepare for the update
-    if (rowIndexToUpdate !== -1) {
-      sheet.deleteRow(rowIndexToUpdate);
+    // Loop through matched cells to find the correct row with the specified type
+    for (var i = 0; i < matchedCells.length; i++) {
+      var row = matchedCells[i].getRow();
+      var rowType = sheet.getRange(row, 1).getValue(); // Assuming the type is in the first column
+
+      // Check if the current row's type matches the specified type
+      if (rowType === type) {
+        rowIndexToDelete = row;
+        break; // Stop once we find the correct row with the matching type
+      }
+    }
+
+    // If a matching row with the specified type is found, delete it
+    if (rowIndexToDelete !== -1) {
+      sheet.deleteRow(rowIndexToDelete);
     }
 
     // Append the new or updated row
@@ -55,26 +70,25 @@ function doPost(request) {
     .setMimeType(ContentService.MimeType.JSON);
 }
 
+
 function doGet(request) {
-  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet(); // Get the active sheet
-  var amount = parseInt(request.parameter.amount) || 50; // Set default limit to 50 if not provided
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  var amount = parseInt(request.parameter.amount) || 50; // Default limit of 50
   var action = request.parameter.action;
   var unique_id = request.parameter.unique_id;
+  var type = request.parameter.type;
 
   // Check if action is to limit the items
   if (action === "limit") {
-    var lastRow = sheet.getLastRow(); // Get the last row with data
-    var totalDataRows = lastRow - 1; // Exclude the header row
+    var lastRow = sheet.getLastRow();
+    var totalDataRows = lastRow - 1; // Exclude header row
 
-    // Proceed only if there are more rows than the limit
     if (totalDataRows > amount) {
-      var startRow = Math.max(2, lastRow - amount + 1); // Calculate start row (ensure it doesn't go below row 2)
-
-      // Fetch the last 'amount' rows of data
+      var startRow = Math.max(2, lastRow - amount + 1);
       var dataRange = sheet.getRange(startRow, 1, lastRow - startRow + 1, sheet.getLastColumn());
-      var data = dataRange.getValues(); // Get the limited data
+      var data = dataRange.getValues();
 
-      // Map the rows to JSON format
+      // Map data to JSON format
       var items = data.map(function (row) {
         return {
           type: row[0],
@@ -85,7 +99,7 @@ function doGet(request) {
           notes: row[5],
           date: row[6],
           date_updated: row[7],
-          link: row[7],
+          link: row[8], // Corrected to link the right column index
         };
       });
 
@@ -96,31 +110,39 @@ function doGet(request) {
   }
 
   // Check if action is to delete an item
-  if (action === "delete" && unique_id !== null && unique_id.trim() !== "") {
+  if (action === "delete" && unique_id && unique_id.trim() !== "") {
     var textFinder = sheet.createTextFinder(unique_id);
     var matchedCells = textFinder.findAll();
-    var rowIndexToDelete = matchedCells.length > 0 ? matchedCells[0].getRow() : -1;
+    var rowIndexToDelete = -1;
 
-    // If a matching row is found, delete it
+    // Loop through matched cells to find the correct row with the specified type
+    for (var i = 0; i < matchedCells.length; i++) {
+      var row = matchedCells[i].getRow();
+      var rowType = sheet.getRange(row, 1).getValue(); // Assuming type is in the first column
+
+      // Check if the row's type matches the specified type
+      if (rowType === type) {
+        rowIndexToDelete = row;
+        break; // Stop once the correct row is found
+      }
+    }
+
+    // Delete the row if found
     if (rowIndexToDelete !== -1) {
       sheet.deleteRow(rowIndexToDelete);
-      // Optionally return a success message
       return ContentService
-        .createTextOutput(JSON.stringify({ status: "DEBUG_INFO_MESSAGE: SUCCESS", message: "Row deleted." }))
+        .createTextOutput(JSON.stringify({ status: "DEBUG_INFO_MESSAGE: SUCCESS", message: "Row with type '" + type + "' deleted." }))
         .setMimeType(ContentService.MimeType.JSON);
     } else {
-      // Optionally handle the case where no row was found
       return ContentService
-        .createTextOutput(JSON.stringify({ status: "DEBUG_INFO_MESSAGE: ERROR", message: "Unique ID not found." }))
+        .createTextOutput(JSON.stringify({ status: "DEBUG_INFO_MESSAGE: ERROR", message: "Unique ID not found or type mismatch." }))
         .setMimeType(ContentService.MimeType.JSON);
     }
   }
 
-  // Default action if no specific action is provided
+  // Default action
   return getAll(); // Assume getAll() is defined elsewhere and optimized
 }
-
-
 
 
 function getAll() {
@@ -221,7 +243,7 @@ function testScript() {
       title: "Transaction Test",
       content: "Transaction Test",
       notes: "Transaction Test",
-      date: "2024-10-09", 
+      date: "2024-10-09",
       date_updated: "updated date",
       link: "link",
     }
