@@ -5,99 +5,150 @@
 //DEPLOY AS WEB APP WITH "ANYONE" ACCESS => THEN COPY SCRIPT LINK
 [ABOUT APPS SCRIPTS & SETUP](https://www.youtube.com/watch?v=3UJ6RnWTGIY&t=494s)
 
-//Copy script below
-function doPost(e) {
+// Please be aware of quotas in retrieval per cell in Google account.
+// The last known limit is 500,000 cells per day.
+function doPost(request) {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  var result = { "status": "SUCCESS" };
+  createFixedHeaders();
   try {
-    // Ensure headers are created first
-    createNotebookHeaders();
+    // Extract parameters from the request
+    var type = request.parameter.type;
+    var unique_id = request.parameter.unique_id;
+    var section_id = request.parameter.section_id;
+    var title = request.parameter.title;
+    var content = request.parameter.content;
+    var notes = request.parameter.notes;
+    var date = request.parameter.date;
+    var date_updated = request.parameter.date_updated;
+    var link = request.parameter.link;
 
-    // Get the JSON data from the request
-    const jsonData = JSON.parse(e.postData.contents);
-    const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
-    const sheet = spreadsheet.getActiveSheet(); // Get the currently active sheet
-    const headers = sheet.getRange(1, 1, 1, sheet.getLastColumn()).getValues()[0];
-
-    // Create mappings of existing entries by book and unique_id/section_id
-    const existingEntriesByBook = {};
-    const existingEntriesByUniqueIdOrSectionId = {};
-    const existingData = sheet.getDataRange().getValues();
-
-    for (let i = 1; i < existingData.length; i++) {
-      const row = existingData[i];
-      const type = row[0];
-      const book = row[6]; // Assuming book is in the 7th column
-      const unique_id = row[1]; // Assuming unique_id is in the 2nd column
-      const section_id = row[3]; // Assuming section_id is in the 4th column
-
-      // Use book as the identifier for highlights, bookmarks, and references
-      if (type === "highlight" || type === "bookmark" || type === "reference") {
-        if (!existingEntriesByBook[book]) {
-          existingEntriesByBook[book] = []; // Initialize as an array
-        }
-        existingEntriesByBook[book].push({ type, rowIndex: i + 1 }); // Store type and row index (1-based)
-      }
-
-      // Use unique_id or section_id as the identifier for hymns, sections, and pages
-      if (type === "hymn" || type === "section" || type === "page") {
-        const id = type === "section" ? section_id : unique_id; // Use section_id for sections, unique_id for others
-        existingEntriesByUniqueIdOrSectionId[id] = i + 1; // Store row index (1-based)
-      }
+    // Validate that unique_id is provided
+    if (!unique_id || unique_id.trim() === '') {
+      throw new Error("Unique ID is required");
     }
 
-    // Iterate over each SectionServiceCloud object
-    jsonData.forEach(item => {
-      let rowIndex;
+    // Use TextFinder to search for the unique_id
+    var textFinder = sheet.createTextFinder(unique_id);
+    var matchedCells = textFinder.findAll();
+    var rowIndexToUpdate = matchedCells.length > 0 ? matchedCells[0].getRow() : -1;
 
-      // Determine rowIndex based on type (use book or unique_id/section_id)
-      if (item.type === "highlight" || item.type === "bookmark" || item.type === "reference") {
-        const entries = existingEntriesByBook[item.book] || [];
-        entries.forEach(entry => {
-          if (entry.type === item.type) {
-            rowIndex = entry.rowIndex; // Match by type
-          }
-        });
-      } else if (item.type === "hymn" || item.type === "section" || item.type === "page") {
-        const id = item.type === "section" ? item.section_id : item.unique_id; // Match by section_id for sections, unique_id for others
-        rowIndex = existingEntriesByUniqueIdOrSectionId[id]; // Match by unique_id or section_id
-      }
+    // If a matching row is found, delete it to prepare for the update
+    if (rowIndexToUpdate !== -1) {
+      sheet.deleteRow(rowIndexToUpdate);
+    }
 
-      // If an existing entry is found, delete it
-      if (rowIndex) {
-        sheet.deleteRow(rowIndex); // Delete the existing row
+    // Append the new or updated row
+    var rowData = [type, unique_id, section_id, title, content, notes, date, date_updated, link];
+    sheet.appendRow(rowData);
 
-        // Adjust row index mapping or re-fetch data to ensure correct deletion handling
-        const remainingData = sheet.getDataRange().getValues(); // Fetch updated data
-        // Optional: Rebuild existingEntriesByBook and existingEntriesByUniqueIdOrSectionId here
-      }
+  } catch (exc) {
+    result.status = "DEBUG_INFO_MESSAGE: ERROR";
+    result.message = exc.message;
 
-      // Only insert a new row if Action is not "delete" and item.Action is null
-      if (item.action == null || item.action.toLowerCase() !== "delete") {
-        // Insert the new row
-        const row = [
-          item.type,
-          item.unique_id,
-          item.title,
-          item.section_id,
-          item.notes,
-          item.date,
-          item.book,
-          item.reference,
-          item.content,
-          item.link
-        ];
-        sheet.appendRow(row);
-      }
-    });
-
-    return ContentService.createTextOutput("Data added/updated successfully.");
-  } catch (error) {
-    return ContentService.createTextOutput(`Error: ${error.message}`);
+    writeToSheet('Failed with error: ' + exc.message);
   }
+
+  return ContentService
+    .createTextOutput(JSON.stringify(result))
+    .setMimeType(ContentService.MimeType.JSON);
+}
+
+function doGet(request) {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet(); // Get the active sheet
+  var amount = parseInt(request.parameter.amount) || 50; // Set default limit to 50 if not provided
+  var action = request.parameter.action;
+  var unique_id = request.parameter.unique_id;
+
+  // Check if action is to limit the items
+  if (action === "limit") {
+    var lastRow = sheet.getLastRow(); // Get the last row with data
+    var totalDataRows = lastRow - 1; // Exclude the header row
+
+    // Proceed only if there are more rows than the limit
+    if (totalDataRows > amount) {
+      var startRow = Math.max(2, lastRow - amount + 1); // Calculate start row (ensure it doesn't go below row 2)
+
+      // Fetch the last 'amount' rows of data
+      var dataRange = sheet.getRange(startRow, 1, lastRow - startRow + 1, sheet.getLastColumn());
+      var data = dataRange.getValues(); // Get the limited data
+
+      // Map the rows to JSON format
+      var items = data.map(function (row) {
+        return {
+          type: row[0],
+          unique_id: row[1],
+          section_id: row[2],
+          title: row[3],
+          content: row[4],
+          notes: row[5],
+          date: row[6],
+          date_updated: row[7],
+          link: row[7],
+        };
+      });
+
+      return ContentService
+        .createTextOutput(JSON.stringify(items))
+        .setMimeType(ContentService.MimeType.JSON);
+    }
+  }
+
+  // Check if action is to delete an item
+  if (action === "delete" && unique_id !== null && unique_id.trim() !== "") {
+    var textFinder = sheet.createTextFinder(unique_id);
+    var matchedCells = textFinder.findAll();
+    var rowIndexToDelete = matchedCells.length > 0 ? matchedCells[0].getRow() : -1;
+
+    // If a matching row is found, delete it
+    if (rowIndexToDelete !== -1) {
+      sheet.deleteRow(rowIndexToDelete);
+      // Optionally return a success message
+      return ContentService
+        .createTextOutput(JSON.stringify({ status: "DEBUG_INFO_MESSAGE: SUCCESS", message: "Row deleted." }))
+        .setMimeType(ContentService.MimeType.JSON);
+    } else {
+      // Optionally handle the case where no row was found
+      return ContentService
+        .createTextOutput(JSON.stringify({ status: "DEBUG_INFO_MESSAGE: ERROR", message: "Unique ID not found." }))
+        .setMimeType(ContentService.MimeType.JSON);
+    }
+  }
+
+  // Default action if no specific action is provided
+  return getAll(); // Assume getAll() is defined elsewhere and optimized
 }
 
 
 
-function createNotebookHeaders() {
+
+function getAll() {
+  var sheet = SpreadsheetApp.getActive();
+  var rows = sheet.getDataRange();
+  var numRows = rows.getNumRows();
+  var values = rows.getValues();
+  var data = [];
+
+  for (var i = 1; i < numRows; i++) {
+    var row = values[i];
+    var item = {
+      type: row[0],
+      unique_id: row[1],
+      section_id: row[2],
+      title: row[3],
+      content: row[4],
+      notes: row[5],
+      date: row[6],
+      date_updated: row[7],
+      link: row[7],
+    };
+    data.push(item);
+  }
+  return ContentService
+    .createTextOutput(JSON.stringify(data))
+    .setMimeType(ContentService.MimeType.JSON);
+}
+function createFixedHeaders() {
   const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   const sheet = spreadsheet.getActiveSheet(); // Get the currently active sheet
 
@@ -105,33 +156,29 @@ function createNotebookHeaders() {
   const headers = [
     "type",
     "unique_id",
-    "title",
     "section_id",
+    "title",
+    "content",
     "notes",
     "date",
-    "book",
-    "reference",
-    "content",
-    "link"
+    "date_updated",
+    "link",
   ];
 
   // Check if the sheet is empty
   if (sheet.getLastRow() === 0) {
     // Set the headers in the first row
-    sheet.getRange(1, 1, 1, headers.length).setValues([headers]);
-    // Make the headers bold
-    sheet.getRange(1, 1, 1, headers.length).setFontWeight("bold");
+    const headerRange = sheet.getRange(1, 1, 1, headers.length);
+    headerRange.setValues([headers]); // 1 quota
+    headerRange.setFontWeight("bold"); // 8 quotas for bold
     Logger.log("Headers created in the active sheet.");
   } else {
-    // Get the existing headers from the active sheet
-    const existingHeaders = sheet.getRange(1, 1, 1, sheet.getLastColumn()).getValues()[0];
-
-    // Check if the unique_id header exists
-    if (!existingHeaders.includes("unique_id")) {
-      // Set the headers in the first row
-      sheet.getRange(1, 1, 1, headers.length).setValues([headers]);
-      // Make the headers bold
-      sheet.getRange(1, 1, 1, headers.length).setFontWeight("bold");
+    // Check if the unique_id header exists without retrieving all headers
+    const existingHeader = sheet.getRange(1, 2).getValue(); // Assuming unique_id is the second header
+    if (existingHeader !== "unique_id") {
+      const headerRange = sheet.getRange(1, 1, 1, headers.length);
+      headerRange.setValues([headers]); // 1 quota
+      headerRange.setFontWeight("bold"); // 8 quotas for bold
       Logger.log("Headers created in the active sheet.");
     } else {
       Logger.log("Headers already exist in the active sheet.");
@@ -139,33 +186,44 @@ function createNotebookHeaders() {
   }
 
   // Freeze the first row to keep headers visible while scrolling
-  sheet.setFrozenRows(1);
+  sheet.setFrozenRows(1); // Efficient, minimal quota usage
 }
 
+function getLastDataRowExcludingHeaders() {
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  var headerRows = 1; // Change this to the number of header rows in your sheet
+  var lastRow = sheet.getLastRow(); // Gets the last row that contains data
 
-function doGet() {
-  const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
-  const sheet = spreadsheet.getActiveSheet(); // Get the currently active sheet
+  // Calculate the last data row, excluding headers
+  var lastDataRow = lastRow > headerRows ? lastRow - headerRows : 0; // Ensure we don't go below zero
 
-  var dataRange = sheet.getDataRange();
-  var values = dataRange.getValues();
+  Logger.log('Last Data Row (excluding headers): ' + lastDataRow);
+  return lastDataRow;
+}
+function writeToSheet(logMessage) {
+  var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = spreadsheet.getSheetByName("logs");
 
-  // Get headers from the first row
-  const headers = values[0];
-  const jsonData = [];
-
-  // Iterate through rows and create JSON objects
-  for (let i = 1; i < values.length; i++) {
-    let jsonObject = {};
-    for (let j = 0; j < headers.length; j++) {
-      jsonObject[headers[j]] = values[i][j];
-    }
-    jsonData.push(jsonObject);
+  if (sheet) {
+    sheet.appendRow([new Date(), logMessage]);
+  } else {
+    Logger.log('Sheet "logs" not found');
   }
-
-  // Return JSON response
-  return ContentService.createTextOutput(JSON.stringify(jsonData))
-    .setMimeType(ContentService.MimeType.JSON);
 }
 
-
+function testScript() {
+  var mockRequest = {
+    parameter: {
+      type: "7889d0b9-efa9-47be-853d-b51aa853d06a",
+      unique_id: "7889d0b9-efa9-47be-853d-b51aa853d06a",
+      section_id: "ABC123",
+      title: "Transaction Test",
+      content: "Transaction Test",
+      notes: "Transaction Test",
+      date: "2024-10-09", 
+      date_updated: "updated date",
+      link: "link",
+    }
+  };
+  doPost(mockRequest);
+}
