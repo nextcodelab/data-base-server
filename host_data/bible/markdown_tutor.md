@@ -1,4 +1,4 @@
-### THIS ARE SOME BASIC OF MARKDOWN SYNTAX
+# SHALOM ### SHALOM THIS ARE SOME BASIC OF MARKDOWN SYNTAX
 ## Header 2
 # Header 3
 
@@ -73,8 +73,6 @@
 ## Platforms
 *We hope this app will expand to other platforms, such as Windows Desktop, Android, iOS, Mac, and Linux.*
 
-
-# SHALOM
 
 # MIZPAH
 
