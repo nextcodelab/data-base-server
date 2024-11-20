@@ -57,7 +57,7 @@
 
 **[2 Corinthians 13:14](2Cor 13:14)**
 
-**Powerpoint Compile from People**
+
 
 
 # Sample Image
