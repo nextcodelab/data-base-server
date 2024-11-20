@@ -1,6 +1,6 @@
 # SHALOM, Brother and Sister in Christ Jesus.
 
-### SHALOM THIS ARE SOME BASIC OF MARKDOWN SYNTAX
+### THIS ARE SOME BASIC OF MARKDOWN SYNTAX
 ## Header 2
 # Header 3
 
