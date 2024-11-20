@@ -66,6 +66,12 @@
 
 [Former Hezbollah Fighter Recalls Encounter with Jesus: 'God Didn't Design Us to Hate'](https://www.youtube.com/watch?v=upTofuSIcVM)
 
+# SHALOM
+
+# MIZPAH
+
+
+
 
 
 *The grace of the* **LORD JESUS CHRIST**, *and the* **LOVE of GOD**, *and the communion of the* **HOLY GHOST**, *be with you all*. **Amen**.
