@@ -61,7 +61,7 @@ Let us be intentional in creating a space where everyone feels accepted, loved, 
 
 ---
 
-**4. Avoid Secret Societies and Cultic Practices**  
+**8. Avoid Secret Societies and Cultic Practices**  
 
 Do not join secret societies such as Freemasonry, the Illuminati, or any other cultic organizations or fraternities. Our bodies and lives belong solely to Jesus Christ, who purchased us with His blood ***[1 Corinthians 6:19-20](1Cor 6:19-20)***.  
 
