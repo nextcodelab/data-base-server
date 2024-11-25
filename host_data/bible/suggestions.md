@@ -39,6 +39,18 @@ A Guideline Inspired by our Lord Jesus's Teachings ***[Matthew 6:2-4](Matthew 6:
 As Lord Jesus said, *"When you give to the poor, don't let your left hand know what your right hand is doing."* When offering financial help to our fellow brethren within the Church, consider the example of placing the assistance in an envelope. Specify the recipient's name without indicating the source of the aid. This envelope can then be securely placed into the Offering Box.
 
 
+**7. Welcoming Newcomers to the Church**  
+
+As followers of Christ, it is essential to show love and hospitality to newcomers in the church. Approach them with ***AGAPE*** love, acknowledging their presence and making them feel valued. Pray for them, extending blessings over their lives, and warmly welcome them into the church community.  
+
+Encourage others in the congregation to help them feel at home, offering support and friendship. By doing so, we reflect the love of Christ, who calls us to welcome strangers as we would welcome Him:  
+- *"Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it."* ***[Hebrews 13:2](Heb 13:2)***  
+- *"Therefore welcome one another as Christ has welcomed you, for the glory of God."* ***[Romans 15:7](Rom 15:7)***  
+
+Let us be intentional in creating a space where everyone feels accepted, loved, and part of God’s family.  
+
+
+
 **Serve GOD with HOLINESS and RIGHTEOUSNESS.**
 
 
