@@ -48,7 +48,7 @@ As Lord Jesus said, *"When you give to the poor, don't let your left hand know w
 
 **7. Welcoming Newcomers to the Church**  
 
-As followers of Christ, it is essential to show love and hospitality to newcomers in the church. Approach them with ***AGAPE*** love, acknowledging their presence and making them feel valued. Pray for them, extending blessings over their lives, and warmly welcome them into the church community.  
+As followers of Christ, it is essential to show love and hospitality to newcomers in the church. Approach them with **AGAPE** love, acknowledging their presence and making them feel valued. Pray for them, extending blessings over their lives, and warmly welcome them into the church community.  
 
 Encourage others in the congregation to help them feel at home, offering support and friendship. By doing so, we reflect the love of Christ, who calls us to welcome strangers as we would welcome Him:  
 - *"Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it."* ***[Hebrews 13:2](Heb 13:2)***  
