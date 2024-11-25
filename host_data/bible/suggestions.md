@@ -20,7 +20,8 @@ Furthermore, refrain from pursuing worldly ambitions, fame, money, or the approv
 
 Let us dedicate our lives to honoring God in humility and obedience.
 
-
+---
+**5.**
 ### PLEASE ENCOURAGE MEMBERS, THAT THEY CAN ALSO SHARE THE GOSPEL TO OTHERS FOR THE SALVATION FOR ETERNITY. JESUS IS COMING; LET'S CARRY THE BURDEN FOR THE LOST SOULS.
 
 
@@ -36,19 +37,19 @@ Let us dedicate our lives to honoring God in humility and obedience.
 
 ---
 
-**5.**
+**6.**
 The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[John 13:29](John 13:29)*** and Acts of Assistance ***[Romans 15:25-26](Romans 15:25-26), [James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ [1 Peter 1:3](1 Peter 1:3). 
 
 ---
 
-**6.**
-Anonymous Giving for Generous Hearts
+**7.**
+### Anonymous Giving for Generous Hearts
 A Guideline Inspired by our Lord Jesus's Teachings ***[Matthew 6:2-4](Matthew 6:2-4)***
 As Lord Jesus said, *"When you give to the poor, don't let your left hand know what your right hand is doing."* When offering financial help to our fellow brethren within the Church, consider the example of placing the assistance in an envelope. Specify the recipient's name without indicating the source of the aid. This envelope can then be securely placed into the Offering Box.
 
 ---
 
-**7. Welcoming Newcomers to the Church**  
+**8. Welcoming Newcomers to the Church**  
 
 As followers of Christ, it is essential to show love and hospitality to newcomers in the church. Approach them with ***AGAPE*** love, acknowledging their presence and making them feel valued. Pray for them, extending blessings over their lives, and warmly welcome them into the church community.  
 
@@ -67,6 +68,8 @@ Let us be intentional in creating a space where everyone feels accepted, loved, 
 
 
 These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
+
+---
 
 ### This app is still in development, and bugs and errors are being addressed continuously.
 
