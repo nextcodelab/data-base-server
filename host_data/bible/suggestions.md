@@ -29,11 +29,11 @@ Let us dedicate our lives to honoring God in humility and obedience.
 *Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.* **[Revelation 1:3](Revelation 1:3)**
 
 
-**4.**
+**5.**
 The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[John 13:29](John 13:29)*** and Acts of Assistance ***[Romans 15:25-26](Romans 15:25-26), [James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ [1 Peter 1:3](1 Peter 1:3). 
 
 
-**5.**
+**6.**
 Anonymous Giving for Generous Hearts
 A Guideline Inspired by our Lord Jesus's Teachings ***[Matthew 6:2-4](Matthew 6:2-4)***
 As Lord Jesus said, *"When you give to the poor, don't let your left hand know what your right hand is doing."* When offering financial help to our fellow brethren within the Church, consider the example of placing the assistance in an envelope. Specify the recipient's name without indicating the source of the aid. This envelope can then be securely placed into the Offering Box.
