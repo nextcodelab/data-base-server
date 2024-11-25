@@ -6,6 +6,15 @@ Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Our
 **3.**
 Promote learning and sharing by allowing others to express their opinions on topics such, as Bible study, meetings or fellowships. This will enable them to expand their knowledge and effectively convey the Good News to others. Lets teach them how to seek and apply the guidance of the Lord when spreading the Good News; it shouldn't be limited to leaders or teachers who have this knowledge. Encourage others to engage in reading the Bible so they can acquire the knowledge to share the Gospel ***[Colossians 3:16-17](Col 3:16-17)***.
 
+**4. Avoid Secret Societies and Cultic Practices**  
+
+Do not join secret societies such as Freemasonry, the Illuminati, or any other cultic organizations or fraternities. Our bodies and lives belong solely to Jesus Christ, who purchased us with His blood ***[1 Corinthians 6:19-20](1Cor 6:19-20)***.  
+
+Furthermore, refrain from pursuing worldly ambitions, fame, or the approval of people, as these often lead to pride and idolatry ***[Galatians 1:10](Gal 1:10); [Matthew 6:33](Matt 6:33)***. Instead, live humbly, recognizing that every achievement, blessing, and success is solely due to God's grace and mercy ***[Ephesians 2:8-9](Eph 2:8-9); [Lamentations 3:22-23](Lam 3:22-23)***. Always give glory to God in all things, saying, *"Not to us, O Lord, not to us, but to Your name give glory because of Your steadfast love and faithfulness"* ***[Psalm 115:1](Ps 115:1)***.  
+
+Let us dedicate our lives to honoring God in humility and obedience.
+
+
 ### PLEASE ENCOURAGE MEMBERS, THAT THEY CAN ALSO SHARE THE GOSPEL TO OTHERS FOR THE SALVATION (ETERNAL INVESTMENT) FOR ETERNITY. JESUS IS COMING; LET'S CARRY THE BURDEN FOR THE LOST SOULS.
 
 
