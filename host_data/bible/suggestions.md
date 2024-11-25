@@ -10,7 +10,7 @@ Promote learning and sharing by allowing others to express their opinions on top
 
 Do not join secret societies such as Freemasonry, the Illuminati, or any other cultic organizations or fraternities. Our bodies and lives belong solely to Jesus Christ, who purchased us with His blood ***[1 Corinthians 6:19-20](1Cor 6:19-20)***.  
 
-Furthermore, refrain from pursuing worldly ambitions, fame, money, or the approval of people, as these often lead to pride and idolatry ***[Matthew 16:26](Matt 16:26)*** ***[Galatians 1:10](Gal 1:10); [Matthew 6:33](Matt 6:33)***. Instead, live humbly, recognizing that every achievement, blessing, and success is solely due to God's grace and mercy ***[Ephesians 2:8-9](Eph 2:8-9); [Lamentations 3:22-23](Lam 3:22-23)***. Always give glory to God in all things, saying, *"Not to us, O Lord, not to us, but to Your name give glory because of Your steadfast love and faithfulness"* ***[Psalm 115:1](Ps 115:1)*** ***[Luke 10:17-20](Luke 10:17-20)***.  
+Furthermore, refrain from pursuing worldly ambitions, fame, money, or the approval of people, as these often lead to pride and idolatry ***[Matthew 16:26](Matt 16:26)*** ***[Galatians 1:10](Gal 1:10) [Matthew 6:33](Matt 6:33)***. Instead, live humbly, recognizing that every achievement, blessing, and success is solely due to God's grace and mercy ***[Ephesians 2:8-9](Eph 2:8-9) [Lamentations 3:22-23](Lam 3:22-23)***. Always give glory to God in all things, saying, *"Not to us, O Lord, not to us, but to Your name give glory because of Your steadfast love and faithfulness"* ***[Psalm 115:1](Ps 115:1)*** ***[Luke 10:17-20](Luke 10:17-20)***.  
 
 Let us dedicate our lives to honoring God in humility and obedience.
 
