@@ -15,7 +15,7 @@ Furthermore, refrain from pursuing worldly ambitions, fame, or the approval of p
 Let us dedicate our lives to honoring God in humility and obedience.
 
 
-### PLEASE ENCOURAGE MEMBERS, THAT THEY CAN ALSO SHARE THE GOSPEL TO OTHERS FOR THE SALVATION (ETERNAL INVESTMENT) FOR ETERNITY. JESUS IS COMING; LET'S CARRY THE BURDEN FOR THE LOST SOULS.
+### PLEASE ENCOURAGE MEMBERS, THAT THEY CAN ALSO SHARE THE GOSPEL TO OTHERS FOR THE SALVATION FOR ETERNITY. JESUS IS COMING; LET'S CARRY THE BURDEN FOR THE LOST SOULS.
 
 
 ***Individually engaging with the Bible under the guidance of the Holy Spirit can assist individuals in building a solid foundation, ensuring they acquire a personal grasp of the truth. This footing can then shield them from falling easily for others' teachings, thereby upholding the truth for the succeeding generation.*** *[1 John 2:27](1 John 2:27)*.
