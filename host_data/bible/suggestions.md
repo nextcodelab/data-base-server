@@ -93,8 +93,8 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 
 
-### Android app is under development.
-### 📖 **Google Play: [Shepherd Bible on Google Play](https://play.google.com/store/apps/details?id=com.nxtccode.biblenotebook)**  
+### The Android app is currently under development. The Bible features on the Android version are not yet complete.
+[Shepherd Bible on Google Play](https://play.google.com/store/apps/details?id=com.nxtccode.biblenotebook)**  
 ![Developing for Android](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/screenshot_vs_code.png?raw=true)
 
 
