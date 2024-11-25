@@ -1,3 +1,6 @@
+
+
+
 ## SHALOM, Brothers and Sisters, here are just a few brotherly suggestions.
 
 
