@@ -102,7 +102,7 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 ### studioappsupporfeedback2000@outlook.com 
 *Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** *[John 20:19](John 20:19) [1 Corinthians 16:23](1Cor 16:23) [Philippians 4:23](Phil 4:23).*
 
-### SHALOM
+### MIZPAH
 
 
 
