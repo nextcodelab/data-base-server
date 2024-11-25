@@ -1,3 +1,5 @@
+## SHALOM, Brothers and Sisters
+
 **1.** Suggestions for our church leaders, it is good to minimize disco like lights in church gathering. For our veteran sisters, good suggestion are modesty apparel dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance ***[1 Timothy 2:9-10](1 Timothy 2:9-10), [Romans 12:2](Romans 12:2), [1 Pedro 3:3-4](1Pet 3:3-4) [Isaiah 3:16-23](Isa 3:16-23) (1 John 2:16)[1John 2:16] (Revelation 17:4)[Rev 17:4]***.
 
 ---
