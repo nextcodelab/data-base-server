@@ -44,6 +44,8 @@ The Church follows in the footsteps of Lord Jesus and the Apostles by extending 
 A Guideline Inspired by our Lord Jesus's Teachings ***[Matthew 6:2-4](Matthew 6:2-4)***
 As Lord Jesus said, *"When you give to the poor, don't let your left hand know what your right hand is doing."* When offering financial help to our fellow brethren within the Church, consider the example of placing the assistance in an envelope. Specify the recipient's name without indicating the source of the aid. This envelope can then be securely placed into the Offering Box.
 
+![Anonymous Giving](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/giving.png)
+
 ---
 
 **7. Welcoming Newcomers to the Church**  
