@@ -1,0 +1,38 @@
+<h4>Support the Development</h4>
+<ul>
+    <li>Your support makes room for improvement every day.</li>
+    <li>
+        I cannot fully dedicate my time to fixing bugs due to my part-time job, which I need to support my
+        family daily needs. Thank you for understanding.
+        If I receive enough funding, I can work full-time on it, fixing issues and adding more useful
+        features.
+    </li>
+    <li>
+        You can also support by downloading the <a
+            href="https://play.google.com/store/apps/details?id=com.nxtccode.biblenotebook"
+            target="_blank" class="dynamic-link">Shepherd Bible on Google Play</a>
+        or email us at <a href="mailto:belmegood24@gmail.com" class="dynamic-link">belmegood24@gmail.com</a>.
+    </li>
+</ul>
+<h4>Support Us via:</h4>
+<div class="support-links">
+    <a href="https://www.paypal.com/paypalme/robelinghog" target="_blank">
+        <img src="https://play-lh.googleusercontent.com/Y2_nyEd0zJftXnlhQrWoweEvAy4RzbpDah_65JGQDKo9zCcBxHVpajYgXWFZcXdKS_o=s360-rw"
+            width="30" height="30">
+        <span>Paypal</span>
+    </a>
+</div>
+<div class="support-links">
+    <a href="https://www.buymeacoffee.com/nextsupportlab" target="_blank">
+        <img src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo=s360-rw"
+            width="30" height="30">
+        <span>BuyMeACoffee</span>
+    </a>
+</div>
+<div class="support-links support-gcash">
+    <a href="https://nextcodelab.github.io/online-support/" target="_blank">
+        <img src="https://play-lh.googleusercontent.com/QNP0Aj2hyumAmYiWVAsJtY2LLTQnzHxdW7-DpwFUFNkPJjgRxi-BXg7A4yI6tgYKMeU=s360-rw"
+            width="30" height="30">
+        <span>GCash</span>
+    </a>
+</div>
