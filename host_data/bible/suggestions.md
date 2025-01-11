@@ -81,29 +81,16 @@ Let us dedicate our lives to honoring God in humility and obedience.
 These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
 
 ---
+In addition to our responsibility to care for natures, animals and creations. In a world dominated by technology and endless hours spent staring at technologies, artificials and screens, nature offers a profound alternative for relaxation and renewal.
 
-### This app is still in development, and bugs and errors are being addressed continuously.
+***[Psalm 19:1](Ps 19:1)*** states, "The heavens declare the glory of God; the skies proclaim the work of his hands." This encourages us to step outside, marvel at the beauty of creation, and find peace away from the busyness of modern life. Whether it’s a walk in a quiet forest, watching a sunset, or listening to the gentle sounds of birds. which God created for us. Explore the beautiful nature and surroundings that God has created for us.
 
-*We hope this app will expand to other platforms, such as* ***Windows Desktop***, ***Android***, ***iOS***, ***Mac***, and ***Linux.***
+***[Proverbs 12:10](Prov 12:10)*** also reminds us of our duty toward animals, saying, "The righteous care for the needs of their animals, but the kindest acts of the wicked are cruel." This reflects the compassion and care we are called to extend to all living creatures.
 
-
-
-
-### Bible app for Windows is undergoing an overhaul, bringing a new design. The notebook feature will resemble Like OneNote, organized by pages.
+By stepping away from technology and immersing ourselves in nature, we can find a deeper sense of calm, reduce stress, and gain a renewed perspective on life. Through this, we honor God’s intention for creation—not only as stewards but also as beneficiaries of its beauty and tranquility.
 
 
-<!-- ### Mac and iOS app is under development.
-![Developing for Mac and iOS](https://github.com/nextcodelab/data-base-server/blob/main/host_data/bible/images/screenshot_mac.png?raw=true) -->
-
-
-
-### The Android app is currently under development. The Bible features on the Android version are not yet complete.
-**[Shepherd Bible on Google Play](https://play.google.com/store/apps/details?id=com.nxtccode.biblenotebook)**  
-
-
-
-**Please you can email us your suggestions or comments**
-### studioappsupporfeedback2000@outlook.com 
+---
 *Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** *[John 20:19](John 20:19) [1 Corinthians 16:23](1Cor 16:23) [Philippians 4:23](Phil 4:23).*
 
 ### MIZPAH
