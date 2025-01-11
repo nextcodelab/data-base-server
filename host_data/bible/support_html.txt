@@ -4,8 +4,6 @@
     <li>
         I cannot fully dedicate my time to fixing bugs due to my part-time job, which I need to support my
         family daily needs. Thank you for understanding.
-        If I receive enough funding, I can work full-time on it, fixing issues and adding more useful
-        features.
     </li>
     <li>
         You can also support by downloading the <a
@@ -14,7 +12,7 @@
         or email us at <a href="mailto:belmegood24@gmail.com" class="dynamic-link">belmegood24@gmail.com</a>.
     </li>
 </ul>
-<h4>Support Us via:</h4>
+<h4>Supports</h4>
 <div class="support-links">
     <a href="https://www.paypal.com/paypalme/robelinghog" target="_blank">
         <img src="https://play-lh.googleusercontent.com/Y2_nyEd0zJftXnlhQrWoweEvAy4RzbpDah_65JGQDKo9zCcBxHVpajYgXWFZcXdKS_o=s360-rw"
