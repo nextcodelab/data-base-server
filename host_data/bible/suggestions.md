@@ -4,14 +4,14 @@
 ## SHALOM, Brothers and Sisters, here are just a few brotherly suggestions.
 
 
-**1.** Suggestions for our church leaders, it is good to minimize disco like lights in church gathering. For our veteran sisters, good suggestion are modesty apparel dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance ***[1 Timothy 2:9-10](1 Timothy 2:9-10), [Romans 12:2](Romans 12:2), [1 Pedro 3:3-4](1Pet 3:3-4) [Isaiah 3:16-23](Isa 3:16-23) (1 John 2:16)[1John 2:16] (Revelation 17:4)[Rev 17:4]***.
+**1.** Suggestions for our church leaders, it is good to minimize disco like lights in church gathering. For our veteran sisters, good suggestion are modesty apparel dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance ***[1 Timothy 2:9-10](1 Timothy 2:9-10)***, ***[Romans 12:2](Romans 12:2)***, ***[1 Pedro 3:3-4](1Pet 3:3-4)*** ***[Isaiah 3:16-23](Isa 3:16-23)*** ***(1 John 2:16)[1John 2:16]*** ***(Revelation 17:4)[Rev 17:4]***.
 
 ![Children of the Light](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/modesty3.jpg)
 
 ---
 
 **2.** 
-Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Ourselves to the Lord [Matthew 5:23-24](Matthew 5:23-24).
+Embrace Repentance, Confession, Forgiveness, and Cleansing before Presenting Ourselves to the Lord ***[Matthew 5:23-24](Matthew 5:23-24)***.
 
 ---
 
@@ -24,7 +24,7 @@ Promote learning and sharing by allowing others to express their opinions on top
 ### PLEASE ENCOURAGE MEMBERS, THAT THEY CAN ALSO SHARE THE GOSPEL TO OTHERS FOR THE SALVATION FOR ETERNITY. JESUS IS COMING; LET'S CARRY THE BURDEN FOR THE LOST SOULS.
 
 
-***Individually engaging with the Bible under the guidance of the Holy Spirit can assist individuals in building a solid foundation, ensuring they acquire a personal grasp of the truth. This footing can then shield them from falling easily for others' teachings, thereby upholding the truth for the succeeding generation.*** *[1 John 2:27](1 John 2:27)*.
+***Individually engaging with the Bible under the guidance of the Holy Spirit can assist individuals in building a solid foundation, ensuring they acquire a personal grasp of the truth. This footing can then shield them from falling easily for others' teachings, thereby upholding the truth for the succeeding generation.*** ***[1 John 2:27](1 John 2:27)***.
 
 
 ***The One and Only worthy Pioneer, Author and Finisher of our faith, spiritual lives [Heb 12:2](Heb 12:2).*** 
@@ -32,12 +32,12 @@ Promote learning and sharing by allowing others to express their opinions on top
 
 
 
-*Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.* **[Revelation 1:3](Revelation 1:3)**
+*Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.* ***[Revelation 1:3](Revelation 1:3)***
 
 ---
 
 **5.**
-The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[John 13:29](John 13:29)*** and Acts of Assistance ***[Romans 15:25-26](Romans 15:25-26), [James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ [1 Peter 1:3](1 Peter 1:3). 
+The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[John 13:29](John 13:29)*** and Acts of Assistance ***[Romans 15:25-26]*** ***(Romans 15:25-26)***, ***[James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ ***[1 Peter 1:3](1 Peter 1:3)***. 
 
 ---
 
@@ -69,10 +69,15 @@ Let us be intentional in creating a space where everyone feels accepted, loved, 
 
 Do not join secret societies such as Freemasonry, the Illuminati, or any other cultic organizations or fraternities. Our bodies and lives belong solely to Jesus Christ, who purchased us with His blood ***[1 Corinthians 6:19-20](1Cor 6:19-20)***.  
 
-Furthermore, refrain from pursuing worldly ambitions, fame, money, or the approval of people, as these often lead to pride and idolatry. ***[Matthew 16:26](Matt 16:26)*** ***[Galatians 1:10](Gal 1:10) [Matthew 6:33](Matt 6:33)***. Instead,  pursue **FAITH** and **AGAPE LOVE** and live humbly, recognizing that every achievement, blessing, and success is solely due to God's grace and mercy ***[Ephesians 2:8-9](Eph 2:8-9) [Lamentations 3:22-23](Lam 3:22-23)***. Always give glory to God in all things, saying, *"Not to us, O Lord, not to us, but to Your name give glory because of Your steadfast love and faithfulness"* ***[Psalm 115:1](Ps 115:1)*** ***[Luke 10:17-20](Luke 10:17-20)***.  
+Furthermore, refrain from pursuing worldly ambitions, fame, money, or the approval of people, as these often lead to pride and idolatry. ***[Matthew 16:26](Matt 16:26)*** ***[Galatians 1:10](Gal 1:10) [Matthew 6:33](Matt 6:33)***. Instead,  pursue **FAITH** and **AGAPE LOVE** and live humbly, recognizing that every achievement, blessing, and success is solely due to God's grace and mercy ***[Ephesians 2:8-9](Eph 2:8-9)*** ***[Lamentations 3:22-23](Lam 3:22-23)***. Always give glory to God in all things, saying, *"Not to us, O Lord, not to us, but to Your name give glory because of Your steadfast love and faithfulness"* ***[Psalm 115:1](Ps 115:1)*** ***[Luke 10:17-20](Luke 10:17-20)***.  
 
 Let us dedicate our lives to honoring God in humility and obedience.
+---
+In addition to our responsibility to care for natures, animals ***[Proverbs 12:10](Prov 12:10)***  and creations. In a world dominated by technology and endless hours spent staring at technologies, artificials and screens, nature offers a profound alternative for relaxation and renewal.
 
+***[Psalm 19:1](Ps 19:1)*** states, "The heavens declare the glory of God; the skies proclaim the work of his hands." This encourages us to step outside, marvel at the beauty of creation, and find peace away from the busyness of modern life. Whether it’s a walk in a quiet forest, watching a sunset, or listening to the gentle sounds of birds. which God created for us. Explore the beautiful nature and surroundings of God’s creation.
+
+By immersing ourselves in nature, we can find a deeper sense of calm, reduce stress, and gain a renewed perspective on life. Through this, we honor God’s intention for creation—not only as stewards but also as beneficiaries of its beauty and tranquility.
 ---
 
 **Serve GOD with HOLINESS and RIGHTEOUSNESS.**
@@ -80,15 +85,10 @@ Let us dedicate our lives to honoring God in humility and obedience.
 
 These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
 
----
-In addition to our responsibility to care for natures, animals ***[Proverbs 12:10](Prov 12:10)***  and creations. In a world dominated by technology and endless hours spent staring at technologies, artificials and screens, nature offers a profound alternative for relaxation and renewal.
 
-***[Psalm 19:1](Ps 19:1)*** states, "The heavens declare the glory of God; the skies proclaim the work of his hands." This encourages us to step outside, marvel at the beauty of creation, and find peace away from the busyness of modern life. Whether it’s a walk in a quiet forest, watching a sunset, or listening to the gentle sounds of birds. which God created for us. Explore the beautiful nature and surroundings of God’s creation.
-
-By immersing ourselves in nature, we can find a deeper sense of calm, reduce stress, and gain a renewed perspective on life. Through this, we honor God’s intention for creation—not only as stewards but also as beneficiaries of its beauty and tranquility.
 
 ---
-*Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** *[John 20:19](John 20:19) [1 Corinthians 16:23](1Cor 16:23) [Philippians 4:23](Phil 4:23).*
+*Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** ***[John 20:19](John 20:19)*** ***[1 Corinthians 16:23](1Cor 16:23)*** ***[Philippians 4:23](Phil 4:23).***
 
 ### MIZPAH
 
