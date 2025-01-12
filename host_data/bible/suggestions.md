@@ -4,7 +4,7 @@
 ## SHALOM, Brothers and Sisters, here are just a few brotherly suggestions.
 
 
-**1.** Suggestions for our church leaders, it is good to minimize disco like lights in church gathering. For our veteran sisters, good suggestion are modesty apparel dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance ***[1 Timothy 2:9-10](1 Timothy 2:9-10)***, ***[Romans 12:2](Romans 12:2)***, ***[1 Pedro 3:3-4](1Pet 3:3-4)*** ***[Isaiah 3:16-23](Isa 3:16-23)*** ***(1 John 2:16)[1John 2:16]*** ***(Revelation 17:4)[Rev 17:4]***.
+**1.** Suggestions for our church leaders, it is good to minimize disco like lights in church gathering. For our veteran sisters, good suggestion are modesty apparel dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance ***[1 Timothy 2:9-10](1 Timothy 2:9-10)***, ***[Romans 12:2](Romans 12:2)***, ***[1 Pedro 3:3-4](1Pet 3:3-4)*** ***[Isaiah 3:16-23](Isa 3:16-23)*** ***[1 John 2:16](1John 2:16)*** ***[Revelation 17:4](Rev 17:4)***.
 
 ![Children of the Light](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/modesty3.jpg)
 
@@ -37,7 +37,7 @@ Promote learning and sharing by allowing others to express their opinions on top
 ---
 
 **5.**
-The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[John 13:29](John 13:29)*** and Acts of Assistance ***[Romans 15:25-26]*** ***(Romans 15:25-26)***, ***[James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ ***[1 Peter 1:3](1 Peter 1:3)***. 
+The Church follows in the footsteps of Lord Jesus and the Apostles by extending help to those, in need just as mentioned in ***[John 13:29](John 13:29)*** and Acts of Assistance ***[Romans 15:25-26](Romans 15:25-26)***, ***[James 1:27](James 1:27)***. This showcases the Churchs nature as it attends to the needs of the fortunate particularly widows and widowers. The act of providing assistance is done with humility with the purpose of bringing honor to God the Father and our Lord and Savior Jesus Christ ***[1 Peter 1:3](1 Peter 1:3)***. 
 
 ---
 
