@@ -4,8 +4,6 @@
 <li style="color: orange;">
     In the latest app update, some old data may have been lost. Please wait for upcoming updates, where we will work on recovering your app data, including highlights, notebooks, and more.
 </li>
-
-
     <li>
         I cannot fully dedicate my time to fixing bugs due to my part-time job, which I need to support my
         family daily needs. Thank you for understanding.
