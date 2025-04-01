@@ -1,0 +1,1426 @@
+[
+  {
+    "answer": "Amram",
+    "id": 1,
+    "options": "[\r\n  \"Hezekiah\",\r\n  \"Amram\",\r\n  \"Ezra\",\r\n  \"Abel\"\r\n]",
+    "question": "Who was Moses’ father?",
+    "question_id": "003fb939cf1",
+    "reference": "Exodus 6:20"
+  },
+  {
+    "answer": "Jochebed",
+    "id": 2,
+    "options": "[\r\n  \"Sarah\",\r\n  \"Keturah\",\r\n  \"Hagar\",\r\n  \"Jochebed\"\r\n]",
+    "question": "Which of the following was not one of Abraham’s wives or concubines?",
+    "question_id": "8f8d0d59438",
+    "reference": "Genesis 25:1-6"
+  },
+  {
+    "answer": "30 years",
+    "id": 3,
+    "options": "[\r\n  \"20 years\",\r\n  \"30 years\",\r\n  \"33 years\",\r\n  \"25 years\"\r\n]",
+    "question": "How old was Jesus Christ when He began His ministry?",
+    "question_id": "94dbee2096f",
+    "reference": "Luke 3:23"
+  },
+  {
+    "answer": "Damascus",
+    "id": 4,
+    "options": "[\r\n  \"Damascus\",\r\n  \"Jerusalem\",\r\n  \"Patmos\",\r\n  \"Nineveh\"\r\n]",
+    "question": "Where was Saul traveling to when he encountered Jesus Christ?",
+    "question_id": "81e088939fe",
+    "reference": "Acts 9:3-6"
+  },
+  {
+    "answer": "Isaiah",
+    "id": 5,
+    "options": "[\r\n  \"Amos\",\r\n  \"Hosea\",\r\n  \"Isaiah\",\r\n  \"Jeremiah\"\r\n]",
+    "question": "Who saw the Lord when King Uzziah died?",
+    "question_id": "0f08906fca0",
+    "reference": "Isaiah 6:1"
+  },
+  {
+    "answer": "Susanna, Joanna, and Salome",
+    "id": 6,
+    "options": "[\r\n  \"Miriam, Naomi, and Rachel\",\r\n  \"Susanna, Joanna, and Salome\",\r\n  \"Mary Magdalene, Deborah, and Ruth\",\r\n  \"Mary, Elizabeth, and Tabitha\"\r\n]",
+    "question": "Which women ministered to Jesus Christ?",
+    "question_id": "f0751cfd57c",
+    "reference": "Luke 8:2-3"
+  },
+  {
+    "answer": "The Holy Spirit",
+    "id": 7,
+    "options": "[\r\n  \"The gift\",\r\n  \"The Gospel\",\r\n  \"The Holy Spirit\",\r\n  \"A Divine Vision\"\r\n]",
+    "question": "As they gathered on the Day of Pentecost, what did they receive?",
+    "question_id": "29a46dddf40",
+    "reference": "Acts 2:1-4"
+  },
+  {
+    "answer": "12 years old",
+    "id": 8,
+    "options": "[\r\n  \"12 years old\",\r\n  \"10 years old\",\r\n  \"15 years old\",\r\n  \"30 years old\"\r\n]",
+    "question": "How old was Jesus Christ when He went to the temple and discussed with the teachers?",
+    "question_id": "96007228d7c",
+    "reference": "Luke 2:42-47"
+  },
+  {
+    "answer": "Zechariah",
+    "id": 9,
+    "options": "[\r\n  \"Simeon\",\r\n  \"Zechariah\",\r\n  \"Obadiah\",\r\n  \"James\"\r\n]",
+    "question": "Who was John the Baptist’s father?",
+    "question_id": "33bc2bf332b",
+    "reference": "Luke 1:13"
+  },
+  {
+    "answer": "5 Books",
+    "id": 10,
+    "options": "[\r\n  \"5 Books\",\r\n  \"37 Books\",\r\n  \"11 Books\",\r\n  \"None of the above\"\r\n]",
+    "question": "How many poetic books are there in the Bible?",
+    "question_id": "a02d0ec1acd",
+    "reference": "Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon"
+  },
+  {
+    "answer": "66 Books",
+    "id": 11,
+    "options": "[\r\n  \"70 Books\",\r\n  \"66 Books\",\r\n  \"68 Books\",\r\n  \"72 Books\"\r\n]",
+    "question": "How many books are in the Bible?",
+    "question_id": "834bd1337d4",
+    "reference": "Protestant Canon"
+  },
+  {
+    "answer": "Luke 18:1",
+    "id": 12,
+    "options": "[\r\n  \"John 5:5\",\r\n  \"Luke 18:1\",\r\n  \"Matthew 13:8\",\r\n  \"John 1:13\"\r\n]",
+    "question": "Where in the Bible does it say that men ought to always pray and not lose heart?",
+    "question_id": "650a9e4787a",
+    "reference": "Luke 18:1"
+  },
+  {
+    "answer": "17 Books",
+    "id": 13,
+    "options": "[\r\n  \"4 Books\",\r\n  \"1 Book\",\r\n  \"5 Books\",\r\n  \"17 Books\"\r\n]",
+    "question": "How many prophetic books are in the Old Testament?",
+    "question_id": "89a80b09b8c",
+    "reference": "Isaiah - Malachi (5 Major, 12 Minor Prophets)"
+  },
+  {
+    "answer": "Obadiah, Amos, Joel and Nahum",
+    "id": 14,
+    "options": "[\r\n  \"Amos, Haggai, Jonah and Daniel\",\r\n  \"Hosea, David, Jeremiah and Ezekiel\",\r\n  \"Obadiah, Amos, Joel and Nahum\",\r\n  \"Habakkuk, Isaiah, Joel and Lamentations\"\r\n]",
+    "question": "Which of the following are Minor Prophets?",
+    "question_id": "caa2836aa25",
+    "reference": "Book of the Twelve (Hosea - Malachi)"
+  },
+  {
+    "answer": "Jeremiah",
+    "id": 15,
+    "options": "[\r\n  \"Ezekiel\",\r\n  \"Isaiah\",\r\n  \"Elijah\",\r\n  \"Jeremiah\"\r\n]",
+    "question": "Who wrote the Book of Lamentations?",
+    "question_id": "8f1d121d55a",
+    "reference": "Lamentations 1:1"
+  },
+  {
+    "answer": "John the Baptist",
+    "id": 16,
+    "options": "[\r\n  \"Elisha\",\r\n  \"Isaiah\",\r\n  \"John the Baptist\",\r\n  \"Jesus Christ\"\r\n]",
+    "question": "Who came with the spirit and power of Elijah?",
+    "question_id": "c08ea86bc1c",
+    "reference": "Luke 1:17"
+  },
+  {
+    "answer": "Through Jesus Christ",
+    "id": 17,
+    "options": "[\r\n  \"Through Jesus Christ\",\r\n  \"By going to church\",\r\n  \"By prayer and fasting\",\r\n  \"All of the above\"\r\n]",
+    "question": "How do we receive salvation?",
+    "question_id": "417a577340a",
+    "reference": "Acts 4:12, John 14:6"
+  },
+  {
+    "answer": "Water and Holy Spirit",
+    "id": 18,
+    "options": "[\r\n  \"Water and Holy Spirit\",\r\n  \"Communion and water\",\r\n  \"Holy Spirit and consecration\",\r\n  \"None of the above\"\r\n]",
+    "question": "What are the two types of baptism every believer should have?",
+    "question_id": "7367ff0765f",
+    "reference": "Matthew 3:11, Acts 2:38"
+  },
+  {
+    "answer": "450",
+    "id": 19,
+    "options": "[\r\n  \"222\",\r\n  \"450\",\r\n  \"278\",\r\n  \"304\"\r\n]",
+    "question": "How many prophets of Baal did Elijah slay?",
+    "question_id": "7ccdbab0e6b",
+    "reference": "1 Kings 18:40"
+  },
+  {
+    "answer": "King Jehoshaphat",
+    "id": 20,
+    "options": "[\r\n  \"King David\",\r\n  \"King Jehoshaphat\",\r\n  \"King Hezekiah\",\r\n  \"King Josiah\"\r\n]",
+    "question": "Who led his army into battle with singing and praising?",
+    "question_id": "35e4f84a047",
+    "reference": "2 Chronicles 20:21-22"
+  },
+  {
+    "answer": "Ananias",
+    "id": 21,
+    "options": "[\r\n  \"Elijah\",\r\n  \"Ananias\",\r\n  \"Nicodemus\",\r\n  \"Melchizedek\"\r\n]",
+    "question": "Who was the prophet who restored Paul's sight?",
+    "question_id": "b802c75c6d9",
+    "reference": "Acts 9:17-18"
+  },
+  {
+    "answer": "Simeon",
+    "id": 22,
+    "options": "[\r\n  \"Gabriel\",\r\n  \"Zechariah\",\r\n  \"Lazarus\",\r\n  \"Simeon\"\r\n]",
+    "question": "Who was told that he would not die until he had seen the Christ of God?",
+    "question_id": "cf0494aa97b",
+    "reference": "Luke 2:25-26"
+  },
+  {
+    "answer": "Mary of Bethany",
+    "id": 23,
+    "options": "[\r\n  \"Magdalene\",\r\n  \"Mary of Bethany\",\r\n  \"Mary\",\r\n  \"Martha\"\r\n]",
+    "question": "Who anointed Jesus with very costly ointment of spikenard and wiped His feet with her hair?",
+    "question_id": "a9266870c5c",
+    "reference": "John 12:3"
+  },
+  {
+    "answer": "The parable of the soil",
+    "id": 24,
+    "options": "[\r\n  \"The parable of the sower\",\r\n  \"The parable of the leaven\",\r\n  \"The parable of the soil\",\r\n  \"The parable of the hidden treasure\"\r\n]",
+    "question": "Which of the following is not a parable of Jesus Christ?",
+    "question_id": "2319191aea2",
+    "reference": null
+  },
+  {
+    "answer": "Saul",
+    "id": 25,
+    "options": "[\r\n  \"Saul\",\r\n  \"David\",\r\n  \"Ahab\",\r\n  \"Nebuchadnezzar\"\r\n]",
+    "question": "Who sought a woman who was a medium so he could consult her?",
+    "question_id": "2e5996e7159",
+    "reference": "1 Samuel 28:7"
+  },
+  {
+    "answer": "Judah",
+    "id": 26,
+    "options": "[\r\n  \"James\",\r\n  \"John\",\r\n  \"Judah\",\r\n  \"Jeremiah\"\r\n]",
+    "question": "Which one of the following is not among the authors of a book in the Bible?",
+    "question_id": "51c9da26820",
+    "reference": null
+  },
+  {
+    "answer": "Dorcas",
+    "id": 27,
+    "options": "[\r\n  \"Joanna\",\r\n  \"Dorcas\",\r\n  \"Prisca\",\r\n  \"Phoebe\"\r\n]",
+    "question": "Who was raised from the dead in the town of Joppa?",
+    "question_id": "73cccdb95c6",
+    "reference": "Acts 9:36-41"
+  },
+  {
+    "answer": "Peter",
+    "id": 28,
+    "options": "[\r\n  \"Peter\",\r\n  \"Paul\",\r\n  \"Barnabas\",\r\n  \"Silas\"\r\n]",
+    "question": "In whose shadow did people pass and get healed?",
+    "question_id": "7bdde900c2e",
+    "reference": "Acts 5:15"
+  },
+  {
+    "answer": "An Angel of the Lord",
+    "id": 29,
+    "options": "[\r\n  \"Elijah and Moses\",\r\n  \"An Angel of the Lord\",\r\n  \"Peter, John, and James\",\r\n  \"None of the above\"\r\n]",
+    "question": "Who appeared to Jesus Christ in the Garden of Gethsemane?",
+    "question_id": "3baaaccc933",
+    "reference": "Luke 22:43"
+  },
+  {
+    "answer": "40 days",
+    "id": 30,
+    "options": "[\r\n  \"30 days\",\r\n  \"40 days\",\r\n  \"3 days\",\r\n  \"12 days\"\r\n]",
+    "question": "For how many days did Jesus appear to the Apostles after His resurrection?",
+    "question_id": "08bb1bd7b87",
+    "reference": "Acts 1:3"
+  },
+  {
+    "answer": "12 years",
+    "id": 31,
+    "options": "[\r\n  \"12 years\",\r\n  \"10 years\",\r\n  \"38 years\",\r\n  \"Since she was born\"\r\n]",
+    "question": "For how many years did the woman with the issue of blood suffer?",
+    "question_id": "759bcc2146b",
+    "reference": "Luke 8:43-44"
+  },
+  {
+    "answer": "40 years",
+    "id": 32,
+    "options": "[\r\n  \"400 years\",\r\n  \"412 years\",\r\n  \"42 years\",\r\n  \"40 years\"\r\n]",
+    "question": "For how many years did the children of Israel wander in the wilderness?",
+    "question_id": "22469be962d",
+    "reference": "Numbers 14:33-34"
+  },
+  {
+    "answer": "The Parable of the Sower",
+    "id": 33,
+    "options": "[\r\n  \"The Parable of the Sower\",\r\n  \"The Parable of the Pearl\",\r\n  \"The Parable of the Leaven\",\r\n  \"The Parable of the Lost Sheep\"\r\n]",
+    "question": "What was the first parable Jesus taught?",
+    "question_id": "581f04720c1",
+    "reference": "Matthew 13:3-9"
+  },
+  {
+    "answer": "The Pool of Bethesda",
+    "id": 34,
+    "options": "[\r\n  \"The Pool at the Beautiful Gate\",\r\n  \"The Pool of Bethesda\",\r\n  \"The Pool of Encounter\",\r\n  \"The River of Life\"\r\n]",
+    "question": "At which pool did Jesus heal a man who had been crippled for 38 years?",
+    "question_id": "cbba56b87a2",
+    "reference": "John 5:2-9"
+  },
+  {
+    "answer": "Paul",
+    "id": 35,
+    "options": "[\r\n  \"Silas\",\r\n  \"Peter\",\r\n  \"Paul\",\r\n  \"Jesus Christ\"\r\n]",
+    "question": "Who was grieved in the spirit and commanded the evil spirit of divination to come out?",
+    "question_id": "c277ab0a076",
+    "reference": "Acts 16:16-18"
+  },
+  {
+    "answer": "Paul and Silas",
+    "id": 36,
+    "options": "[\r\n  \"James and John\",\r\n  \"Peter and Silas\",\r\n  \"Paul and Silas\",\r\n  \"Paul and Barnabas\"\r\n]",
+    "question": "Who prayed and sang praises to God at midnight, causing an earthquake that shook the prison and opened all the doors?",
+    "question_id": "652553bfb85",
+    "reference": "Acts 16:25-26"
+  },
+  {
+    "answer": "About 120",
+    "id": 37,
+    "options": "[\r\n  \"About 120\",\r\n  \"About 11\",\r\n  \"About 3\",\r\n  \"None of the above\"\r\n]",
+    "question": "After Jesus Christ ascended to heaven, how many believers gathered to pray?",
+    "question_id": "9128cca7528",
+    "reference": "Acts 1:15"
+  },
+  {
+    "answer": "Jezebel",
+    "id": 38,
+    "options": "[\r\n  \"Jehoshaphat\",\r\n  \"Jezebel\",\r\n  \"Josiah\",\r\n  \"David\"\r\n]",
+    "question": "Who among these was not a king?",
+    "question_id": "aca9adff396",
+    "reference": "1 Kings 16:31"
+  },
+  {
+    "answer": "Micaiah",
+    "id": 39,
+    "options": "[\r\n  \"Elijah\",\r\n  \"Elisha\",\r\n  \"Micaiah\",\r\n  \"Eli\"\r\n]",
+    "question": "Which prophet was put in prison by the king and given only bread and water until the king returned safely?",
+    "question_id": "372db739f4b",
+    "reference": "1 Kings 22:26-27"
+  },
+  {
+    "answer": "Jeroboam",
+    "id": 40,
+    "options": "[\r\n  \"Ahab\",\r\n  \"Ahaziah\",\r\n  \"Zedekiah\",\r\n  \"Jeroboam\"\r\n]",
+    "question": "Which king’s hand was paralyzed when he tried to seize a man of God, but was later restored through prayer?",
+    "question_id": "9a5c2706c0c",
+    "reference": "1 Kings 13:4-6"
+  },
+  {
+    "answer": "Naaman",
+    "id": 41,
+    "options": "[\r\n  \"Naaman\",\r\n  \"Naboth\",\r\n  \"Mordechai\",\r\n  \"Nahab\"\r\n]",
+    "question": "Who was instructed to dip himself in the river seven times to be healed?",
+    "question_id": "472bd1c1c99",
+    "reference": "2 Kings 5:10-14"
+  },
+  {
+    "answer": "Naboth",
+    "id": 42,
+    "options": "[\r\n  \"Naboth\",\r\n  \"Mordechai\",\r\n  \"Ahab\",\r\n  \"Jehoiachin\"\r\n]",
+    "question": "In the city of Jezreel, who was killed because of a vineyard?",
+    "question_id": "e84d4d7d18f",
+    "reference": "1 Kings 21:1-16"
+  },
+  {
+    "answer": "Zedekiah",
+    "id": 43,
+    "options": "[\r\n  \"Ahaz\",\r\n  \"Uzziah\",\r\n  \"Manasseh\",\r\n  \"Zedekiah\"\r\n]",
+    "question": "Who was the last king of Judah before the exile of Israel?",
+    "question_id": "37a717cb659",
+    "reference": "2 Kings 24:17-20"
+  },
+  {
+    "answer": "Hezekiah",
+    "id": 44,
+    "options": "[\r\n  \"Uzziah\",\r\n  \"Nebuchadnezzar\",\r\n  \"Asa\",\r\n  \"Hezekiah\"\r\n]",
+    "question": "Who was told by a prophet to put his house in order because he was going to die, but later had his life extended?",
+    "question_id": "8b974da01c0",
+    "reference": "2 Kings 20:1-6"
+  },
+  {
+    "answer": "Josiah",
+    "id": 45,
+    "options": "[\r\n  \"Josiah\",\r\n  \"Zedekiah\",\r\n  \"Jehoram\",\r\n  \"Amaziah\"\r\n]",
+    "question": "Who was the last good king of Judah?",
+    "question_id": "31f9d0ddb5a",
+    "reference": "2 Kings 22:1-2"
+  },
+  {
+    "answer": "Athaliah",
+    "id": 46,
+    "options": "[\r\n  \"Jezebel\",\r\n  \"Esther\",\r\n  \"Deborah\",\r\n  \"Athaliah\"\r\n]",
+    "question": "Which evil woman ruled as the queen of Judah?",
+    "question_id": "1e5fc824a48",
+    "reference": "2 Kings 11:1-3"
+  },
+  {
+    "answer": "16",
+    "id": 47,
+    "options": "[\r\n  \"14\",\r\n  \"18\",\r\n  \"10\",\r\n  \"16\"\r\n]",
+    "question": "How many miracles did Elisha perform?",
+    "question_id": "44013081dc8",
+    "reference": "2 Kings 2-13 (Compilation of his miracles)"
+  },
+  {
+    "answer": "Ahaziah",
+    "id": 48,
+    "options": "[\r\n  \"Ahab\",\r\n  \"Asa\",\r\n  \"Azariah\",\r\n  \"Ahaziah\"\r\n]",
+    "question": "Who sent messengers to the god of Ekron to inquire whether he would recover from his injury?",
+    "question_id": "a8b3af1675e",
+    "reference": "2 Kings 1:2-4"
+  },
+  {
+    "answer": "Job",
+    "id": 49,
+    "options": "[\r\n  \"Job\",\r\n  \"David\",\r\n  \"Paul\",\r\n  \"Amos\"\r\n]",
+    "question": "Who wrote the words, 'He frustrates the devices of the crafty, so that their hands cannot carry out their plans'?",
+    "question_id": "28f5a6611e3",
+    "reference": "Job 5:12"
+  },
+  {
+    "answer": "Proverbs",
+    "id": 50,
+    "options": "[\r\n  \"Psalms\",\r\n  \"Job\",\r\n  \"Proverbs\",\r\n  \"Isaiah\"\r\n]",
+    "question": "Which book contains the verse, 'Many plans are in a man’s heart, but the purpose of the LORD will prevail'?",
+    "question_id": "83baaf460ef",
+    "reference": "Proverbs 19:21"
+  },
+  {
+    "answer": "Acts",
+    "id": 51,
+    "options": "[\r\n  \"Acts\",\r\n  \"Ephesians\",\r\n  \"Colossians\",\r\n  \"Philippians\"\r\n]",
+    "question": "Which book of the Bible contains the verse, 'So mightily grew the word of the Lord and prevailed'?",
+    "question_id": "088076adf36",
+    "reference": "Acts 19:20"
+  },
+  {
+    "answer": "Huldah",
+    "id": 52,
+    "options": "[\r\n  \"Huldah\",\r\n  \"Anna\",\r\n  \"Miriam\",\r\n  \"Hannah\"\r\n]",
+    "question": "Who was the prophetess and wife of Shallum, son of Tokhath, the son of Hasrah, and keeper of the wardrobe, who lived in Jerusalem in the New Quarter?",
+    "question_id": "40160992b4d",
+    "reference": "2 Chronicles 34:22"
+  },
+  {
+    "answer": "Nicodemus",
+    "id": 53,
+    "options": "[\r\n  \"Simeon\",\r\n  \"Herod\",\r\n  \"Nicodemus\",\r\n  \"Pontius Pilate\"\r\n]",
+    "question": "A Pharisee, Who was a member of the Jewish ruling council came to Jesus Christ by night.",
+    "question_id": "55988f6a2cc",
+    "reference": null
+  },
+  {
+    "answer": "Samson",
+    "id": 54,
+    "options": "[\r\n  \"Samson\",\r\n  \"David\",\r\n  \"Gideon\",\r\n  \"Solomon\"\r\n]",
+    "question": "Who said, 'Out of the eater came something to eat. Out of the strong came something sweet'?",
+    "question_id": "464f096a449",
+    "reference": "Judges 14:14"
+  },
+  {
+    "answer": "Stephen",
+    "id": 55,
+    "options": "[\r\n  \"James\",\r\n  \"Stephen\",\r\n  \"Peter\",\r\n  \"Silas\"\r\n]",
+    "question": "Who was the first Apostle to be stoned to death?",
+    "question_id": "ba6d6e1621a",
+    "reference": "Acts 7:59"
+  },
+  {
+    "answer": "Cornelius",
+    "id": 56,
+    "options": "[\r\n  \"Nicodemus\",\r\n  \"Herod the Great\",\r\n  \"Cornelius\",\r\n  \"Stephen\"\r\n]",
+    "question": "Who was the centurion at Caesarea who was devout, God-fearing, and gave generously to those in need?",
+    "question_id": "61947bfa03c",
+    "reference": "Acts 10:1-2"
+  },
+  {
+    "answer": "Barnabas",
+    "id": 57,
+    "options": "[\r\n  \"Timothy\",\r\n  \"Silas\",\r\n  \"Barnabas\",\r\n  \"Titus\"\r\n]",
+    "question": "Who was sent to Antioch and encouraged believers to remain true to the Lord with all their hearts?",
+    "question_id": "591ad3d1a28",
+    "reference": "Acts 11:22-23"
+  },
+  {
+    "answer": "The Samaritan woman",
+    "id": 58,
+    "options": "[\r\n  \"The Shunammite woman\",\r\n  \"The Samaritan woman\",\r\n  \"Mary of Bethany\",\r\n  \"None of the above\"\r\n]",
+    "question": "Who had an encounter with Jesus Christ at a well while drawing water?",
+    "question_id": "404f3daa906",
+    "reference": "John 4:7-26"
+  },
+  {
+    "answer": "Raven",
+    "id": 59,
+    "options": "[\r\n  \"Dove\",\r\n  \"Raven\",\r\n  \"Bird\",\r\n  \"Donkey\"\r\n]",
+    "question": "Which animal brought food to the prophet Elijah in the Kerith Ravine?",
+    "question_id": "38f31ae5d8c",
+    "reference": "1 Kings 17:4-6"
+  },
+  {
+    "answer": "Vashti",
+    "id": 60,
+    "options": "[\r\n  \"Vashti\",\r\n  \"Jezebel\",\r\n  \"Sheba\",\r\n  \"Naomi\"\r\n]",
+    "question": "Who was replaced by Esther as queen?",
+    "question_id": "0fb1ca26b7a",
+    "reference": "Esther 1:19, Esther 2:17"
+  },
+  {
+    "answer": "3",
+    "id": 61,
+    "options": "[\r\n  \"2\",\r\n  \"1\",\r\n  \"3\",\r\n  \"7\"\r\n]",
+    "question": "How many people did Elijah anoint?",
+    "question_id": "3cb9d0526b9",
+    "reference": "1 Kings 19:15-16"
+  },
+  {
+    "answer": "40 days and nights",
+    "id": 62,
+    "options": "[\r\n  \"20 days and nights\",\r\n  \"30 days and nights\",\r\n  \"40 days and nights\",\r\n  \"50 days and nights\"\r\n]",
+    "question": "How many days and nights did it rain during Noah's flood?",
+    "question_id": "f6e7d8c9b0a",
+    "reference": "Genesis 7:12"
+  },
+  {
+    "answer": "Revelation",
+    "id": 63,
+    "options": "[\r\n  \"Matthew\",\r\n  \"Revelation\",\r\n  \"Genesis\",\r\n  \"Acts\"\r\n]",
+    "question": "What is the last book of the Bible?",
+    "question_id": "m6n7o8p9q0r",
+    "reference": "Revelation 1:1"
+  },
+  {
+    "answer": "Jonah",
+    "id": 64,
+    "options": "[\r\n  \"Moses\",\r\n  \"Elijah\",\r\n  \"Jonah\",\r\n  \"Noah\"\r\n]",
+    "question": "Who was swallowed by a great fish?",
+    "question_id": "s1t2u3v4w5x",
+    "reference": "Jonah 1:17"
+  },
+  {
+    "answer": "Psalms",
+    "id": 65,
+    "options": "[\r\n  \"Genesis\",\r\n  \"Psalms\",\r\n  \"Isaiah\",\r\n  \"Exodus\"\r\n]",
+    "question": "What is the longest book in the Bible?",
+    "question_id": "y6z7a8b9c0d",
+    "reference": "Psalms 119 (Longest Chapter), Total: 150 Chapters"
+  },
+  {
+    "answer": "10",
+    "id": 66,
+    "options": "[\r\n  \"7\",\r\n  \"10\",\r\n  \"12\",\r\n  \"14\"\r\n]",
+    "question": "How many plagues did God send upon Egypt?",
+    "question_id": "e1f2g3h4i5j",
+    "reference": "Exodus 7-12"
+  },
+  {
+    "answer": "Noah",
+    "id": 67,
+    "options": "[\r\n  \"Moses\",\r\n  \"Abraham\",\r\n  \"Noah\",\r\n  \"David\"\r\n]",
+    "question": "Who built the ark?",
+    "question_id": "k6l7m8n9o0p",
+    "reference": "Genesis 6:14"
+  },
+  {
+    "answer": "Mary",
+    "id": 68,
+    "options": "[\r\n  \"Elizabeth\",\r\n  \"Mary\",\r\n  \"Martha\",\r\n  \"Ruth\"\r\n]",
+    "question": "Who was the mother of Jesus?",
+    "question_id": "q1r2s3t4u5v",
+    "reference": "Matthew 1:18"
+  },
+  {
+    "answer": "Garden of Eden",
+    "id": 69,
+    "options": "[\r\n  \"Garden of Eden\",\r\n  \"Garden of Gethsemane\",\r\n  \"Garden of Olives\",\r\n  \"Garden of Hope\"\r\n]",
+    "question": "What was the name of the garden where Adam and Eve lived?",
+    "question_id": "w6x7y8z9a0b",
+    "reference": "Genesis 2:8"
+  },
+  {
+    "answer": "Seth",
+    "id": 70,
+    "options": "[\r\n  \"Cain\",\r\n  \"Abel\",\r\n  \"Seth\",\r\n  \"Enoch\"\r\n]",
+    "question": "What was the name of Adam and Eve’s third son?",
+    "question_id": "c1d2e3f4g5h",
+    "reference": "Genesis 4:25"
+  },
+  {
+    "answer": "Methuselah",
+    "id": 71,
+    "options": "[\r\n  \"Noah\",\r\n  \"Methuselah\",\r\n  \"Abraham\",\r\n  \"Moses\"\r\n]",
+    "question": "Who was the oldest person mentioned in the Bible?",
+    "question_id": "i6j7k8l9m0n",
+    "reference": "Genesis 5:27"
+  },
+  {
+    "answer": "Jericho",
+    "id": 72,
+    "options": "[\r\n  \"Jerusalem\",\r\n  \"Babylon\",\r\n  \"Jericho\",\r\n  \"Nineveh\"\r\n]",
+    "question": "Which city’s walls fell after the Israelites marched around them for seven days?",
+    "question_id": "o1p2q3r4s5t",
+    "reference": "Joshua 6:20"
+  },
+  {
+    "answer": "A burning bush",
+    "id": 73,
+    "options": "[\r\n  \"A burning bush\",\r\n  \"A thunderstorm\",\r\n  \"A bright light\",\r\n  \"A whispering wind\"\r\n]",
+    "question": "What did God use to speak to Moses in the desert?",
+    "question_id": "u6v7w8x9y0z",
+    "reference": "Exodus 3:2"
+  },
+  {
+    "answer": "8",
+    "id": 74,
+    "options": "[\r\n  \"4\",\r\n  \"6\",\r\n  \"8\",\r\n  \"10\"\r\n]",
+    "question": "How many people were saved on Noah’s Ark?",
+    "question_id": "a1b2c3d4e5f",
+    "reference": "1 Peter 3:20"
+  },
+  {
+    "answer": "Love of money",
+    "id": 75,
+    "options": "[\r\n  \"Pride\",\r\n  \"Money\",\r\n  \"Love of money\",\r\n  \"Power\"\r\n]",
+    "question": "What did Jesus say is the 'root of all evil'?",
+    "question_id": "g6h7i8j9k0l",
+    "reference": "1 Timothy 6:10"
+  },
+  {
+    "answer": "Cain",
+    "id": 76,
+    "options": "[\r\n  \"Cain\",\r\n  \"Lamech\",\r\n  \"Esau\",\r\n  \"Absalom\"\r\n]",
+    "question": "Who was the first murderer in the Bible?",
+    "question_id": "m1n2o3p4q5r",
+    "reference": "Genesis 4:8"
+  },
+  {
+    "answer": "Thomas",
+    "id": 77,
+    "options": "[\r\n  \"Peter\",\r\n  \"John\",\r\n  \"Thomas\",\r\n  \"Judas\"\r\n]",
+    "question": "Which apostle doubted Jesus' resurrection until he saw Him with his own eyes?",
+    "question_id": "y1z2a3b4c5d",
+    "reference": "John 20:24-29"
+  },
+  {
+    "answer": "Fish and bread",
+    "id": 78,
+    "options": "[\r\n  \"Bread and wine\",\r\n  \"Fish and bread\",\r\n  \"Manna and quail\",\r\n  \"Figs and olives\"\r\n]",
+    "question": "What did Jesus feed to 5,000 men besides women and children?",
+    "question_id": "y9z8a7b6c5d",
+    "reference": "Matthew 14:19"
+  },
+  {
+    "answer": "Daniel",
+    "id": 79,
+    "options": "[\r\n  \"Elijah\",\r\n  \"Daniel\",\r\n  \"Shadrach\",\r\n  \"Moses\"\r\n]",
+    "question": "Who was thrown into a den of lions but remained unharmed?",
+    "question_id": "e4f3g2h1i0j",
+    "reference": "Daniel 6:16-22"
+  },
+  {
+    "answer": "Joshua",
+    "id": 80,
+    "options": "[\r\n  \"Moses\",\r\n  \"Aaron\",\r\n  \"Joshua\",\r\n  \"Caleb\"\r\n]",
+    "question": "Who led the Israelites into the Promised Land?",
+    "question_id": "k9l8m7n6o5p",
+    "reference": "Joshua 1:1-2"
+  },
+  {
+    "answer": "Matthew",
+    "id": 81,
+    "options": "[\r\n  \"Luke\",\r\n  \"Matthew\",\r\n  \"Philip\",\r\n  \"James\"\r\n]",
+    "question": "Which disciple was a tax collector before following Jesus?",
+    "question_id": "w9x8y7z6a5b",
+    "reference": "Matthew 9:9"
+  },
+  {
+    "answer": "Red Sea",
+    "id": 82,
+    "options": "[\r\n  \"Dead Sea\",\r\n  \"Red Sea\",\r\n  \"Mediterranean Sea\",\r\n  \"Jordan River\"\r\n]",
+    "question": "What was the name of the sea that Moses parted?",
+    "question_id": "c4d3e2f1g0h",
+    "reference": "Exodus 14:21"
+  },
+  {
+    "answer": "40",
+    "id": 83,
+    "options": "[\r\n  \"40\",\r\n  \"7\",\r\n  \"100\",\r\n  \"3\"\r\n]",
+    "question": "How many days and nights did it rain during the great flood?",
+    "question_id": "l1m2n3o4p5q",
+    "reference": "Genesis 7:12"
+  },
+  {
+    "answer": "Abraham",
+    "id": 84,
+    "options": "[\r\n  \"Abraham\",\r\n  \"Isaac\",\r\n  \"Jacob\",\r\n  \"Moses\"\r\n]",
+    "question": "Who was the father of many nations?",
+    "question_id": "r6s7t8u9v0w",
+    "reference": "Genesis 17:5"
+  },
+  {
+    "answer": "A snake",
+    "id": 85,
+    "options": "[\r\n  \"A snake\",\r\n  \"A pillar of fire\",\r\n  \"A dove\",\r\n  \"A stone\"\r\n]",
+    "question": "What did Moses’ staff turn into when he threw it on the ground?",
+    "question_id": "x1y2z3a4b5c",
+    "reference": "Exodus 4:3"
+  },
+  {
+    "answer": "Water turning into blood",
+    "id": 86,
+    "options": "[\r\n  \"Water turning into blood\",\r\n  \"Frogs\",\r\n  \"Locusts\",\r\n  \"Darkness\"\r\n]",
+    "question": "What was the first plague of Egypt?",
+    "question_id": "d6e7f8g9h0i",
+    "reference": "Exodus 7:20"
+  },
+  {
+    "answer": "Samuel",
+    "id": 87,
+    "options": "[\r\n  \"Samuel\",\r\n  \"Gideon\",\r\n  \"Deborah\",\r\n  \"Eli\"\r\n]",
+    "question": "Who was the last judge of Israel?",
+    "question_id": "j1k2l3m4n5o",
+    "reference": "1 Samuel 7:15"
+  },
+  {
+    "answer": "Nebuchadnezzar",
+    "id": 88,
+    "options": "[\r\n  \"Nebuchadnezzar\",\r\n  \"Darius\",\r\n  \"Cyrus\",\r\n  \"David\"\r\n]",
+    "question": "Which king had a dream interpreted by Daniel?",
+    "question_id": "p6q7r8s9t0u",
+    "reference": "Daniel 2:26-45"
+  },
+  {
+    "answer": "John",
+    "id": 89,
+    "options": "[\r\n  \"John\",\r\n  \"Peter\",\r\n  \"James\",\r\n  \"Andrew\"\r\n]",
+    "question": "Who was known as the disciple whom Jesus loved?",
+    "question_id": "v1w2x3y4z5a",
+    "reference": "John 13:23"
+  },
+  {
+    "answer": "Elijah",
+    "id": 90,
+    "options": "[\r\n  \"Elijah\",\r\n  \"Elisha\",\r\n  \"Isaiah\",\r\n  \"Jeremiah\"\r\n]",
+    "question": "Which prophet was taken to heaven in a chariot of fire?",
+    "question_id": "f6g7h8i9j0",
+    "reference": "2 Kings 2:11"
+  },
+  {
+    "answer": "Miriam",
+    "id": 91,
+    "options": "[\r\n  \"Miriam\",\r\n  \"Rebekah\",\r\n  \"Rachel\",\r\n  \"Deborah\"\r\n]",
+    "question": "What was the name of Moses’ sister?",
+    "question_id": "k1l2m3n4o5",
+    "reference": "Exodus 15:20"
+  },
+  {
+    "answer": "Joseph",
+    "id": 92,
+    "options": "[\r\n  \"Moses\",\r\n  \"Daniel\",\r\n  \"Joseph\",\r\n  \"Aaron\"\r\n]",
+    "question": "Who interpreted Pharaoh’s dreams in Egypt?",
+    "question_id": "p6q7r8s9t0",
+    "reference": "Genesis 41:15-16"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "What was the first thing God created?",
+    "options": "[\r\n  \"Light\",\r\n  \"Darkness\",\r\n  \"Water\",\r\n  \"Earth\"\r\n]",
+    "reference": "Genesis 1:3",
+    "answer": "Light"
+  },
+  {
+    "id": 2,
+    "question_id": "f6g7h8i9j0k",
+    "question": "What moved upon the face of the waters?",
+    "options": "[\r\n  \"The Spirit of God\",\r\n  \"Angels\",\r\n  \"The Earth\",\r\n  \"The Firmament\"\r\n]",
+    "reference": "Genesis 1:2",
+    "answer": "The Spirit of God"
+  },
+  {
+    "id": 3,
+    "question_id": "l1m2n3o4p5q",
+    "question": "Who was the first man created by God?",
+    "options": "[\r\n  \"Adam\",\r\n  \"Eve\",\r\n  \"Cain\",\r\n  \"Abel\"\r\n]",
+    "reference": "Genesis 1:27",
+    "answer": "Adam"
+  },
+  {
+    "id": 4,
+    "question_id": "m2n3o4p5q6r",
+    "question": "What did God create on the second day?",
+    "options": "[\r\n  \"The sky and the waters\",\r\n  \"Land and sea\",\r\n  \"Sun and moon\",\r\n  \"Animals and plants\"\r\n]",
+    "reference": "Genesis 1:6-8",
+    "answer": "The sky and the waters"
+  },
+  {
+    "id": 5,
+    "question_id": "n3o4p5q6r7s",
+    "question": "What did God create on the fifth day?",
+    "options": "[\r\n  \"Birds and fish\",\r\n  \"Animals\",\r\n  \"Man\",\r\n  \"Light and darkness\"\r\n]",
+    "reference": "Genesis 1:20-23",
+    "answer": "Birds and fish"
+  },
+  {
+    "id": 6,
+    "question_id": "o4p5q6r7s8t",
+    "question": "What did God do on the seventh day?",
+    "options": "[\r\n  \"Created man\",\r\n  \"Rested from His work\",\r\n  \"Created the animals\",\r\n  \"Separated light from darkness\"\r\n]",
+    "reference": "Genesis 2:2-3",
+    "answer": "Rested from His work"
+  },
+  {
+    "id": 7,
+    "question_id": "p5q6r7s8t9u",
+    "question": "How did God create man?",
+    "options": "[\r\n  \"From dust\",\r\n  \"From the earth\",\r\n  \"From the sea\",\r\n  \"From heaven\"\r\n]",
+    "reference": "Genesis 2:7",
+    "answer": "From dust"
+  },
+  {
+    "id": 8,
+    "question_id": "q6r7s8t9u0v",
+    "question": "Who was created in the image of God?",
+    "options": "[\r\n  \"Adam only\",\r\n  \"Both male and female\",\r\n  \"Eve only\",\r\n  \"Angels\"\r\n]",
+    "reference": "Genesis 1:26-27",
+    "answer": "Both male and female"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "What did God form man from?",
+    "options": "[\r\n  \"Dust of the ground\",\r\n  \"Clay\",\r\n  \"Stone\",\r\n  \"Water\"\r\n]",
+    "reference": "Genesis 2:7",
+    "answer": "Dust of the ground"
+  },
+  {
+    "id": 2,
+    "question_id": "f6g7h8i9j0k",
+    "question": "What did God breathe into man’s nostrils to give him life?",
+    "options": "[\r\n  \"Breath of life\",\r\n  \"Spirit of God\",\r\n  \"Soul of man\",\r\n  \"Air\"\r\n]",
+    "reference": "Genesis 2:7",
+    "answer": "Breath of life"
+  },
+  {
+    "id": 3,
+    "question_id": "l1m2n3o4p5q",
+    "question": "What was the name of the garden where God placed man?",
+    "options": "[\r\n  \"The Garden of Eden\",\r\n  \"The Garden of Life\",\r\n  \"The Garden of Paradise\",\r\n  \"The Garden of Creation\"\r\n]",
+    "reference": "Genesis 2:8",
+    "answer": "The Garden of Eden"
+  },
+  {
+    "id": 4,
+    "question_id": "r1s2t3u4v5w",
+    "question": "What tree in the Garden of Eden was forbidden for man to eat from?",
+    "options": "[\r\n  \"Tree of Life\",\r\n  \"Tree of Knowledge of Good and Evil\",\r\n  \"Tree of Wisdom\",\r\n  \"Tree of Righteousness\"\r\n]",
+    "reference": "Genesis 2:17",
+    "answer": "Tree of Knowledge of Good and Evil"
+  },
+  {
+    "id": 5,
+    "question_id": "x1y2z3a4b5c",
+    "question": "What did God say was not good about man in the garden?",
+    "options": "[\r\n  \"It is not good for man to be alone\",\r\n  \"It is not good for man to be idle\",\r\n  \"It is not good for man to be unclean\",\r\n  \"It is not good for man to be weak\"\r\n]",
+    "reference": "Genesis 2:18",
+    "answer": "It is not good for man to be alone"
+  },
+  {
+    "id": 6,
+    "question_id": "d1e2f3g4h5i",
+    "question": "What did God create to be a helper for man?",
+    "options": "[\r\n  \"A woman\",\r\n  \"A child\",\r\n  \"A servant\",\r\n  \"An animal\"\r\n]",
+    "reference": "Genesis 2:18",
+    "answer": "A woman"
+  },
+  {
+    "id": 7,
+    "question_id": "j1k2l3m4n5o",
+    "question": "From what part of Adam did God create Eve?",
+    "options": "[\r\n  \"His rib\",\r\n  \"His heart\",\r\n  \"His bone\",\r\n  \"His flesh\"\r\n]",
+    "reference": "Genesis 2:21-22",
+    "answer": "His rib"
+  },
+  {
+    "id": 8,
+    "question_id": "p1q2r3s4t5u",
+    "question": "What did Adam call his wife?",
+    "options": "[\r\n  \"Eve\",\r\n  \"Sarah\",\r\n  \"Hannah\",\r\n  \"Rachel\"\r\n]",
+    "reference": "Genesis 2:23",
+    "answer": "Eve"
+  },
+  {
+    "id": 9,
+    "question_id": "v1w2x3y4z5a",
+    "question": "What is the reason that a man leaves his father and mother?",
+    "options": "[\r\n  \"To marry his wife\",\r\n  \"To inherit land\",\r\n  \"To follow God’s commandments\",\r\n  \"To become independent\"\r\n]",
+    "reference": "Genesis 2:24",
+    "answer": "To marry his wife"
+  },
+  {
+    "id": 10,
+    "question_id": "b1c2d3e4f5g",
+    "question": "What were Adam and Eve’s condition before they ate the fruit?",
+    "options": "[\r\n  \"They were naked and unashamed\",\r\n  \"They were clothed with light\",\r\n  \"They were clothed in animal skins\",\r\n  \"They were covered with leaves\"\r\n]",
+    "reference": "Genesis 2:25",
+    "answer": "They were naked and unashamed"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who tempted Eve to eat the forbidden fruit?",
+    "options": "[\r\n  \"The serpent\",\r\n  \"The angel\",\r\n  \"Cain\",\r\n  \"Satan\"\r\n]",
+    "reference": "Genesis 3:1",
+    "answer": "The serpent"
+  },
+  {
+    "id": 2,
+    "question_id": "f6g7h8i9j0k",
+    "question": "What did the serpent say to Eve about eating the fruit?",
+    "options": "[\r\n  \"You will not surely die\",\r\n  \"You will become like God\",\r\n  \"It will bring you wisdom\",\r\n  \"It will make you rich\"\r\n]",
+    "reference": "Genesis 3:4-5",
+    "answer": "You will not surely die"
+  },
+  {
+    "id": 3,
+    "question_id": "l1m2n3o4p5q",
+    "question": "What did Eve do after the serpent tempted her?",
+    "options": "[\r\n  \"She ate the fruit\",\r\n  \"She prayed\",\r\n  \"She ran away\",\r\n  \"She told Adam to eat it\"\r\n]",
+    "reference": "Genesis 3:6",
+    "answer": "She ate the fruit"
+  },
+  {
+    "id": 4,
+    "question_id": "r1s2t3u4v5w",
+    "question": "Who did Eve give the fruit to after eating it?",
+    "options": "[\r\n  \"Her husband, Adam\",\r\n  \"Her son, Cain\",\r\n  \"Her friend\",\r\n  \"The angel\"\r\n]",
+    "reference": "Genesis 3:6",
+    "answer": "Her husband, Adam"
+  },
+  {
+    "id": 5,
+    "question_id": "x1y2z3a4b5c",
+    "question": "What happened to Adam and Eve after they ate the fruit?",
+    "options": "[\r\n  \"Their eyes were opened\",\r\n  \"They became powerful\",\r\n  \"They became rich\",\r\n  \"They fell asleep\"\r\n]",
+    "reference": "Genesis 3:7",
+    "answer": "Their eyes were opened"
+  },
+  {
+    "id": 6,
+    "question_id": "d1e2f3g4h5i",
+    "question": "What did Adam and Eve realize after eating the fruit?",
+    "options": "[\r\n  \"They were naked\",\r\n  \"They were hungry\",\r\n  \"They were afraid\",\r\n  \"They were lost\"\r\n]",
+    "reference": "Genesis 3:7",
+    "answer": "They were naked"
+  },
+  {
+    "id": 7,
+    "question_id": "j1k2l3m4n5o",
+    "question": "What did Adam and Eve do when they realized they were naked?",
+    "options": "[\r\n  \"They sewed fig leaves together\",\r\n  \"They covered themselves with animal skins\",\r\n  \"They ran to the river\",\r\n  \"They built a shelter\"\r\n]",
+    "reference": "Genesis 3:7",
+    "answer": "They sewed fig leaves together"
+  },
+  {
+    "id": 8,
+    "question_id": "p1q2r3s4t5u",
+    "question": "When God called to Adam, what was his response?",
+    "options": "[\r\n  \"I was afraid because I was naked\",\r\n  \"I am here, Lord\",\r\n  \"I have sinned\",\r\n  \"I am not worthy\"\r\n]",
+    "reference": "Genesis 3:10",
+    "answer": "I was afraid because I was naked"
+  },
+  {
+    "id": 9,
+    "question_id": "v1w2x3y4z5a",
+    "question": "What did God ask Adam after he ate the fruit?",
+    "options": "[\r\n  \"Where are you?\",\r\n  \"What have you done?\",\r\n  \"Why did you disobey?\",\r\n  \"Do you love me?\"\r\n]",
+    "reference": "Genesis 3:9",
+    "answer": "Where are you?"
+  },
+  {
+    "id": 10,
+    "question_id": "b1c2d3e4f5g",
+    "question": "What did Adam say when God asked him about eating the fruit?",
+    "options": "[\r\n  \"The woman whom You gave to be with me, she gave me of the tree\",\r\n  \"I ate it because I was tempted\",\r\n  \"I did not eat it\",\r\n  \"I was deceived by the serpent\"\r\n]",
+    "reference": "Genesis 3:12",
+    "answer": "The woman whom You gave to be with me, she gave me of the tree"
+  },
+  {
+    "id": 11,
+    "question_id": "h1i2j3k4l5m",
+    "question": "What did God say to the serpent as a result of his role in the fall of man?",
+    "options": "[\r\n  \"Cursed are you above all livestock\",\r\n  \"You will be cast into the abyss\",\r\n  \"You will be destroyed by man\",\r\n  \"You will be cast out of the garden\"\r\n]",
+    "reference": "Genesis 3:14",
+    "answer": "Cursed are you above all livestock"
+  },
+  {
+    "id": 12,
+    "question_id": "n1o2p3q4r5s",
+    "question": "What did God tell the woman would be the result of her pain in childbirth?",
+    "options": "[\r\n  \"I will greatly multiply your pain in childbirth\",\r\n  \"You will bear children in pain\",\r\n  \"Your sorrow will be increased\",\r\n  \"You will suffer as you labor\"\r\n]",
+    "reference": "Genesis 3:16",
+    "answer": "I will greatly multiply your pain in childbirth"
+  },
+  {
+    "id": 13,
+    "question_id": "t1u2v3w4x5y",
+    "question": "What did God say about Adam’s work as a result of his sin?",
+    "options": "[\r\n  \"Cursed is the ground because of you\",\r\n  \"You will toil in labor\",\r\n  \"The earth will be unfruitful\",\r\n  \"You will no longer enjoy peace\"\r\n]",
+    "reference": "Genesis 3:17",
+    "answer": "Cursed is the ground because of you"
+  },
+  {
+    "id": 14,
+    "question_id": "z1a2b3c4d5e",
+    "question": "What did God say about Adam and Eve after they ate the fruit?",
+    "options": "[\r\n  \"They have become like one of us, knowing good and evil\",\r\n  \"They are unworthy of the garden\",\r\n  \"They will surely die\",\r\n  \"They must leave the garden\"\r\n]",
+    "reference": "Genesis 3:22",
+    "answer": "They have become like one of us, knowing good and evil"
+  },
+  {
+    "id": 15,
+    "question_id": "f1g2h3i4j5k",
+    "question": "What did God do to prevent Adam and Eve from eating from the Tree of Life?",
+    "options": "[\r\n  \"He placed cherubim and a flaming sword at the entrance to the garden\",\r\n  \"He sealed the garden with a stone door\",\r\n  \"He sent angels to guard it\",\r\n  \"He removed the tree from the garden\"\r\n]",
+    "reference": "Genesis 3:24",
+    "answer": "He placed cherubim and a flaming sword at the entrance to the garden"
+  },
+  {
+    "id": 1,
+    "question_id": "d1e2f3g4h5i",
+    "question": "Why did God accept Abel’s offering but reject Cain’s?",
+    "options": "[\r\n  \"Abel gave the best of his flock, but Cain didn’t.\",\r\n  \"Abel offered a lamb, but Cain offered crops.\",\r\n  \"God favored Abel over Cain.\",\r\n  \"Abel prayed before offering, but Cain did not.\"\r\n]",
+    "reference": "Genesis 4:3-5",
+    "answer": "Abel gave the best of his flock, but Cain didn’t."
+  },
+  {
+    "id": 2,
+    "question_id": "j6k7l8m9n0o",
+    "question": "What was Cain’s punishment for killing Abel?",
+    "options": "[\r\n  \"He was cast away from the land.\",\r\n  \"He became a wanderer.\",\r\n  \"God marked him to protect him.\",\r\n  \"Both A and B\"\r\n]",
+    "reference": "Genesis 4:9-15",
+    "answer": "Both A and B"
+  },
+  {
+    "id": 3,
+    "question_id": "p1q2r3s4t5u",
+    "question": "Who was the first person to build a city according to Genesis 4?",
+    "options": "[\r\n  \"Cain\",\r\n  \"Enoch\",\r\n  \"Seth\",\r\n  \"Lamech\"\r\n]",
+    "reference": "Genesis 4:17",
+    "answer": "Cain"
+  },
+  {
+    "id": 4,
+    "question_id": "v1w2x3y4z5a",
+    "question": "What was the name of Cain's son?",
+    "options": "[\r\n  \"Enoch\",\r\n  \"Jabal\",\r\n  \"Tubal-Cain\",\r\n  \"Lamech\"\r\n]",
+    "reference": "Genesis 4:17",
+    "answer": "Enoch"
+  },
+  {
+    "id": 5,
+    "question_id": "b1c2d3e4f5g",
+    "question": "Who was Lamech's father?",
+    "options": "[\r\n  \"Enoch\",\r\n  \"Cain\",\r\n  \"Seth\",\r\n  \"Methuselah\"\r\n]",
+    "reference": "Genesis 4:18",
+    "answer": "Enoch"
+  },
+  {
+    "id": 6,
+    "question_id": "h1i2j3k4l5m",
+    "question": "What did Lamech say to his wives in Genesis 4:23?",
+    "options": "[\r\n  \"I have killed a man for wounding me.\",\r\n  \"I have taken two wives.\",\r\n  \"I have built a city.\",\r\n  \"I will avenge Cain sevenfold.\"\r\n]",
+    "reference": "Genesis 4:23",
+    "answer": "I have killed a man for wounding me."
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5g",
+    "question": "Who was the father of Methuselah?",
+    "options": "[\r\n  \"Lamech\",\r\n  \"Adam\",\r\n  \"Seth\",\r\n  \"Enoch\"\r\n]",
+    "reference": "Genesis 5:25",
+    "answer": "Lamech"
+  },
+  {
+    "id": 2,
+    "question_id": "b2d3c4e5f6h",
+    "question": "How old was Noah when he became the father of Shem, Ham, and Japheth?",
+    "options": "[\r\n  \"500\",\r\n  \"600\",\r\n  \"700\",\r\n  \"800\"\r\n]",
+    "reference": "Genesis 5:32",
+    "answer": "500"
+  },
+  {
+    "id": 3,
+    "question_id": "c3e4f5g6h7i",
+    "question": "How long did Jared live?",
+    "options": "[\r\n  \"962\",\r\n  \"960\",\r\n  \"950\",\r\n  \"965\"\r\n]",
+    "reference": "Genesis 5:20",
+    "answer": "962"
+  },
+  {
+    "id": 4,
+    "question_id": "d4f5g6h7i8j",
+    "question": "Who walked with God and was taken by God?",
+    "options": "[\r\n  \"Enoch\",\r\n  \"Noah\",\r\n  \"Seth\",\r\n  \"Methuselah\"\r\n]",
+    "reference": "Genesis 5:24",
+    "answer": "Enoch"
+  },
+  {
+    "id": 5,
+    "question_id": "e5g6h7i8j9k",
+    "question": "How long did Adam live?",
+    "options": "[\r\n  \"930\",\r\n  \"900\",\r\n  \"950\",\r\n  \"960\"\r\n]",
+    "reference": "Genesis 5:5",
+    "answer": "930"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5l",
+    "question": "Who were the sons of God that saw the daughters of men?",
+    "options": "[\r\n  \"The Nephilim\",\r\n  \"The angels\",\r\n  \"The descendants of Seth\",\r\n  \"The descendants of Cain\"\r\n]",
+    "reference": "Genesis 6:2",
+    "answer": "The sons of God"
+  },
+  {
+    "id": 2,
+    "question_id": "b2d3c4e5f6m",
+    "question": "How long did God say His Spirit would strive with man?",
+    "options": "[\r\n  \"120 years\",\r\n  \"100 years\",\r\n  \"150 years\",\r\n  \"200 years\"\r\n]",
+    "reference": "Genesis 6:3",
+    "answer": "120 years"
+  },
+  {
+    "id": 3,
+    "question_id": "c3e4f5g6h7n",
+    "question": "Who was the only righteous man in his generation according to Genesis 6?",
+    "options": "[\r\n  \"Enoch\",\r\n  \"Methuselah\",\r\n  \"Noah\",\r\n  \"Seth\"\r\n]",
+    "reference": "Genesis 6:9",
+    "answer": "Noah"
+  },
+  {
+    "id": 4,
+    "question_id": "d4f5g6h7i8o",
+    "question": "What did God tell Noah to build to save himself and his family from the flood?",
+    "options": "[\r\n  \"An ark\",\r\n  \"A ship\",\r\n  \"A boat\",\r\n  \"A raft\"\r\n]",
+    "reference": "Genesis 6:14",
+    "answer": "An ark"
+  },
+  {
+    "id": 5,
+    "question_id": "e5g6h7i8j9p",
+    "question": "How many of each clean animal did Noah bring into the ark?",
+    "options": "[\r\n  \"Seven pairs\",\r\n  \"Two pairs\",\r\n  \"Five pairs\",\r\n  \"One pair\"\r\n]",
+    "reference": "Genesis 6:19-20",
+    "answer": "Seven pairs"
+  },
+  {
+    "id": 6,
+    "question_id": "f6g7h8i9j0q",
+    "question": "What did Noah do after the floodwaters receded?",
+    "options": "[\r\n  \"He built an altar to the Lord\",\r\n  \"He planted a vineyard\",\r\n  \"He began farming\",\r\n  \"He offered a sacrifice\"\r\n]",
+    "reference": "Genesis 8:20",
+    "answer": "He built an altar to the Lord"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e7f",
+    "question": "How old was Noah when the floodwaters came upon the earth?",
+    "options": "[\r\n  \"600 years\",\r\n  \"500 years\",\r\n  \"700 years\",\r\n  \"800 years\"\r\n]",
+    "reference": "Genesis 7:6",
+    "answer": "600 years"
+  },
+  {
+    "id": 2,
+    "question_id": "b2c3d4e5f7g",
+    "question": "How many days did the floodwaters cover the earth?",
+    "options": "[\r\n  \"40 days and 40 nights\",\r\n  \"30 days and 30 nights\",\r\n  \"50 days and 50 nights\",\r\n  \"60 days and 60 nights\"\r\n]",
+    "reference": "Genesis 7:12",
+    "answer": "40 days and 40 nights"
+  },
+  {
+    "id": 3,
+    "question_id": "c3d4e5f6g7h",
+    "question": "How many people were saved in the ark?",
+    "options": "[\r\n  \"Eight\",\r\n  \"Ten\",\r\n  \"Six\",\r\n  \"Twelve\"\r\n]",
+    "reference": "Genesis 7:13",
+    "answer": "Eight"
+  },
+  {
+    "id": 4,
+    "question_id": "d4e5f6g7h8i",
+    "question": "How many clean animals did Noah take on the ark?",
+    "options": "[\r\n  \"Seven pairs\",\r\n  \"Two pairs\",\r\n  \"Three pairs\",\r\n  \"Five pairs\"\r\n]",
+    "reference": "Genesis 7:2",
+    "answer": "Seven pairs"
+  },
+  {
+    "id": 5,
+    "question_id": "e5f6g7h8i9j",
+    "question": "What was the sign that God would never destroy the earth by a flood again?",
+    "options": "[\r\n  \"A rainbow\",\r\n  \"A dove\",\r\n  \"A pillar of fire\",\r\n  \"A cloud\"\r\n]",
+    "reference": "Genesis 9:13",
+    "answer": "A rainbow"
+  },
+  {
+    "id": 6,
+    "question_id": "f6g7h8i9j0k",
+    "question": "How long did the waters prevail on the earth during the flood?",
+    "options": "[\r\n  \"150 days\",\r\n  \"200 days\",\r\n  \"40 days\",\r\n  \"120 days\"\r\n]",
+    "reference": "Genesis 7:24",
+    "answer": "150 days"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d8e5f",
+    "question": "How long did the floodwaters recede from the earth?",
+    "options": "[\r\n  \"150 days\",\r\n  \"200 days\",\r\n  \"40 days\",\r\n  \"120 days\"\r\n]",
+    "reference": "Genesis 8:3",
+    "answer": "150 days"
+  },
+  {
+    "id": 2,
+    "question_id": "b2c3d4e8f7g",
+    "question": "What bird did Noah first send out to check if the waters had receded?",
+    "options": "[\r\n  \"A raven\",\r\n  \"A dove\",\r\n  \"A sparrow\",\r\n  \"A crow\"\r\n]",
+    "reference": "Genesis 8:6-7",
+    "answer": "A raven"
+  },
+  {
+    "id": 3,
+    "question_id": "c3d4e8f7g9h",
+    "question": "What was the second bird Noah sent out to check for dry land?",
+    "options": "[\r\n  \"A dove\",\r\n  \"A raven\",\r\n  \"A pigeon\",\r\n  \"A swallow\"\r\n]",
+    "reference": "Genesis 8:8-9",
+    "answer": "A dove"
+  },
+  {
+    "id": 4,
+    "question_id": "d4e5f8g7h9i",
+    "question": "How many times did Noah send out the dove before it returned with an olive leaf?",
+    "options": "[\r\n  \"Three times\",\r\n  \"Two times\",\r\n  \"Four times\",\r\n  \"Once\"\r\n]",
+    "reference": "Genesis 8:10-11",
+    "answer": "Three times"
+  },
+  {
+    "id": 5,
+    "question_id": "e5f6g8h9i0j",
+    "question": "What was the first thing Noah did when he came out of the ark?",
+    "options": "[\r\n  \"Built an altar\",\r\n  \"Planted a vineyard\",\r\n  \"Sacrificed an animal\",\r\n  \"Prayed to God\"\r\n]",
+    "reference": "Genesis 8:20",
+    "answer": "Built an altar"
+  },
+  {
+    "id": 6,
+    "question_id": "f6g7h8i9j1k",
+    "question": "What was God's promise to Noah after the flood?",
+    "options": "[\r\n  \"He would never again curse the ground because of man\",\r\n  \"He would never again send a flood to destroy the earth\",\r\n  \"He would always bless Noah’s descendants\",\r\n  \"He would give Noah a new covenant\"\r\n]",
+    "reference": "Genesis 8:21-22",
+    "answer": "He would never again send a flood to destroy the earth"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c9d9e5f",
+    "question": "What was God's covenant with Noah after the flood?",
+    "options": "[\r\n  \"He would never destroy the earth by water again\",\r\n  \"He would give Noah dominion over all animals\",\r\n  \"He would bless Noah’s descendants\",\r\n  \"He would make Noah the father of many nations\"\r\n]",
+    "reference": "Genesis 9:11",
+    "answer": "He would never destroy the earth by water again"
+  },
+  {
+    "id": 2,
+    "question_id": "b2c3d9e8f7g",
+    "question": "What sign did God give to Noah as a sign of His covenant?",
+    "options": "[\r\n  \"A dove\",\r\n  \"A rainbow\",\r\n  \"A cloud\",\r\n  \"A star\"\r\n]",
+    "reference": "Genesis 9:13",
+    "answer": "A rainbow"
+  },
+  {
+    "id": 3,
+    "question_id": "c3d4e9f7g8h",
+    "question": "What did God command Noah and his sons to do after the flood?",
+    "options": "[\r\n  \"Be fruitful and multiply, and fill the earth\",\r\n  \"Build an altar to God\",\r\n  \"Sacrifice a burnt offering\",\r\n  \"Pray to God\"\r\n]",
+    "reference": "Genesis 9:1",
+    "answer": "Be fruitful and multiply, and fill the earth"
+  },
+  {
+    "id": 4,
+    "question_id": "d4e5f9g7h9i",
+    "question": "What did God say about man's relationship with animals?",
+    "options": "[\r\n  \"Man shall have dominion over all animals\",\r\n  \"Man shall not eat animals\",\r\n  \"Man shall be at peace with animals\",\r\n  \"Animals shall serve man\"\r\n]",
+    "reference": "Genesis 9:2",
+    "answer": "Man shall have dominion over all animals"
+  },
+  {
+    "id": 5,
+    "question_id": "e5f6g9h8i0j",
+    "question": "What dietary instruction did God give Noah and his sons?",
+    "options": "[\r\n  \"You may eat animals, but not their blood\",\r\n  \"You shall not eat meat of unclean animals\",\r\n  \"You must only eat vegetables\",\r\n  \"You may eat any meat, but avoid pork\"\r\n]",
+    "reference": "Genesis 9:3-4",
+    "answer": "You may eat animals, but not their blood"
+  },
+  {
+    "id": 6,
+    "question_id": "f6g7h9i1j0k",
+    "question": "What did Noah plant after the flood?",
+    "options": "[\r\n  \"A vineyard\",\r\n  \"An olive tree\",\r\n  \"A fig tree\",\r\n  \"A garden of herbs\"\r\n]",
+    "reference": "Genesis 9:20",
+    "answer": "A vineyard"
+  },
+  {
+    "id": 7,
+    "question_id": "g7h8i9j0k1l",
+    "question": "What happened to Noah after he drank wine from his vineyard?",
+    "options": "[\r\n  \"He became drunk and lay uncovered in his tent\",\r\n  \"He fell asleep in his vineyard\",\r\n  \"He offered a sacrifice to God\",\r\n  \"He gave thanks for the new harvest\"\r\n]",
+    "reference": "Genesis 9:21",
+    "answer": "He became drunk and lay uncovered in his tent"
+  },
+  {
+    "id": 8,
+    "question_id": "h8i9j0k1l2m",
+    "question": "How did Ham, Noah's son, respond when he saw his father naked?",
+    "options": "[\r\n  \"He told his brothers\",\r\n  \"He covered him up\",\r\n  \"He laughed at him\",\r\n  \"He rebuked his father\"\r\n]",
+    "reference": "Genesis 9:22",
+    "answer": "He told his brothers"
+  },
+  {
+    "id": 9,
+    "question_id": "i9j0k1l2m3n",
+    "question": "What was Noah's curse upon Ham's son?",
+    "options": "[\r\n  \"Cursed be Canaan, a servant of servants\",\r\n  \"Cursed be Ham, the father of Canaan\",\r\n  \"Cursed be Noah’s lineage\",\r\n  \"Cursed be the earth\"\r\n]",
+    "reference": "Genesis 9:25",
+    "answer": "Cursed be Canaan, a servant of servants"
+  },
+  {
+    "id": 1,
+    "question_id": "b1c2d3e4f5g",
+    "question": "Who were the sons of Noah after the flood?",
+    "options": "[\r\n  \"Shem, Ham, and Japheth\",\r\n  \"Abraham, Isaac, and Jacob\",\r\n  \"Cain, Abel, and Seth\",\r\n  \"Moses, Aaron, and Joshua\"\r\n]",
+    "reference": "Genesis 10:1",
+    "answer": "Shem, Ham, and Japheth"
+  },
+  {
+    "id": 2,
+    "question_id": "h6i7j8k9l0m",
+    "question": "What event caused the division of nations in Genesis 10?",
+    "options": "[\r\n  \"The Flood\",\r\n  \"The Tower of Babel\",\r\n  \"The Exodus\",\r\n  \"The Battle of Jericho\"\r\n]",
+    "reference": "Genesis 10:32",
+    "answer": "The Flood"
+  },
+  {
+    "id": 3,
+    "question_id": "p1q2r3s4t5u",
+    "question": "Which of the following is a descendant of Ham?",
+    "options": "[\r\n  \"Cush\",\r\n  \"Japheth\",\r\n  \"Shem\",\r\n  \"Abraham\"\r\n]",
+    "reference": "Genesis 10:6",
+    "answer": "Cush"
+  },
+  {
+    "id": 4,
+    "question_id": "v1w2x3y4z5a",
+    "question": "Who was the father of Nimrod?",
+    "options": "[\r\n  \"Cush\",\r\n  \"Shem\",\r\n  \"Ham\",\r\n  \"Japheth\"\r\n]",
+    "reference": "Genesis 10:8",
+    "answer": "Cush"
+  },
+  {
+    "id": 5,
+    "question_id": "b2c3d4e5f6g",
+    "question": "Which nation did the descendants of Japheth primarily represent?",
+    "options": "[\r\n  \"The Medes\",\r\n  \"The Greeks\",\r\n  \"The Persians\",\r\n  \"The Romans\"\r\n]",
+    "reference": "Genesis 10:2-5",
+    "answer": "The Greeks"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Why did the people of Babel want to build a tower?",
+    "options": "[\r\n  \"To make a name for themselves\",\r\n  \"To reach the heavens\",\r\n  \"To find shelter from the flood\",\r\n  \"To prove their strength\"\r\n]",
+    "reference": "Genesis 11:4",
+    "answer": "To make a name for themselves"
+  },
+  {
+    "id": 2,
+    "question_id": "b1c2d3e4f5g",
+    "question": "What did God do to stop the construction of the Tower of Babel?",
+    "options": "[\r\n  \"He scattered the people across the earth\",\r\n  \"He destroyed the tower with fire\",\r\n  \"He sent a flood\",\r\n  \"He confused their languages\"\r\n]",
+    "reference": "Genesis 11:7",
+    "answer": "He confused their languages"
+  },
+  {
+    "id": 3,
+    "question_id": "c1d2e3f4g5h",
+    "question": "What language did the people of Babel originally speak?",
+    "options": "[\r\n  \"One language\",\r\n  \"Many languages\",\r\n  \"Hebrew\",\r\n  \"Aramaic\"\r\n]",
+    "reference": "Genesis 11:1",
+    "answer": "One language"
+  },
+  {
+    "id": 4,
+    "question_id": "d1e2f3g4h5i",
+    "question": "Who was the ancestor of Abram (Abraham) mentioned in Genesis 11?",
+    "options": "[\r\n  \"Shem\",\r\n  \"Terah\",\r\n  \"Noah\",\r\n  \"Lamech\"\r\n]",
+    "reference": "Genesis 11:26",
+    "answer": "Terah"
+  },
+  {
+    "id": 5,
+    "question_id": "e1f2g3h4i5j",
+    "question": "Where did Terah and his family live before they went to Canaan?",
+    "options": "[\r\n  \"Ur of the Chaldeans\",\r\n  \"Babylon\",\r\n  \"Haran\",\r\n  \"Jerusalem\"\r\n]",
+    "reference": "Genesis 11:31",
+    "answer": "Ur of the Chaldeans"
+  },
+  {
+    "id": 1,
+    "question_id": "f1g2h3i4j5k",
+    "question": "What was the command God gave to Abram in Genesis 12?",
+    "options": "[\r\n  \"Leave your country and go to a land I will show you\",\r\n  \"Build an altar to the Lord\",\r\n  \"Offer a sacrifice to God\",\r\n  \"Go to Egypt\"\r\n]",
+    "reference": "Genesis 12:1",
+    "answer": "Leave your country and go to a land I will show you"
+  },
+  {
+    "id": 2,
+    "question_id": "g1h2i3j4k5l",
+    "question": "What promises did God make to Abram in Genesis 12?",
+    "options": "[\r\n  \"I will make you a great nation, bless you, and make your name great\",\r\n  \"I will give you the land of Canaan\",\r\n  \"I will make your descendants as numerous as the stars\",\r\n  \"I will protect you from your enemies\"\r\n]",
+    "reference": "Genesis 12:2-3",
+    "answer": "I will make you a great nation, bless you, and make your name great"
+  },
+  {
+    "id": 3,
+    "question_id": "h1i2j3k4l5m",
+    "question": "What did Abram take with him when he left Haran?",
+    "options": "[\r\n  \"His wife Sarai, his nephew Lot, and all their possessions\",\r\n  \"His wife Sarai and his servants\",\r\n  \"His family and cattle\",\r\n  \"Only his wife Sarai\"\r\n]",
+    "reference": "Genesis 12:5",
+    "answer": "His wife Sarai, his nephew Lot, and all their possessions"
+  },
+  {
+    "id": 4,
+    "question_id": "i1j2k3l4m5n",
+    "question": "What was the name of the place Abram built an altar to the Lord in Canaan?",
+    "options": "[\r\n  \"Shechem\",\r\n  \"Bethel\",\r\n  \"Hebron\",\r\n  \"Jericho\"\r\n]",
+    "reference": "Genesis 12:6-7",
+    "answer": "Shechem"
+  },
+  {
+    "id": 5,
+    "question_id": "j1k2l3m4n5o",
+    "question": "Why did Abram go to Egypt?",
+    "options": "[\r\n  \"Because of a famine in the land of Canaan\",\r\n  \"Because God told him to go\",\r\n  \"To find a wife for Lot\",\r\n  \"To seek refuge from his enemies\"\r\n]",
+    "reference": "Genesis 12:10",
+    "answer": "Because of a famine in the land of Canaan"
+  }
+]
