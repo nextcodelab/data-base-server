@@ -1422,5 +1422,1181 @@
     "options": "[\r\n  \"Because of a famine in the land of Canaan\",\r\n  \"Because God told him to go\",\r\n  \"To find a wife for Lot\",\r\n  \"To seek refuge from his enemies\"\r\n]",
     "reference": "Genesis 12:10",
     "answer": "Because of a famine in the land of Canaan"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Where did Abram go after leaving Egypt?",
+    "options": "[\r\n  \"Canaan\",\r\n  \"Bethel\",\r\n  \"Haran\",\r\n  \"Moab\"\r\n]",
+    "reference": "Genesis 13:3",
+    "answer": "Bethel"
+  },
+  {
+    "id": 2,
+    "question_id": "f6g7h8i9j0k",
+    "question": "Why did Abram and Lot separate?",
+    "options": "[\r\n  \"They had a disagreement\",\r\n  \"Their herdsmen quarreled\",\r\n  \"Lot wanted to go to Egypt\",\r\n  \"God commanded them to separate\"\r\n]",
+    "reference": "Genesis 13:6-7",
+    "answer": "Their herdsmen quarreled"
+  },
+  {
+    "id": 3,
+    "question_id": "l1m2n3o4p5q",
+    "question": "Which land did Lot choose for himself?",
+    "options": "[\r\n  \"The land of Canaan\",\r\n  \"The plains of Jordan\",\r\n  \"The mountains of Seir\",\r\n  \"The land of Goshen\"\r\n]",
+    "reference": "Genesis 13:10-11",
+    "answer": "The plains of Jordan"
+  },
+  {
+    "id": 4,
+    "question_id": "r6s7t8u9v0w",
+    "question": "What did God promise to give Abram after Lot left?",
+    "options": "[\r\n  \"A great name\",\r\n  \"All the land he could see\",\r\n  \"A multitude of descendants\",\r\n  \"Both B and C\"\r\n]",
+    "reference": "Genesis 13:14-16",
+    "answer": "Both B and C"
+  },
+  {
+    "id": 1,
+    "question_id": "b1c2d3e4f5g",
+    "question": "What new name did God give to Abram?",
+    "options": "[\r\n  \"Abraham\",\r\n  \"Isaac\",\r\n  \"Israel\",\r\n  \"Jacob\"\r\n]",
+    "reference": "Genesis 17:5",
+    "answer": "Abraham"
+  },
+  {
+    "id": 2,
+    "question_id": "c7d8e9f0g1h",
+    "question": "What was the covenant sign that God gave to Abraham?",
+    "options": "[\r\n  \"Circumcision\",\r\n  \"A rainbow\",\r\n  \"A burning bush\",\r\n  \"A star in the sky\"\r\n]",
+    "reference": "Genesis 17:10-11",
+    "answer": "Circumcision"
+  },
+  {
+    "id": 3,
+    "question_id": "h2i3j4k5l6m",
+    "question": "What did God promise Abraham regarding his descendants?",
+    "options": "[\r\n  \"They would be as numerous as the stars\",\r\n  \"They would be rulers of Egypt\",\r\n  \"They would never face hardship\",\r\n  \"They would build a great city\"\r\n]",
+    "reference": "Genesis 17:6-7",
+    "answer": "They would be as numerous as the stars"
+  },
+  {
+    "id": 4,
+    "question_id": "n1o2p3q4r5s",
+    "question": "At what age was Abraham circumcised?",
+    "options": "[\r\n  \"99 years old\",\r\n  \"100 years old\",\r\n  \"80 years old\",\r\n  \"75 years old\"\r\n]",
+    "reference": "Genesis 17:24",
+    "answer": "99 years old"
+  },
+  {
+    "id": 5,
+    "question_id": "t6u7v8w9x0y",
+    "question": "What name did God give to Abraham's wife Sarai?",
+    "options": "[\r\n  \"Sarah\",\r\n  \"Rachel\",\r\n  \"Rebekah\",\r\n  \"Leah\"\r\n]",
+    "reference": "Genesis 17:15",
+    "answer": "Sarah"
+  },
+  {
+    "id": 6,
+    "question_id": "z1a2b3c4d5e",
+    "question": "What did Abraham do when God promised him a son through Sarah?",
+    "options": "[\r\n  \"He laughed\",\r\n  \"He prayed\",\r\n  \"He built an altar\",\r\n  \"He doubted\"\r\n]",
+    "reference": "Genesis 17:17",
+    "answer": "He laughed"
+  },
+  {
+    "id": 7,
+    "question_id": "f6g7h8i9j0k",
+    "question": "What name did God say Abraham's son would be called?",
+    "options": "[\r\n  \"Isaac\",\r\n  \"Ishmael\",\r\n  \"Jacob\",\r\n  \"Esau\"\r\n]",
+    "reference": "Genesis 17:19",
+    "answer": "Isaac"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who visited Abraham in the form of three men?",
+    "options": "[\r\n  \"The Lord and two angels\",\r\n  \"Three prophets\",\r\n  \"Three travelers\",\r\n  \"Three kings\"\r\n]",
+    "reference": "Genesis 18:1-2",
+    "answer": "The Lord and two angels"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Sarah do when she heard she would have a son?",
+    "options": "[\r\n  \"She laughed\",\r\n  \"She cried\",\r\n  \"She prayed\",\r\n  \"She doubted\"\r\n]",
+    "reference": "Genesis 18:12",
+    "answer": "She laughed"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "Why did Abraham plead with God regarding Sodom and Gomorrah?",
+    "options": "[\r\n  \"He wanted to save Lot\",\r\n  \"He loved the city\",\r\n  \"He was testing God\",\r\n  \"He wanted to move there\"\r\n]",
+    "reference": "Genesis 18:23-33",
+    "answer": "He wanted to save Lot"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "How many righteous people did Abraham initially ask God to spare Sodom for?",
+    "options": "[\r\n  \"50\",\r\n  \"10\",\r\n  \"5\",\r\n  \"100\"\r\n]",
+    "reference": "Genesis 18:24-26",
+    "answer": "50"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What was Sarah’s reaction when God questioned her about laughing?",
+    "options": "[\r\n  \"She denied it\",\r\n  \"She admitted it\",\r\n  \"She ran away\",\r\n  \"She apologized\"\r\n]",
+    "reference": "Genesis 18:15",
+    "answer": "She denied it"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who visited Lot in Sodom?",
+    "options": "[\r\n  \"Two angels\",\r\n  \"Three men\",\r\n  \"The Lord\",\r\n  \"An army of soldiers\"\r\n]",
+    "reference": "Genesis 19:1",
+    "answer": "Two angels"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did the men of Sodom want to do to Lot's guests?",
+    "options": "[\r\n  \"Kill them\",\r\n  \"Steal from them\",\r\n  \"Make them slaves\",\r\n  \"Hurt them\"\r\n]",
+    "reference": "Genesis 19:4-5",
+    "answer": "Kill them"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "How did Lot try to protect the angels?",
+    "options": "[\r\n  \"He offered his daughters\",\r\n  \"He hid them in his house\",\r\n  \"He gave them food\",\r\n  \"He tried to fight the men\"\r\n]",
+    "reference": "Genesis 19:8",
+    "answer": "He offered his daughters"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What happened to the city of Sodom?",
+    "options": "[\r\n  \"It was destroyed by fire and brimstone\",\r\n  \"It was taken over by an enemy army\",\r\n  \"It was abandoned\",\r\n  \"It became a city of refuge\"\r\n]",
+    "reference": "Genesis 19:24-25",
+    "answer": "It was destroyed by fire and brimstone"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did Lot's wife turn into when she looked back at the city?",
+    "options": "[\r\n  \"A pillar of salt\",\r\n  \"A statue of gold\",\r\n  \"A cloud of smoke\",\r\n  \"A rock\"\r\n]",
+    "reference": "Genesis 19:26",
+    "answer": "A pillar of salt"
+  },
+  {
+    "id": 6,
+    "question_id": "x6y7z8a9b0c",
+    "question": "Where did Lot and his daughters escape to after fleeing Sodom?",
+    "options": "[\r\n  \"The mountains\",\r\n  \"The city of Zoar\",\r\n  \"The wilderness\",\r\n  \"The land of Moab\"\r\n]",
+    "reference": "Genesis 19:30",
+    "answer": "The mountains"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Where did Abraham journey to in Genesis 20?",
+    "options": "[\r\n  \"Gerar\",\r\n  \"Canaan\",\r\n  \"Egypt\",\r\n  \"Bethel\"\r\n]",
+    "reference": "Genesis 20:1",
+    "answer": "Gerar"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Abraham say about Sarah in Gerar?",
+    "options": "[\r\n  \"She is my sister\",\r\n  \"She is my wife\",\r\n  \"She is my cousin\",\r\n  \"She is my servant\"\r\n]",
+    "reference": "Genesis 20:2",
+    "answer": "She is my sister"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did Abimelech do when he took Sarah?",
+    "options": "[\r\n  \"He took her to his palace\",\r\n  \"He gave her gifts\",\r\n  \"He took her as his wife\",\r\n  \"He prayed for forgiveness\"\r\n]",
+    "reference": "Genesis 20:3",
+    "answer": "He took her as his wife"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "How did God warn Abimelech about Sarah?",
+    "options": "[\r\n  \"In a dream\",\r\n  \"Through a prophet\",\r\n  \"With a vision\",\r\n  \"By sending a plague\"\r\n]",
+    "reference": "Genesis 20:6",
+    "answer": "In a dream"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did God command Abimelech to do after he was warned?",
+    "options": "[\r\n  \"Return Sarah to Abraham\",\r\n  \"Make an offering to God\",\r\n  \"Give Abraham a gift\",\r\n  \"Leave the land of Gerar\"\r\n]",
+    "reference": "Genesis 20:7",
+    "answer": "Return Sarah to Abraham"
+  },
+  {
+    "id": 6,
+    "question_id": "x6y7z8a9b0c",
+    "question": "What did Abraham pray for after Abimelech returned Sarah?",
+    "options": "[\r\n  \"That Abimelech and his family be healed\",\r\n  \"That Abimelech would be punished\",\r\n  \"That Sarah would be restored to him\",\r\n  \"That his servant would be blessed\"\r\n]",
+    "reference": "Genesis 20:17",
+    "answer": "That Abimelech and his family be healed"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "What miracle did God perform for Sarah in Genesis 21?",
+    "options": "[\r\n  \"She bore a son\",\r\n  \"She was healed of barrenness\",\r\n  \"She was given a new name\",\r\n  \"She was blessed with wealth\"\r\n]",
+    "reference": "Genesis 21:1-2",
+    "answer": "She bore a son"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What was the name of Abraham and Sarah's son?",
+    "options": "[\r\n  \"Isaac\",\r\n  \"Ishmael\",\r\n  \"Jacob\",\r\n  \"Esau\"\r\n]",
+    "reference": "Genesis 21:3",
+    "answer": "Isaac"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did Sarah do when she saw Isaac weaned?",
+    "options": "[\r\n  \"She rejoiced and laughed\",\r\n  \"She told Abraham to cast out Hagar and Ishmael\",\r\n  \"She prayed to God\",\r\n  \"She made a feast for all the people\"\r\n]",
+    "reference": "Genesis 21:8-9",
+    "answer": "She told Abraham to cast out Hagar and Ishmael"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "How did God respond to Abraham's distress over sending Hagar and Ishmael away?",
+    "options": "[\r\n  \"He told Abraham to listen to Sarah\",\r\n  \"He promised to bless Ishmael\",\r\n  \"He sent a message through an angel\",\r\n  \"He gave Abraham peace about the decision\"\r\n]",
+    "reference": "Genesis 21:12-13",
+    "answer": "He told Abraham to listen to Sarah"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did God do when Hagar and Ishmael were in the desert?",
+    "options": "[\r\n  \"He sent an angel to comfort them\",\r\n  \"He provided a well of water\",\r\n  \"He gave them food from heaven\",\r\n  \"He led them to a new land\"\r\n]",
+    "reference": "Genesis 21:17-19",
+    "answer": "He provided a well of water"
+  },
+  {
+    "id": 6,
+    "question_id": "x6y7z8a9b0c",
+    "question": "What covenant did Abraham make with Abimelech?",
+    "options": "[\r\n  \"A covenant of peace\",\r\n  \"A covenant of marriage\",\r\n  \"A covenant of land ownership\",\r\n  \"A covenant of friendship\"\r\n]",
+    "reference": "Genesis 21:22-24",
+    "answer": "A covenant of peace"
+  },
+  {
+    "id": 7,
+    "question_id": "p1q2r3s4t5u",
+    "question": "What was the name of the well that Abraham and Abimelech made a covenant over?",
+    "options": "[\r\n  \"Beersheba\",\r\n  \"Shechem\",\r\n  \"Zophar\",\r\n  \"Hebron\"\r\n]",
+    "reference": "Genesis 21:31",
+    "answer": "Beersheba"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "What did God ask Abraham to do in Genesis 22?",
+    "options": "[\r\n  \"Sacrifice his son Isaac\",\r\n  \"Build an altar to God\",\r\n  \"Leave his homeland\",\r\n  \"Go to Egypt to escape famine\"\r\n]",
+    "reference": "Genesis 22:2",
+    "answer": "Sacrifice his son Isaac"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What was Isaac's reaction when he noticed the absence of a lamb for the sacrifice?",
+    "options": "[\r\n  \"He asked his father about the lamb\",\r\n  \"He started crying\",\r\n  \"He tried to run away\",\r\n  \"He asked if God would provide the lamb\"\r\n]",
+    "reference": "Genesis 22:7-8",
+    "answer": "He asked his father about the lamb"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did Abraham say when Isaac asked about the lamb?",
+    "options": "[\r\n  \"God will provide a lamb for the offering\",\r\n  \"I will bring the lamb later\",\r\n  \"You are the lamb\",\r\n  \"God has already provided the lamb\"\r\n]",
+    "reference": "Genesis 22:8",
+    "answer": "God will provide a lamb for the offering"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What did Abraham do when he was about to sacrifice Isaac?",
+    "options": "[\r\n  \"He prayed to God\",\r\n  \"He built the altar and bound Isaac\",\r\n  \"He called out to God\",\r\n  \"He stopped and waited for a sign from God\"\r\n]",
+    "reference": "Genesis 22:9",
+    "answer": "He built the altar and bound Isaac"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did God provide as a substitute for Isaac?",
+    "options": "[\r\n  \"A ram caught in a thicket\",\r\n  \"A dove\",\r\n  \"A goat\",\r\n  \"A lamb\"\r\n]",
+    "reference": "Genesis 22:13",
+    "answer": "A ram caught in a thicket"
+  },
+  {
+    "id": 6,
+    "question_id": "x6y7z8a9b0c",
+    "question": "What name did Abraham give to the place where the sacrifice was halted?",
+    "options": "[\r\n  \"The Lord Will Provide\",\r\n  \"Mount Sinai\",\r\n  \"Jehovah-Jireh\",\r\n  \"Mount Moriah\"\r\n]",
+    "reference": "Genesis 22:14",
+    "answer": "The Lord Will Provide"
+  },
+  {
+    "id": 7,
+    "question_id": "p1q2r3s4t5u",
+    "question": "What did God promise Abraham after he showed faith by not withholding Isaac?",
+    "options": "[\r\n  \"To bless his descendants\",\r\n  \"To make him a great nation\",\r\n  \"To make his name great\",\r\n  \"All of the above\"\r\n]",
+    "reference": "Genesis 22:16-18",
+    "answer": "All of the above"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who died in Genesis 23?",
+    "options": "[\r\n  \"Sarai\",\r\n  \"Lot\",\r\n  \"Hagar\",\r\n  \"Rebecca\"\r\n]",
+    "reference": "Genesis 23:1",
+    "answer": "Sarai"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "Where did Abraham bury his wife Sarai?",
+    "options": "[\r\n  \"The cave of Machpelah\",\r\n  \"The city of Hebron\",\r\n  \"The city of Bethel\",\r\n  \"The land of Canaan\"\r\n]",
+    "reference": "Genesis 23:19",
+    "answer": "The cave of Machpelah"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "Who did Abraham buy the cave of Machpelah from?",
+    "options": "[\r\n  \"Ephron the Hittite\",\r\n  \"Melchizedek\",\r\n  \"Lot\",\r\n  \"The king of Egypt\"\r\n]",
+    "reference": "Genesis 23:16",
+    "answer": "Ephron the Hittite"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "How much did Abraham pay for the cave of Machpelah?",
+    "options": "[\r\n  \"400 shekels of silver\",\r\n  \"100 shekels of gold\",\r\n  \"10 shekels of silver\",\r\n  \"A sum of 1000 talents\"\r\n]",
+    "reference": "Genesis 23:16",
+    "answer": "400 shekels of silver"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What was the name of Abraham’s servant who was tasked to find a wife for Isaac?",
+    "options": "[\r\n  \"Eliezer\",\r\n  \"Abimelech\",\r\n  \"Laban\",\r\n  \"Zimri\"\r\n]",
+    "reference": "Genesis 24:2",
+    "answer": "Eliezer"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who did Abraham send to find a wife for Isaac?",
+    "options": "[\r\n  \"Eliezer, his servant\",\r\n  \"Isaac's brother\",\r\n  \"Isaac's father\",\r\n  \"Lot, his nephew\"\r\n]",
+    "reference": "Genesis 24:2-4",
+    "answer": "Eliezer, his servant"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "Where did Abraham send Eliezer to find a wife for Isaac?",
+    "options": "[\r\n  \"To the land of Nahor\",\r\n  \"To the land of Canaan\",\r\n  \"To Egypt\",\r\n  \"To Jerusalem\"\r\n]",
+    "reference": "Genesis 24:10",
+    "answer": "To the land of Nahor"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "How did Eliezer know that Rebekah was the right woman for Isaac?",
+    "options": "[\r\n  \"She offered to water his camels\",\r\n  \"She was the daughter of Abraham's brother\",\r\n  \"She was beautiful and kind\",\r\n  \"She spoke to him directly\"\r\n]",
+    "reference": "Genesis 24:18-20",
+    "answer": "She offered to water his camels"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "Who was Rebekah's father?",
+    "options": "[\r\n  \"Bethuel\",\r\n  \"Laban\",\r\n  \"Nahor\",\r\n  \"Terah\"\r\n]",
+    "reference": "Genesis 24:15",
+    "answer": "Bethuel"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "How did Rebekah react when asked to go with Eliezer?",
+    "options": "[\r\n  \"She agreed to go with him\",\r\n  \"She asked for time to think about it\",\r\n  \"She refused to go\",\r\n  \"She prayed about it\"\r\n]",
+    "reference": "Genesis 24:58",
+    "answer": "She agreed to go with him"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What was the name of Rebekah's brother who was involved in the decision?",
+    "options": "[\r\n  \"Laban\",\r\n  \"Esau\",\r\n  \"Jacob\",\r\n  \"Lot\"\r\n]",
+    "reference": "Genesis 24:29",
+    "answer": "Laban"
+  },
+  {
+    "id": 7,
+    "question_id": "l1m2n3o4p5q",
+    "question": "What did Isaac do when he saw Rebekah for the first time?",
+    "options": "[\r\n  \"He took her into his mother's tent\",\r\n  \"He ran to meet her\",\r\n  \"He bowed down to her\",\r\n  \"He greeted her with a kiss\"\r\n]",
+    "reference": "Genesis 24:67",
+    "answer": "He took her into his mother's tent"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who was Abraham's second wife?",
+    "options": "[\r\n  \"Hagar\",\r\n  \"Sarah\",\r\n  \"Keturah\",\r\n  \"Rebekah\"\r\n]",
+    "reference": "Genesis 25:1",
+    "answer": "Keturah"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "How many children did Abraham have with Keturah?",
+    "options": "[\r\n  \"Six\",\r\n  \"Four\",\r\n  \"Two\",\r\n  \"Eight\"\r\n]",
+    "reference": "Genesis 25:2",
+    "answer": "Six"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What was the name of Abraham's first son?",
+    "options": "[\r\n  \"Isaac\",\r\n  \"Ishmael\",\r\n  \"Esau\",\r\n  \"Jacob\"\r\n]",
+    "reference": "Genesis 25:12",
+    "answer": "Ishmael"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What did God promise to give Isaac?",
+    "options": "[\r\n  \"The land of Canaan\",\r\n  \"A great nation\",\r\n  \"A long life\",\r\n  \"The land of Egypt\"\r\n]",
+    "reference": "Genesis 25:23",
+    "answer": "A great nation"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What were the names of Isaac and Rebekah's twin sons?",
+    "options": "[\r\n  \"Jacob and Esau\",\r\n  \"Joseph and Benjamin\",\r\n  \"Ephraim and Manasseh\",\r\n  \"Reuben and Simeon\"\r\n]",
+    "reference": "Genesis 25:24-26",
+    "answer": "Jacob and Esau"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What was the reason for the struggle between Esau and Jacob before they were born?",
+    "options": "[\r\n  \"Esau wanted to be the firstborn\",\r\n  \"There were two nations in Rebekah's womb\",\r\n  \"They both wanted the blessing of the firstborn\",\r\n  \"They both wanted to be leaders\"\r\n]",
+    "reference": "Genesis 25:22",
+    "answer": "There were two nations in Rebekah's womb"
+  },
+  {
+    "id": 7,
+    "question_id": "l1m2n3o4p5q",
+    "question": "What did Esau sell his birthright for?",
+    "options": "[\r\n  \"A bowl of soup\",\r\n  \"A coat of many colors\",\r\n  \"A piece of bread\",\r\n  \"A sack of grain\"\r\n]",
+    "reference": "Genesis 25:29-34",
+    "answer": "A bowl of soup"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who did Isaac claim was his sister instead of his wife in Gerar?",
+    "options": "[\r\n  \"Rebekah\",\r\n  \"Sarah\",\r\n  \"Rachel\",\r\n  \"Leah\"\r\n]",
+    "reference": "Genesis 26:7",
+    "answer": "Rebekah"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Isaac dig in the valley of Gerar?",
+    "options": "[\r\n  \"Wells of water\",\r\n  \"Altars to the Lord\",\r\n  \"Crops for planting\",\r\n  \"Tents for shelter\"\r\n]",
+    "reference": "Genesis 26:18",
+    "answer": "Wells of water"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "Who was the king of Gerar that Isaac encountered?",
+    "options": "[\r\n  \"Abimelech\",\r\n  \"Pharaoh\",\r\n  \"Melchizedek\",\r\n  \"Nebuchadnezzar\"\r\n]",
+    "reference": "Genesis 26:1",
+    "answer": "Abimelech"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What covenant did Isaac make with the king of Gerar?",
+    "options": "[\r\n  \"A peace covenant\",\r\n  \"A trade agreement\",\r\n  \"A covenant of marriage\",\r\n  \"A covenant of friendship\"\r\n]",
+    "reference": "Genesis 26:28-30",
+    "answer": "A peace covenant"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What was the name of the well that Isaac’s servants dug and found water?",
+    "options": "[\r\n  \"Rehoboth\",\r\n  \"Beersheba\",\r\n  \"Bethel\",\r\n  \"Mahanaim\"\r\n]",
+    "reference": "Genesis 26:22",
+    "answer": "Rehoboth"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "How old was Isaac when he became the father of Esau and Jacob?",
+    "options": "[\r\n  \"60 years old\",\r\n  \"40 years old\",\r\n  \"75 years old\",\r\n  \"100 years old\"\r\n]",
+    "reference": "Genesis 25:26",
+    "answer": "60 years old"
+  },
+  {
+    "id": 7,
+    "question_id": "l1m2n3o4p5q",
+    "question": "What did Isaac bless Jacob with?",
+    "options": "[\r\n  \"The blessing of the firstborn\",\r\n  \"A great army\",\r\n  \"A large inheritance\",\r\n  \"A land of milk and honey\"\r\n]",
+    "reference": "Genesis 27:28-29",
+    "answer": "The blessing of the firstborn"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who did Rebekah help deceive Isaac in blessing?",
+    "options": "[\r\n  \"Jacob\",\r\n  \"Esau\",\r\n  \"Joseph\",\r\n  \"Benjamin\"\r\n]",
+    "reference": "Genesis 27:6-10",
+    "answer": "Jacob"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Jacob wear to deceive Isaac?",
+    "options": "[\r\n  \"Esau's clothes and goat skins\",\r\n  \"A robe of many colors\",\r\n  \"A crown of thorns\",\r\n  \"A veil\"\r\n]",
+    "reference": "Genesis 27:15-16",
+    "answer": "Esau's clothes and goat skins"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What blessing did Isaac intend to give to Esau?",
+    "options": "[\r\n  \"A great nation and prosperity\",\r\n  \"The inheritance of the land\",\r\n  \"A long life and many children\",\r\n  \"The blessing of the firstborn\"\r\n]",
+    "reference": "Genesis 27:28-29",
+    "answer": "The blessing of the firstborn"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What did Isaac do when he realized Jacob had deceived him?",
+    "options": "[\r\n  \"He trembled greatly\",\r\n  \"He shouted for joy\",\r\n  \"He forgave Jacob immediately\",\r\n  \"He cursed Jacob\"\r\n]",
+    "reference": "Genesis 27:33",
+    "answer": "He trembled greatly"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What was Esau's reaction when he realized Jacob had received the blessing?",
+    "options": "[\r\n  \"He wept and begged for a blessing\",\r\n  \"He attacked Jacob\",\r\n  \"He ran away\",\r\n  \"He became angry and sought revenge\"\r\n]",
+    "reference": "Genesis 27:34-38",
+    "answer": "He wept and begged for a blessing"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What was the second blessing Isaac gave to Jacob?",
+    "options": "[\r\n  \"The abundance of the earth and dominion over nations\",\r\n  \"A prosperous marriage and many children\",\r\n  \"A long life and peace with all enemies\",\r\n  \"The inheritance of the land of Israel\"\r\n]",
+    "reference": "Genesis 27:39-40",
+    "answer": "The abundance of the earth and dominion over nations"
+  },
+  {
+    "id": 7,
+    "question_id": "l1m2n3o4p5q",
+    "question": "What did Esau plan to do after he realized Jacob had deceived him?",
+    "options": "[\r\n  \"He planned to kill Jacob\",\r\n  \"He planned to forgive Jacob\",\r\n  \"He planned to go to Egypt\",\r\n  \"He planned to seek his father’s forgiveness\"\r\n]",
+    "reference": "Genesis 27:41",
+    "answer": "He planned to kill Jacob"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "What did Jacob dream of at Bethel?",
+    "options": "[\r\n  \"A ladder reaching to heaven with angels ascending and descending\",\r\n  \"A great tree in the middle of the garden\",\r\n  \"A burning bush\",\r\n  \"A river flowing from the throne of God\"\r\n]",
+    "reference": "Genesis 28:12",
+    "answer": "A ladder reaching to heaven with angels ascending and descending"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did God promise Jacob in his dream?",
+    "options": "[\r\n  \"To give him the land he was on, and bless his descendants\",\r\n  \"To make him the ruler of all nations\",\r\n  \"To protect him from his enemies\",\r\n  \"To give him wisdom and understanding\"\r\n]",
+    "reference": "Genesis 28:13-15",
+    "answer": "To give him the land he was on, and bless his descendants"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did Jacob vow to God after his dream?",
+    "options": "[\r\n  \"To return to Bethel and build an altar\",\r\n  \"To follow God's commands and worship Him exclusively\",\r\n  \"To give a tenth of his possessions to God\",\r\n  \"To make offerings at the altar of the Lord\"\r\n]",
+    "reference": "Genesis 28:20-22",
+    "answer": "To give a tenth of his possessions to God"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What did Jacob call the place where he had the dream?",
+    "options": "[\r\n  \"Bethel\",\r\n  \"Peniel\",\r\n  \"Mount Horeb\",\r\n  \"Zion\"\r\n]",
+    "reference": "Genesis 28:19",
+    "answer": "Bethel"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did Jacob use to rest his head when he had the dream?",
+    "options": "[\r\n  \"A stone\",\r\n  \"A pillow of cloth\",\r\n  \"A bundle of branches\",\r\n  \"A soft piece of leather\"\r\n]",
+    "reference": "Genesis 28:11",
+    "answer": "A stone"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "Where was Jacob traveling when he had the dream at Bethel?",
+    "options": "[\r\n  \"From Beersheba to Haran\",\r\n  \"From Egypt to Canaan\",\r\n  \"From Canaan to Egypt\",\r\n  \"From Bethel to Jerusalem\"\r\n]",
+    "reference": "Genesis 28:10",
+    "answer": "From Beersheba to Haran"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who did Jacob meet at the well when he arrived in Haran?",
+    "options": "[\r\n  \"Rachel\",\r\n  \"Leah\",\r\n  \"Rebecca\",\r\n  \"Zipporah\"\r\n]",
+    "reference": "Genesis 29:9",
+    "answer": "Rachel"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "How did Jacob show his love for Rachel?",
+    "options": "[\r\n  \"He worked seven years for her\",\r\n  \"He gave her a special coat\",\r\n  \"He bought her a ring\",\r\n  \"He gave her a field of land\"\r\n]",
+    "reference": "Genesis 29:18",
+    "answer": "He worked seven years for her"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "Who did Jacob marry first, by trickery of Laban?",
+    "options": "[\r\n  \"Leah\",\r\n  \"Rachel\",\r\n  \"Zilpah\",\r\n  \"Bilhah\"\r\n]",
+    "reference": "Genesis 29:23",
+    "answer": "Leah"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "How many years did Jacob work for Laban to marry Rachel after Leah?",
+    "options": "[\r\n  \"Seven more years\",\r\n  \"Five more years\",\r\n  \"Ten more years\",\r\n  \"Fourteen more years\"\r\n]",
+    "reference": "Genesis 29:27-28",
+    "answer": "Seven more years"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "Who was the maidservant of Leah?",
+    "options": "[\r\n  \"Zilpah\",\r\n  \"Bilhah\",\r\n  \"Rachel\",\r\n  \"Hagar\"\r\n]",
+    "reference": "Genesis 29:24",
+    "answer": "Zilpah"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "Who was the maidservant of Rachel?",
+    "options": "[\r\n  \"Bilhah\",\r\n  \"Zilpah\",\r\n  \"Hagar\",\r\n  \"Keturah\"\r\n]",
+    "reference": "Genesis 29:29",
+    "answer": "Bilhah"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "How did Leah feel when Jacob did not love her as much as Rachel?",
+    "options": "[\r\n  \"She was despised\",\r\n  \"She was happy\",\r\n  \"She was jealous\",\r\n  \"She was confused\"\r\n]",
+    "reference": "Genesis 29:31",
+    "answer": "She was despised"
+  },
+  {
+    "id": 8,
+    "question_id": "r3s4t5u6v7w",
+    "question": "Who was born first, Reuben or Joseph?",
+    "options": "[\r\n  \"Reuben\",\r\n  \"Joseph\",\r\n  \"Benjamin\",\r\n  \"Simeon\"\r\n]",
+    "reference": "Genesis 29:32-35",
+    "answer": "Reuben"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "How many children did Leah have before Rachel gave her maidservant to Jacob?",
+    "options": "[\r\n  \"Six\",\r\n  \"Five\",\r\n  \"Four\",\r\n  \"Three\"\r\n]",
+    "reference": "Genesis 30:9-13",
+    "answer": "Six"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What was the name of Rachel's maidservant?",
+    "options": "[\r\n  \"Bilhah\",\r\n  \"Zilpah\",\r\n  \"Hagar\",\r\n  \"Keturah\"\r\n]",
+    "reference": "Genesis 30:3",
+    "answer": "Bilhah"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did Rachel ask Jacob to give her after seeing Leah's children?",
+    "options": "[\r\n  \"Children\",\r\n  \"A new coat\",\r\n  \"More cattle\",\r\n  \"A child from her maidservant\"\r\n]",
+    "reference": "Genesis 30:1",
+    "answer": "Children"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "How many children did Rachel have?",
+    "options": "[\r\n  \"Two\",\r\n  \"One\",\r\n  \"Three\",\r\n  \"Four\"\r\n]",
+    "reference": "Genesis 30:22-24",
+    "answer": "One"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What was the name of the first son born to Rachel?",
+    "options": "[\r\n  \"Joseph\",\r\n  \"Benjamin\",\r\n  \"Reuben\",\r\n  \"Simeon\"\r\n]",
+    "reference": "Genesis 30:24",
+    "answer": "Joseph"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "How did Jacob increase his flock while working for Laban?",
+    "options": "[\r\n  \"By breeding the strongest animals\",\r\n  \"By buying more animals\",\r\n  \"By praying\",\r\n  \"By taking a portion of Laban's herd\"\r\n]",
+    "reference": "Genesis 30:37-43",
+    "answer": "By breeding the strongest animals"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "What did Laban do when he saw that Jacob's flock had increased?",
+    "options": "[\r\n  \"He tried to change Jacob's wages\",\r\n  \"He gave Jacob more animals\",\r\n  \"He threw Jacob a feast\",\r\n  \"He blessed Jacob's work\"\r\n]",
+    "reference": "Genesis 30:31-36",
+    "answer": "He tried to change Jacob's wages"
+  },
+  {
+    "id": 8,
+    "question_id": "r3s4t5u6v7w",
+    "question": "What were the names of Leah’s children mentioned in this chapter?",
+    "options": "[\r\n  \"Reuben, Simeon, Levi, Judah, Issachar, Zebulun\",\r\n  \"Reuben, Simeon, Judah, Dan, Asher, Gad\",\r\n  \"Issachar, Gad, Benjamin, Levi\",\r\n  \"Dan, Asher, Benjamin, Levi\"\r\n]",
+    "reference": "Genesis 30:9-13",
+    "answer": "Reuben, Simeon, Levi, Judah, Issachar, Zebulun"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Why did Jacob decide to leave Laban's household?",
+    "options": "[\r\n  \"Because Laban's sons were jealous of him\",\r\n  \"Because God told him to go\",\r\n  \"Because of a disagreement with Laban\",\r\n  \"Because his wife Rachel wanted to leave\"\r\n]",
+    "reference": "Genesis 31:1-3",
+    "answer": "Because God told him to go"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Rachel steal from her father's house?",
+    "options": "[\r\n  \"Laban's idols\",\r\n  \"Laban's money\",\r\n  \"Laban's livestock\",\r\n  \"Laban's writings\"\r\n]",
+    "reference": "Genesis 31:19",
+    "answer": "Laban's idols"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "How did Laban react when he realized Jacob had fled?",
+    "options": "[\r\n  \"He chased after them\",\r\n  \"He cursed Jacob\",\r\n  \"He ignored it\",\r\n  \"He sent someone to talk to Jacob\"\r\n]",
+    "reference": "Genesis 31:22-23",
+    "answer": "He chased after them"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What was the covenant that Jacob and Laban made?",
+    "options": "[\r\n  \"They agreed not to harm each other\",\r\n  \"They agreed to a business partnership\",\r\n  \"They agreed to let Jacob return to Canaan\",\r\n  \"They agreed to share all the wealth\"\r\n]",
+    "reference": "Genesis 31:44-54",
+    "answer": "They agreed not to harm each other"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did Laban say when they parted ways?",
+    "options": "[\r\n  \"The Lord watch between you and me\",\r\n  \"Go in peace\",\r\n  \"I forgive you\",\r\n  \"I will bless you always\"\r\n]",
+    "reference": "Genesis 31:49",
+    "answer": "The Lord watch between you and me"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "How many years had Jacob worked for Laban before leaving?",
+    "options": "[\r\n  \"20 years\",\r\n  \"14 years\",\r\n  \"21 years\",\r\n  \"10 years\"\r\n]",
+    "reference": "Genesis 31:41",
+    "answer": "20 years"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "How did Rachel hide the idols she stole from Laban?",
+    "options": "[\r\n  \"She put them in her saddle\",\r\n  \"She buried them in the ground\",\r\n  \"She gave them to Jacob\",\r\n  \"She hid them in a cloth\"\r\n]",
+    "reference": "Genesis 31:34-35",
+    "answer": "She put them in her saddle"
+  },
+  {
+    "id": 8,
+    "question_id": "r3s4t5u6v7w",
+    "question": "What was the name of the place where Jacob and Laban made their covenant?",
+    "options": "[\r\n  \"Mizpah\",\r\n  \"Bethel\",\r\n  \"Haran\",\r\n  \"Peniel\"\r\n]",
+    "reference": "Genesis 31:49",
+    "answer": "Mizpah"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "What did Jacob send ahead of him when he was about to meet Esau?",
+    "options": "[\r\n  \"A large gift of livestock\",\r\n  \"His children\",\r\n  \"His servants\",\r\n  \"His wife Rachel\"\r\n]",
+    "reference": "Genesis 32:13-15",
+    "answer": "A large gift of livestock"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Jacob fear about his meeting with Esau?",
+    "options": "[\r\n  \"That Esau would kill him and his family\",\r\n  \"That Esau would reject his gift\",\r\n  \"That Esau would ignore him\",\r\n  \"That Esau would demand more compensation\"\r\n]",
+    "reference": "Genesis 32:7-8",
+    "answer": "That Esau would kill him and his family"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did Jacob do during the night before meeting Esau?",
+    "options": "[\r\n  \"He prayed to God\",\r\n  \"He wrestled with an angel\",\r\n  \"He slept in peace\",\r\n  \"He made more plans for the meeting\"\r\n]",
+    "reference": "Genesis 32:24",
+    "answer": "He wrestled with an angel"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What was the name of the place where Jacob wrestled with the angel?",
+    "options": "[\r\n  \"Peniel\",\r\n  \"Bethel\",\r\n  \"Mizpah\",\r\n  \"Haran\"\r\n]",
+    "reference": "Genesis 32:30",
+    "answer": "Peniel"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did the angel give Jacob after their wrestling match?",
+    "options": "[\r\n  \"A blessing\",\r\n  \"A new name\",\r\n  \"A prophecy\",\r\n  \"A covenant\"\r\n]",
+    "reference": "Genesis 32:29",
+    "answer": "A new name"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What new name did the angel give Jacob?",
+    "options": "[\r\n  \"Israel\",\r\n  \"Isaac\",\r\n  \"Jacob\",\r\n  \"Joseph\"\r\n]",
+    "reference": "Genesis 32:28",
+    "answer": "Israel"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "How did Jacob's hip become dislocated?",
+    "options": "[\r\n  \"During the wrestling match with the angel\",\r\n  \"In a fight with Esau\",\r\n  \"From falling off a horse\",\r\n  \"In a battle with Laban\"\r\n]",
+    "reference": "Genesis 32:25",
+    "answer": "During the wrestling match with the angel"
+  },
+  {
+    "id": 8,
+    "question_id": "r3s4t5u6v7w",
+    "question": "What did Jacob say after wrestling with the angel?",
+    "options": "[\r\n  \"I have seen God face to face\",\r\n  \"I will be blessed by God\",\r\n  \"I will fight on\",\r\n  \"I have received a blessing\"\r\n]",
+    "reference": "Genesis 32:30",
+    "answer": "I have seen God face to face"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "How did Jacob react when he saw Esau after many years?",
+    "options": "[\r\n  \"He bowed down seven times\",\r\n  \"He ran to meet him\",\r\n  \"He offered a sacrifice\",\r\n  \"He sent gifts first\"\r\n]",
+    "reference": "Genesis 33:3",
+    "answer": "He bowed down seven times"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Esau do when he met Jacob?",
+    "options": "[\r\n  \"He hugged him and kissed him\",\r\n  \"He rebuked him\",\r\n  \"He rejected his gift\",\r\n  \"He asked for a blessing\"\r\n]",
+    "reference": "Genesis 33:4",
+    "answer": "He hugged him and kissed him"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did Jacob offer Esau when they met?",
+    "options": "[\r\n  \"A large gift of livestock\",\r\n  \"A portion of his land\",\r\n  \"His servants\",\r\n  \"His tent and belongings\"\r\n]",
+    "reference": "Genesis 33:10",
+    "answer": "A large gift of livestock"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What was Esau's reaction to Jacob's offer?",
+    "options": "[\r\n  \"He declined it\",\r\n  \"He accepted it\",\r\n  \"He demanded more\",\r\n  \"He gave it back to Jacob\"\r\n]",
+    "reference": "Genesis 33:9",
+    "answer": "He accepted it"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "Where did Jacob settle after meeting Esau?",
+    "options": "[\r\n  \"In the land of Canaan\",\r\n  \"In the city of Shechem\",\r\n  \"In Bethel\",\r\n  \"In Hebron\"\r\n]",
+    "reference": "Genesis 33:18-19",
+    "answer": "In the city of Shechem"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What did Jacob buy from the sons of Hamor?",
+    "options": "[\r\n  \"A plot of land\",\r\n  \"A well\",\r\n  \"A servant\",\r\n  \"A herd of cattle\"\r\n]",
+    "reference": "Genesis 33:19",
+    "answer": "A plot of land"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "What did Jacob do to mark the land he bought in Shechem?",
+    "options": "[\r\n  \"He built an altar\",\r\n  \"He planted a tree\",\r\n  \"He pitched a tent\",\r\n  \"He erected a pillar\"\r\n]",
+    "reference": "Genesis 33:20",
+    "answer": "He built an altar"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who was the daughter of Leah that was violated by Shechem?",
+    "options": "[\r\n  \"Dinah\",\r\n  \"Tamar\",\r\n  \"Rachel\",\r\n  \"Leah\"\r\n]",
+    "reference": "Genesis 34:1",
+    "answer": "Dinah"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Shechem do after violating Dinah?",
+    "options": "[\r\n  \"He fell in love with her and wanted to marry her\",\r\n  \"He offered her a gift to make up for it\",\r\n  \"He apologized to her family\",\r\n  \"He fled the land\"\r\n]",
+    "reference": "Genesis 34:3",
+    "answer": "He fell in love with her and wanted to marry her"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What was the response of Dinah's brothers when they heard about what happened to her?",
+    "options": "[\r\n  \"They wanted to seek revenge\",\r\n  \"They made a treaty with Shechem\",\r\n  \"They forgave him\",\r\n  \"They moved to a different city\"\r\n]",
+    "reference": "Genesis 34:7",
+    "answer": "They wanted to seek revenge"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What condition did Dinah's brothers set for Shechem to marry her?",
+    "options": "[\r\n  \"He must become circumcised\",\r\n  \"He must give them a large gift\",\r\n  \"He must bring ten sacrifices\",\r\n  \"He must promise to be faithful to her\"\r\n]",
+    "reference": "Genesis 34:15",
+    "answer": "He must become circumcised"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "How did the men of Shechem respond to the demand for circumcision?",
+    "options": "[\r\n  \"They agreed to be circumcised\",\r\n  \"They rejected it and fought back\",\r\n  \"They fled from the land\",\r\n  \"They asked for a time to think about it\"\r\n]",
+    "reference": "Genesis 34:24",
+    "answer": "They agreed to be circumcised"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What did Simeon and Levi do while the men of Shechem were recovering from circumcision?",
+    "options": "[\r\n  \"They attacked and killed them\",\r\n  \"They stole their cattle\",\r\n  \"They kidnapped Dinah\",\r\n  \"They made a treaty with them\"\r\n]",
+    "reference": "Genesis 34:25-26",
+    "answer": "They attacked and killed them"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "How did Jacob react to Simeon and Levi's actions?",
+    "options": "[\r\n  \"He was angry and fearful\",\r\n  \"He praised them for their bravery\",\r\n  \"He offered a sacrifice to God\",\r\n  \"He asked for forgiveness from Shechem\"\r\n]",
+    "reference": "Genesis 34:30",
+    "answer": "He was angry and fearful"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "What did God command Jacob to do in Genesis 35?",
+    "options": "[\r\n  \"Go to Bethel and settle there\",\r\n  \"Leave Canaan and go to Egypt\",\r\n  \"Build an altar at Shechem\",\r\n  \"Go to the mountains of Seir\"\r\n]",
+    "reference": "Genesis 35:1",
+    "answer": "Go to Bethel and settle there"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What did Jacob do with the foreign gods and idols that his household had?",
+    "options": "[\r\n  \"He buried them under a tree near Shechem\",\r\n  \"He burned them in a fire\",\r\n  \"He threw them into the river\",\r\n  \"He gave them to the priests of Bethel\"\r\n]",
+    "reference": "Genesis 35:4",
+    "answer": "He buried them under a tree near Shechem"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What did God do for Jacob when he arrived in Bethel?",
+    "options": "[\r\n  \"He appeared to him and blessed him\",\r\n  \"He gave him a new name\",\r\n  \"He promised him victory over his enemies\",\r\n  \"He made a covenant with him\"\r\n]",
+    "reference": "Genesis 35:9-12",
+    "answer": "He appeared to him and blessed him"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What new name did God give Jacob in Genesis 35?",
+    "options": "[\r\n  \"Israel\",\r\n  \"Isaac\",\r\n  \"Jacob the Blessed\",\r\n  \"Reuben\"\r\n]",
+    "reference": "Genesis 35:10",
+    "answer": "Israel"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did Jacob set up at Bethel as a reminder of God's promise?",
+    "options": "[\r\n  \"A pillar of stone\",\r\n  \"A golden calf\",\r\n  \"An altar of wood and stone\",\r\n  \"A tent for worship\"\r\n]",
+    "reference": "Genesis 35:14",
+    "answer": "A pillar of stone"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What happened to Rachel during their journey from Bethel?",
+    "options": "[\r\n  \"She died giving birth to Benjamin\",\r\n  \"She fell ill and had to be left behind\",\r\n  \"She was blessed with twins\",\r\n  \"She was taken captive by a foreign army\"\r\n]",
+    "reference": "Genesis 35:16-19",
+    "answer": "She died giving birth to Benjamin"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "What was the name of Rachel's second son?",
+    "options": "[\r\n  \"Benjamin\",\r\n  \"Joseph\",\r\n  \"Dan\",\r\n  \"Naphtali\"\r\n]",
+    "reference": "Genesis 35:18",
+    "answer": "Benjamin"
+  },
+  {
+    "id": 8,
+    "question_id": "p9q0r1s2t3u",
+    "question": "Where was Rachel buried?",
+    "options": "[\r\n  \"Near Bethlehem\",\r\n  \"In Hebron\",\r\n  \"In the Cave of Machpelah\",\r\n  \"In the land of Canaan\"\r\n]",
+    "reference": "Genesis 35:19",
+    "answer": "Near Bethlehem"
+  },
+  {
+    "id": 9,
+    "question_id": "v1w2x3y4z5a",
+    "question": "What did Reuben do that caused Jacob to be displeased?",
+    "options": "[\r\n  \"He slept with Bilhah, his father's concubine\",\r\n  \"He stole his father's idols\",\r\n  \"He killed one of his brothers\",\r\n  \"He led a rebellion against his father\"\r\n]",
+    "reference": "Genesis 35:22",
+    "answer": "He slept with Bilhah, his father's concubine"
+  },
+  {
+    "id": 10,
+    "question_id": "b6c7d8e9f0g",
+    "question": "What was the total number of Jacob's sons after the birth of Benjamin?",
+    "options": "[\r\n  \"12\",\r\n  \"13\",\r\n  \"11\",\r\n  \"14\"\r\n]",
+    "reference": "Genesis 35:22",
+    "answer": "12"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who was Esau's first wife?",
+    "options": "[\r\n  \"Judith the daughter of Beeri the Hittite\",\r\n  \"Basemath the daughter of Elon the Hittite\",\r\n  \"Adah the daughter of Elon the Hittite\",\r\n  \"Oholibamah the daughter of Anah\"\r\n]",
+    "reference": "Genesis 36:2",
+    "answer": "Adah the daughter of Elon the Hittite"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "Who was Esau's second wife?",
+    "options": "[\r\n  \"Basemath the daughter of Elon the Hittite\",\r\n  \"Judith the daughter of Beeri the Hittite\",\r\n  \"Oholibamah the daughter of Anah\",\r\n  \"Zibeon the Hivite\"\r\n]",
+    "reference": "Genesis 36:3",
+    "answer": "Basemath the daughter of Elon the Hittite"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "Who was Esau's third wife?",
+    "options": "[\r\n  \"Oholibamah the daughter of Anah\",\r\n  \"Adah the daughter of Elon the Hittite\",\r\n  \"Basemath the daughter of Elon the Hittite\",\r\n  \"Judith the daughter of Beeri the Hittite\"\r\n]",
+    "reference": "Genesis 36:4",
+    "answer": "Oholibamah the daughter of Anah"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "Who were the sons of Esau?",
+    "options": "[\r\n  \"Eliphaz, Reuel, Jeush, Jalam, and Korah\",\r\n  \"Esau, Jacob, and Joseph\",\r\n  \"Cain, Abel, and Seth\",\r\n  \"Abel, Enoch, and Methuselah\"\r\n]",
+    "reference": "Genesis 36:4-5",
+    "answer": "Eliphaz, Reuel, Jeush, Jalam, and Korah"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "Who was the son of Esau's wife Basemath?",
+    "options": "[\r\n  \"Reuel\",\r\n  \"Eliphaz\",\r\n  \"Jalam\",\r\n  \"Korah\"\r\n]",
+    "reference": "Genesis 36:4",
+    "answer": "Reuel"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What is the name of Esau's descendants, according to Genesis 36?",
+    "options": "[\r\n  \"Edomites\",\r\n  \"Jebusites\",\r\n  \"Ammonites\",\r\n  \"Canaanites\"\r\n]",
+    "reference": "Genesis 36:1",
+    "answer": "Edomites"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "Who were the chiefs of the descendants of Esau?",
+    "options": "[\r\n  \"Eliphaz, Reuel, Jeush, Jalam, and Korah\",\r\n  \"Seir, Hori, and Lot\",\r\n  \"Esau, Jacob, and Judah\",\r\n  \"Cain, Abel, and Seth\"\r\n]",
+    "reference": "Genesis 36:15-19",
+    "answer": "Eliphaz, Reuel, Jeush, Jalam, and Korah"
+  },
+  {
+    "id": 8,
+    "question_id": "p9q0r1s2t3u",
+    "question": "What territory did the descendants of Esau take possession of?",
+    "options": "[\r\n  \"The land of Seir\",\r\n  \"The land of Canaan\",\r\n  \"The plains of Moab\",\r\n  \"The valley of Siddim\"\r\n]",
+    "reference": "Genesis 36:8-9",
+    "answer": "The land of Seir"
+  },
+  {
+    "id": 9,
+    "question_id": "v1w2x3y4z5a",
+    "question": "Who was the father of the Horites, who lived in the land of Seir?",
+    "options": "[\r\n  \"Seir\",\r\n  \"Eliphaz\",\r\n  \"Hori\",\r\n  \"Korah\"\r\n]",
+    "reference": "Genesis 36:20-30",
+    "answer": "Seir"
+  },
+  {
+    "id": 10,
+    "question_id": "b6c7d8e9f0g",
+    "question": "Who were the kings that reigned in Edom before any king ruled over the Israelites?",
+    "options": "[\r\n  \"Bela, Jobab, Zerah, and Husham\",\r\n  \"Saul, David, Solomon, and Rehoboam\",\r\n  \"Chedorlaomer, Amraphel, Arioch, and Tidal\",\r\n  \"Shishak, Pharaoh, and Tiglath-Pileser\"\r\n]",
+    "reference": "Genesis 36:31-39",
+    "answer": "Bela, Jobab, Zerah, and Husham"
   }
 ]
