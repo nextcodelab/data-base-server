@@ -81,15 +81,6 @@ In addition to our responsibility to care for natures, animals ***[Proverbs 12:1
 By immersing ourselves in nature, we can find a deeper sense of calm, reduce stress, and gain a renewed perspective on life. Through this, we honor God’s intention for creation—not only as stewards but also as beneficiaries of its beauty and tranquility.
 ---
 
-**Serve GOD with HOLINESS and RIGHTEOUSNESS.**
-
-
-These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
-
-
-
----
-
 ## 🌍 Be an Ambassador of Peace and AGAPE Love
 
 > In a world filled with conflict, division, and noise, **we** have a higher calling — to be an **Ambassador of Peace, bringing AGAPE to the world** [**Matthew 5:9**](Matt 5:9).
@@ -111,6 +102,17 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
   _"Peacemakers who sow in **peace** reap a harvest of righteousness."_
 
 ---
+
+**Serve GOD with HOLINESS and RIGHTEOUSNESS.**
+
+
+These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
+
+
+
+---
+
+
 *Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** ***[John 20:19](John 20:19)*** ***[1 Corinthians 16:23](1Cor 16:23)*** ***[Philippians 4:23](Phil 4:23).***
 
 
