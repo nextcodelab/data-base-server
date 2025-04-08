@@ -119,6 +119,8 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 ### LET US EVANGELIZE THE WORLD!
 
 ### MIZPAH
+---
+# **WE CARE, CHRIST AGAPE, REDEEM EVERYONE**
 
 
 
