@@ -91,6 +91,30 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 ---
 *Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** ***[John 20:19](John 20:19)*** ***[1 Corinthians 16:23](1Cor 16:23)*** ***[Philippians 4:23](Phil 4:23).***
 
+## 🌍 Be an Ambassador of Peace and AGAPE Love
+
+> In a world filled with conflict, division, and noise, **we** have a higher calling — to be an **Ambassador of Peace, bringing AGAPE to the world** [**Matthew 5:9**](Matt 5:9).
+> "Blessed are the peacemakers, for they will be called children of God."_
+> God has entrusted us with the message of reconciliation, to shine as a light in dark places, and to carry His ""peace"" wherever we go.  
+> Let these verses remind us of that mission and stir our heart to walk in it boldly.
+
+
+- [**Matthew 5:9**](Matth 5:9)  
+  _"Blessed are the **peacemakers**, for they will be called children of God."_
+
+- [**Romans 12:18**](Rom 12:18)  
+  _"If it is possible, as far as it depends on you, live at **peace** with everyone."_
+
+- [**Hebrews 12:14**](Heb 12:14)  
+  _"Make every effort to live in **peace** with everyone and to be holy..."_
+
+- [**James 3:18**](James 3:18)  
+  _"Peacemakers who sow in **peace** reap a harvest of righteousness."_
+
+---
+
+
+
 ### LET US EVANGELIZE THE WORLD!
 
 ### MIZPAH
