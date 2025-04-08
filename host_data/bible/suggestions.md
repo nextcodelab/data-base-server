@@ -89,7 +89,6 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 
 ---
-*Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** ***[John 20:19](John 20:19)*** ***[1 Corinthians 16:23](1Cor 16:23)*** ***[Philippians 4:23](Phil 4:23).***
 
 ## 🌍 Be an Ambassador of Peace and AGAPE Love
 
@@ -112,7 +111,7 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
   _"Peacemakers who sow in **peace** reap a harvest of righteousness."_
 
 ---
-
+*Spreading Kindness and Blessing to Everyone with Words:* ***'The Grace of the Lord Jesus Be With You'***, ***SHALOM*** ***[John 20:19](John 20:19)*** ***[1 Corinthians 16:23](1Cor 16:23)*** ***[Philippians 4:23](Phil 4:23).***
 
 
 ### LET US EVANGELIZE THE WORLD!
