@@ -2598,5 +2598,1021 @@
     "options": "[\r\n  \"Bela, Jobab, Zerah, and Husham\",\r\n  \"Saul, David, Solomon, and Rehoboam\",\r\n  \"Chedorlaomer, Amraphel, Arioch, and Tidal\",\r\n  \"Shishak, Pharaoh, and Tiglath-Pileser\"\r\n]",
     "reference": "Genesis 36:31-39",
     "answer": "Bela, Jobab, Zerah, and Husham"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Why did Joseph's brothers hate him?",
+    "options": "[\r\n  \"Because their father loved him more\",\r\n  \"Because he was the youngest\",\r\n  \"Because he was lazy\",\r\n  \"Because he stole from them\"\r\n]",
+    "reference": "Genesis 37:3-4",
+    "answer": "Because their father loved him more"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "What special gift did Jacob give to Joseph?",
+    "options": "[\r\n  \"A coat of many colors\",\r\n  \"A gold ring\",\r\n  \"A pair of sandals\",\r\n  \"A silver cup\"\r\n]",
+    "reference": "Genesis 37:3",
+    "answer": "A coat of many colors"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "What was the content of Joseph's first dream?",
+    "options": "[\r\n  \"His brothers’ sheaves bowed to his sheaf\",\r\n  \"He ruled over Egypt\",\r\n  \"He found a hidden treasure\",\r\n  \"He walked with angels\"\r\n]",
+    "reference": "Genesis 37:5-7",
+    "answer": "His brothers’ sheaves bowed to his sheaf"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What did Joseph's second dream involve?",
+    "options": "[\r\n  \"The sun, moon, and eleven stars bowing to him\",\r\n  \"A ladder to heaven\",\r\n  \"A burning bush\",\r\n  \"Twelve golden coins\"\r\n]",
+    "reference": "Genesis 37:9",
+    "answer": "The sun, moon, and eleven stars bowing to him"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "What did Joseph’s brothers initially plan to do to him?",
+    "options": "[\r\n  \"Kill him\",\r\n  \"Sell him\",\r\n  \"Make him a slave\",\r\n  \"Ignore him\"\r\n]",
+    "reference": "Genesis 37:18-20",
+    "answer": "Kill him"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "Which brother suggested they throw Joseph into a pit instead of killing him?",
+    "options": "[\r\n  \"Reuben\",\r\n  \"Judah\",\r\n  \"Levi\",\r\n  \"Simeon\"\r\n]",
+    "reference": "Genesis 37:21-22",
+    "answer": "Reuben"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "To whom did the brothers eventually sell Joseph?",
+    "options": "[\r\n  \"Ishmaelites/Midianite traders\",\r\n  \"Egyptian soldiers\",\r\n  \"Canaanite merchants\",\r\n  \"Philistine farmers\"\r\n]",
+    "reference": "Genesis 37:28",
+    "answer": "Ishmaelites/Midianite traders"
+  },
+  {
+    "id": 8,
+    "question_id": "p9q0r1s2t3u",
+    "question": "How did the brothers deceive their father about Joseph?",
+    "options": "[\r\n  \"They dipped his coat in goat’s blood\",\r\n  \"They said he was kidnapped\",\r\n  \"They said he ran away\",\r\n  \"They claimed he fell into a pit\"\r\n]",
+    "reference": "Genesis 37:31-33",
+    "answer": "They dipped his coat in goat’s blood"
+  },
+  {
+    "id": 9,
+    "question_id": "v1w2x3y4z5a",
+    "question": "How did Jacob respond to the news of Joseph’s supposed death?",
+    "options": "[\r\n  \"He tore his clothes and mourned deeply\",\r\n  \"He rejoiced\",\r\n  \"He sent servants to find Joseph\",\r\n  \"He blamed his other sons\"\r\n]",
+    "reference": "Genesis 37:34-35",
+    "answer": "He tore his clothes and mourned deeply"
+  },
+  {
+    "id": 10,
+    "question_id": "b6c7d8e9f0g",
+    "question": "Who bought Joseph in Egypt?",
+    "options": "[\r\n  \"Potiphar, an officer of Pharaoh\",\r\n  \"Pharaoh himself\",\r\n  \"A Canaanite trader\",\r\n  \"The chief baker\"\r\n]",
+    "reference": "Genesis 37:36",
+    "answer": "Potiphar, an officer of Pharaoh"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who bought Joseph in Egypt?",
+    "options": "[\r\n  \"Potiphar, an officer of Pharaoh\",\r\n  \"Pharaoh himself\",\r\n  \"A Canaanite trader\",\r\n  \"The chief cupbearer\"\r\n]",
+    "reference": "Genesis 39:1",
+    "answer": "Potiphar, an officer of Pharaoh"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "Why did Potiphar put Joseph in charge of his house?",
+    "options": "[\r\n  \"Because the Lord was with Joseph and gave him success\",\r\n  \"Because Joseph paid him\",\r\n  \"Because Joseph was older\",\r\n  \"Because Potiphar had no children\"\r\n]",
+    "reference": "Genesis 39:2-4",
+    "answer": "Because the Lord was with Joseph and gave him success"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "How did Potiphar's house benefit from Joseph’s presence?",
+    "options": "[\r\n  \"The Lord blessed his household\",\r\n  \"His crops doubled\",\r\n  \"He became king\",\r\n  \"His family was healed\"\r\n]",
+    "reference": "Genesis 39:5",
+    "answer": "The Lord blessed his household"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What did Potiphar’s wife try to do to Joseph?",
+    "options": "[\r\n  \"She tried to seduce him\",\r\n  \"She tried to kill him\",\r\n  \"She tried to free him\",\r\n  \"She tried to marry him\"\r\n]",
+    "reference": "Genesis 39:7",
+    "answer": "She tried to seduce him"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "How did Joseph respond to Potiphar’s wife’s advances?",
+    "options": "[\r\n  \"He refused and fled\",\r\n  \"He agreed\",\r\n  \"He ignored her\",\r\n  \"He told Potiphar\"\r\n]",
+    "reference": "Genesis 39:8-12",
+    "answer": "He refused and fled"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What did Potiphar’s wife do after Joseph fled?",
+    "options": "[\r\n  \"She falsely accused him\",\r\n  \"She ran after him\",\r\n  \"She confessed\",\r\n  \"She left Egypt\"\r\n]",
+    "reference": "Genesis 39:13-18",
+    "answer": "She falsely accused him"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "What happened to Joseph because of the false accusation?",
+    "options": "[\r\n  \"He was put in prison\",\r\n  \"He was executed\",\r\n  \"He was sent away\",\r\n  \"He was promoted\"\r\n]",
+    "reference": "Genesis 39:20",
+    "answer": "He was put in prison"
+  },
+  {
+    "id": 8,
+    "question_id": "p9q0r1s2t3u",
+    "question": "Even in prison, what was true about Joseph?",
+    "options": "[\r\n  \"The Lord was with him\",\r\n  \"He became sad\",\r\n  \"He escaped\",\r\n  \"He lost hope\"\r\n]",
+    "reference": "Genesis 39:21",
+    "answer": "The Lord was with him"
+  },
+  {
+    "id": 9,
+    "question_id": "v1w2x3y4z5a",
+    "question": "What role did Joseph receive in prison?",
+    "options": "[\r\n  \"He was put in charge of the prisoners\",\r\n  \"He cleaned the prison\",\r\n  \"He became a guard\",\r\n  \"He was isolated\"\r\n]",
+    "reference": "Genesis 39:22",
+    "answer": "He was put in charge of the prisoners"
+  },
+  {
+    "id": 10,
+    "question_id": "b6c7d8e9f0g",
+    "question": "Why did the warden trust Joseph?",
+    "options": "[\r\n  \"Because the Lord made him succeed\",\r\n  \"Because Joseph bribed him\",\r\n  \"Because Joseph was older\",\r\n  \"Because Potiphar requested it\"\r\n]",
+    "reference": "Genesis 39:23",
+    "answer": "Because the Lord made him succeed"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f",
+    "question": "Who were the two officials of Pharaoh imprisoned with Joseph?",
+    "options": "[\r\n  \"The chief cupbearer and the chief baker\",\r\n  \"The chief priest and the magician\",\r\n  \"Two soldiers\",\r\n  \"Two merchants\"\r\n]",
+    "reference": "Genesis 40:2-3",
+    "answer": "The chief cupbearer and the chief baker"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l",
+    "question": "Why were the cupbearer and baker put in prison?",
+    "options": "[\r\n  \"Pharaoh was angry with them\",\r\n  \"They stole from Pharaoh\",\r\n  \"They tried to escape\",\r\n  \"They disrespected the law\"\r\n]",
+    "reference": "Genesis 40:2",
+    "answer": "Pharaoh was angry with them"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r",
+    "question": "Who assigned Joseph to attend the cupbearer and the baker?",
+    "options": "[\r\n  \"The captain of the guard\",\r\n  \"Pharaoh\",\r\n  \"The prison warden\",\r\n  \"God\"\r\n]",
+    "reference": "Genesis 40:4",
+    "answer": "The captain of the guard"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w0x",
+    "question": "What did the cupbearer and baker each have one night?",
+    "options": "[\r\n  \"A dream\",\r\n  \"A vision\",\r\n  \"A visitor\",\r\n  \"A warning\"\r\n]",
+    "reference": "Genesis 40:5",
+    "answer": "A dream"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d",
+    "question": "Who interpreted the dreams of the cupbearer and baker?",
+    "options": "[\r\n  \"Joseph\",\r\n  \"Pharaoh\",\r\n  \"An angel\",\r\n  \"The captain of the guard\"\r\n]",
+    "reference": "Genesis 40:8",
+    "answer": "Joseph"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j1k",
+    "question": "What did the cupbearer’s dream mean?",
+    "options": "[\r\n  \"He would be restored to his position\",\r\n  \"He would die\",\r\n  \"He would be promoted\",\r\n  \"He would be forgotten\"\r\n]",
+    "reference": "Genesis 40:12-13",
+    "answer": "He would be restored to his position"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q",
+    "question": "What did the baker’s dream mean?",
+    "options": "[\r\n  \"He would be executed\",\r\n  \"He would be restored\",\r\n  \"He would escape\",\r\n  \"He would become a servant\"\r\n]",
+    "reference": "Genesis 40:18-19",
+    "answer": "He would be executed"
+  },
+  {
+    "id": 8,
+    "question_id": "p9q0r1s2t3u",
+    "question": "On which day were the dreams fulfilled?",
+    "options": "[\r\n  \"Pharaoh’s birthday\",\r\n  \"The Sabbath\",\r\n  \"The third day of the month\",\r\n  \"Passover\"\r\n]",
+    "reference": "Genesis 40:20",
+    "answer": "Pharaoh’s birthday"
+  },
+  {
+    "id": 9,
+    "question_id": "v1w2x3y4z5a",
+    "question": "What did Pharaoh do on his birthday regarding the two officials?",
+    "options": "[\r\n  \"He restored the cupbearer and executed the baker\",\r\n  \"He freed both men\",\r\n  \"He promoted them\",\r\n  \"He forgot about them\"\r\n]",
+    "reference": "Genesis 40:21-22",
+    "answer": "He restored the cupbearer and executed the baker"
+  },
+  {
+    "id": 10,
+    "question_id": "b6c7d8e9f0g",
+    "question": "What did the chief cupbearer do after being restored?",
+    "options": "[\r\n  \"He forgot Joseph\",\r\n  \"He remembered Joseph\",\r\n  \"He helped Joseph escape\",\r\n  \"He told Pharaoh about Joseph\"\r\n]",
+    "reference": "Genesis 40:23",
+    "answer": "He forgot Joseph"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f6",
+    "question": "What was Pharaoh’s first dream about?",
+    "options": "[\r\n  \"Seven fat cows and seven thin cows\",\r\n  \"Seven stars and seven moons\",\r\n  \"A ladder reaching to heaven\",\r\n  \"A burning bush\"\r\n]",
+    "reference": "Genesis 41:1-4",
+    "answer": "Seven fat cows and seven thin cows"
+  },
+  {
+    "id": 2,
+    "question_id": "g7h8i9j0k1l2",
+    "question": "What did the seven thin cows do in Pharaoh's dream?",
+    "options": "[\r\n  \"They stood still\",\r\n  \"They ran away\",\r\n  \"They ate the seven fat cows\",\r\n  \"They drowned in the Nile\"\r\n]",
+    "reference": "Genesis 41:4",
+    "answer": "They ate the seven fat cows"
+  },
+  {
+    "id": 3,
+    "question_id": "m3n4o5p6q7r8",
+    "question": "Who suggested that Pharaoh call Joseph to interpret the dreams?",
+    "options": "[\r\n  \"The chief cupbearer\",\r\n  \"The chief baker\",\r\n  \"Potiphar\",\r\n  \"His magicians\"\r\n]",
+    "reference": "Genesis 41:9-12",
+    "answer": "The chief cupbearer"
+  },
+  {
+    "id": 4,
+    "question_id": "s9t0u1v2w3x4",
+    "question": "What did Joseph say about dream interpretations?",
+    "options": "[\r\n  \"They belong to God\",\r\n  \"Only wise men can interpret them\",\r\n  \"They are useless\",\r\n  \"They are evil\"\r\n]",
+    "reference": "Genesis 41:16",
+    "answer": "They belong to God"
+  },
+  {
+    "id": 5,
+    "question_id": "y5z6a7b8c9d0",
+    "question": "What did Pharaoh do after Joseph interpreted his dreams?",
+    "options": "[\r\n  \"He imprisoned Joseph\",\r\n  \"He made Joseph governor of Egypt\",\r\n  \"He ignored him\",\r\n  \"He gave him gold\"\r\n]",
+    "reference": "Genesis 41:39-41",
+    "answer": "He made Joseph governor of Egypt"
+  },
+  {
+    "id": 6,
+    "question_id": "e1f2g3h4i5j6",
+    "question": "What new name did Pharaoh give to Joseph?",
+    "options": "[\r\n  \"Zaphenath-paneah\",\r\n  \"Zechariah\",\r\n  \"Zebulun\",\r\n  \"Zilpah\"\r\n]",
+    "reference": "Genesis 41:45",
+    "answer": "Zaphenath-paneah"
+  },
+  {
+    "id": 7,
+    "question_id": "k7l8m9n0o1p2",
+    "question": "How many years of abundance did Joseph predict?",
+    "options": "[\r\n  \"7 years\",\r\n  \"3 years\",\r\n  \"10 years\",\r\n  \"12 years\"\r\n]",
+    "reference": "Genesis 41:29",
+    "answer": "7 years"
+  },
+  {
+    "id": 8,
+    "question_id": "q3r4s5t6u7v8",
+    "question": "How did Egypt prepare for the famine?",
+    "options": "[\r\n  \"They stored grain during the years of abundance\",\r\n  \"They built walls\",\r\n  \"They prayed for rain\",\r\n  \"They sent messengers to other lands\"\r\n]",
+    "reference": "Genesis 41:48-49",
+    "answer": "They stored grain during the years of abundance"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5g6",
+    "question": "Why did Jacob send his sons to Egypt?",
+    "options": "[\r\n  \"To buy grain\",\r\n  \"To find Joseph\",\r\n  \"To escape a drought\",\r\n  \"To find work\"\r\n]",
+    "reference": "Genesis 42:1-2",
+    "answer": "To buy grain"
+  },
+  {
+    "id": 2,
+    "question_id": "h7i8j9k0l1m2",
+    "question": "Which son did Jacob not send to Egypt?",
+    "options": "[\r\n  \"Benjamin\",\r\n  \"Reuben\",\r\n  \"Judah\",\r\n  \"Simeon\"\r\n]",
+    "reference": "Genesis 42:4",
+    "answer": "Benjamin"
+  },
+  {
+    "id": 3,
+    "question_id": "n3o4p5q6r7s8",
+    "question": "How did Joseph recognize his brothers?",
+    "options": "[\r\n  \"They told him their names\",\r\n  \"He recognized their voices\",\r\n  \"He remembered their faces\",\r\n  \"By their language\"\r\n]",
+    "reference": "Genesis 42:7-8",
+    "answer": "He remembered their faces"
+  },
+  {
+    "id": 4,
+    "question_id": "t9u0v1w2x3y4",
+    "question": "What did Joseph accuse his brothers of being?",
+    "options": "[\r\n  \"Thieves\",\r\n  \"Spies\",\r\n  \"Liars\",\r\n  \"Runaways\"\r\n]",
+    "reference": "Genesis 42:9",
+    "answer": "Spies"
+  },
+  {
+    "id": 5,
+    "question_id": "z5a6b7c8d9e0",
+    "question": "Who was kept in prison while the others returned home?",
+    "options": "[\r\n  \"Simeon\",\r\n  \"Reuben\",\r\n  \"Levi\",\r\n  \"Judah\"\r\n]",
+    "reference": "Genesis 42:24",
+    "answer": "Simeon"
+  },
+  {
+    "id": 6,
+    "question_id": "f1g2h3i4j5k6",
+    "question": "What did Joseph secretly return in his brothers’ sacks?",
+    "options": "[\r\n  \"Silver\",\r\n  \"Gold\",\r\n  \"A note\",\r\n  \"Grain\"\r\n]",
+    "reference": "Genesis 42:25",
+    "answer": "Silver"
+  },
+  {
+    "id": 7,
+    "question_id": "l7m8n9o0p1q2",
+    "question": "How did Jacob react when he learned that Benjamin must go to Egypt?",
+    "options": "[\r\n  \"He refused\",\r\n  \"He was glad\",\r\n  \"He quickly agreed\",\r\n  \"He sent all his sons\"\r\n]",
+    "reference": "Genesis 42:36",
+    "answer": "He refused"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4f43",
+    "question": "Why did Jacob finally agree to send Benjamin to Egypt?",
+    "options": "[\r\n  \"Because the famine was severe\",\r\n  \"Because Judah guaranteed his safety\",\r\n  \"Because an angel told him to\",\r\n  \"Because Reuben insisted\"\r\n]",
+    "reference": "Genesis 43:8-14",
+    "answer": "Because Judah guaranteed his safety"
+  },
+  {
+    "id": 2,
+    "question_id": "g5h6i7j8k943",
+    "question": "What gifts did Jacob send with his sons to Egypt?",
+    "options": "[\r\n  \"Silver and gold\",\r\n  \"Balm, honey, spices, myrrh, pistachio nuts, and almonds\",\r\n  \"Sheep and oxen\",\r\n  \"Fine linen and wine\"\r\n]",
+    "reference": "Genesis 43:11",
+    "answer": "Balm, honey, spices, myrrh, pistachio nuts, and almonds"
+  },
+  {
+    "id": 3,
+    "question_id": "l9m0n1o2p343",
+    "question": "What did Joseph do when he saw Benjamin with his brothers?",
+    "options": "[\r\n  \"He cried\",\r\n  \"He got angry\",\r\n  \"He sent them away\",\r\n  \"He ignored them\"\r\n]",
+    "reference": "Genesis 43:29-30",
+    "answer": "He cried"
+  },
+  {
+    "id": 4,
+    "question_id": "q4r5s6t7u843",
+    "question": "Where did Joseph invite his brothers to eat?",
+    "options": "[\r\n  \"At the palace\",\r\n  \"At his home\",\r\n  \"At the temple\",\r\n  \"At the market\"\r\n]",
+    "reference": "Genesis 43:16",
+    "answer": "At his home"
+  },
+  {
+    "id": 5,
+    "question_id": "v9w0x1y2z343",
+    "question": "What made the brothers afraid when they were brought to Joseph’s house?",
+    "options": "[\r\n  \"They thought they were being arrested for the silver in their sacks\",\r\n  \"They thought they would be enslaved\",\r\n  \"They thought Joseph recognized them\",\r\n  \"They feared a trap\"\r\n]",
+    "reference": "Genesis 43:18",
+    "answer": "They thought they were being arrested for the silver in their sacks"
+  },
+  {
+    "id": 6,
+    "question_id": "a7b8c9d0e143",
+    "question": "How was Benjamin honored during the meal?",
+    "options": "[\r\n  \"He was given a royal robe\",\r\n  \"He was seated next to Joseph\",\r\n  \"He was given five times as much food\",\r\n  \"He was toasted with wine\"\r\n]",
+    "reference": "Genesis 43:34",
+    "answer": "He was given five times as much food"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4f44",
+    "question": "What did Joseph command his steward to put in Benjamin’s sack?",
+    "options": "[\r\n  \"A golden chain\",\r\n  \"His silver cup\",\r\n  \"Extra grain\",\r\n  \"A scroll\"\r\n]",
+    "reference": "Genesis 44:2",
+    "answer": "His silver cup"
+  },
+  {
+    "id": 2,
+    "question_id": "g5h6i7j8k944",
+    "question": "How did the brothers react when the silver cup was found in Benjamin’s sack?",
+    "options": "[\r\n  \"They rejoiced\",\r\n  \"They tore their clothes\",\r\n  \"They fled\",\r\n  \"They denied it\"\r\n]",
+    "reference": "Genesis 44:13",
+    "answer": "They tore their clothes"
+  },
+  {
+    "id": 3,
+    "question_id": "l9m0n1o2p344",
+    "question": "Who pleaded with Joseph to take him instead of Benjamin?",
+    "options": "[\r\n  \"Reuben\",\r\n  \"Levi\",\r\n  \"Judah\",\r\n  \"Simeon\"\r\n]",
+    "reference": "Genesis 44:33",
+    "answer": "Judah"
+  },
+  {
+    "id": 4,
+    "question_id": "q4r5s6t7u844",
+    "question": "Why did Judah beg Joseph to let Benjamin go back to their father?",
+    "options": "[\r\n  \"Because Jacob would die if Benjamin didn’t return\",\r\n  \"Because he didn’t trust Joseph\",\r\n  \"Because he was afraid of Joseph\",\r\n  \"Because Benjamin was sick\"\r\n]",
+    "reference": "Genesis 44:30-31",
+    "answer": "Because Jacob would die if Benjamin didn’t return"
+  },
+  {
+    "id": 5,
+    "question_id": "v9w0x1y2z344",
+    "question": "What reason did Joseph give for planting the cup in Benjamin’s sack?",
+    "options": "[\r\n  \"To test his brothers\",\r\n  \"To accuse them of theft\",\r\n  \"To reveal his identity\",\r\n  \"To punish Benjamin\"\r\n]",
+    "reference": "Genesis 44:15",
+    "answer": "To test his brothers"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4g45",
+    "question": "What did Joseph do when he could no longer control himself before his brothers?",
+    "options": "[\r\n  \"He wept loudly\",\r\n  \"He imprisoned them\",\r\n  \"He left the room\",\r\n  \"He struck them\"\r\n]",
+    "reference": "Genesis 45:1-2",
+    "answer": "He wept loudly"
+  },
+  {
+    "id": 2,
+    "question_id": "e5f6g7h8i945",
+    "question": "How did Joseph reveal his identity to his brothers?",
+    "options": "[\r\n  \"By showing them his ring\",\r\n  \"By speaking in Hebrew\",\r\n  \"By saying, 'I am Joseph'\",\r\n  \"By giving them grain\"\r\n]",
+    "reference": "Genesis 45:3",
+    "answer": "By saying, 'I am Joseph'"
+  },
+  {
+    "id": 3,
+    "question_id": "j1k2l3m4n545",
+    "question": "What was the brothers' reaction when Joseph revealed himself?",
+    "options": "[\r\n  \"They rejoiced\",\r\n  \"They were speechless and dismayed\",\r\n  \"They bowed immediately\",\r\n  \"They fled\"\r\n]",
+    "reference": "Genesis 45:3",
+    "answer": "They were speechless and dismayed"
+  },
+  {
+    "id": 4,
+    "question_id": "o6p7q8r9s045",
+    "question": "Why did Joseph say God sent him ahead to Egypt?",
+    "options": "[\r\n  \"To punish him\",\r\n  \"To save lives during the famine\",\r\n  \"To rule over Pharaoh\",\r\n  \"To test his brothers\"\r\n]",
+    "reference": "Genesis 45:5-7",
+    "answer": "To save lives during the famine"
+  },
+  {
+    "id": 5,
+    "question_id": "t1u2v3w4x545",
+    "question": "What did Pharaoh offer to Joseph’s brothers?",
+    "options": "[\r\n  \"Riches and gold\",\r\n  \"The best land in Egypt\",\r\n  \"Egyptian citizenship\",\r\n  \"Grain for a year\"\r\n]",
+    "reference": "Genesis 45:17-18",
+    "answer": "The best land in Egypt"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e646",
+    "question": "Where did Jacob stop to offer sacrifices on his way to Egypt?",
+    "options": "[\r\n  \"Beersheba\",\r\n  \"Bethel\",\r\n  \"Hebron\",\r\n  \"Shechem\"\r\n]",
+    "reference": "Genesis 46:1",
+    "answer": "Beersheba"
+  },
+  {
+    "id": 2,
+    "question_id": "f5g6h7i8j946",
+    "question": "What did God tell Jacob in a vision at night?",
+    "options": "[\r\n  \"Do not be afraid to go down to Egypt\",\r\n  \"Stay in Canaan\",\r\n  \"Send only your sons\",\r\n  \"Return to Haran\"\r\n]",
+    "reference": "Genesis 46:3",
+    "answer": "Do not be afraid to go down to Egypt"
+  },
+  {
+    "id": 3,
+    "question_id": "k1l2m3n4o546",
+    "question": "Who did Jacob take with him to Egypt?",
+    "options": "[\r\n  \"Only his sons\",\r\n  \"All his descendants\",\r\n  \"His servants only\",\r\n  \"Only Benjamin\"\r\n]",
+    "reference": "Genesis 46:6-7",
+    "answer": "All his descendants"
+  },
+  {
+    "id": 4,
+    "question_id": "p6q7r8s9t046",
+    "question": "How many members of Jacob’s family went to Egypt, not counting the wives of his sons?",
+    "options": "[\r\n  \"66\",\r\n  \"70\",\r\n  \"72\",\r\n  \"60\"\r\n]",
+    "reference": "Genesis 46:26",
+    "answer": "66"
+  },
+  {
+    "id": 5,
+    "question_id": "u1v2w3x4y546",
+    "question": "Who did Jacob send ahead to Joseph in Egypt to get directions to Goshen?",
+    "options": "[\r\n  \"Reuben\",\r\n  \"Judah\",\r\n  \"Levi\",\r\n  \"Naphtali\"\r\n]",
+    "reference": "Genesis 46:28",
+    "answer": "Judah"
+  },
+  {
+    "id": 6,
+    "question_id": "z5a6b7c8d946",
+    "question": "What did Joseph do when he met his father Jacob in Goshen?",
+    "options": "[\r\n  \"He bowed\",\r\n  \"He wept on his neck a long time\",\r\n  \"He asked about his health\",\r\n  \"He offered him food\"\r\n]",
+    "reference": "Genesis 46:29",
+    "answer": "He wept on his neck a long time"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e7f7",
+    "question": "What was the first thing Joseph did when Jacob met Pharaoh?",
+    "options": "[\r\n  \"He introduced his father to Pharaoh\",\r\n  \"He bowed before Pharaoh\",\r\n  \"He asked for more land\",\r\n  \"He gave Pharaoh gifts\"\r\n]",
+    "reference": "Genesis 47:7",
+    "answer": "He introduced his father to Pharaoh"
+  },
+  {
+    "id": 2,
+    "question_id": "g8h9i0j1k8l7",
+    "question": "How old was Jacob when he spoke to Pharaoh?",
+    "options": "[\r\n  \"120\",\r\n  \"130\",\r\n  \"147\",\r\n  \"175\"\r\n]",
+    "reference": "Genesis 47:9",
+    "answer": "130"
+  },
+  {
+    "id": 3,
+    "question_id": "m2n3o4p5q9r8",
+    "question": "What land did Pharaoh give to Joseph's family?",
+    "options": "[\r\n  \"The land of Goshen\",\r\n  \"The land of Canaan\",\r\n  \"The land of Egypt\",\r\n  \"The land of Jericho\"\r\n]",
+    "reference": "Genesis 47:11",
+    "answer": "The land of Goshen"
+  },
+  {
+    "id": 4,
+    "question_id": "s6t7u8v9w7x6",
+    "question": "How did Joseph help the Egyptians during the famine?",
+    "options": "[\r\n  \"He gave them food from Pharaoh's storehouses\",\r\n  \"He gave them land\",\r\n  \"He allowed them to travel to other nations\",\r\n  \"He made them his servants\"\r\n]",
+    "reference": "Genesis 47:13-26",
+    "answer": "He gave them food from Pharaoh's storehouses"
+  },
+  {
+    "id": 5,
+    "question_id": "y5z6a7b8c7d9",
+    "question": "What was the deal Joseph made with the people of Egypt for food during the famine?",
+    "options": "[\r\n  \"They had to sell their land and become Pharaoh's servants\",\r\n  \"They had to give him one-tenth of their produce\",\r\n  \"They had to become his slaves\",\r\n  \"They had to go to Canaan for help\"\r\n]",
+    "reference": "Genesis 47:20-21",
+    "answer": "They had to sell their land and become Pharaoh's servants"
+  },
+  {
+    "id": 6,
+    "question_id": "e7f8g9h0i6j7",
+    "question": "How did Joseph treat his family during the famine?",
+    "options": "[\r\n  \"He gave them the best of the land\",\r\n  \"He made them work for Pharaoh\",\r\n  \"He sent them away to Egypt\",\r\n  \"He gave them food at no cost\"\r\n]",
+    "reference": "Genesis 47:12",
+    "answer": "He gave them the best of the land"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e9f7",
+    "question": "Who did Jacob bless before his death?",
+    "options": "[\r\n  \"His sons, Ephraim and Manasseh\",\r\n  \"His twelve sons\",\r\n  \"His grandsons\",\r\n  \"His granddaughters\"\r\n]",
+    "reference": "Genesis 48:1-2",
+    "answer": "His sons, Ephraim and Manasseh"
+  },
+  {
+    "id": 2,
+    "question_id": "g8h9i0j1k7l6",
+    "question": "What did Jacob say when Joseph presented his sons for a blessing?",
+    "options": "[\r\n  \"I never expected to see your face again\",\r\n  \"You are a great man, Joseph\",\r\n  \"You have been a good son\",\r\n  \"I bless you with my strength\"\r\n]",
+    "reference": "Genesis 48:11",
+    "answer": "I never expected to see your face again"
+  },
+  {
+    "id": 3,
+    "question_id": "m2n3o4p5q6r7",
+    "question": "Who did Jacob place his right hand on during the blessing?",
+    "options": "[\r\n  \"Ephraim\",\r\n  \"Manasseh\",\r\n  \"Reuben\",\r\n  \"Joseph\"\r\n]",
+    "reference": "Genesis 48:13-14",
+    "answer": "Ephraim"
+  },
+  {
+    "id": 4,
+    "question_id": "s5t6u7v8w9x6",
+    "question": "Why did Jacob cross his hands when blessing Ephraim and Manasseh?",
+    "options": "[\r\n  \"He was led by the Holy Spirit\",\r\n  \"He wanted to show preference for Ephraim\",\r\n  \"He was confused by their positions\",\r\n  \"He was following God's instructions\"\r\n]",
+    "reference": "Genesis 48:17-19",
+    "answer": "He wanted to show preference for Ephraim"
+  },
+  {
+    "id": 5,
+    "question_id": "y6z7a8b9c5d8",
+    "question": "What did Jacob say about Ephraim's future?",
+    "options": "[\r\n  \"He will become greater than Manasseh\",\r\n  \"He will be a leader of the twelve tribes\",\r\n  \"He will be the one to inherit the covenant\",\r\n  \"He will rule over Egypt\"\r\n]",
+    "reference": "Genesis 48:19",
+    "answer": "He will become greater than Manasseh"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j7k8",
+    "question": "What did Jacob say would happen to his descendants?",
+    "options": "[\r\n  \"They would become a great nation\",\r\n  \"They would inherit the land of Canaan\",\r\n  \"They would rule over all nations\",\r\n  \"They would be scattered across the world\"\r\n]",
+    "reference": "Genesis 48:4",
+    "answer": "They would inherit the land of Canaan"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e9f8",
+    "question": "What did Jacob do before he died?",
+    "options": "[\r\n  \"He blessed his sons\",\r\n  \"He gave a speech to his grandchildren\",\r\n  \"He offered sacrifices to God\",\r\n  \"He asked for forgiveness from God\"\r\n]",
+    "reference": "Genesis 49:1",
+    "answer": "He blessed his sons"
+  },
+  {
+    "id": 2,
+    "question_id": "g8h9i0j1k7l5",
+    "question": "Which tribe did Jacob say would be a leader among his brothers?",
+    "options": "[\r\n  \"Judah\",\r\n  \"Levi\",\r\n  \"Reuben\",\r\n  \"Joseph\"\r\n]",
+    "reference": "Genesis 49:8-10",
+    "answer": "Judah"
+  },
+  {
+    "id": 3,
+    "question_id": "m2n3o4p5q6r8",
+    "question": "What did Jacob prophesy about Reuben?",
+    "options": "[\r\n  \"He would not excel\",\r\n  \"He would be the strongest of the brothers\",\r\n  \"He would lead Israel\",\r\n  \"He would inherit the birthright\"\r\n]",
+    "reference": "Genesis 49:3-4",
+    "answer": "He would not excel"
+  },
+  {
+    "id": 4,
+    "question_id": "s5t6u7v8w9x4",
+    "question": "What did Jacob say about the tribe of Levi?",
+    "options": "[\r\n  \"They would be scattered among Israel\",\r\n  \"They would rule Israel\",\r\n  \"They would receive a great inheritance\",\r\n  \"They would conquer nations\"\r\n]",
+    "reference": "Genesis 49:5-7",
+    "answer": "They would be scattered among Israel"
+  },
+  {
+    "id": 5,
+    "question_id": "y6z7a8b9c5d9",
+    "question": "What did Jacob say about Joseph's future?",
+    "options": "[\r\n  \"He would be fruitful and prosper\",\r\n  \"He would lead Egypt\",\r\n  \"He would become the king of Israel\",\r\n  \"He would be a great warrior\"\r\n]",
+    "reference": "Genesis 49:22-26",
+    "answer": "He would be fruitful and prosper"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j7k9",
+    "question": "Which tribe did Jacob say would provide the ruler of Israel?",
+    "options": "[\r\n  \"Judah\",\r\n  \"Levi\",\r\n  \"Dan\",\r\n  \"Ephraim\"\r\n]",
+    "reference": "Genesis 49:10",
+    "answer": "Judah"
+  },
+  {
+    "id": 7,
+    "question_id": "x1y2z3a4b5c0",
+    "question": "What did Jacob say about the tribe of Dan?",
+    "options": "[\r\n  \"They would be a serpent by the roadside\",\r\n  \"They would be a powerful warrior\",\r\n  \"They would be scattered in the land\",\r\n  \"They would be the smallest tribe\"\r\n]",
+    "reference": "Genesis 49:16-18",
+    "answer": "They would be a serpent by the roadside"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e8f9",
+    "question": "What did Joseph do when he saw his father's body?",
+    "options": "[\r\n  \"He mourned and wept\",\r\n  \"He had a grand funeral procession\",\r\n  \"He buried his father in Egypt\",\r\n  \"He asked for forgiveness for his past actions\"\r\n]",
+    "reference": "Genesis 50:1-3",
+    "answer": "He mourned and wept"
+  },
+  {
+    "id": 2,
+    "question_id": "g9h1i2j3k4l5",
+    "question": "Where was Jacob buried?",
+    "options": "[\r\n  \"In the cave of Machpelah\",\r\n  \"In Egypt\",\r\n  \"In Bethel\",\r\n  \"In Hebron\"\r\n]",
+    "reference": "Genesis 50:13",
+    "answer": "In the cave of Machpelah"
+  },
+  {
+    "id": 3,
+    "question_id": "m6n7o8p9q1r3",
+    "question": "What did Joseph's brothers fear after their father's death?",
+    "options": "[\r\n  \"That Joseph would seek revenge\",\r\n  \"That they would be exiled from Egypt\",\r\n  \"That they would be sold as slaves\",\r\n  \"That they would be cursed by God\"\r\n]",
+    "reference": "Genesis 50:15",
+    "answer": "That Joseph would seek revenge"
+  },
+  {
+    "id": 4,
+    "question_id": "s2t3u4v5w1x4",
+    "question": "What did Joseph say to reassure his brothers?",
+    "options": "[\r\n  \"Do not be afraid; I will provide for you and your children\",\r\n  \"You will be blessed by God\",\r\n  \"You will be free from slavery\",\r\n  \"God has forgiven you\"\r\n]",
+    "reference": "Genesis 50:19-21",
+    "answer": "Do not be afraid; I will provide for you and your children"
+  },
+  {
+    "id": 5,
+    "question_id": "y2z3a4b5c6d7",
+    "question": "What did Joseph request before he died?",
+    "options": "[\r\n  \"That his bones be taken to Canaan\",\r\n  \"That his possessions be divided among his brothers\",\r\n  \"That he be buried in the land of Egypt\",\r\n  \"That his tomb be built in a place of honor\"\r\n]",
+    "reference": "Genesis 50:24-25",
+    "answer": "That his bones be taken to Canaan"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j3k4",
+    "question": "How old was Joseph when he died?",
+    "options": "[\r\n  \"110 years old\",\r\n  \"120 years old\",\r\n  \"130 years old\",\r\n  \"100 years old\"\r\n]",
+    "reference": "Genesis 50:26",
+    "answer": "110 years old"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f6",
+    "question": "Who became the new king of Egypt after the death of Joseph and his brothers?",
+    "options": "[\r\n  \"A Pharaoh who did not know Joseph\",\r\n  \"A Pharaoh who was a descendant of Joseph\",\r\n  \"A foreign king from Canaan\",\r\n  \"A priest of Egypt\"\r\n]",
+    "reference": "Exodus 1:8",
+    "answer": "A Pharaoh who did not know Joseph"
+  },
+  {
+    "id": 2,
+    "question_id": "g7h8i9j0k1l2",
+    "question": "What did the new Pharaoh fear about the Israelites?",
+    "options": "[\r\n  \"That they would become too numerous and overpower Egypt\",\r\n  \"That they would worship other gods\",\r\n  \"That they would leave Egypt\",\r\n  \"That they would ally with Egypt's enemies\"\r\n]",
+    "reference": "Exodus 1:9-10",
+    "answer": "That they would become too numerous and overpower Egypt"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r6",
+    "question": "What harsh task did Pharaoh assign to the Israelites?",
+    "options": "[\r\n  \"Forced labor\",\r\n  \"Building cities for Pharaoh\",\r\n  \"Serving as soldiers in Pharaoh's army\",\r\n  \"Collecting taxes for Pharaoh\"\r\n]",
+    "reference": "Exodus 1:11",
+    "answer": "Forced labor"
+  },
+  {
+    "id": 4,
+    "question_id": "s2t3u4v5w6x7",
+    "question": "What were the names of the two Hebrew midwives who defied Pharaoh's command?",
+    "options": "[\r\n  \"Shiphrah and Puah\",\r\n  \"Miriam and Zipporah\",\r\n  \"Rachel and Leah\",\r\n  \"Deborah and Esther\"\r\n]",
+    "reference": "Exodus 1:15-16",
+    "answer": "Shiphrah and Puah"
+  },
+  {
+    "id": 5,
+    "question_id": "y2z3a4b5c6d7",
+    "question": "How did the Hebrew midwives respond to Pharaoh's order to kill the male infants?",
+    "options": "[\r\n  \"They let the boys live and lied to Pharaoh\",\r\n  \"They obeyed Pharaoh's command\",\r\n  \"They hid the boys in the fields\",\r\n  \"They reported the boys to Pharaoh\"\r\n]",
+    "reference": "Exodus 1:17-19",
+    "answer": "They let the boys live and lied to Pharaoh"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j3k4",
+    "question": "What did Pharaoh command when the midwives did not obey him?",
+    "options": "[\r\n  \"To throw all the newborn Hebrew boys into the Nile\",\r\n  \"To increase the labor of the Israelites\",\r\n  \"To send the Israelites away from Egypt\",\r\n  \"To give the Hebrews their own land in Egypt\"\r\n]",
+    "reference": "Exodus 1:22",
+    "answer": "To throw all the newborn Hebrew boys into the Nile"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f7",
+    "question": "What was the name of the Hebrew woman who gave birth to Moses?",
+    "options": "[\r\n  \"Jochebed\",\r\n  \"Miriam\",\r\n  \"Zipporah\",\r\n  \"Rebekah\"\r\n]",
+    "reference": "Exodus 2:1-2",
+    "answer": "Jochebed"
+  },
+  {
+    "id": 2,
+    "question_id": "g6h7i8j9k0l1",
+    "question": "Why did Moses' mother place him in a basket and set him afloat on the Nile?",
+    "options": "[\r\n  \"To hide him from Pharaoh's soldiers\",\r\n  \"To save him from being killed by Pharaoh's order\",\r\n  \"To send him to a distant land\",\r\n  \"To help him escape slavery\"\r\n]",
+    "reference": "Exodus 2:3",
+    "answer": "To save him from being killed by Pharaoh's order"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r6",
+    "question": "Who found Moses when he was floating in the basket on the Nile?",
+    "options": "[\r\n  \"Pharaoh's daughter\",\r\n  \"Moses' mother\",\r\n  \"The priest of Midian\",\r\n  \"A slave girl from Egypt\"\r\n]",
+    "reference": "Exodus 2:5",
+    "answer": "Pharaoh's daughter"
+  },
+  {
+    "id": 4,
+    "question_id": "s2t3u4v5w6x7",
+    "question": "What did Pharaoh's daughter do when she discovered Moses?",
+    "options": "[\r\n  \"She took him as her son\",\r\n  \"She ordered him to be killed\",\r\n  \"She raised him as a prince\",\r\n  \"She sent him to be a servant\"\r\n]",
+    "reference": "Exodus 2:10",
+    "answer": "She took him as her son"
+  },
+  {
+    "id": 5,
+    "question_id": "y1z2a3b4c5d6",
+    "question": "What did Moses do when he saw an Egyptian beating a Hebrew?",
+    "options": "[\r\n  \"He killed the Egyptian\",\r\n  \"He reported the incident to Pharaoh\",\r\n  \"He rebuked the Egyptian\",\r\n  \"He ran away\"\r\n]",
+    "reference": "Exodus 2:11-12",
+    "answer": "He killed the Egyptian"
+  },
+  {
+    "id": 6,
+    "question_id": "f7g8h9i0j3k4",
+    "question": "Why did Moses flee to Midian?",
+    "options": "[\r\n  \"Because Pharaoh wanted to kill him\",\r\n  \"Because he was exiled by the Hebrews\",\r\n  \"Because he was seeking refuge from Egypt\",\r\n  \"Because he wanted to find his family\"\r\n]",
+    "reference": "Exodus 2:15",
+    "answer": "Because Pharaoh wanted to kill him"
+  },
+  {
+    "id": 7,
+    "question_id": "l8m9n0o1p2q3",
+    "question": "Who helped Moses when he was at the well in Midian?",
+    "options": "[\r\n  \"The daughters of the priest of Midian\",\r\n  \"The women of the town\",\r\n  \"The Midianite shepherds\",\r\n  \"Zipporah, his future wife\"\r\n]",
+    "reference": "Exodus 2:16-17",
+    "answer": "The daughters of the priest of Midian"
+  },
+  {
+    "id": 8,
+    "question_id": "r1s2t3u4v5w6",
+    "question": "What did Zipporah do for Moses when he was at the well?",
+    "options": "[\r\n  \"She gave him water to drink\",\r\n  \"She protected him from the shepherds\",\r\n  \"She helped him find a home\",\r\n  \"She married him\"\r\n]",
+    "reference": "Exodus 2:21",
+    "answer": "She gave him water to drink"
+  },
+  {
+    "id": 9,
+    "question_id": "x1y2z3a4b5c6",
+    "question": "What did Moses' father-in-law, Jethro, do for him?",
+    "options": "[\r\n  \"He gave Moses a job as a shepherd\",\r\n  \"He gave Moses a wife\",\r\n  \"He gave Moses food and shelter\",\r\n  \"He advised Moses to leave Egypt\"\r\n]",
+    "reference": "Exodus 2:21-22",
+    "answer": "He gave Moses a wife"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f6",
+    "question": "What was the name of the mountain where Moses encountered God in the burning bush?",
+    "options": "[\r\n  \"Mount Sinai\",\r\n  \"Mount Horeb\",\r\n  \"Mount Nebo\",\r\n  \"Mount Carmel\"\r\n]",
+    "reference": "Exodus 3:1",
+    "answer": "Mount Horeb"
+  },
+  {
+    "id": 2,
+    "question_id": "g7h8i9j0k1l2",
+    "question": "What did God tell Moses to remove from his feet when he encountered the burning bush?",
+    "options": "[\r\n  \"His sandals\",\r\n  \"His cloak\",\r\n  \"His staff\",\r\n  \"His crown\"\r\n]",
+    "reference": "Exodus 3:5",
+    "answer": "His sandals"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r6",
+    "question": "What name did God reveal to Moses when he asked for God's name?",
+    "options": "[\r\n  \"I AM THAT I AM\",\r\n  \"El Shaddai\",\r\n  \"Yahweh\",\r\n  \"Jehovah\"\r\n]",
+    "reference": "Exodus 3:14",
+    "answer": "I AM THAT I AM"
+  },
+  {
+    "id": 4,
+    "question_id": "s7t8u9v0w1x2",
+    "question": "What did God promise to do for the Israelites?",
+    "options": "[\r\n  \"Bring them out of Egypt\",\r\n  \"Give them land\",\r\n  \"Make them a great nation\",\r\n  \"All of the above\"\r\n]",
+    "reference": "Exodus 3:8",
+    "answer": "All of the above"
+  },
+  {
+    "id": 5,
+    "question_id": "y3z4a5b6c7d8",
+    "question": "How did Moses respond when God called him to deliver the Israelites from Egypt?",
+    "options": "[\r\n  \"Here I am\",\r\n  \"I am not worthy\",\r\n  \"Why me?\",\r\n  \"Send someone else\"\r\n]",
+    "reference": "Exodus 3:4",
+    "answer": "Here I am"
+  },
+  {
+    "id": 6,
+    "question_id": "e9f0g1h2i3j4",
+    "question": "What did Moses ask God to reveal to the Israelites when he was sent to deliver them?",
+    "options": "[\r\n  \"What is His name?\",\r\n  \"Where is He?\",\r\n  \"Why them?\",\r\n  \"What power does He have?\"\r\n]",
+    "reference": "Exodus 3:13",
+    "answer": "What is His name?"
+  },
+  {
+    "id": 7,
+    "question_id": "k5l6m7n8o9p0",
+    "question": "What was God's answer when Moses asked for His name?",
+    "options": "[\r\n  \"I AM THAT I AM\",\r\n  \"Jehovah Jireh\",\r\n  \"El Shaddai\",\r\n  \"Yahweh\"\r\n]",
+    "reference": "Exodus 3:14",
+    "answer": "I AM THAT I AM"
+  },
+  {
+    "id": 8,
+    "question_id": "q1r2s3t4u5v6",
+    "question": "What sign did God give Moses to prove that He had sent him?",
+    "options": "[\r\n  \"The bush will burn but not be consumed\",\r\n  \"He will part the Red Sea\",\r\n  \"His rod will turn into a serpent\",\r\n  \"The water will turn to blood\"\r\n]",
+    "reference": "Exodus 3:12",
+    "answer": "The bush will burn but not be consumed"
+  },
+  {
+    "id": 9,
+    "question_id": "w7x8y9z0a1b2",
+    "question": "What was the name of the land where Moses was tending sheep before he saw the burning bush?",
+    "options": "[\r\n  \"Midian\",\r\n  \"Canaan\",\r\n  \"Egypt\",\r\n  \"Bethlehem\"\r\n]",
+    "reference": "Exodus 3:1",
+    "answer": "Midian"
+  },
+  {
+    "id": 10,
+    "question_id": "c3d4e5f6g7h8",
+    "question": "What did God say would happen when Moses brought the Israelites out of Egypt?",
+    "options": "[\r\n  \"They will serve God on this mountain\",\r\n  \"They will build a temple\",\r\n  \"They will defeat Pharaoh\",\r\n  \"They will become a great nation\"\r\n]",
+    "reference": "Exodus 3:12",
+    "answer": "They will serve God on this mountain"
+  },
+  {
+    "id": 1,
+    "question_id": "a1b2c3d4e5f6",
+    "question": "What did Moses' staff turn into when God told him to throw it on the ground?",
+    "options": "[\r\n  \"A serpent\",\r\n  \"A lion\",\r\n  \"A frog\",\r\n  \"A bird\"\r\n]",
+    "reference": "Exodus 4:3",
+    "answer": "A serpent"
+  },
+  {
+    "id": 2,
+    "question_id": "g7h8i9j0k1l2",
+    "question": "What did Moses do when he saw the serpent that his staff turned into?",
+    "options": "[\r\n  \"He ran from it\",\r\n  \"He picked it up by the tail\",\r\n  \"He stood still\",\r\n  \"He cried out to God\"\r\n]",
+    "reference": "Exodus 4:4",
+    "answer": "He picked it up by the tail"
+  },
+  {
+    "id": 3,
+    "question_id": "m1n2o3p4q5r6",
+    "question": "What did God tell Moses to do with his hand to show His power?",
+    "options": "[\r\n  \"Put it into his bosom and pull it out\",\r\n  \"Stretch it out over the sea\",\r\n  \"Touch the ground with it\",\r\n  \"Raise it up to the sky\"\r\n]",
+    "reference": "Exodus 4:6-7",
+    "answer": "Put it into his bosom and pull it out"
+  },
+  {
+    "id": 4,
+    "question_id": "s7t8u9v0w1x2",
+    "question": "What happened to Moses' hand after he put it in his bosom and pulled it out?",
+    "options": "[\r\n  \"It became leprous\",\r\n  \"It became brighter than the sun\",\r\n  \"It turned into gold\",\r\n  \"It was healed instantly\"\r\n]",
+    "reference": "Exodus 4:6-7",
+    "answer": "It became leprous"
+  },
+  {
+    "id": 5,
+    "question_id": "y3z4a5b6c7d8",
+    "question": "What did God tell Moses to do to restore his hand to normal?",
+    "options": "[\r\n  \"Put it back into his bosom again\",\r\n  \"Wash it in the river\",\r\n  \"Pray for healing\",\r\n  \"Speak to it\"\r\n]",
+    "reference": "Exodus 4:7",
+    "answer": "Put it back into his bosom again"
+  },
+  {
+    "id": 6,
+    "question_id": "e9f0g1h2i3j4",
+    "question": "What was the second sign Moses was given to show to the Israelites?",
+    "options": "[\r\n  \"Water turning to blood\",\r\n  \"The sky turning dark\",\r\n  \"The serpent becoming a staff\",\r\n  \"A pillar of fire\"\r\n]",
+    "reference": "Exodus 4:9",
+    "answer": "Water turning to blood"
+  },
+  {
+    "id": 7,
+    "question_id": "k5l6m7n8o9p0",
+    "question": "What excuse did Moses give when God called him to speak to Pharaoh?",
+    "options": "[\r\n  \"I am not eloquent\",\r\n  \"I am too old\",\r\n  \"I am a stranger in Egypt\",\r\n  \"I cannot hear well\"\r\n]",
+    "reference": "Exodus 4:10",
+    "answer": "I am not eloquent"
+  },
+  {
+    "id": 8,
+    "question_id": "q1r2s3t4u5v6",
+    "question": "How did God respond to Moses' excuse about being not eloquent?",
+    "options": "[\r\n  \"I will give you the words to say\",\r\n  \"Who made your mouth?\",\r\n  \"I will send Aaron to help you\",\r\n  \"You do not need to speak at all\"\r\n]",
+    "reference": "Exodus 4:11-12",
+    "answer": "Who made your mouth?"
+  },
+  {
+    "id": 9,
+    "question_id": "w7x8y9z0a1b2",
+    "question": "Who did God send with Moses to help him speak?",
+    "options": "[\r\n  \"Aaron, his brother\",\r\n  \"Joshua\",\r\n  \"Miriam, his sister\",\r\n  \"Eliezer, his son\"\r\n]",
+    "reference": "Exodus 4:14-16",
+    "answer": "Aaron, his brother"
+  },
+  {
+    "id": 10,
+    "question_id": "c3d4e5f6g7h8",
+    "question": "What did God tell Moses to do with the staff when he went to Egypt?",
+    "options": "[\r\n  \"Throw it on the ground and it will turn into a serpent\",\r\n  \"Strike the Nile and it will turn to blood\",\r\n  \"Raise it over the sea to part it\",\r\n  \"Hold it up during battle\"\r\n]",
+    "reference": "Exodus 4:17",
+    "answer": "Throw it on the ground and it will turn into a serpent"
   }
 ]
