@@ -58,6 +58,7 @@ As followers of Christ, it is essential to show love and hospitality to newcomer
 Encourage others in the congregation to help them feel at home, offering support and friendship. By doing so, we reflect the love of Christ, who calls us to welcome strangers as we would welcome Him:  
 - *"Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it."* ***[Hebrews 13:2](Heb 13:2)***  
 - *"Therefore welcome one another as Christ has welcomed you, for the glory of God."* ***[Romans 15:7](Rom 15:7)***
+  ![Greetings - Shalom brother/Sister](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/welcoming.png)
   
 - When visiting homes, take the time to pray for the entire household. By doing so, we demonstrate that we care not just about an individual, but about the whole family. This invites God’s peace and blessings into their home and fosters unity and faith within the household. Jesus Himself emphasized the importance of bringing peace to homes:  
 - *"Whatever house you enter, first say, 'Peace to this house!' If a man of peace is there, your peace will rest on him; if not, it will return to you."* ***[Luke 10:5-6](Luke 10:5-6)***  
