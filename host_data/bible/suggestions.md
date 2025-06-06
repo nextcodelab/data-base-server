@@ -120,6 +120,7 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 ---
 # 🌏 WORLD EVANGELIZATION
+![WE CARE: Christ’s Agape Redeems Everyone](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/wecare.png)
 # **WE CARE: Christ’s Agape Redeems Everyone**
 
 ### LET US EVANGELIZE THE WORLD!
