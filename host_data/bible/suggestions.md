@@ -128,13 +128,21 @@ These suggestions are not for newcomers to our gatherings; our desire is to ensu
 
 
 ---
-# 🌏 WORLD EVANGELIZATION
-![WE CARE: Christ’s Agape Redeems Everyone](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/wecare.png)
-# **WE CARE: Christ’s Agape Redeems Everyone**
+# 🌏 WORLD EVANGELIZATION  
 
-### LET US EVANGELIZE THE WORLD!
+![WE CARE: Christ’s Agape Redeems Everyone](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/wecare.png)  
 
-### MIZPAH
+## **WE CARE: Christ’s Agape Redeems Everyone**  
+
+This is our most holy faith; may it bless our brothers and sisters, now and forever. **AMEN.**
+
+---
+
+### **LET US EVANGELIZE THE WORLD!**
+
+### **MIZPAH**  
+> *“The Lord watch between you and me, when we are absent one from another.” – Genesis 31:49*
+
 
 
 
