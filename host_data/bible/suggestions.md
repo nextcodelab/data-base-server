@@ -6,6 +6,15 @@
 
 **1.** Suggestions for our church leaders, it is good to minimize disco like lights in church gathering. For our veteran sisters, good suggestion are modesty apparel dress choices, favoring dresses that echo reverence. For our longstanding brothers, I suggest selecting attire that is more appropriate than shorts, aligning with the occasion's significance ***[1 Timothy 2:9-10](1 Timothy 2:9-10)***, ***[Romans 12:2](Romans 12:2)***, ***[1 Pedro 3:3-4](1Pet 3:3-4)*** ***[Isaiah 3:16-23](Isa 3:16-23)*** ***[1 John 2:16](1John 2:16)*** ***[Revelation 17:4](Rev 17:4)***.
 
+When sharing God's Word online—whether through reels, posts, or live readings—let's also reflect His holiness in our appearance and presentation.
+
+> 📖 *“So whether you eat or drink or whatever you do, do it all for the glory of God.”*  
+> — 1 Corinthians 10:31
+
+As followers of Christ, we are called to be models(lights) to the world—not only through our inner being, but also through our outward holiness. Our appearance should reflect the reverence we have for God's Word and the message we share.
+
+Let us honor the sacredness of the Bible by **DRESSING MODESTLY AND REVERENTLY**, even in casual or online settings. Our bodies are temples of the Holy Spirit (*1 Corinthians 6:19*), and our online presence can inspire others toward deeper respect for God.
+
 ### White upper clothes are also suitable for church gatherings.
 ![Children of the Light](https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/bible/images/modest5.png)
 
