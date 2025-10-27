@@ -91,5 +91,44 @@
 
 SFC Map Outline no. 1
 
+---
 
+## ANG APAT NA MAHAHALAGANG BAGAY NA DAPAT NATING MALAMAN
+
+**PASIMULA:**
+> Awit 119:105 "Ang salita mo'y ilawan sa aking mga paa, at liwanag sa aking landas."
+
+**TANONG:** Ano ang **unang mahalagang bagay** na nais na ituro ng Panginoon sa lahat ng mga tao?
+
+**2 Timoteo 3:15-17**
+> At mula sa pagkasanggol ay iyong nalalaman ang mga banal na kasulatan na makapagpadunong sa iyo sa ikaliligtas sa pamamagitan ng pananampalataya kay Cristo Jesus. Ang lahat ng mga kasulatan na kinasihan ng Diyos ay mapapakinabangan din naman sa pagtuturo, sa pagsansala, sa pagsaway, sa ikatututo na nasa katuwiran: Upang ang tao ng Diyos ay maging sakdal, timuruang lubos sa lahat ng mga gawang mabuti.
+
+**SAGOT:** 1) Ang pinaka mahalagang libro o aklat na ito ay walang iba kundi ang **Biblia**.
+
+---
+
+**TANONG:** Ano ang **pinakamahalagang nilikha** na nasulat sa Biblia na dapat nating maunawaan?
+
+**Genesis 1:27**
+> At nilalang ng Diyos ang tao ayon sa kaniyang sariling larawan, ayon sa larawan ng Diyos siya nilalang; nilalang niya sila na lalake at babae.
+
+**SAGOT:** 2) Ang **tao** ang pinakamahalaga sa lahat ng mga nilikhang ng Diyos.
+
+---
+
+**TANONG:** Ano ang **dakilang dahilan kung bakit Niya tayo nilikha**?
+
+**Efeso 2:10**
+> Sapagka't tayo'y kaniyang gawa, na nilalang kay Cristo Jesus para sa mabubuting gawa, na mga inihanda ng Diyos nang una upang siya nating lakaran.
+
+**SAGOT:** 3) **Paggawa ng mabuti**
+
+---
+
+**TANONG:** Ano ang **mabuti na dapat gawin ng tao**?
+
+**Roma 7:12**
+> Kaya nga ang kautusan ay **banal**, at ang utos ay **banal**, at **matuwid**, at **mabuti**.
+
+---
 
