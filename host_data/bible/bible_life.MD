@@ -57,4 +57,39 @@
 **2 Timoteo 3:15-16 (TPV)**
 > Mula pa sa pagkabata, alam mo nang ang Banal na Kasulatan ay nagtuturo ng daan ng kaligtasan sa pamamagitan ng pananalig kay Cristo Jesus. Lahat ng kasulatan y **kinasihan ng Diyos** at magagamit sa **pagtuturo ng katotohanan**, sa **pagpapabulaan sa maling aral**, sa **pagtutuwid sa likong gawain**, at sa **pag-aakay sa matuwid na pamumuhay**.
 
+---
+
+(2)
+
+**SAGOT:**
+
+1.  Ang Banal na Kasulatan o Biblia ay nagtuturo ng **daan ng kaligtasan**.
+2.  Magagamit ito sa **pagtuturo ng katotohanan**.
+3.  Sa **pagpapabulaan sa maling aral**.
+4.  Sa **pagtutuwid sa likong gawain**.
+5.  Sa **pag-akay sa matuwid na pamumuhay**.
+
+---
+
+**TANONG:** Bukod dito, ano po ang malaking kinalaman ng mga aral at pagtuturong hango sa Biblia, tungo sa hinahangad ng marami na **masagana at matagumpay na buhay**?
+
+**Josue 1:8 (RTPV)**
+> Huwag mong kaliligtaang basahin ang aklat ng kautusan. Pagbulay-bulayan mo iyon araw at gabi upang **matupad mo ang lahat ng nakasaad doon**. Sa ganoon, magiging **masagana at matagumpay** ang iyong pamumuhay.
+
+**SAGOT:** Kailangan **maging masagana at matagumpay** ang ating pamumuhay, ang kailangan lang ay **huwag kalilimutan na basahin, pagbulayan, at tuparin**.
+
+---
+
+**TANONG:** Bakit **magiging masagana at matagumpay ang pamumuhay** ng mga taong naglalaan ng oras at panahon na **makinig, magbasa, at tumutupad ng mga aral ng Diyos na nasusulat sa Biblia**?
+
+**Santiago 1:25 (TPV)**
+> Ngunit ang nagsasaliksik at patuloy na nagsasagawa ng kautusang sakdal at nagpapalaya sa tao at hindi isang tagapakinig lamang na pagkatapos ay nakalilimot ang taong iyan ang **pagpapalain ng Diyos sa lahat niyang gawain**.
+
+**SAGOT:** Sapagkat **pagpapalain ng Diyos sa lahat niyang gawain**.
+
+---
+
+SFC Map Outline no. 1
+
+
 
