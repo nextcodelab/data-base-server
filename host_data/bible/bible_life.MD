@@ -419,7 +419,147 @@ SFC MAP Outline no. 4
 
 **TANONG:** Bukod sa tatak na **kabanalbanalan**, ano ang **buong pangalan ng Iglesía** na ipinakikilala ng Biblia?
 
+---
+
 **1 Tesalonica 2:14 (ABAB-Ang Bagong Ang Biblia)**
-> Sapagkat kayo, mga kapatid, ay **naging taga-tulad sa mga iglesya ng Diyos kay Cristo**
+> Sapagkat kayo, mga kapatid, ay **naging taga-tulad sa mga iglesya ng Diyos kay Cristo Jesus na nasa Judea**, sapagkat nagdusa din naman kayo ng mga gayong bagay mula sa inyong sariling mga kababayan, gaya naman nila sa mga Judio".
+
+**SAGOT:** **Iglesía ng Diyos Kay Kristo Hesus**.
+
+"**Kabanalbanalang Iglesía ng Diyos Kay Kristo Hesus**", ang **buong Pangalan ng Iglesía na pag-aari ng Diyos**.
+
+---
+
+## ANG PAGKAWALA NG UNANG IGLESIYA
+
+**TANONG:** Kailan at saan naitayo ang **Kidkh** (Church), at bakit hindi natin ito kinagisnan bilang unang Iglesía?
+
+**Gawa 8:1**
+> At si Saulo ay sumangayon sa kaniyang pagkamatay. At nang araw na yao'y nangyari ang isang **malaking paguusig laban sa Iglesía na nasa Jerusalem**; at silang lahat ay nagsipangalat sa lahat ng mga dako ng Judea at Samaria, maliban na sa mga apostol.
+
+**SAGOT:** Ito ay **naitayo noon pang una** (circa or more) **~33 AD**, sa **Jerusalem** na kapitolyo ng Israel. Hindi ito nakagisnan, dahil ang mga apostol at mga unang lingkod ng Diyos ay **pinag-uusig**.
+
+---
+
+**TANONG:** Anong uri ng pag-uusig ang ginawa sa mga unang lingkod ng Diyos na tinawag sa Kidkh (Church)?
+
+**Hebreo 11:37**
+> Sila'y **pinagbabato, pinaglalari, pinagputolputol, pinagpapatay sa tabak**: sila'y nagsilakad na paroo't parito na may balat ng mga tupa't kambing; na mga salat, nangapipighati, tinatampalasan;
+
+**SAGOT:** **Pinagbabato, pinaglalari, at pinagpapatay sa tabak**. Pinatay at pinahirapan sa iba't ibang paraan ang lahat ng mga unang lingkod o kaanib sa Kidkh (Church).
+
+**EXAMPLE:**
+> Kung baga sa **dagat, nawala ang lamang dagat, pero ang dagat ay nananatiling dagat**.
+
+---
+
+**TANONG:** Ano ang **hula** na tiyak na mangyayari tungkol sa Kidkh (Church) na **inusig nang una sa Jerusalem**?
+
+**Isaias 10:21**
+> Isang nalabi ay manunumbalik, sa makatuwid baga'y ang nalabi sa Jacob, sa **makapangyarihang Diyos**.
+
+**SAGOT:** **Muling magbabalik**, at **muling matatayo**.
+
+---
+
+**TANONG:** Saan, at kailan, muling matatayo ang Kidkh (Church)?
+
+**Isaias 43:5-6**
+> Huwag kang matakot, sapagka't ako'y sumasaiyo: aking dadalhin ang iyong lahi mula sa silanganan, at pipisanin kita mula sa kalunuran; Aking sasabihin sa hilagaan, **Bayaan mo**, at sa timugan, Huwag mong pigilin, **dalhin mo rito ang aking mga anak na lalake na mula sa malayo, at ang aking mga anak na babae na mula sa wakas ng lupa**;
+
+**SAGOT:** Sa **Malayong Silangan (Far East)**
+
+---
+
+**TANONG:** Ano ang dalawang palatandaan ng bansang muling pagtatayuan ng Iglesiang pag-aari ng Diyos?
+
+**Isaias 24:15, 11**
+> Kaya't luwalhatiin ninyo ang Panginoon sa **silanganan**, sa makatuwid baga'y ang **pangalan ng Panginoon, ng Diyos ng Israel, sa mga pulo ng dagat**.
+>
+> Hindi, kundi sa pamamagitan ng mga taong may ibang pangungusap at may iba't ibang wika ay sasalitain niya sa bayang ito.
+
+(2)
+
+**SAGOT:** Bansang binubuo ng **maraming pulo**, at may **iba't ibang wika** – **Pilipinas**
+
+---
+
+**TANONG:** Kailan muling itatayo sa Pilipinas ang Kidkh (Church)?
+
+**Jeremias 6:14**
+> Kanilang pinagaling ding naman ng kaunti ang sugat ng aking bayan, na sinasabi, **Kapayapaan, kapayapaan; gayon ma'y walang kapayapaan**.
+
+**SAGOT:** Sa panahon na kung saan ang tao ay **naghahanap ng kapayapaan** – **1921**
+
+---
+
+**TANONG:** Ano ang panawagan ng Diyos sa lahat ng mga tao kung dumating na ang panahon ng **ganap na pag-iral ng kapayapaan na nangyari noong 1921**?
+
+**Jeremias 6:16**
+> Ganito ang sabi ng Panginoon. Magsitayo kayo sa mga daan at magsingin kayo, at ipagtanong ninyo ang mga dating landas, **kung saan nandoon ang mabuting daan**, at **magsilakad kayo roon**, at kayo'y mangakasusumpong ng kapahingahan sa inyong mga kaluluwa: nguni't kanilang sinabi, **Hindi kami magsisilakad doon**.
+
+**SAGOT:** Ipagtanong ang **dating landas** (Circa ~33 AD ay naitayo na ang Kidkh) **magsilakad o magpasakop** sapagkat dito masusumpungan ang **kaligtasan ng kaluluwa**.
+
+---
+
+## ANG BAHAY NG DIYOS NA SIYANG PINTUAN NG LANGIT
+
+**TANONG:** Bakit kailangang **masakop tayo ng Kidkh (Church)**? Ano ba ang isa pang pagpapakilala ng Biblia ukol dito?
+
+**Genesis 28:17**
+> At siya'y natakot, at kaniyang sinabi, Kakilakilabot na dako ito! ito'y hindi iba kundi **bahay ng Diyos**, at **ito ang pintuan ng langit**.
+
+**SAGOT:** Ipinapakilala ng Biblia, ang **bahay ng Diyos**, na siyang **pintuan ng langit**, na sa ibang salita ay **pintuan ng kaligtasan**.
+
+(3)
+
+---
+
+**TANONG:** Alin ang **bahay ng Diyos na siyang pintuan ng langit** na itinuturo sa atin?
+
+**1 Timoteo 3:15**
+> Nguni't kung ako'y magluwat ng mahabang panahon, ay upang maalaman mo kung paano ang dapat sa mga tao na ugaliin nila sa bahay ng Diyos, na siyang **iglesía ng Diyos na buhay, at haligi at suhay ng katotohanan**.
+
+**SAGOT:** Ang **Kidkh (Church)** ang siyang **bahay ng Diyos, at pintuan ng langit**.
+
+---
+
+**TANONG:** Ano ang **pahayag ng Panginoon** matapos na makilala natin ang **tunay na Iglesía** na Kanyang pag-aari?
+
+**Lucas 13:24**
+> Magpilit kayong **magsipasok sa pintuang makipot**: sapagka't sinasabi ko sa inyo na marami ang mangagsisikap na pumasok, at **hindi mangyayari**.
+
+**SAGOT:** **Magpilit na pumasok sa pintuang ito**.
+
+---
+
+**TANONG:** Paano tayo makakapasok?
+
+**Juan 3:5**
+
+> Sumagot si Jesus, Katotohanan, katotohanang sinasabi ko sa iyo, Maliban na ang tao'y **ipanganak ng tubig at ng Espiritu, ay hindi siya makapapasok sa kaharian ng Diyos**.
+
+**SAGOT:** Ang tao ay kailangang munang **ipanganak na muli**, sa bisa ng **tubig, at ng Espiritu**.
+
+---
+
+**TANONG:** Ano ang ibig sabihin ng mga salitang ang tao ay dapat na **ipanganak ng tubig at ng Espiritu**?
+
+**Marcos 16:16**
+> Ang **sumasampalataya at mabautismuhan ay maliligtas**; datapuwa't ang hindi sumasampalataya ay parurusahan.
+
+**SAGOT:** Ang tao ay dapat na **sumampalataya, at mabautismuhan**, upang maligtas.
+
+---
+
+SFC MAP Outline no. 5
+
+(4)
+
+---
+
+
+
+
 
 
