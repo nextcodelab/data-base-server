@@ -132,3 +132,37 @@ SFC Map Outline no. 1
 
 ---
 
+(1)
+
+**SAGOT:** Ang paggawa ng mabuti ay ang **pagtupad sa utos ng Diyos**.
+
+---
+
+**TANONG:** Maaari bang umiwas ang tao sa pagtupad sa utos ng Diyos, at ano ang napatutunayan ng tao na tumutupad ng utos ng Diyos?
+
+**Ecclesiastes 12:13**
+> Ito ang wakas ng bagay; lahat ay narinig: **ikaw ay matakot sa Diyos, at sundin mo ang kaniyang mga utos; sapagka't ito ang buong katungkulan ng tao**.
+
+**SAGOT:** Ang pagtupad sa utos ng Diyos ay **tanda ng pagkatakot sa Kanya** at **ito ay buong katungkulan ng tao**.
+
+---
+
+**TANONG:** Ano ang **pinakadakilang utos** na itinuturo sa atin ng Biblia?
+
+**Mateo 22:37-40**
+> At sinabi sa kaniya, **Iibigin mo ang Panginoon mong Diyos** ng buong puso mo, at ng buong kaluluwa mo, at ng buong pagiisip mo. Ito ang dakila at pangunang utos.
+>
+> At ang pangalawang katulad ay ito, **Iibigin mo ang iyong kapuwa** na gaya ng iyong sarili. Sa dalawang utos na ito'y nauuwi ang buong kautusan, at ang mga propeta.
+
+**SAGOT:** 4) **Ibigin ang Diyos, at ang ating kapwa tao**.
+
+---
+
+**TANONG:** Anong uri ng pag-ibig ang nais ng Diyos na maiukol natin sa Kanya at sa ating mga kapwa tao?
+
+**Jeremias 31:3**
+> Ang Panginoon ay napakita nang una sa akin, na nagsasabi, Oo, **iniibig kita ng walang hanggang pagibig**: kaya't ako'y lumapit sa iyo na may kagandahang-loob.
+
+**SAGOT:** **Walang hanggang pag-ibig** o "**Agape**"
+
+---
