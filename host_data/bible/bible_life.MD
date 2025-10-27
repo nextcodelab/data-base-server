@@ -166,3 +166,65 @@ SFC Map Outline no. 1
 **SAGOT:** **Walang hanggang pag-ibig** o "**Agape**"
 
 ---
+
+## AGAPE – By Jack Zavada
+
+(2)
+
+**Jack Zavada**
+Christianity Expert
+M.A., English Composition, Illinois State University
+B.S., English Literature, Illinois State University
+Jack Zavada is a writer who covers the Bible, theology, and other Christianity topics. He is the author of "Hope for Hurting Singles: A Christian Guide to Overcoming Life's Challenges."
+*(Updated on January 04, 2021)*
+
+**Agape love is selfless, sacrificial, unconditional love. It is the highest of the four types of love in the Bible.**
+
+This Greek word, *agapē* (pronounced uh-GAH-pay), and variations of it are frequently found throughout the New Testament but rarely in non-Christian Greek literature. Agape love perfectly describes the kind of love Jesus Christ has for his followers.
+
+### Agape Love
+
+A simple way to summarize agape is **God’s perfect, unconditional love**.
+Jesus lived out agape love by sacrificing himself on the cross for the sins of the world.
+Agape love is more than an emotion. It is a sentiment that demonstrates itself through actions.
+Agape is the term that defines God's immeasurable, incomparable love for humankind. It is his ongoing, outgoing, self-sacrificing concern for lost and fallen people. God gives this love without condition, unreservedly to those who are undeserving and inferior to himself.
+
+"Agape love," says Anders Nygren, "is unmotivated in the sense that it is not contingent on any value or worth in the object of love. It is spontaneous and heedless, for it does not determine beforehand whether love will be effective or appropriate in any particular case."
+
+### A New Kind of Love
+
+Jesus told his followers to love one another in the same sacrificial way he loved them. This command was new because it demanded a new kind of love, a love like his own: **agape love**.
+
+What would be the outcome of this kind of love? People would be able to recognize them as Jesus' disciples because of their mutual love:
+
+---
+
+A new commandment I give to you, that you love one another; just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another. (**John 13:34-35, ESV**)
+
+By this we know love, that he laid down his life for us, and we ought to lay down our lives for the brothers. (**1 John 3:16, ESV**)
+
+(3)
+
+### Other Types of Love in the Bible:
+
+* **Eros** is the word for sensual or romantic love.
+* **Philia** means brotherly love or friendship.
+* **Storge** describes the love between family members.
+
+---
+
+**TANONG:** Ano ang **mensahe ng Panginoon** na nais Niyang sabihin sa atin mula sa **pag-aaral** na ito?
+
+**Lucas 1:28**
+> At pumasok siya sa kinaroroonan niya, at sinabi, **Magalak ka, ikaw na totoong pinakamamahal, at ang Panginoon ay sumasa iyo**.
+
+**SAGOT:** **Magalak ka, ikaw na totoong pinakamamahal, at ang Panginoon ay sumasa iyo**.
+
+---
+
+SFC MAP Outline no. 2
+
+(4)
+
+---
+
