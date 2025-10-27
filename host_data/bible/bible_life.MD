@@ -32,9 +32,6 @@
 >
 > Walang **katutubong pagibig**, mga **walang paglulubag**, mga **palabintangin**, mga **walang pagpipigil sa sarili**, mga **mabangis**, **hindi maibigin sa mabuti**.
 
-Here is the continued text formatted using **Markdown (MD)** syntax:
-
----
 
 (1)
 > Mga lilo, mga matitigas ang ulo, mga palalo, mga maibigin sa kalayawan kay sa mga maibigin sa Diyos:
