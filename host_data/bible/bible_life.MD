@@ -286,3 +286,140 @@ SFC MAP Outline no. 2
 SFC MAP Outline no. 3
 
 (2)
+
+---
+
+## ANG PARAAN NG KALIGTASAN
+
+**TANONG:** Alin ang ililigtas sa atin, ayon sa Biblia?
+
+**1 Pedro 1:9**
+> Na inyong tinatanggap ang layunin ng inyong pananampalataya, ang **pagkaligtas inyong mga kaluluwa**.
+
+**SAGOT:** Ang ating **mga kaluluwa**, sa ibang tawag nito ay ang ating **pagkataong loob, o konsensiya** (1 Ped. 3:4).
+
+---
+
+**TANONG:** Bakit kailangang iligtas ang ating mga kaluluwa, at saan ito ililigtas?
+
+**Juan 8:34**
+> Sinagot sila ni Jesus, Katotohanan, katotohanang sinasabi ko sa inyo, Ang bawa't nagkakasala ay **alipin ng kasalanan**.
+
+**SAGOT:** Sapagka't **ang lahat ay nagkasala, at naging alipin ng kasalanan**.
+
+---
+
+**TANONG:** Ano ang tiyak na kahihinatnan ng kaluluwa ng bawat tao kung magpapatuloy sa paggawa ng kasalanan?
+
+**Ezekiel 18:20**
+> Ang kaluluwa na nagkakasala, mamamatay: ang anak ay hindi magdadanasan ng kasamaan ng ama, o magdadanasan man ang ama ng kasamaan ng anak; ang katuwiran ng matuwid ay sasakaniya, at ang kasamaan ng masama ay sasakaniya.
+
+**Apocalipsis 21:8**
+> Nguni't sa mga duwag, at sa mga hindi mananampalataya, at sa mga kasuklamsuklam, at sa mga mamamatay-tao, at sa mga mapakiapid, at sa mga manggagaway, at sa mga mapagsamba sa diosdiosan, at sa lahat na mga sinungaling, ang kanilang bahagi ay sa dagatdagatang nagniningas sa apoy at asupre; na siyang **ikalawang kamatayan**.
+
+---
+
+**SAGOT:** Mamamatay, at ang magiging patunguhan nito ay ang **impiyerno**, na siyang **ikalawang kamatayan**.
+
+---
+
+**TANONG:** Sino ang **tanging Tagapagligtas** na ipinapakilala ng **Mga Banal na Kasulatan**?
+
+**Tito 2:13**
+> Na hintayin yaong mapalad na pagasa at ang pagpapakita ng kaluwalhatian ng ating **dakilang Diyos at Tagapagligtas na si Jesucristo**:
+
+**SAGOT:** Ang **Panginoong Kristo Hesus**, ang ating **Dakilang Diyos at Tagapagligtas**.
+
+---
+
+**TANONG:** Dahil dito, **ano ang paraan na inihanda ng Diyos** upang **tamuhin ng tao ang kaligtasan ng kanilang kaluluwa**?
+
+**2 Timoteo 1:9**
+> Na Siyang sa atin ay nagligtas, at sa atin ay tumawag ng isang banal na pagtawag, hindi ayon sa ating mga gawa, kundi ayon sa kaniyang sariling akala at biyaya, na ibinigay sa atin kay **Cristo Hesus** buhat pa ng mga panahong walang hanggan.
+
+**SAGOT:** **Tatawagin ng Diyos ang tao**, upang ang tao ay maligtas.
+
+(1)
+
+Ito ay **hindi isang ordinaryong pagtawag** kundi **isang banal na pagtawag**.
+
+Kung may tatawag, may tatawagin, at kung may tatawagin, may tiyak na **lugar na pagtatawagan**.
+
+---
+
+**TANONG:** Saan tatawagin ng Diyos ang bawat tao upang ang tao ay maligtas?
+
+**Colosas 3:15**
+> At maghari sa **inyong puso** ang kapayapaan ni Cristo, na diya'y **tinawag din naman kayo sa isang katawan; at kayo'y maging mapagpasalamat**.
+
+**SAGOT:** Sa **isang katawan**. Ito ay **hindi isang katawang literal, kundi espiritwal**. Kapag ang tao ay tumugon sa pagtawag ng Diyos, ito ay isang pagkakataon upang ang Diyos na ang maghari sa kanya. Ang Diyos na ang **magma-manage ng buhay**.
+
+---
+
+**TANONG:** Alin ang **espiritwal na katawan ni Kristo**, na dito
+
+### TATAWAGIN ANG TAO UPANG MAKASUMPONG NG KALIGTASAN?
+
+**Colosas 1:24**
+> Ngayo'y nagagalak ako sa aking mga hirap dahil sa inyo, at aking pinupunan sa aking ang kakulangan ng mga hirap ni Cristo sa aking laman dahil sa kaniyang **katawan, na siyang iglesía;**
+
+**SAGOT:** Ang **katawang espiritwal ni Kristo** ay walang iba kundi ang **Iglesía**.
+
+---
+
+**TANONG:** Ano ang isang **katunayan** na sa Iglesía tinatawag ng Diyos, ang Kanyang mga hinihirang na maglingkod sa Kanya?
+
+**1 Corinto 1:1-2**
+> Si Pablo, na tinawag na maging apostol ni Jesucristo sa pamamagitan ng kalooban ng Diyos, at si Sostenes na ating kapatid,
+>
+> Sa **Iglesía ng Diyos na nasa Corinto**, sa makatuwid baga'y sa mga pinapagbangal kay Cristo Jesus, na **tinawag na mangagbanal**, na kasama ng lahat na mga nagsisitawag sa bawa't dako, sa pangalan ng ating Panginoong Jesucristo, na kanila at ating Panginoon:
+
+**SAGOT:** Gaya ni **Pablo na tinawag na maging apostol at lingkod ni Kristo sa Iglesía**.
+
+---
+
+**TANONG:** Ilan ang **Iglesía na itinayo ng ating Panginoong Kristo Hesus**, at gaano ito katibay?
+
+**Mateo 16:18**
+> At sinasabi ko naman sa iyo, na ikaw ay Pedro, at sa ibabaw ng batong ito ay itatayo ko ang aking **Iglesía**; at ang mga pintuan ng **Hades ay hindi magsisipanaig laban sa kaniya**.
+
+**SAGOT:** **Isang Iglesía lamang**, at ang mga **pintuan ng impiyerno (Hades) ay hindi mananaig dito**.
+
+---
+
+**TANONG:** Paano natin makikilala ang **Iglesía na pag-aari ng Diyos**?
+
+**2 Timoteo 2:19**
+> Gayon ma'y ang matibay na pinagsasaligan ng Diyos ay nananatili na may **tatak** nito, 
+**Nakikilala ng Panginoon ang mga kaniya: at, Lumayo sa kalikuan ang bawa't isa na sumasamba ng pangalan ng Panginoon.**
+
+**SAGOT:** **Nakikilala ng Panginoon ang kaniya** sa pamamagitan ng **pagkakaroon ng tatak** nito.
+
+SFC MAP Outline no. 4
+
+(3)
+
+**TANONG:** Paano natin makikilala ang **Iglesiang pag-aari ng Diyos**?
+
+**2 Timoteo 2:19**
+> Gayon ma'y ang matibay na pinagsasaligan ng Diyos ay nananatili na may **tatak** nito, **Nakikilala ng Panginoon ang mga kaniya: at, Lumayo sa kalikuan ang bawa't isa na sumasamba ng pangalan ng Panginoon**.
+
+**SAGOT:** Nilagyan ng Diyos ng **tatak**, ang Iglesía na pag-aari Niya.
+
+---
+
+**TANONG:** Ano ang **tatak na inilagay ng Diyos** sa Kanyang Iglesía?
+
+**Levitico 27:28**
+> Gayon ma'y walang bagay na itinalaga, na itatalaga ninoman sa Panginoon, sa lahat ng sariling kaniya, maging sa tao o sa hayop, o sa bukid na kaniyang pag-aari, ay maipagbibili o matutubos: bawa't bagay na itinalaga ay **kabanalbanalan sa Panginoon**.
+
+**SAGOT:** **Kabanalbanalan**, ang tatak ng Kanyang Iglesía pag-aari ng Diyos.
+
+---
+
+**TANONG:** Bukod sa tatak na **kabanalbanalan**, ano ang **buong pangalan ng Iglesía** na ipinakikilala ng Biblia?
+
+**1 Tesalonica 2:14 (ABAB-Ang Bagong Ang Biblia)**
+> Sapagkat kayo, mga kapatid, ay **naging taga-tulad sa mga iglesya ng Diyos kay Cristo**
+
+
