@@ -228,3 +228,61 @@ SFC MAP Outline no. 2
 
 ---
 
+## ANG DAKILANG DIYOS AT TAGAPAGLIGTAS
+
+**TANONG:** Ilan ang **tunay na Diyos** at anong uri ng Diyos ang ipinapakilala ng Biblia?
+
+**Isaias 45:21**
+> Kayo'y mangagsipaghayag, at mangagsipagsapit; oo, magsangguniang silang magkakasama: sinong nagpakilala nito mula nang mga unang panahon? sinong nagpahayag niyaon nang una? **hindi baga ang Panginoon? at walang Diyos liban sa akin; isang ganap na Diyos at Tagapagligtas; walang iba liban sa akin**.
+
+**SAGOT:** "**Walang Diyos liban sa akin**" sabi ng Panginoon, ibig sabihin may **isang** Diyos lamang. Kung ipakilala Siya ng Biblia ay **ganap o kumpleto rin ang Tagapagligtas** na dapat na sampalatayanan.
+
+---
+
+**TANONG:** Ano ang idudulot sa tao ng tamang paniniwala na may **iisang Diyos lamang**?
+
+**Juan 17:3**
+> At ito ang **buhay na walang hanggan**, na ikaw ay makilala nila na **iisang Diyos na tunay**, at siyang iyong sinugo, sa makatuwid bagay'y si Jesucristo.
+
+**SAGOT:** **Buhay na walang hanggan** at kamatayan ang nakapagitan dito kaya mahalagang ito ay maunawaan ng lahat ng mga tao.
+
+---
+
+**TANONG:** Sino ang **dakilang Diyos na tunay** at Siya ring **Tagapagligtas** na ipinapakilala ng **Mga Banal na Kasulatan**?
+
+**Tito 2:13**
+> Na hintayin yaong mapalad na pagasa at ang pagpapakita ng kaluwalhatian ng ating **dakilang Diyos at Tagapagligtas na si Jesucristo**:
+
+**SAGOT:** Si **Kristo ang tunay na Diyos**, ang **dakilang Diyos at Tagapagligtas**.
+
+---
+
+**TANONG:** Paano inilarawan ng Biblia ang Kanyang Kadakilaan sa **Ating Mga Buhay**?
+
+**Awit 103:2-5**
+> Purihin mo ang Panginoon, Oh kaluluwa ko, at huwag mong kalimutan ang lahat niyang mabubuting gawa:
+>
+> Na siyang nagpapatawad ng iyong lahat na mga kasamaan; na siyang nagpapagaling ng iyong lahat na mga sakit;
+>
+> (1)
+>
+> Na siyang tumutubos ng iyong buhay sa pagkapahamak: na siyang nagpuputong sa iyo ng kagandahang-loob at matumunay na mga kaawaan:
+>
+> Siyang bumubusog sa iyong bibig ng mabuting bagay; **na anopa't ang iyong kabataan ay nababagong parang agila**.
+
+**SAGOT:** Siya ang **nagkakaloob ng ating mga pangangailangan**.
+
+---
+
+**TANONG:** Ano ang **mensahe ng Panginoon** na Kanyang iniiwan sa pamamagitan ng araling ito?
+
+**Isaias 41:10**
+> **Huwag kang matakot, sapagka't ako'y sumasaiyo; huwag kang manglupaypay, sapagka't ako'y iyong Diyos; aking palalakasin ka; oo, aking tutulungan ka; oo, aking aalalayan ka ng kanang kamay ng aking katuwiran**.
+
+**SAGOT:** **Huwag matakot sapagka't Siya ay sasaiyo, palalakasin Niya tayo at aalalayan sa panahon ng ating mga kahinaan**.
+
+---
+
+SFC MAP Outline no. 3
+
+(2)
