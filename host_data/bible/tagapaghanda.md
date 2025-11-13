@@ -108,7 +108,7 @@ Ang tamang paraan ng pagbanggit ng katungkulan at pangalan ng Sugo ay ganito:
 
 ### 9. PASALAMAT AT TAGUBILIN (10 mins)
 
-* 📜 *(Note: Tuwing Adonai lang ang pagbasa ng Pasalamat at Tagubilin.  
+* 📜 *(Note: Tuwing **ADONAI** lang ang pagbasa ng Pasalamat at Tagubilin.  
   Tiyakin na hawak ng Tagapaghanda ang listahan ng pangalan bago tumayo sa harapan.)*
 
 * 🎙️ “Ang bahagi pong ito ay ang pag-aanyaya sa mga kapatid na mag-aalay ng pasasalamat at tagubilin sa Panginoon.  
