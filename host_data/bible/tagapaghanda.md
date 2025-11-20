@@ -34,6 +34,8 @@
 
 * 🎵 *Pag Araw ng Adonai* at ang dalawang bilang mula sa **Imno Espiritwal**.
 
+---
+
 * 🎙️ "Sa bahaging ito, inaanyayahan po ang lahat na muling magsitayo.  
 Awitin muli ang Likhawit ng Pagpupuri sa Panginoon, sapagkat sa sandaling ito ay pumapasok ang Sugo ng Kataastaasang Dios, upang ikasa ang mga **Salita ng Pagpupuri at Pagpapasalamat sa Panginoon**.  
 Tanggapin po natin, ang ating minamahal at iginagalang..."
