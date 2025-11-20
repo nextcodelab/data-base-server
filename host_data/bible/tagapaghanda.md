@@ -35,7 +35,8 @@
 * 🎵 *Pag Araw ng Adonai* at ang dalawang bilang mula sa **Imno Espiritwal**.
 
 ---
-### 5. PAGBASA NG MGA SALITA NG PAGPUPURI AT PAGPAPASALAMAT SA PANGINOON (8 mins)
+### 4-5. LIKHAWIT NG PAGPUPURI
+- PAGBASA NG MGA SALITA NG PAGPUPURI AT PAGPAPASALAMAT SA PANGINOON (8 mins)
 
 * 🎙️ "Sa bahaging ito, inaanyayahan po ang lahat na muling magsitayo.  
 Awitin muli ang Likhawit ng Pagpupuri sa Panginoon, sapagkat sa sandaling ito ay pumapasok ang Sugo ng Kataastaasang Dios, upang ikasa ang mga **Salita ng Pagpupuri at Pagpapasalamat sa Panginoon**.  
