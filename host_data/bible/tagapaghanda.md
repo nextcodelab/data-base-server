@@ -8,10 +8,10 @@
 
 ### 1. PASIMULA AT PAGBATI NG KAPAYAPAAN (5 mins)
 
-* 🎙️ "Tayo po ay magsisimula na, sa ating Takdang Pagkakatipong Pagsamba, ngayong ika-___ ng ___ araw ng ___. Hinihikayat ko po, na ang lahat ay magsitayo."  
+* 🎙️ "Tayo po ay magsisimula na, sa ating Takdang Pagkakatipong Pagsamba, ngayong ika-___ ng ___ araw ng ___. Inaanyayahan ko po, na ang lahat ay magsitayo."  
   * *(Note: Hintaying makatayo ang lahat, saka pa lamang itaas ang kanang kamay sa pagbati ng "kapayapaan.")*
 
-* 🎙️ "Sa Pangalan ng Kataastaasang Dios na Ama at Hari natin, sa pamamagitan ng Kabanalbanalang Iglesia ng Dios Kay Kristo Hesus, ang Iina, binabati ko po kayo ng kapayapaan!"  
+* 🎙️ "Sa Pangalan ng Kataastaasang Dios na Ama at Hari natin, sa pamamagitan ng Iglesya (Kabanalbanalang Iglesia ng Dios Kay Kristo Hesus) na Ina natin, binabati ko po kayo ng kapayapaan!"  
   * *(Note: Hintaying tumugon ang kapatiran ng "Purihin ang Kataastaasang Dios!" at saka pa lamang ibaba ang kamay.)*
 
 ---
