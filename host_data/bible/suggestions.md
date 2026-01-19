@@ -118,6 +118,10 @@ By immersing ourselves in nature, we can find a deeper sense of calm, reduce str
 
 These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
 
+
+---
+
+
 # Our God is One
 
 Our God is **ONE GOD**, yet He manifests in many ways. He is not divided; He is the same God who:
