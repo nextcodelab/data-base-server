@@ -118,6 +118,35 @@ By immersing ourselves in nature, we can find a deeper sense of calm, reduce str
 
 These suggestions are not for newcomers to our gatherings; our desire is to ensure everyone feels equally embraced. Please remember, these are just suggestions, out of love for the **BODY OF CHRIST**." 
 
+# Our God is One
+
+Our God is **ONE GOD**, yet He manifests in many ways. He is not divided; He is the same God who:
+
+- Moves and works as the **Holy Spirit**.
+
+- Manifested in **flesh**, as **Christ Jesus**, who is fully **human** (Son of Man) and fully **divine** (Son of God).
+
+- Appeared in various forms in the Old Testament:  
+  - As **angels or other forms**:  
+    - [**Genesis 18:1-2**](Gen 18:1-2) – God appeared to Abraham by the oaks of Mamre, and three men (angels) came to him.  
+    - [**Genesis 32:24-30**](Gen 32:24-30) – God (the Angel of the Lord) wrestled with Jacob; Jacob called the place Peniel, saying he saw God face to face.  
+  - As a **man** appearing to people:  
+    - [**Exodus 3:2-4**](Exod 3:2-4) – God appeared to Moses in the burning bush.  
+    - [**Judges 13:3-22**](Judg 13:3-22) – The Angel of the Lord appeared to Manoah and his wife.  
+
+- Appeared in miraculous signs:  
+  - [**Exodus 3:2**](Exod 3:2) – Burning bush that was not consumed.  
+  - [**Genesis 16:7-14**](Gen 16:7-14) – The Angel of the Lord met Hagar in the desert.  
+
+- Is **all-encompassing and present everywhere**, as affirmed in the New Testament:  
+  - [**Colossians 1:17**](Col 1:17) – "He is before all things, and in Him all things hold together."  
+  - [**Ephesians 4:6**](Eph 4:6) – "One God and Father of all, who is over all and through all and in all."  
+
+- Finally, in history, He came as **the Son of Man** (fully human) and **the Son of God** (fully divine), fulfilling His plan of salvation.  
+
+When God visited Abraham, it was the **same One** who is in all, and all-encompassing.  
+
+**God is one in essence**, yet He can reveal Himself in different ways, showing His power, presence, and love throughout history.
 
 
 ---
