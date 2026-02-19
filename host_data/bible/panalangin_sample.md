@@ -3,7 +3,9 @@
 ## Pagtawag sa Ama
 
 [Abba Ama naming Hari],
+
 [Abba Panginoon naming Diyos],
+
 Lumapit po kami sa Iyong banal na presensya
 Na may pagpapakumbaba, paggalang, at pananampalataya.
 
