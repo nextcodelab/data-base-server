@@ -112,6 +112,8 @@ By immersing ourselves in nature, we can find a deeper sense of calm, reduce str
   _"Peacemakers who sow in **peace** reap a harvest of righteousness."_
 
 ---
+*The digital Bible is created to help us view or read in any language anytime and anywhere, and it is also helpful for personal notes or sermon outlines. However, when sharing the Word with others — especially in fellowship, teaching, evangelism, or mission work such as walking house-to-house — we encourage using a printed Bible. Having a physical Bible makes the sharing more meaningful and focused.*
+---
 
 **Serve GOD with HOLINESS and RIGHTEOUSNESS.**
 
