@@ -154,6 +154,8 @@ When God visited Abraham, it was the **same One** who is in all, and all-encompa
 
 **God is one in essence**, yet He can reveal Himself in different ways, showing His power, presence, and love throughout history.
 
+He lives in believers’ body as temple [1 Corinthians 3:16](1Cor 3:16). Christ lives in me [Galatians 2:20](Gal 2:20).
+And Jesus Christ is the image of the invisible God [Colossians 1:15](Col 1:15), the infinite God fully manifested in Jesus Christ bodily (Colossians 2:9), fulfilling the meaning of Emmanuel [Matthew 1:23](Matt 1:23). God’s presence fills the universe, yet His Spirit is not limited by it [Psalm 139:7-10](Ps 139:7-10).
 
 ---
 
