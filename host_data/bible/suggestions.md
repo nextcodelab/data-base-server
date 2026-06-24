@@ -146,7 +146,8 @@ Our God is **ONE GOD**, yet He manifests in many ways. He is not divided; He is 
 
 - Is **all-encompassing and present everywhere**, as affirmed in the New Testament:  
   - [**Colossians 1:17**](Col 1:17) – "He is before all things, and in Him all things hold together."  
-  - [**Ephesians 4:6**](Eph 4:6) – "One God and Father of all, who is over all and through all and in all."  
+  - [**Ephesians 4:6**](Eph 4:6) – "One God and Father of all, who is over all and through all and in all."
+  - [**1 Kings 8:27**](1Kgs 8:27) – "But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have builded?"
 
 - Finally, in history, He came as **the Son of Man** (fully human) and **the Son of God** (fully divine), fulfilling His plan of salvation.  
 
