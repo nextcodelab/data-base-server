@@ -8,12 +8,12 @@
         I cannot fully dedicate my time to fixing bugs due to my part-time job, which I need to support my
         family daily needs. Thank you for understanding.
     </li>
-    <li>
+    <!-- <li>
         You can also support by downloading the <a
             href="https://play.google.com/store/apps/details?id=com.nxtccode.biblenotebook"
             target="_blank" class="dynamic-link">Shepherd Bible on Google Play</a>
-        or email us at <a href="mailto:belmegood24@gmail.com" class="dynamic-link">belmegood24@gmail.com</a>.
-    </li>
+        or email us at <a href="mailto:belmegood24@gmail.com" class="dynamic-link">belmegood24@gmail.com</a>. 
+    </li> -->
 </ul>
 <!-- <h4>Supports</h4>
 <div class="support-links">
