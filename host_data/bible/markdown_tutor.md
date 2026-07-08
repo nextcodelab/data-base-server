@@ -1,9 +1,8 @@
-# SHALOM, Brother and Sister in Christ Jesus.
+# SHALOM
 
-### THIS ARE SOME BASIC OF MARKDOWN SYNTAX
+# Markdown Showcase
+
 Welcome! This page demonstrates the Markdown features supported by the notebook.
-## Header 2
-# Header 3
 
 ---
 
@@ -81,26 +80,26 @@ Normal text
 ---
 
 # Bible References
+```Code
+```
 
 Click a verse to view it.
 
-[Genesis 1:1](Gen 1:1)
+>[Genesis 1:1](Gen 1:1)  
+ In the beginning God created the heaven and the earth.
 
-[Psalm 23:1](Ps 23:1)
+>[Psalm 23:1](Ps 23:1)  
+ The LORD is my shepherd; I shall not want.
 
-[Matthew 6:33](Matt 6:33)
+>[Matthew 6:33](Matt 6:33)  
+ But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
 
-[John 3:16](John 3:16)
+>[John 3:16](John 3:16)  
+ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
-[Romans 8:28](Rom 8:28)
+>[Romans 8:28](Rom 8:28)  
+ And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
----
-
-# Verse Quote
-
-[John 1:1](John 1:1)
-
-> In the beginning was the Word, and the Word was with God, and the Word was God.
 
 ---
 
@@ -159,14 +158,17 @@ Open websites in your browser.
 
 [Wikipedia](https://www.wikipedia.org)
 
-[Daniel 7:13-14](Dan 7:13-14) 
-> 13 I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. 14 And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
+>[Daniel 7:13-14](Dan 7:13-14)  
+_**13**_  I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him. _**14**_ And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
 
-[Isaiah 40:3](Isa 40:3)
-[Matthew 3:1-3](Matt 3:1-3)
-[John 1:1](John 1:1)
-[1 Peter 1:3](1Pet 1:3)
+>[Matthew 3:1-3](Matt 3:1-3)  
+_**1**_ In those days came John the Baptist, preaching in the wilderness of Judaea, _**2**_ And saying, Repent ye: for the kingdom of heaven is at hand. _**3**_ For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight.
 
+>[John 1:1](John 1:1)  
+_**1**_ In the beginning was the Word, and the Word was with God, and the Word was God.
+
+>[1 Peter 1:3](1Pet 1:3)  
+_**3**_ Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead.
 
 ---
 
@@ -202,9 +204,8 @@ Walking by Faith
 
 ### Key Verse
 
-[Hebrews 11:1](Heb 11:1)
-
-> Faith is the substance of things hoped for, the evidence of things not seen.
+> [Hebrews 11:1](Heb 11:1)
+Faith is the substance of things hoped for, the evidence of things not seen.
 
 ### Observation
 
@@ -223,14 +224,8 @@ Walking by Faith
 # Notes
 
 Write your own notes below...
-
 ______________________________________
 
-______________________________________
-
-______________________________________
-
----
 
 # Emoji
 
@@ -248,20 +243,5 @@ ______________________________________
 
 ---
 
+> Blockquote
 # End of Markdown Showcase
-# Sample Image
-
-![Testimony](http://i3.ytimg.com/vi/upTofuSIcVM/hqdefault.jpg)
-
-[Former Hezbollah Fighter Recalls Encounter with Jesus: 'God Didn't Design Us to Hate'](https://www.youtube.com/watch?v=upTofuSIcVM)
-
-
-
-*The grace of the* **LORD JESUS CHRIST**, *and the* **LOVE of GOD**, *and the communion of the* **HOLY GHOST**, *be with you all*. **Amen**.
-
-## Platforms
-*We hope this app will expand to other platforms, such as Windows Desktop, Android, iOS, Mac, and Linux.*
-
-
-# MIZPAH
-
