@@ -1,4 +1,4 @@
-# ⛪ KABANALBANALANG IGLESIA NG DIOS KAY KRISTO HESUS
+# KABANALBANALANG IGLESIA NG DIOS KAY KRISTO HESUS
 
 ## GABAY MINISTRY
 ### GABAY NG TAGAPAGHANDA
@@ -27,7 +27,7 @@
 * 🎙️ "Mga kapatid, maaari na po tayong magsiupo."  
   * *(Note: Hintaying makaupo ang kapulungan.)*
 
-* 🎙️ "Italaga at lalo pa nating ihanda ang ating mga sarili sa pamamagitan ng sama-samang pag-awit sa mga likhawit ng pagtatalaga at pagsamba sa Panginoon. Awitin po natin ang Likhawit ng Taon, na may pamagat na **The Eternal Kingdom of God...** →"
+* 🎙️ "Italaga at lalo pa nating ihanda ang ating mga sarili sa pamamagitan ng sama-samang pag-awit sa mga likhawit ng pagtatalaga at pagsamba sa Panginoon. Awitin po natin ang Likhawit ng Taon, na may pamagat na **MY GOD YOU ARE WONDERFUL...** →"
 
 
 * 🎵 *Pag Araw ng Carpos* at ang isang bilang mula sa **Imno Espiritwal**.
