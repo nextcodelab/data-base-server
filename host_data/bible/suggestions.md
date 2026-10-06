@@ -166,14 +166,6 @@ And Jesus Christ is the image of the invisible God [Colossians 1:15](Col 1:15), 
 
 
 ---
-# 🌏 WORLD EVANGELIZATION  
-
-## **WE CARE: Christ’s Agape Redeems Everyone**  
-
-This is our most holy faith; may it bless our brothers and sisters, now and forever. **AMEN.**
-
-### **LET US EVANGELIZE THE WORLD!**
-
 > *“The Lord watch between you and me, when we are absent one from another.” – Genesis 31:49*
 
 
