@@ -45,6 +45,10 @@
       "description": "Unlock the Animals and Trees word groups.",
       "priceCoins": 2000,
       "languageTag": "en",
+      "data": [
+        "https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/dictionary/en/animals.json",
+        "https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/dictionary/en/trees.json"
+      ],
       "categories": [
         "Animals",
         "Trees"
@@ -57,8 +61,11 @@
       "priceCoins": 2000,
       "languageTag": "es",
       "isLanguagePack": true,
+      "data": [
+        "https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/dictionary/es/words.json"
+      ],
       "categories": [
-        "Frutas"
+        "Mixed Words"
       ]
     }
   ]
