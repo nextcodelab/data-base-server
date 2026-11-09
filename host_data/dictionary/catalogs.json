@@ -1,0 +1,65 @@
+{
+  "coinPacks": [
+    {
+      "id": "coins-standard",
+      "storeAddOnId": "9NHLPZNK5VSM",
+      "offerToken": "CoinsConsumable",
+      "coins": 1000
+    },
+    {
+      "id": "coins-1",
+      "storeAddOnId": "9P350QQ6PQ5P",
+      "offerToken": "Coins1",
+      "coins": 2000
+    },
+    {
+      "id": "coins-2",
+      "storeAddOnId": "9NFW3Q9PNC7B",
+      "offerToken": "Coins2",
+      "coins": 3000
+    },
+    {
+      "id": "coins-3",
+      "storeAddOnId": "9NZ8VVPFVMN7",
+      "offerToken": "Coins3",
+      "coins": 4000
+    },
+    {
+      "id": "coins-4",
+      "storeAddOnId": "9MZJJXJGR2PX",
+      "offerToken": "Coins4",
+      "coins": 5000
+    }
+
+  ],
+  "gameRewards": {
+    "completedPuzzleCoins": 10,
+    "targetWordCoins": 1,
+    "bonusWordCoins": 1,
+    "maximumBonusWordCoinsPerPuzzle": 5
+  },
+  "featurePacks": [
+    {
+      "id": "animals-trees",
+      "name": "Animals + Trees",
+      "description": "Unlock the Animals and Trees word groups.",
+      "priceCoins": 2000,
+      "languageTag": "en",
+      "categories": [
+        "Animals",
+        "Trees"
+      ]
+    },
+    {
+      "id": "spanish-starter",
+      "name": "Spanish Starter Pack",
+      "description": "Unlock Spanish fruit word searches and Spanish bonus-word validation.",
+      "priceCoins": 2000,
+      "languageTag": "es",
+      "isLanguagePack": true,
+      "categories": [
+        "Frutas"
+      ]
+    }
+  ]
+}
