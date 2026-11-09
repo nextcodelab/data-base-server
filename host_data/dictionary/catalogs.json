@@ -1,50 +1,50 @@
+
 {
-  "coinPacks": [
+  "coin_packs": [
     {
       "id": "coins-standard",
-      "storeAddOnId": "9NHLPZNK5VSM",
-      "offerToken": "CoinsConsumable",
+      "store_add_on_id": "9NHLPZNK5VSM",
+      "offer_token": "CoinsConsumable",
       "coins": 1000
     },
     {
       "id": "coins-1",
-      "storeAddOnId": "9P350QQ6PQ5P",
-      "offerToken": "Coins1",
+      "store_add_on_id": "9P350QQ6PQ5P",
+      "offer_token": "Coins1",
       "coins": 2000
     },
     {
       "id": "coins-2",
-      "storeAddOnId": "9NFW3Q9PNC7B",
-      "offerToken": "Coins2",
+      "store_add_on_id": "9NFW3Q9PNC7B",
+      "offer_token": "Coins2",
       "coins": 3000
     },
     {
       "id": "coins-3",
-      "storeAddOnId": "9NZ8VVPFVMN7",
-      "offerToken": "Coins3",
+      "store_add_on_id": "9NZ8VVPFVMN7",
+      "offer_token": "Coins3",
       "coins": 4000
     },
     {
       "id": "coins-4",
-      "storeAddOnId": "9MZJJXJGR2PX",
-      "offerToken": "Coins4",
+      "store_add_on_id": "9MZJJXJGR2PX",
+      "offer_token": "Coins4",
       "coins": 5000
     }
-
   ],
-  "gameRewards": {
-    "completedPuzzleCoins": 10,
-    "targetWordCoins": 1,
-    "bonusWordCoins": 1,
-    "maximumBonusWordCoinsPerPuzzle": 5
+  "game_rewards": {
+    "completed_puzzle_coins": 10,
+    "target_word_coins": 1,
+    "bonus_word_coins": 1,
+    "maximum_bonus_word_coins_per_puzzle": 5
   },
-  "featurePacks": [
+  "feature_packs": [
     {
       "id": "animals-trees",
       "name": "Animals + Trees",
       "description": "Unlock the Animals and Trees word groups.",
-      "priceCoins": 2000,
-      "languageTag": "en",
+      "price_coins": 2000,
+      "language_tag": "en",
       "data": [
         "https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/dictionary/en/animals.json",
         "https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/dictionary/en/trees.json"
@@ -58,9 +58,9 @@
       "id": "spanish-starter",
       "name": "Spanish Starter Pack",
       "description": "Unlock Spanish fruit word searches and Spanish bonus-word validation.",
-      "priceCoins": 2000,
-      "languageTag": "es",
-      "isLanguagePack": true,
+      "price_coins": 2000,
+      "language_tag": "es",
+      "is_language_pack": true,
       "data": [
         "https://raw.githubusercontent.com/nextcodelab/data-base-server/refs/heads/main/host_data/dictionary/es/words.json"
       ],
