@@ -32,12 +32,26 @@
       "coins": 5000
     }
   ],
-  "game_rewards": {
-    "completed_puzzle_coins": 10,
-    "target_word_coins": 1,
-    "bonus_word_coins": 1,
-    "maximum_bonus_word_coins_per_puzzle": 5
-  },
+  
+"game_rewards": {
+  "completed_puzzle_coins": 10,
+  "target_word_coins": 1,
+  "bonus_word_coins": 1,
+  "maximum_bonus_word_coins_per_puzzle": 5,
+
+  "completed_level_coins": 5,
+
+  "reveal_letter_cost": 200,
+  "remove_letter_cost": 50,
+  "reveal_definition_cost": 2000,
+
+  "daily_login_coins": 10,
+  "daily_challenge_coins": 25,
+  "perfect_puzzle_bonus_coins": 5,
+
+  "initial_coins": 500
+},
+
   "feature_packs": [
     {
       "id": "animals-trees",
