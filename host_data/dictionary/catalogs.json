@@ -44,7 +44,8 @@
     "reveal_definition_cost": 2000,
     "daily_login_coins": 10,
     "daily_challenge_coins": 25,
-    "perfect_puzzle_bonus_coins": 5
+    "perfect_puzzle_bonus_coins": 5,
+    "support_purchase_bonus_coins": 500
   },
   "game_reward_overrides": {
     "word_search": {},
